@@ -492,6 +492,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 | Paper | Conference |
 | :---: | :---: |
+|[Summarizing Text on Any Aspects: A Knowledge-Informed Weakly-Supervised Approach](https://arxiv.org/abs/2010.06792)|EMNLP20 Short|
 | [Length-controllable Abstractive Summarization by Guiding with Summary Prototype](https://arxiv.org/abs/2001.07331)|
 |[Positional Encoding to Control Output Sequence Length](https://www.aclweb.org/anthology/N19-1401/)|NAACL19|
 |[Query Focused Abstractive Summarization: Incorporating Query Relevance, Multi-Document Coverage, and Summary Length Constraints into seq2seq Models](https://arxiv.org/abs/1801.07704)|
