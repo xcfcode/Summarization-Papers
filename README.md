@@ -505,6 +505,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 | Paper | Conference |
 | :---: | :---: |
+|[Re-evaluating Evaluation in Text Summarization](https://arxiv.org/abs/2010.07100)|EMNLP20|
 |[CDEvalSumm: An Empirical Study of Cross-Dataset Evaluation for Neural Summarization Systems](https://arxiv.org/abs/2010.05139)|EMNLP20||
 |[What Have We Achieved on Text Summarization?](https://arxiv.org/abs/2010.04529)|EMNLP20|
 |[Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization](https://arxiv.org/abs/2004.13983)|Findings of EMNLP2020||
@@ -532,6 +533,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 | Paper | Conference |
 | :---: | :---: |
+|[Summarize, Outline, and Elaborate: Long-Text Generation via Hierarchical Supervision from Extractive Summaries](https://arxiv.org/abs/2010.07074)||
 |[SupMMD: A Sentence Importance Model for Extractive Summarization using Maximum Mean Discrepancy](https://arxiv.org/abs/2010.02568)||
 |[Stepwise Extractive Summarization and Planning with Structured Transformers](https://arxiv.org/abs/2010.02744)|EMNLP20|
 |[A Discourse-Aware Neural Extractive Model for Text Summarization](http://www.cs.utexas.edu/~jcxu/material/ACL20/DiscoBERT_ACL2020.pdf)|ACL20|
