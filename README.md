@@ -443,6 +443,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 | Paper | Conference |
 | :---: | :---: |
+|[Few-Shot Learning for Opinion Summarization](https://arxiv.org/abs/2004.14884)|EMNLP20|
 |[Unsupervised Opinion Summarization as Copycat-Review Generation](https://arxiv.org/abs/1911.02247)|ACL20|
 |[Unsupervised Opinion Summarization with Noising and Denoising](https://arxiv.org/abs/2004.10150)|ACL20|
 |[OPINIONDIGEST: A Simple Framework for Opinion Summarization](https://arxiv.org/abs/2005.01901)|ACL20 Short|
