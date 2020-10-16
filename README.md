@@ -140,7 +140,11 @@ This repo contains a list of summarization papers including various topics. If a
 |[A Discourse\-Aware Attention Model for Abstractive Summarization of Long Documents](https://arxiv.org/abs/1804.05685)|NAACL18|[Dataset: PubMed, ArXiv](https://github.com/armancohan/long-summarization)|
 </p></details>
 
-## Factual Consistency 
+## Factual Consistency
+![](https://img.shields.io/badge/How%20to%20evaluate%20factual%20consistency%20of%20summary-evaluation-brightgreen)
+![](https://img.shields.io/badge/How%20to%20improve%20factual%20consistency%20of%20summary-improve-orange)
+![](https://img.shields.io/badge/analysis%20about%20factual%20consistency%20of%20summary-analysis-blue)
+![](https://img.shields.io/badge/How%20to%20correct%20factual%20errors%20in%20summary-correct-red)
 1. **Multi-Fact Correction in Abstractive Text Summarization.** *Yue Dong, Shuohang Wang, Zhe Gan, Yu Cheng, Jackie Chi Kit Cheung, Jingjing Liu* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.02443) ![](https://img.shields.io/badge/-correct-red)
 2. **Factual Error Correction for Abstractive Summarization Models** *Cao Meng, Yue Cheung Dong, Jiapeng Wu, and Jackie Chi Kit* `EMNLP20` [[pdf]]() ![](https://img.shields.io/badge/-correct-red)
 3. **Evaluating the Factual Consistency of Abstractive Text Summarization** *Wojciech Kryściński, Bryan McCann, Caiming Xiong, Richard Socher* `EMNLP20` [[pdf]](https://arxiv.org/abs/1910.12840) [[code]](https://github.com/salesforce/factCC)![](https://img.shields.io/badge/-evaluation-brightgreen)
