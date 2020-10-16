@@ -4,6 +4,8 @@
 
 This repo contains a list of summarization papers including various topics. If any error, please open an issue. 
 
+> For more topics, please refer to another repo [xcfcode/What-I-Have-Read](https://github.com/xcfcode/What-I-Have-Read), including Meta Learning, Graph Neural Networks (GNN), Knowledge Distillation, Pre-trained Language Models, Natural Language Generation and several [survey and paper slides](https://github.com/xcfcode/What-I-Have-Read#slides).
+
 ## Content
    * [Summarization Papers](#summarization-papers)
       * [Content](#content)
