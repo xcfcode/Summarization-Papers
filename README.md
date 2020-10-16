@@ -616,6 +616,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 | Paper | Conference |
 | :---: | :---: |
+|[Compressive Summarization with Plausibility and Salience Modeling](https://arxiv.org/abs/2010.07886)|EMNLP20|
 |[StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization](https://arxiv.org/abs/2003.00576)||
 |[Joint Parsing and Generation for Abstractive Summarization](https://arxiv.org/abs/1911.10389)|AAAI20|
 |[Neural Extractive Text Summarization with Syntactic Compression](https://arxiv.org/abs/1902.00863)|EMNLP19|
