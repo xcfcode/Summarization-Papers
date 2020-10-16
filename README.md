@@ -351,6 +351,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 | Paper | Conference |
 | :---: | :---: |
+|[Multi-Task Learning for Cross-Lingual Abstractive Summarization](https://arxiv.org/abs/2010.07503)||
 |[WikiLingua- A New Benchmark Dataset for Cross-Lingual Abstractive Summarization](https://arxiv.org/abs/2010.03093)|Findings of EMNLP20|
 |[A Deep Reinforced Model for Zero-Shot Cross-Lingual Summarization with Bilingual Semantic Similarity Rewards](https://www.aclweb.org/anthology/2020.ngt-1.7/)|ACL20 workshop|
 |[Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization](https://www.aclweb.org/anthology/2020.acl-main.554.pdf)|ACL20|
@@ -507,6 +508,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 | Paper | Conference |
 | :---: | :---: |
+|[Understanding Neural Abstractive Summarization Models via Uncertainty](https://arxiv.org/abs/2010.07882)|EMNLP20 Short|
 |[Re-evaluating Evaluation in Text Summarization](https://arxiv.org/abs/2010.07100)|EMNLP20|
 |[CDEvalSumm: An Empirical Study of Cross-Dataset Evaluation for Neural Summarization Systems](https://arxiv.org/abs/2010.05139)|EMNLP20||
 |[What Have We Achieved on Text Summarization?](https://arxiv.org/abs/2010.04529)|EMNLP20|
