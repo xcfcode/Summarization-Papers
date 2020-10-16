@@ -141,32 +141,31 @@ This repo contains a list of summarization papers including various topics. If a
 ## Factuality 
 <details><summary>papers</summary><p>
 
-| Paper | Conference |
-| :---: | :---: |
-|[Multi-Fact Correction in Abstractive Text Summarization](https://arxiv.org/abs/2010.02443)|EMNLP20|
-|[Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/abs/1910.12840)|EMNLP20|
-|[Reducing Quantity Hallucinations in Abstractive Summarization](https://arxiv.org/abs/2009.13312)|EMNLP20|
-|[Looking Beyond Sentence-Level Natural Language Inference for Downstream Tasks](https://arxiv.org/pdf/2009.09099.pdf)||
-|[Fact-based Content Weighting for Evaluating Abstractive Summarisation](https://www.aclweb.org/anthology/2020.acl-main.455/)|ACL20|
-|[On Faithfulness and Factuality in Abstractive Summarization](https://arxiv.org/abs/2005.00661)|ACL20|
-|[Improving Truthfulness of Headline Generation](https://arxiv.org/abs/2005.00882)|ACL20|
-|[Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward](https://arxiv.org/abs/2005.01159)|ACL20|
-|[FEQA : A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](https://arxiv.org/abs/2005.03754)|ACL20|
-|[Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports](https://arxiv.org/abs/1911.02541)|ACL20|
-|[Asking and Answering Questions to Evaluate the Factual Consistency of Summaries](https://arxiv.org/abs/2004.04228)|ACL20|
-|[Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph](https://arxiv.org/abs/2003.08612)||
-|[Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/abs/2002.02095)|AAAI20|
-|[Ranking Generated Summaries by Correctness : An Interesting but Challenging Application for Natural Language Inference](https://www.aclweb.org/anthology/P19-1213/)|ACL19|
-|[Assessing The Factual Accuracy of Generated Text](https://arxiv.org/abs/1905.13322)|KDD19|
-|[Mind The Facts: Knowledge-Boosted Coherent Abstractive Text Summarization](https://arxiv.org/abs/2006.15435)|NeurIPS 2019 KR2ML workshop|
-|[Faithful to the Original: Fact Aware Neural Abstractive Summarization](https://arxiv.org/abs/1711.04434)|AAAI18|
-|[Ensure the Correctness of the Summary : Incorporate Entailment Knowledge into Abstractive Sentence Summarization](https://www.aclweb.org/anthology/C18-1121/)|COLING18|
+1. **Multi-Fact Correction in Abstractive Text Summarization.** *Yue Dong, Shuohang Wang, Zhe Gan, Yu Cheng, Jackie Chi Kit Cheung, Jingjing Liu* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.02443) ![](https://img.shields.io/badge/-correct-red)
+2. **Factual Error Correction for Abstractive Summarization Models** *Cao Meng, Yue Cheung Dong, Jiapeng Wu, and Jackie Chi Kit* `EMNLP20` [[pdf]]() ![](https://img.shields.io/badge/-correct-red)
+3. **Evaluating the Factual Consistency of Abstractive Text Summarization** *Wojciech Kryściński, Bryan McCann, Caiming Xiong, Richard Socher* `EMNLP20` [[pdf]](https://arxiv.org/abs/1910.12840) [[code]](https://github.com/salesforce/factCC)![](https://img.shields.io/badge/-evaluation-brightgreen)
+4. **Controlled Hallucinations:Learning to Generate Faithfully from Noisy Data ** *Katja Fillippova* `EMNLP-Findings20` [[pdf]](https://arxiv.org/pdf/2010.05873v1.pdf) ![](https://img.shields.io/badge/-improve-orange)
+5. **Reducing Quantity Hallucinations in Abstractive Summarization** *Zheng Zhao, Shay B. Cohen, Bonnie Webber*`EMNLP-Findings20` [[pdf]](https://arxiv.org/abs/2009.13312) ![](https://img.shields.io/badge/-evaluation-brightgreen)
+6. **Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation** *Yun-Zhu Song, Hong-Han Shuai, Sung-Lin Yeh, Yi-Lun Wu, Lun-Wei Ku, Wen-Chih Peng* `AAAI20` [[pdf]](https://arxiv.org/abs/2002.02095) [[code]](https://github.com/yunzhusong/AAAI20-PORLHG) ![](https://img.shields.io/badge/-improve-orange)
+7. **On Faithfulness and Factuality in Abstractive Summarization**  *Joshua Maynez, Shashi Narayan, Bernd Bohnet, Ryan McDonald*`ACL20` [[pdf]](https://arxiv.org/abs/2005.00661) [[data]](https://github.com/google-research-datasets/xsum_hallucination_annotations) ![](https://img.shields.io/badge/-analysis-blue)
+8. **Improving Truthfulness of Headline Generation**  *Kazuki Matsumaru, Sho Takase, Naoaki Okazaki* `ACL20`[[pdf]](https://arxiv.org/abs/2005.00882) ![](https://img.shields.io/badge/-improve-orange)
+9. **Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports**  *Yuhao Zhang, Derek Merck, Emily Bao Tsai, Christopher D. Manning, Curtis P. Langlotz* `ACL20`[[pdf]](https://arxiv.org/abs/1911.02541) ![](https://img.shields.io/badge/-improve-orange)
+10. **FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization** *Esin Durmus, He He, Mona Diab* `ACL20` [[pdf]](https://arxiv.org/abs/2005.03754) [[code]](https://github.com/esdurmus/feqa) ![](https://img.shields.io/badge/-evaluation-brightgreen)
+11. **Asking and Answering Questions to Evaluate the Factual Consistency of Summaries** *Alex Wang, Kyunghyun Cho, Mike Lewis* `ACL20` [[pdf]](https://arxiv.org/abs/2004.04228) [[code]](https://github.com/W4ngatang/qags)![](https://img.shields.io/badge/-evaluation-brightgreen)
+12. **Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward** *Luyang Huang, Lingfei Wu, Lu Wang* `ACL20` [[pdf]](https://arxiv.org/abs/2005.01159) ![](https://img.shields.io/badge/-improve-orange)
+13. **Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph** *Chenguang Zhu, William Hinthorn, Ruochen Xu, Qingkai Zeng, Michael Zeng, Xuedong Huang, Meng Jiang* `arXiv20` [[pdf]](https://arxiv.org/abs/2003.08612) ![](https://img.shields.io/badge/-improve-orange)
+14. **Mind The Facts: Knowledge-Boosted Coherent Abstractive Text Summarization** *Beliz Gunel, Chenguang Zhu, Michael Zeng, Xuedong Huang* `NIPS19` [[pdf]](https://arxiv.org/abs/2006.15435) ![](https://img.shields.io/badge/-improve-orange)
+15. **Assessing The Factual Accuracy of Generated Text** *Ben Goodrich, Vinay Rao, Mohammad Saleh, Peter J Liu* `KDD19` [[pdf]](https://arxiv.org/abs/1905.13322) ![](https://img.shields.io/badge/-evaluation-brightgreen)
+16. **Ranking Generated Summaries by Correctness: An Interesting but Challenging Application for Natural Language Inference** *Tobias Falke, Leonardo F. R. Ribeiro, Prasetya Ajie Utama, Ido Dagan, Iryna Gurevych* `ACL19` [[pdf]](https://www.aclweb.org/anthology/P19-1213/) [[data]](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2002) ![](https://img.shields.io/badge/-improve-orange)
+17. **Ensure the Correctness of the Summary: Incorporate Entailment Knowledge into Abstractive Sentence Summarization** *Haoran Li, Junnan Zhu, Jiajun Zhang, Chengqing Zong* `COLING` [[pdf]](https://www.aclweb.org/anthology/C18-1121/) [[code]](https://github.com/hrlinlp/entail_sum) ![](https://img.shields.io/badge/-improve-orange)
+18. **Faithful to the Original: Fact-Aware Neural Abstractive Summarization** *Ziqiang Cao, Furu Wei, Wenjie Li, Sujian Li* `AAAI18` [[pdf]](https://arxiv.org/abs/1711.04434) ![](https://img.shields.io/badge/-improve-orange)
+
 </p></details>
 
 ## Sentiment Related
 <details><summary>papers</summary><p>
 
-| Paper | Conference | 
+| Paper | Conference |
 | :---: | :---: |
 |[A Unified Dual-view Model for Review Summarization and Sentiment Classification with Inconsistency Loss](https://arxiv.org/abs/2006.01592)|SIGIR20|
 |[A Hierarchical End-to-End Model for Jointly Improving Text Summarization and Sentiment Classification](https://arxiv.org/abs/1805.01089)|IJCAI18|
@@ -221,8 +220,8 @@ This repo contains a list of summarization papers including various topics. If a
 | [Topic-aware Pointer-Generator Networks for Summarizing Spoken Conversations](https://arxiv.org/abs/1910.01335) |ASRU19|
 
 ### French Meeting
-| Paper | Conference | 
-| :---: | :---: | 
+| Paper | Conference |
+| :---: | :---: |
 |[Align then Summarize: Automatic Alignment Methods for Summarization Corpus Creation](https://www.aclweb.org/anthology/2020.lrec-1.829)|LREC20|
 |[Leverage Unlabeled Data for Abstractive Speech Summarization with Self-Supervised Learning and Back-Summarization](https://arxiv.org/abs/2007.15296)|SPECOM20|
 
@@ -275,7 +274,7 @@ This repo contains a list of summarization papers including various topics. If a
 |[Collabot: Personalized Group Chat Summarization](https://dl.acm.org/doi/10.1145/3159652.3160588)|WSDM18|
 
 ### Customer Service
-| Paper | Conference | 
+| Paper | Conference |
 | :---: | :---: |
 | [Automatic Dialogue Summary Generation for Customer Service](https://dl.acm.org/doi/10.1145/3292500.3330683) |KDD19|
 
@@ -550,7 +549,7 @@ This repo contains a list of summarization papers including various topics. If a
 | [Neural Latent Extractive Document Summarization](https://www.aclweb.org/anthology/D18-1088/)|ACL18|
 |[Generative Adversarial Network for Abstractive Text Summarization](https://arxiv.org/abs/1711.09357)|AAAI18|
 |[Improving Neural Abstractive Document Summarization with Explicit Information Selection Modeling](https://www.aclweb.org/anthology/D18-1205/)|EMNLP18|
-| [Extractive Summarization Using Multi-Task Learning with Document Classification](https://www.aclweb.org/anthology/D17-1223/)|EMNLP17| 
+| [Extractive Summarization Using Multi-Task Learning with Document Classification](https://www.aclweb.org/anthology/D17-1223/)|EMNLP17|
 | [SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents](https://arxiv.org/abs/1611.04230)|AAAI17|
 | [Text Summarization through Entailment-based Minimum Vertex Cover](https://www.aclweb.org/anthology/S14-1010/)|ENLG13|
 </p></details>
