@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-Contributed by [Xiachong Feng](http://xcfeng.net/), [Yichong Huang](https://github.com/OrangeInSouth) ([Factual Consistency](#Factual Consistency))
+Contributed by [Xiachong Feng](http://xcfeng.net/), [Yichong Huang](https://github.com/OrangeInSouth) ([Factual Consistency](#factual-consistency))
 
 This repo contains a list of summarization papers including various topics. If any error, please open an issue. 
 
@@ -15,7 +15,7 @@ This repo contains a list of summarization papers including various topics. If a
       * [Survey](#survey)
       * [Dataset](#dataset)
       * [Scientific Document](#scientific-document)
-      * [Factual Consistency](#Factual Consistency)
+      * [Factual Consistency](#factual-consistency)
       * [Sentiment Related](#sentiment-related)
       * [Pretrain Based](#pretrain-based)
       * [Style](#style)
