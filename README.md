@@ -57,6 +57,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 | Paper | Conference |
 | :---: | :---: |
+|[Deep Learning Based Abstractive Text Summarization: Approaches, Datasets, Evaluation Measures, and Challenges](https://www.semanticscholar.org/paper/Deep-Learning-Based-Abstractive-Text-Summarization%3A-Suleiman-Awajan/b7da726c244287748575ef404009609afde45bea)||
 |[A Survey of Knowledge-Enhanced Text Generation](https://arxiv.org/abs/2010.04389)||
 |[From Standard Summarization to New Tasks and Beyond: Summarization with Manifold Information](https://arxiv.org/abs/2005.04684)|IJCAI20|
 |[Neural Abstractive Text Summarization with Sequence-to-Sequence Models](https://arxiv.org/abs/1812.02303)||
