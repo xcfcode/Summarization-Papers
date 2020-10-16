@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
+Contributed by [Xiachong Feng](http://xcfeng.net/), [Yichong Huang](https://github.com/OrangeInSouth) ([Factuality](#factuality))
+
 This repo contains a list of summarization papers including various topics. If any error, please open an issue. 
 
 > For more topics, please refer to another repo [xcfcode/What-I-Have-Read](https://github.com/xcfcode/What-I-Have-Read), including Meta Learning, Graph Neural Networks (GNN), Knowledge Distillation, Pre-trained Language Models, Natural Language Generation and several [survey and paper slides](https://github.com/xcfcode/What-I-Have-Read#slides).
@@ -139,12 +141,10 @@ This repo contains a list of summarization papers including various topics. If a
 </p></details>
 
 ## Factuality 
-<details><summary>papers</summary><p>
-
 1. **Multi-Fact Correction in Abstractive Text Summarization.** *Yue Dong, Shuohang Wang, Zhe Gan, Yu Cheng, Jackie Chi Kit Cheung, Jingjing Liu* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.02443) ![](https://img.shields.io/badge/-correct-red)
 2. **Factual Error Correction for Abstractive Summarization Models** *Cao Meng, Yue Cheung Dong, Jiapeng Wu, and Jackie Chi Kit* `EMNLP20` [[pdf]]() ![](https://img.shields.io/badge/-correct-red)
 3. **Evaluating the Factual Consistency of Abstractive Text Summarization** *Wojciech Kryściński, Bryan McCann, Caiming Xiong, Richard Socher* `EMNLP20` [[pdf]](https://arxiv.org/abs/1910.12840) [[code]](https://github.com/salesforce/factCC)![](https://img.shields.io/badge/-evaluation-brightgreen)
-4. **Controlled Hallucinations:Learning to Generate Faithfully from Noisy Data ** *Katja Fillippova* `EMNLP-Findings20` [[pdf]](https://arxiv.org/pdf/2010.05873v1.pdf) ![](https://img.shields.io/badge/-improve-orange)
+4. **Controlled Hallucinations:Learning to Generate Faithfully from Noisy Data** *Katja Fillippova* `EMNLP-Findings20` [[pdf]](https://arxiv.org/pdf/2010.05873v1.pdf) ![](https://img.shields.io/badge/-improve-orange)
 5. **Reducing Quantity Hallucinations in Abstractive Summarization** *Zheng Zhao, Shay B. Cohen, Bonnie Webber*`EMNLP-Findings20` [[pdf]](https://arxiv.org/abs/2009.13312) ![](https://img.shields.io/badge/-evaluation-brightgreen)
 6. **Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation** *Yun-Zhu Song, Hong-Han Shuai, Sung-Lin Yeh, Yi-Lun Wu, Lun-Wei Ku, Wen-Chih Peng* `AAAI20` [[pdf]](https://arxiv.org/abs/2002.02095) [[code]](https://github.com/yunzhusong/AAAI20-PORLHG) ![](https://img.shields.io/badge/-improve-orange)
 7. **On Faithfulness and Factuality in Abstractive Summarization**  *Joshua Maynez, Shashi Narayan, Bernd Bohnet, Ryan McDonald*`ACL20` [[pdf]](https://arxiv.org/abs/2005.00661) [[data]](https://github.com/google-research-datasets/xsum_hallucination_annotations) ![](https://img.shields.io/badge/-analysis-blue)
@@ -159,8 +159,6 @@ This repo contains a list of summarization papers including various topics. If a
 16. **Ranking Generated Summaries by Correctness: An Interesting but Challenging Application for Natural Language Inference** *Tobias Falke, Leonardo F. R. Ribeiro, Prasetya Ajie Utama, Ido Dagan, Iryna Gurevych* `ACL19` [[pdf]](https://www.aclweb.org/anthology/P19-1213/) [[data]](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2002) ![](https://img.shields.io/badge/-improve-orange)
 17. **Ensure the Correctness of the Summary: Incorporate Entailment Knowledge into Abstractive Sentence Summarization** *Haoran Li, Junnan Zhu, Jiajun Zhang, Chengqing Zong* `COLING` [[pdf]](https://www.aclweb.org/anthology/C18-1121/) [[code]](https://github.com/hrlinlp/entail_sum) ![](https://img.shields.io/badge/-improve-orange)
 18. **Faithful to the Original: Fact-Aware Neural Abstractive Summarization** *Ziqiang Cao, Furu Wei, Wenjie Li, Sujian Li* `AAAI18` [[pdf]](https://arxiv.org/abs/1711.04434) ![](https://img.shields.io/badge/-improve-orange)
-
-</p></details>
 
 ## Sentiment Related
 <details><summary>papers</summary><p>
