@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-Contributed by [Xiachong Feng](http://xcfeng.net/), [Yichong Huang](https://github.com/OrangeInSouth) ([Factuality](#factuality))
+Contributed by [Xiachong Feng](http://xcfeng.net/), [Yichong Huang](https://github.com/OrangeInSouth) ([Factual Consistency](#Factual Consistency))
 
 This repo contains a list of summarization papers including various topics. If any error, please open an issue. 
 
@@ -15,7 +15,7 @@ This repo contains a list of summarization papers including various topics. If a
       * [Survey](#survey)
       * [Dataset](#dataset)
       * [Scientific Document](#scientific-document)
-      * [Factuality](#factuality)
+      * [Factual Consistency](#Factual Consistency)
       * [Sentiment Related](#sentiment-related)
       * [Pretrain Based](#pretrain-based)
       * [Style](#style)
@@ -140,7 +140,7 @@ This repo contains a list of summarization papers including various topics. If a
 |[A Discourse\-Aware Attention Model for Abstractive Summarization of Long Documents](https://arxiv.org/abs/1804.05685)|NAACL18|[Dataset: PubMed, ArXiv](https://github.com/armancohan/long-summarization)|
 </p></details>
 
-## Factuality 
+## Factual Consistency 
 1. **Multi-Fact Correction in Abstractive Text Summarization.** *Yue Dong, Shuohang Wang, Zhe Gan, Yu Cheng, Jackie Chi Kit Cheung, Jingjing Liu* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.02443) ![](https://img.shields.io/badge/-correct-red)
 2. **Factual Error Correction for Abstractive Summarization Models** *Cao Meng, Yue Cheung Dong, Jiapeng Wu, and Jackie Chi Kit* `EMNLP20` [[pdf]]() ![](https://img.shields.io/badge/-correct-red)
 3. **Evaluating the Factual Consistency of Abstractive Text Summarization** *Wojciech Kryściński, Bryan McCann, Caiming Xiong, Richard Socher* `EMNLP20` [[pdf]](https://arxiv.org/abs/1910.12840) [[code]](https://github.com/salesforce/factCC)![](https://img.shields.io/badge/-evaluation-brightgreen)
