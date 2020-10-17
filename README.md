@@ -199,12 +199,7 @@ This repo contains a list of summarization papers including various topics. If a
 </p></details>
 
 ## Style
-<details><summary>papers</summary><p>
-
-| Paper | Conference | Highlights |
-| :---: | :---: | :---: |
-|[Hooks in the Headline: Learning to Generate Headlines with Controlled Styles](https://arxiv.org/abs/2004.01980)|ACL20|Summarization + Style transfer|
-</p></details>
+1. **Hooks in the Headline: Learning to Generate Headlines with Controlled Styles** *Di Jin, Zhijing Jin, Joey Tianyi Zhou, Lisa Orii, Peter Szolovits* `ACL20` [[pdf]](https://arxiv.org/abs/2004.01980) [[code]](https://github.com/jind11/TitleStylist)
 
 ## Dialogue 
 <details><summary>papers</summary><p>
