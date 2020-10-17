@@ -56,20 +56,15 @@ This repo contains a list of summarization papers including various topics. If a
 * [ACL19-Multimodal Abstractive Summarization for How2 Videos](slides/paper-slides/Multimodal%20Abstractive%20Summarization%20for%20How2%20Videos.pdf) ![](https://img.shields.io/badge/-papers-blue)
 
 ## Survey
-<details><summary>papers</summary><p>
-
-| Paper | Conference |
-| :---: | :---: |
-|[Deep Learning Based Abstractive Text Summarization: Approaches, Datasets, Evaluation Measures, and Challenges](https://www.semanticscholar.org/paper/Deep-Learning-Based-Abstractive-Text-Summarization%3A-Suleiman-Awajan/b7da726c244287748575ef404009609afde45bea)||
-|[A Survey of Knowledge-Enhanced Text Generation](https://arxiv.org/abs/2010.04389)||
-|[From Standard Summarization to New Tasks and Beyond: Summarization with Manifold Information](https://arxiv.org/abs/2005.04684)|IJCAI20|
-|[Neural Abstractive Text Summarization with Sequence-to-Sequence Models](https://arxiv.org/abs/1812.02303)||
-|[A Survey on Neural Network-Based Summarization Methods](https://arxiv.org/abs/1804.04589)||
-|[Automated text summarisation and evidence-based medicine: A survey of two domains](https://arxiv.org/abs/1706.08162)||
-|[Automatic Keyword Extraction for Text Summarization: A Survey](https://arxiv.org/abs/1704.03242)||
-|[Text Summarization Techniques: A Brief Survey](https://arxiv.org/abs/1707.02268)||
-|[Recent automatic text summarization techniques: a survey](https://link.springer.com/article/10.1007/s10462-016-9475-9)||
-</p></details>
+1. **Deep Learning Based Abstractive Text Summarization: Approaches, Datasets, Evaluation Measures, and Challenges** *Dima Suleiman, Arafat A. Awajan* [[pdf]](https://www.semanticscholar.org/paper/Deep-Learning-Based-Abstractive-Text-Summarization%3A-Suleiman-Awajan/b7da726c244287748575ef404009609afde45bea)
+2. **A Survey of Knowledge-Enhanced Text Generation** *Wenhao Yu, Chenguang Zhu, Zaitang Li, Zhiting Hu, Qingyun Wang, Heng Ji, Meng Jiang* [[pdf]](https://arxiv.org/abs/2010.04389)
+3. **From Standard Summarization to New Tasks and Beyond: Summarization with Manifold Information** *Shen Gao, Xiuying Chen, Zhaochun Ren, Dongyan Zhao, Rui Yan* `IJCAI20` [[pdf]](https://arxiv.org/abs/2005.04684)
+4. **Neural Abstractive Text Summarization with Sequence-to-Sequence Models** *Tian Shi, Yaser Keneshloo, Naren Ramakrishnan, Chandan K. Reddy* [[pdf]](https://arxiv.org/abs/1812.02303)
+5. **A Survey on Neural Network-Based Summarization Methods** *Yue Dong* [[pdf]](https://arxiv.org/abs/1804.04589)
+6. **Automated text summarisation and evidence-based medicine: A survey of two domains** *Abeed Sarker, Diego Molla, Cecile Paris* [[pdf]](https://arxiv.org/abs/1706.08162)
+7. **Automatic Keyword Extraction for Text Summarization: A Survey** *Santosh Kumar Bharti, Korra Sathya Babu* [[pdf]](https://arxiv.org/abs/1704.03242)
+8. **Text Summarization Techniques: A Brief Survey** *Mehdi Allahyari, Seyedamin Pouriyeh, Mehdi Assefi, Saeid Safaei, Elizabeth D. Trippe, Juan B. Gutierrez, Krys Kochut* [[pdf]](https://arxiv.org/abs/1707.02268)
+9. **Recent automatic text summarization techniques: a survey** *Mahak Gambhir, Vishal Gupta* [[pdf]](https://link.springer.com/article/10.1007/s10462-016-9475-9)
 
 ## Dataset
 <details><summary>papers</summary><p>
