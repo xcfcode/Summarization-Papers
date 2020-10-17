@@ -44,17 +44,16 @@ This repo contains a list of summarization papers including various topics. If a
 ## Presentations && Notes
 > **Presentations** and **Notes** I have made for Summarization in our group.
 
-* Presentations
-    * [Multi-modal Summarization](slides/presentation/Multi-modal-Summarization.pdf)
-    * [ACL20 Summarization](slides/presentation/acl2020-summarization.pdf)
-    * [文本摘要简述 (Chinese)](slides/presentation/文本摘要简述.pdf)
-    * [ACL19 Summarization](slides/presentation/ACL19%20Summarization.pdf)
-* Notes
-    * [Brief intro to summarization (Chinese)](slides/notes/Brief-intro-to-summarization.pdf)
-    * [EMNLP19 Summarization (Chinese)](slides/notes/EMNLP19_Summarization.pdf)
-* Papers
-    * [ACL19-A Simple Theoretical Model of Importance for Summarization](slides/paper-slides/A%20Simple%20Theoretical%20Model%20of%20Importance%20for%20Summarization.pdf)
-    * [ACL19-Multimodal Abstractive Summarization for How2 Videos](slides/paper-slides/Multimodal%20Abstractive%20Summarization%20for%20How2%20Videos.pdf)
+![](https://img.shields.io/badge/Presentations-presentations-brightgreen) ![](https://img.shields.io/badge/Notes-notes-orange) ![](https://img.shields.io/badge/Papers-papers-blue)
+
+* [Multi-modal Summarization](slides/presentation/Multi-modal-Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
+* [ACL20 Summarization](slides/presentation/acl2020-summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
+* [文本摘要简述 (Chinese)](slides/presentation/文本摘要简述.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
+* [ACL19 Summarization](slides/presentation/ACL19%20Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
+* [Brief intro to summarization (Chinese)](slides/notes/Brief-intro-to-summarization.pdf) ![](https://img.shields.io/badge/-notes-orange)
+* [EMNLP19 Summarization (Chinese)](slides/notes/EMNLP19_Summarization.pdf) ![](https://img.shields.io/badge/-notes-orange)
+* [ACL19-A Simple Theoretical Model of Importance for Summarization](slides/paper-slides/A%20Simple%20Theoretical%20Model%20of%20Importance%20for%20Summarization.pdf) ![](https://img.shields.io/badge/-papers-blue)
+* [ACL19-Multimodal Abstractive Summarization for How2 Videos](slides/paper-slides/Multimodal%20Abstractive%20Summarization%20for%20How2%20Videos.pdf) ![](https://img.shields.io/badge/-papers-blue)
 
 ## Survey
 <details><summary>papers</summary><p>
