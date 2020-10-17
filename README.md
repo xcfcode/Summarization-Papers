@@ -579,16 +579,11 @@ This repo contains a list of summarization papers including various topics. If a
 </p></details>
 
 ## Syntactic
-<details><summary>papers</summary><p>
-
-| Paper | Conference |
-| :---: | :---: |
-|[Compressive Summarization with Plausibility and Salience Modeling](https://arxiv.org/abs/2010.07886)|EMNLP20|
-|[StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization](https://arxiv.org/abs/2003.00576)||
-|[Joint Parsing and Generation for Abstractive Summarization](https://arxiv.org/abs/1911.10389)|AAAI20|
-|[Neural Extractive Text Summarization with Syntactic Compression](https://arxiv.org/abs/1902.00863)|EMNLP19|
-|[Single Document Summarization as Tree Induction](https://www.aclweb.org/anthology/N19-1173/)|NAACL19|
-</p></details>
+1. **Compressive Summarization with Plausibility and Salience Modeling** *Shrey Desai, Jiacheng Xu, Greg Durrett* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.07886) [[code]](https://github.com/shreydesai/cups)
+2. **StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization** *Vidhisha Balachandran, Artidoro Pagnoni, Jay Yoon Lee, Dheeraj Rajagopal, Jaime Carbonell, Yulia Tsvetkov* `` [[pdf]](https://arxiv.org/abs/2003.00576)
+3. **Joint Parsing and Generation for Abstractive Summarization** *Kaiqiang Song, Logan Lebanoff, Qipeng Guo, Xipeng Qiu, Xiangyang Xue, Chen Li, Dong Yu, Fei Liu* `AAAI20` [[pdf]](https://arxiv.org/abs/1911.10389) [[code]](https://github.com/KaiQiangSong/joint_parse_summ)
+4. **Neural Extractive Text Summarization with Syntactic Compression** *Jiacheng Xu, Greg Durrett* `EMNLP19` [[pdf]](https://arxiv.org/abs/1902.00863) [[code]](https://github.com/jiacheng-xu/neu-compression-sum)
+5. **Single Document Summarization as Tree Induction** *Yang Liu, Ivan Titov, Mirella Lapata* `NAACL19` [[pdf]](https://www.aclweb.org/anthology/N19-1173/) [[code]](https://github.com/nlpyang/SUMO)
 
 ## QA Related
 <details><summary>papers</summary><p>
