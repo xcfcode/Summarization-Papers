@@ -508,23 +508,20 @@ This repo contains a list of summarization papers including various topics. If a
 </p></details>
 
 ## Analysis
-<details><summary>papers</summary><p>
+![](https://img.shields.io/badge/Analysis-analysis-red) ![](https://img.shields.io/badge/Meta%20Evaluation-evaluation-brightgreen) ![](https://img.shields.io/badge/Bias-bias-orange) ![](https://img.shields.io/badge/Architecture-architecture-blue)
 
-| Paper | Conference |
-| :---: | :---: |
-|[Understanding Neural Abstractive Summarization Models via Uncertainty](https://arxiv.org/abs/2010.07882)|EMNLP20 Short|
-|[Re-evaluating Evaluation in Text Summarization](https://arxiv.org/abs/2010.07100)|EMNLP20|
-|[CDEvalSumm: An Empirical Study of Cross-Dataset Evaluation for Neural Summarization Systems](https://arxiv.org/abs/2010.05139)|EMNLP20||
-|[What Have We Achieved on Text Summarization?](https://arxiv.org/abs/2010.04529)|EMNLP20|
-|[Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization](https://arxiv.org/abs/2004.13983)|Findings of EMNLP2020||
-|[Extractive Summarization as Text Matching](https://arxiv.org/abs/2004.08795)|ACL20|
-|[Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051/)|EMNLP19|
-|[Earlier Isn’t Always Better:Sub-aspect Analysis on Corpus and System Biases in Summarization](https://arxiv.org/abs/1908.11723)|EMNLP19|
-|[A Closer Look at Data Bias in Neural Extractive Summarization Models](https://arxiv.org/abs/1909.13705)|EMNLP 2019 Workshop|
-|[Countering the Effects of Lead Bias in News Summarization via Multi-Stage Training and Auxiliary Losses](https://arxiv.org/abs/1909.04028)|EMNLP19 Short|
-|[Searching for Effective Neural Extractive Summarization: What Works and What's Next](https://arxiv.org/abs/1907.03491)|ACL19|
-|[Content Selection in Deep Learning Models of Summarization](https://www.aclweb.org/anthology/D18-1208/)|EMNLP18|
-</p></details>
+1. **Understanding Neural Abstractive Summarization Models via Uncertainty** *Jiacheng Xu, Shrey Desai, Greg Durrett* `EMNLP20 Short` [[pdf]](https://arxiv.org/abs/2010.07882) [[code]](https://github.com/jiacheng-xu/text-sum-uncertainty) ![](https://img.shields.io/badge/-analysis-red)
+2. **Re-evaluating Evaluation in Text Summarization** *Manik Bhandari, Pranav Gour, Atabak Ashfaq, Pengfei Liu, Graham Neubig* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.07100) [[code]](https://github.com/neulab/REALSumm) ![](https://img.shields.io/badge/-evaluation-brightgreen)
+3. **CDEvalSumm: An Empirical Study of Cross-Dataset Evaluation for Neural Summarization Systems** *Yiran Chen, Pengfei Liu, Ming Zhong, Zi-Yi Dou, Danqing Wang, Xipeng Qiu, Xuanjing Huang* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.05139) [[code]](https://github.com/zide05/CDEvalSumm) ![](https://img.shields.io/badge/-evaluation-brightgreen)
+4. **What Have We Achieved on Text Summarization?** *Dandan Huang, Leyang Cui, Sen Yang, Guangsheng Bao, Kun Wang, Jun Xie, Yue Zhang* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.04529) ![](https://img.shields.io/badge/-analysis-red)
+5. **Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization** *Zhengyuan Liu, Ke Shi, Nancy F. Chen* `Findings of EMNLP20` [[pdf]](https://arxiv.org/abs/2004.13983) ![](https://img.shields.io/badge/-bias-orange)
+6. **Extractive Summarization as Text Matching** *Ming Zhong, Pengfei Liu, Yiran Chen, Danqing Wang, Xipeng Qiu, Xuanjing Huang* `ACL20` [[pdf]](https://arxiv.org/abs/2004.08795) [[code]](https://github.com/maszhongming/MatchSum) ![](https://img.shields.io/badge/-architecture-blue) ![](https://img.shields.io/badge/-bias-orange)
+7. **Neural Text Summarization: A Critical Evaluation** *Wojciech Kryściński, Nitish Shirish Keskar, Bryan McCann, Caiming Xiong, Richard Socher* `EMNLP19` [[pdf]](https://www.aclweb.org/anthology/D19-1051/) ![](https://img.shields.io/badge/-analysis-red)
+8. **Earlier Isn’t Always Better:Sub-aspect Analysis on Corpus and System Biases in Summarization** *Taehee Jung, Dongyeop Kang, Lucas Mentch, Eduard Hovy* `EMNLP19` [[pdf]](https://arxiv.org/abs/1908.11723) [[code]](https://github.com/dykang/biassum) ![](https://img.shields.io/badge/-bias-orange)
+9. **A Closer Look at Data Bias in Neural Extractive Summarization Models** *Ming Zhong, Danqing Wang, Pengfei Liu, Xipeng Qiu, Xuanjing Huang* `EMNLP19 Workshop` [[pdf]](https://arxiv.org/abs/1909.13705) ![](https://img.shields.io/badge/-bias-orange)
+10. **Countering the Effects of Lead Bias in News Summarization via Multi-Stage Training and Auxiliary Losses** *Matt Grenander, Yue Dong, Jackie Chi Kit Cheung, Annie Louis* `EMNLP19 Short` [[pdf]](https://arxiv.org/abs/1909.04028)  ![](https://img.shields.io/badge/-bias-orange)
+11. **Searching for Effective Neural Extractive Summarization: What Works and What's Next** *Ming Zhong, Pengfei Liu, Danqing Wang, Xipeng Qiu, Xuanjing Huang* `ACL19` [[pdf]](https://arxiv.org/abs/1907.03491) [[code]](https://github.com/maszhongming/Effective_Extractive_Summarization) ![](https://img.shields.io/badge/-architecture-blue)
+12. **Content Selection in Deep Learning Models of Summarization** *Chris Kedzie, Kathleen McKeown, Hal Daumé III* `EMNLP18` [[pdf]](https://www.aclweb.org/anthology/D18-1208/) [[code]](https://github.com/kedz/nnsum/tree/emnlp18-release) ![](https://img.shields.io/badge/-architecture-blue)
 
 ## Theory
 <details><summary>papers</summary><p>
