@@ -425,22 +425,14 @@ This repo contains a list of summarization papers including various topics. If a
 
 
 ## Concept-map-based
-<details><summary>papers</summary><p>
 
-| Paper | Conference |
-| :---: | :---: |
-| [Fast Concept Mention Grouping for Concept Map–based Multi-Document Summarization](https://www.aclweb.org/anthology/N19-1074/)|NAACL19|
-| [Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps](https://www.aclweb.org/anthology/D17-1320/) | EMNLP17 |
-</p></details>
+1. **Fast Concept Mention Grouping for Concept Map–based Multi-Document Summarization** ** `NAACL19` [[pdf]](https://www.aclweb.org/anthology/N19-1074/) [[code]](https://github.com/UKPLab/naacl2019-cmaps-lshcw)
+2. **Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps** ** `EMNLP17` [[pdf]](https://www.aclweb.org/anthology/D17-1320/) [[code]](https://github.com/UKPLab/emnlp2017-cmapsum-corpus/)
 
 ## Timeline
-<details><summary>papers</summary><p>
 
-| Paper | Conference |
-| :---: | :---: |
-|[Examining the State-of-the-Art in News Timeline Summarization](https://arxiv.org/abs/2005.10107)|ACL20|
-|[Learning towards Abstractive Timeline Summarization](https://www.ijcai.org/Proceedings/2019/0686.pdf)|IJCAI19|
-</p></details>
+1. **Examining the State-of-the-Art in News Timeline Summarization** *Demian Gholipour Ghalandari, Georgiana Ifrim* `ACL20` [[pdf]](https://arxiv.org/abs/2005.10107) [[code]](https://github.com/complementizer/news-tls)
+2. **Learning towards Abstractive Timeline Summarization** *Xiuying Chen, Zhangming Chan, Shen Gao, Meng-Hsuan Yu, Dongyan Zhao, Rui Yan* `IJCAI19` [[pdf]](https://www.ijcai.org/Proceedings/2019/686) [[data]](https://github.com/yingtaomj/Learning-towards-Abstractive-Timeline-Summarization)
 
 ## Opinion
 <details><summary>papers</summary><p>
@@ -471,13 +463,9 @@ This repo contains a list of summarization papers including various topics. If a
 </p></details>
 
 ## Reward Learning
-<details><summary>papers</summary><p>
 
-| Paper | Conference |
-| :---: | :---: |
-|[Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)||
-|[Better Rewards Yield Better Summaries: Learning to Summarise Without References](https://arxiv.org/abs/1909.01214)|EMNLP19|
-</p></details>
+1. **Learning to summarize from human feedback** *Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano* [[pdf]](https://arxiv.org/abs/2009.01325) [[code]](https://github.com/openai/summarize-from-feedback)
+2. **Better Rewards Yield Better Summaries: Learning to Summarise Without References** *Florian Böhm, Yang Gao, Christian M. Meyer, Ori Shapira, Ido Dagan, Iryna Gurevych* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.01214) [[code]](https://github.com/yg211/summary-reward-no-reference)
 
 ## Controlled
 <details><summary>papers</summary><p>
@@ -510,14 +498,9 @@ This repo contains a list of summarization papers including various topics. If a
 12. **Content Selection in Deep Learning Models of Summarization** *Chris Kedzie, Kathleen McKeown, Hal Daumé III* `EMNLP18` [[pdf]](https://www.aclweb.org/anthology/D18-1208/) [[code]](https://github.com/kedz/nnsum/tree/emnlp18-release) ![](https://img.shields.io/badge/-architecture-blue)
 
 ## Theory
-<details><summary>papers</summary><p>
-
-| Paper | Conference |
-| :---: | :---: |
-|[KLearn: Background Knowledge Inference from Summarization Data](https://arxiv.org/abs/2010.06213)|Findings of EMNLP|
-|[A Simple Theoretical Model of Importance for Summarization](https://www.aclweb.org/anthology/P19-1101/)|ACL19|
-|[BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle](https://arxiv.org/abs/1909.07405)|EMNLP19|
-</p></details>
+1. **KLearn: Background Knowledge Inference from Summarization Data** *Maxime Peyrard, Robert West* `Findings of EMNLP20` [[pdf]](https://arxiv.org/abs/2010.06213) [[code]](https://github.com/epfl-dlab/KLearn)
+2. **A Simple Theoretical Model of Importance for Summarization** *Maxime Peyrard* `ACL19` [[pdf]](https://www.aclweb.org/anthology/P19-1101/)
+3. **BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle** *Peter West, Ari Holtzman, Jan Buys, Yejin Choi* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.07405) [[code]](https://github.com/peterwestuw/BottleSum)
 
 ## Extractive
 <details><summary>papers</summary><p>
