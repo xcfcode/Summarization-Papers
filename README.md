@@ -20,9 +20,9 @@ This repo contains a list of summarization papers including various topics. If a
       * [Pretrain Based](#pretrain-based) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Style](#style) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Dialogue](#dialogue)
-      * [Graph-Based](#graph-based) ![](https://img.shields.io/badge/-ing-orange)
+      * [Graph-Based](#graph-based) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Multi-Document](#multi-document) ![](https://img.shields.io/badge/-ing-orange)
-      * [Cross-Lingual](#cross-lingual) ![](https://img.shields.io/badge/-ing-orange)
+      * [Cross-Lingual](#cross-lingual) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Unsupervised](#unsupervised) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Multi-modal](#multi-modal-1)
       * [Concept-map-based](#concept-map-based) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
@@ -284,19 +284,13 @@ This repo contains a list of summarization papers including various topics. If a
 </p></details>
 
 ## Graph-Based
-<details><summary>papers</summary><p>
-
-| Paper | Conference |
-| :---: | :---: |
-|[Enhancing Extractive Text Summarization with Topic-Aware Graph Neural Networks](https://arxiv.org/abs/2010.06253)|COLING20|
-|[Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://arxiv.org/abs/2004.12393)|ACL20|
-|[Structured Neural Summarization](https://arxiv.org/abs/1811.01824)|ICLR19|
-| [Hierarchical Transformers for Multi-Document Summarization](https://arxiv.org/abs/1905.13164) | ACL19 |
-| [Learning to Create Sentence Semantic Relation Graphs for Multi-Document Summarization](https://arxiv.org/abs/1909.12231) | EMNLP19 |
-|[Graph-based Neural Multi-Document Summarization](https://www.aclweb.org/anthology/K17-1045/)|CoNLL17|
-|[Abstractive Document Summarization with a Graph-Based Attentional Neural Model](https://www.aclweb.org/anthology/P17-1108/)|ACL17|
-</p></details>
-
+1. **Enhancing Extractive Text Summarization with Topic-Aware Graph Neural Networks** *Peng Cui, Le Hu, Yuanchao Liu* `COLING20` [[pdf]](https://arxiv.org/abs/2010.06253) 
+2. **Heterogeneous Graph Neural Networks for Extractive Document Summarization** *Danqing Wang, Pengfei Liu, Yining Zheng, Xipeng Qiu, Xuanjing Huang* `ACL20` [[pdf]](https://arxiv.org/abs/2004.12393) [[code]](https://github.com/brxx122/HeterSUMGraph)
+3. **Structured Neural Summarization** *Patrick Fernandes, Miltiadis Allamanis, Marc Brockschmidt* `ICLR19` [[pdf]](https://arxiv.org/abs/1811.01824) [[code]](https://github.com/CoderPat/structured-neural-summarization)
+4. **Hierarchical Transformers for Multi-Document Summarization** *Yang Liu, Mirella Lapata* `ACL19` [[pdf]](https://arxiv.org/abs/1905.13164) [[code]](https://github.com/nlpyang/hiersumm)
+5. **Learning to Create Sentence Semantic Relation Graphs for Multi-Document Summarization** *Diego Antognini, Boi Faltings* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.12231)
+6. **Graph-based Neural Multi-Document Summarization** *Michihiro Yasunaga, Rui Zhang, Kshitijh Meelu, Ayush Pareek, Krishnan Srinivasan, Dragomir Radev* `CoNLL17` [[pdf]](https://www.aclweb.org/anthology/K17-1045/) 
+7. **Abstractive Document Summarization with a Graph-Based Attentional Neural Model** *Jiwei Tan, Xiaojun Wan, Jianguo Xiao* `ACL17` [[pdf]](https://www.aclweb.org/anthology/P17-1108/)
 
 ## Multi-Document
 <details><summary>papers</summary><p>
@@ -322,30 +316,25 @@ This repo contains a list of summarization papers including various topics. If a
 
 
 ## Cross-Lingual
-<details><summary>papers</summary><p>
-
-| Paper | Conference |
-| :---: | :---: |
-|[Multi-Task Learning for Cross-Lingual Abstractive Summarization](https://arxiv.org/abs/2010.07503)||
-|[WikiLingua- A New Benchmark Dataset for Cross-Lingual Abstractive Summarization](https://arxiv.org/abs/2010.03093)|Findings of EMNLP20|
-|[A Deep Reinforced Model for Zero-Shot Cross-Lingual Summarization with Bilingual Semantic Similarity Rewards](https://www.aclweb.org/anthology/2020.ngt-1.7/)|ACL20 workshop|
-|[Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization](https://www.aclweb.org/anthology/2020.acl-main.554.pdf)|ACL20|
-|[Attend, Translate and Summarize:An Efficient Method for Neural Cross-Lingual Summarization](https://www.aclweb.org/anthology/2020.acl-main.121.pdf)|ACL20|
-|[MultiSumm: Towards a Unified Model for Multi-Lingual Abstractive Summarization](https://aaai.org/Papers/AAAI/2020GB/AAAI-CaoY.7050.pdf)|AAAI20|
-| [Global Voices: Crossing Borders in Automatic News Summarization](https://arxiv.org/abs/1910.00421) | EMNLP19 |
-| [NCLS: Neural Cross-Lingual Summarization](https://arxiv.org/abs/1909.00156) | EMNLP19|
-| [Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention](https://www.aclweb.org/anthology/P19-1305/) | ACL19 |
-| [A Robust Abstractive System for Cross-Lingual Summarization](https://www.aclweb.org/anthology/N19-1204/)|NAACL19|
-|[Cross-Lingual Korean Speech-to-Text Summarization](https://link.springer.com/chapter/10.1007/978-3-030-14799-0_17)|ACIIDS19|
-|[Cross-language document summarization via extraction and ranking of multiple summaries](https://link.springer.com/article/10.1007/s10115-018-1152-7)||
-| [Zero-Shot Cross-Lingual Neural Headline Generation](https://dl.acm.org/doi/10.1109/TASLP.2018.2842432)|IEEE/ACM TRANSACTIONS 18|
-|[Cross-Language Text Summarization using Sentence and Multi-Sentence Compression](https://hal.archives-ouvertes.fr/hal-01779465/document)|NLDB18|
-|[Cross-language document summarization based on machine translation quality prediction](https://www.aclweb.org/anthology/P10-1094/)|ACL10|
-|[Using bilingual information for cross-language document summarization](https://www.aclweb.org/anthology/P11-1155.pdf)|ACL11|
-|[Phrase-based Compressive Cross-Language Summarization](https://www.aclweb.org/anthology/D15-1012.pdf)|ACL15|
-|[Abstractive Cross-Language Summarization via Translation Model Enhanced Predicate Argument Structure Fusing](http://www.nlpr.ia.ac.cn/cip/ZhangPublications/zhang-taslp-2016.pdf)|IEEE/ACM Trans16|
-|[Multilingual Single-Document Summarization with MUSE](https://www.aclweb.org/anthology/W13-3111/)|MultiLing13|
-</p></details>
+1. **Multi-Task Learning for Cross-Lingual Abstractive Summarization** *Sho Takase, Naoaki Okazaki* [[pdf]](https://arxiv.org/abs/2010.07503)
+2. **WikiLingua: A New Benchmark Dataset for Cross-Lingual Abstractive Summarization** *Faisal Ladhak, Esin Durmus, Claire Cardie, Kathleen McKeown* `Findings of EMNLP20` [[pdf]](https://arxiv.org/abs/2010.03093) [[data]](https://github.com/esdurmus/Wikilingua)
+3. **A Deep Reinforced Model for Zero-Shot Cross-Lingual Summarization with Bilingual Semantic Similarity Rewards** *Zi-Yi Dou, Sachin Kumar, Yulia Tsvetkov* `ACL20 workshop` [[pdf]](https://www.aclweb.org/anthology/2020.ngt-1.7/) [[code]](https://github.com/zdou0830/crosslingual_summarization_semantic)
+4. **Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization** *Yue Cao, Hui Liu, Xiaojun Wan* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.554/)
+5. **Attend, Translate and Summarize: An Efficient Method for Neural Cross-Lingual Summarization** *Junnan Zhu, Yu Zhou, Jiajun Zhang, Chengqing Zong* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.121/) [[code]](https://github.com/ZNLP/ATSum)
+6. **MultiSumm: Towards a Unified Model for Multi-Lingual Abstractive Summarization** *Yue Cao, Xiaojun Wan, Jinge Yao, Dian Yu* `AAAI20` [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/5328) [[code]](https://github.com/ycao1996/Multi-Lingual-Summarization)
+7. **Global Voices: Crossing Borders in Automatic News Summarization** *Khanh Nguyen, Hal Daumé III* `EMNLP19 workshop ` [[pdf]](https://arxiv.org/abs/1910.00421) [[data]](https://forms.gle/gpkJDT6RJWHM1Ztz9)
+8. **NCLS: Neural Cross-Lingual Summarization** *Junnan Zhu, Qian Wang, Yining Wang, Yu Zhou, Jiajun Zhang, Shaonan Wang, Chengqing Zong* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.00156) [[code]](http://www.nlpr.ia.ac.cn/cip/dataset.htm)
+9. **Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention** *Xiangyu Duan, Mingming Yin, Min Zhang, Boxing Chen, Weihua Luo* `ACL19` [[pdf]](https://www.aclweb.org/anthology/P19-1305/) [[code]](https://github.com/KelleyYin/Cross-lingual-Summarization)
+10. **A Robust Abstractive System for Cross-Lingual Summarization** *Jessica Ouyang, Boya Song, Kathy McKeown* `NAACL19` [[pdf]](https://www.aclweb.org/anthology/N19-1204/)
+11. **Cross-Lingual Korean Speech-to-Text Summarization** *HyoJeon Yoon, Dinh Tuyen Hoang, Ngoc Thanh Nguyen, Dosam Hwang* `ACIIDS19` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-14799-0_17)
+12. **Cross-language document summarization via extraction and ranking of multiple summaries** *Xiaojun Wan, Fuli Luo, Xue Sun, Songfang Huang & Jin-ge Yao* [[pdf]](https://link.springer.com/article/10.1007/s10115-018-1152-7)
+13. **Zero-Shot Cross-Lingual Neural Headline Generation** *Shi-qi Shen, Yun Chen, Cheng Yang, Zhi-yuan Liu, Mao-song Sun* `TASLP18` [[pdf]](https://dl.acm.org/doi/10.1109/TASLP.2018.2842432)
+14. **Cross-Language Text Summarization using Sentence and Multi-Sentence Compression** *Elvys Linhares Pontes, Stéphane Huet, Juan-Manuel Torres-Moreno, Andréa Carneiro Linhares* `NLDB18` [[pdf]](https://hal.archives-ouvertes.fr/hal-01779465/document)
+18. **Abstractive Cross-Language Summarization via Translation Model Enhanced Predicate Argument Structure Fusing** *Jiajun Zhang, Yu Zhou, Chengqing Zong* `TASLP16` [[pdf]](http://www.nlpr.ia.ac.cn/cip/ZhangPublications/zhang-taslp-2016.pdf)
+19. **Phrase-based Compressive Cross-Language Summarization** *Jin-ge Yao ,Xiaojun Wan ,Jianguo Xiao* `ACL15` [[pdf]](https://www.aclweb.org/anthology/D15-1012.pdf)
+19. **Multilingual Single-Document Summarization with MUSE** *Marina Litvak, Mark Last* `MultiLing13` [[pdf]](https://www.aclweb.org/anthology/W13-3111/)
+20. **Using bilingual information for cross-language document summarization** *Xiaojun Wan* `ACL11` [[pdf]](https://www.aclweb.org/anthology/P11-1155.pdf)
+20. **Cross-language document summarization based on machine translation quality prediction** *Xiaojun Wan, Huiying Li, Jianguo Xiao* `ACL10` [[pdf]](https://www.aclweb.org/anthology/P10-1094/)
 
 ## Unsupervised
 1. **Unsupervised Extractive Summarization by Pre-training Hierarchical Transformers** *Shusheng Xu, Xingxing Zhang, Yi Wu, Furu Wei, Ming Zhou* [[pdf]](https://arxiv.org/abs/2010.08242) [[code]](https://github.com/xssstory/STAS)
