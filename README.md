@@ -2,8 +2,6 @@
 
 ![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-![](https://img.shields.io/badge/-ing-orange)
-
 Contributed by [Xiachong Feng](http://xcfeng.net/), [Yichong Huang](https://github.com/OrangeInSouth) ([Factual Consistency](#factual-consistency))
 
 This repo contains a list of summarization papers including various topics. If any error, please open an issue. 
