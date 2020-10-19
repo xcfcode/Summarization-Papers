@@ -37,7 +37,7 @@ This repo contains a list of summarization papers including various topics. If a
       * [Abstractive](#abstractive)
       * [Extractive-Abstractive](#extractive-abstractive)
       * [Syntactic](#syntactic) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
-      * [QA Related](#qa-related) ![](https://img.shields.io/badge/-ing-orange)
+      * [QA Related](#qa-related) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Evaluation](#evaluation) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Toolkit](#toolkit) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
 
