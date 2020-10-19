@@ -24,7 +24,7 @@ This repo contains a list of summarization papers including various topics. If a
       * [Multi-Document](#multi-document) ![](https://img.shields.io/badge/-ing-orange)
       * [Cross-Lingual](#cross-lingual) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Unsupervised](#unsupervised) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
-      * [Multi-modal](#multi-modal-1)
+      * [Multi-modal](#multi-modal-1) ![](https://img.shields.io/badge/-ing-orange)
       * [Concept-map-based](#concept-map-based) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Timeline](#timeline) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Opinion](#opinion) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
