@@ -13,7 +13,7 @@ This repo contains a list of summarization papers including various topics. If a
 ## Content
    * [Summarization Papers](#summarization-papers)
       * [Content](#content)
-      * [Presentations &amp;&amp; Notes] (#presentations--notes) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
+      * [Presentations &amp;&amp; Notes](#presentations--notes) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Survey](#survey) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Dataset](#dataset) ![](https://img.shields.io/badge/-ing-orange)
       * [Scientific Document](#scientific-document) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
