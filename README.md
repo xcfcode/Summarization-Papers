@@ -28,7 +28,7 @@ This repo contains a list of summarization papers including various topics. If a
       * [Concept-map-based](#concept-map-based) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Timeline](#timeline) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Opinion](#opinion) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
-      * [Reinforcement Learning](#reinforcement-learning) ![](https://img.shields.io/badge/-ing-orange)
+      * [Reinforcement Learning](#reinforcement-learning) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Reward Learning](#reward-learning) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Controlled](#controlled) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Analysis](#analysis) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
@@ -401,20 +401,14 @@ This repo contains a list of summarization papers including various topics. If a
 6. **MeanSum: A Neural Model for Unsupervised Multi-Document Abstractive Summarization** *Eric Chu, Peter J. Liu* `ICML19` [[pdf]](https://arxiv.org/abs/1810.05739) [[code]](https://github.com/sosuperic/MeanSum)
 
 ## Reinforcement Learning
-<details><summary>papers</summary><p>
-
-| Paper | Conference |
-| :---: | :---: |
-| [Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](https://arxiv.org/abs/1909.01610)|EMNLP19|
-| [Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization](https://arxiv.org/abs/1909.00141)|EMNLP19|
-| [Reinforced Extractive Summarization with Question-Focused Rewards](https://www.aclweb.org/anthology/P18-3015/)|ACL18|
-| [Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting](https://arxiv.org/abs/1805.11080)|ACL18|
-| [Multi-Reward Reinforced Summarization with Saliency and Entailmen](https://www.aclweb.org/anthology/N18-2102/)t|NAACL18|
-| [Deep Communicating Agents for Abstractive Summarization](https://arxiv.org/abs/1803.10357) | NAACL18 |
-| [Ranking Sentences for Extractive Summarization with Reinforcement Learning](https://www.aclweb.org/anthology/N18-1158/)|NAACL18|
-| [A Deep Reinforced Model For Abstractive Summarization](https://arxiv.org/abs/1705.04304)|ICLR18|
-</p></details>
-
+1. **Answers Unite! Unsupervised Metrics for Reinforced Summarization Models** *Thomas Scialom, Sylvain Lamprier, Benjamin Piwowarski, Jacopo Staiano* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.01610)
+2. **Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization** *Siyao Li, Deren Lei, Pengda Qin, William Yang Wang* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.00141)
+3. **Reinforced Extractive Summarization with Question-Focused Rewards** *Kristjan Arumae, Fei Liu* `ACL18` [[pdf]](https://www.aclweb.org/anthology/P18-3015/) 
+4. **Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting** *Yen-Chun Chen, Mohit Bansal* `ACL18` [[pdf]](https://arxiv.org/abs/1805.11080) [[code]](https://github.com/ChenRocks/fast_abs_rl)
+5. **Multi-Reward Reinforced Summarization with Saliency and Entailmen** *Ramakanth Pasunuru, Mohit Bansal* `NAACL18` [[pdf]](https://www.aclweb.org/anthology/N18-2102/) 
+6. **Deep Communicating Agents for Abstractive Summarization** *Asli Celikyilmaz, Antoine Bosselut, Xiaodong He, Yejin Choi* `NAACL18` [[pdf]](https://arxiv.org/abs/1803.10357)
+7. **Ranking Sentences for Extractive Summarization with Reinforcement Learning** *Shashi Narayan, Shay B. Cohen, Mirella Lapata* `NAACL18` [[pdf]](https://www.aclweb.org/anthology/N18-1158/) [[code]](https://github.com/EdinburghNLP/Refresh)
+8. **A Deep Reinforced Model For Abstractive Summarization** *Romain Paulus, Caiming Xiong, Richard Socher* `ICLR18` [[pdf]](https://arxiv.org/abs/1705.04304)
 ## Reward Learning
 
 1. **Learning to summarize from human feedback** *Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano* [[pdf]](https://arxiv.org/abs/2009.01325) [[code]](https://github.com/openai/summarize-from-feedback)
