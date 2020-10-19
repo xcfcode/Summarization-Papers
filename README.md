@@ -19,7 +19,7 @@ This repo contains a list of summarization papers including various topics. If a
       * [Sentiment Related](#sentiment-related) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Pretrain Based](#pretrain-based) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Style](#style) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
-      * [Dialogue](#dialogue)
+      * [Dialogue](#dialogue)![](https://img.shields.io/badge/-ing-orange)
       * [Graph-Based](#graph-based) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Multi-Document](#multi-document) ![](https://img.shields.io/badge/-ing-orange)
       * [Cross-Lingual](#cross-lingual) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
@@ -33,9 +33,9 @@ This repo contains a list of summarization papers including various topics. If a
       * [Controlled](#controlled) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Analysis](#analysis) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Theory](#theory) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
-      * [Extractive](#extractive)
-      * [Abstractive](#abstractive)
-      * [Extractive-Abstractive](#extractive-abstractive)
+      * [Extractive](#extractive) ![](https://img.shields.io/badge/-ing-orange)
+      * [Abstractive](#abstractive) ![](https://img.shields.io/badge/-ing-orange)
+      * [Extractive-Abstractive](#extractive-abstractive) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Syntactic](#syntactic) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [QA Related](#qa-related) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Evaluation](#evaluation) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
@@ -510,13 +510,8 @@ This repo contains a list of summarization papers including various topics. If a
 </p></details>
 
 ## Extractive-Abstractive
-<details><summary>papers</summary><p>
-
-| Paper | Conference |
-| :---: | :---: |
-|[On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/abs/1909.03186)|EMNLP20|
-| [Jointly Extracting and Compressing Documents with Summary State Representations](https://arxiv.org/abs/1904.02020)|NAACL19|
-</p></details>
+1. **On Extractive and Abstractive Neural Document Summarization with Transformer Language Models** *Sandeep Subramanian, Raymond Li, Jonathan Pilault, Christopher Pal* `EMNLP20` [[pdf]](https://arxiv.org/abs/1909.03186) 
+2. **Jointly Extracting and Compressing Documents with Summary State Representations** *Afonso Mendes, Shashi Narayan, Sebastião Miranda, Zita Marinho, André F. T. Martins, Shay B. Cohen* `NAACL19` [[pdf]](https://arxiv.org/abs/1904.02020) [[code]](https://github.com/Priberam/exconsumm)
 
 ## Syntactic
 1. **Compressive Summarization with Plausibility and Salience Modeling** *Shrey Desai, Jiacheng Xu, Greg Durrett* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.07886) [[code]](https://github.com/shreydesai/cups)
