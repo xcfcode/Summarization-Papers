@@ -120,19 +120,13 @@ This repo contains a list of summarization papers including various topics. If a
 </p></details>
 
 ## Scientific Document
-<details><summary>papers</summary><p>
-
-| Paper | Conference | Dataset |
-| :---: | :---: | :---: |
-|[scisumm-corpus](https://github.com/WING-NUS/scisumm-corpus)||[scisumm-corpus](https://github.com/WING-NUS/scisumm-corpus)|
-|[Enhancing Extractive Text Summarization with Topic-Aware Graph Neural Networks](https://arxiv.org/abs/2010.06253)|COLING20|
-|[Multi-XScience: A Large-scale Dataset for Extreme Multi-document Summarization of Scientiﬁc Articles](http://www.cs.toronto.edu/~lcharlin/papers/Multi-XScience.pdf)|EMNLP20 Short|[Dataset: Multi-XScience](https://github.com/yaolu/Multi-XScience)|
-|[TLDR: Extreme Summarization of Scientific Documents](https://arxiv.org/abs/2004.15011)|Findings of EMNLP20|[Dataset: SCITLDR](https://github.com/allenai/scitldr)|
-|[Extractive Summarization of Long Documents by Combining Global and Local Context](https://arxiv.org/abs/1909.08089)|EMNLP19|
-|[ScisummNet: A Large Annotated Corpus and Content\-Impact Models for Scientific Paper Summarization with Citation Networks](https://arxiv.org/abs/1909.01716) |AAAI19|[Dataset: ScisummNet](https://cs.stanford.edu/~myasu/projects/scisumm_net/)|
-|[TalkSumm: A Dataset and Scalable Annotation Method for Scientific Paper Summarization Based on Conference Talks](https://www.aclweb.org/anthology/P19-1204/) |ACL19|[Dataset: TALKSUMM](https://github.com/levguy/talksumm)|
-|[A Discourse\-Aware Attention Model for Abstractive Summarization of Long Documents](https://arxiv.org/abs/1804.05685)|NAACL18|[Dataset: PubMed, ArXiv](https://github.com/armancohan/long-summarization)|
-</p></details>
+1. **Enhancing Extractive Text Summarization with Topic-Aware Graph Neural Networks** *Peng Cui, Le Hu, Yuanchao Liu* `COLING20` [[pdf]](https://arxiv.org/abs/2010.06253) 
+2. **Multi-XScience: A Large-scale Dataset for Extreme Multi-document Summarization of Scientiﬁc Articles** *Yao Lu, Yue Dong, Laurent Charlin* `EMNLP20 Short` [[pdf]](http://www.cs.toronto.edu/~lcharlin/papers/Multi-XScience.pdf) [[data]](https://github.com/yaolu/Multi-XScience)
+3. **TLDR: Extreme Summarization of Scientific Documents** *Isabel Cachola, Kyle Lo, Arman Cohan, Daniel S. Weld* `Findings of EMNLP20` [[pdf]](https://arxiv.org/abs/2004.15011) [[data]](https://github.com/allenai/scitldr)
+4. **Extractive Summarization of Long Documents by Combining Global and Local Context** *Wen Xiao, Giuseppe Carenini* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.08089) [[code]](https://github.com/Wendy-Xiao/Extsumm_local_global_context)
+5. **ScisummNet: A Large Annotated Corpus and Content\-Impact Models for Scientific Paper Summarization with Citation Networks** *Michihiro Yasunaga, Jungo Kasai, Rui Zhang, Alexander R. Fabbri, Irene Li, Dan Friedman, Dragomir R. Radev* `AAAI19` [[pdf]](https://arxiv.org/abs/1909.01716) [[data]](https://cs.stanford.edu/~myasu/projects/scisumm_net/)
+6. **TalkSumm: A Dataset and Scalable Annotation Method for Scientific Paper Summarization Based on Conference Talks** *Guy Lev, Michal Shmueli-Scheuer, Jonathan Herzig, Achiya Jerbi, David Konopnicki* `ACL19` [[pdf]](https://www.aclweb.org/anthology/P19-1204/) [[data]](https://github.com/levguy/talksumm)
+7. **A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents** *Arman Cohan, Franck Dernoncourt, Doo Soon Kim, Trung Bui, Seokhwan Kim, Walter Chang, Nazli Goharian* `NAACL18` [[pdf]](https://arxiv.org/abs/1804.05685) [[data]](https://github.com/armancohan/long-summarization)
 
 ## Factual Consistency
 ![](https://img.shields.io/badge/How%20to%20evaluate%20factual%20consistency%20of%20summary-evaluation-brightgreen)<br>
