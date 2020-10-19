@@ -23,7 +23,7 @@ This repo contains a list of summarization papers including various topics. If a
       * [Graph-Based](#graph-based) ![](https://img.shields.io/badge/-ing-orange)
       * [Multi-Document](#multi-document) ![](https://img.shields.io/badge/-ing-orange)
       * [Cross-Lingual](#cross-lingual) ![](https://img.shields.io/badge/-ing-orange)
-      * [Unsupervised](#unsupervised)
+      * [Unsupervised](#unsupervised) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Multi-modal](#multi-modal-1)
       * [Concept-map-based](#concept-map-based) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
       * [Timeline](#timeline) ![](https://img.shields.io/badge/-refactor_done-brightgreen)
@@ -350,20 +350,16 @@ This repo contains a list of summarization papers including various topics. If a
 </p></details>
 
 ## Unsupervised
-<details><summary>papers</summary><p>
-
-| Paper | Conference |
-| :---: | :---: |
-|[ Q-learning with Language Model for Edit-based Unsupervised Summarization](https://arxiv.org/abs/2010.04379)|EMNLP20|
-| [Abstractive Document Summarization without Parallel Data](https://arxiv.org/abs/1907.12951) | LREC20|
-| [Unsupervised Neural Single-Document Summarization of Reviews via Learning Latent Discourse Structure and its Ranking](https://arxiv.org/abs/1906.05691) | ACL19 |
-|[Sentence Centrality Revisited for Unsupervised Summarization](https://www.aclweb.org/anthology/P19-1628/)|ACL19|
-|[Discrete Optimization for Unsupervised Sentence Summarization with Word-Level Extraction](https://arxiv.org/abs/2005.01791)|ACL20|
-| [MeanSum : A Neural Model for Unsupervised Multi-Document Abstractive Summarization](https://arxiv.org/abs/1810.05739)|ICML19|
-| [SEQ3: Differentiable Sequence-to-Sequence-to-Sequence Autoencoder for Unsupervised Abstractive Sentence Compression](https://arxiv.org/abs/1904.03651)|NAACL19|
-|[Learning to Encode Text as Human-Readable Summaries usingGenerative Adversarial Networks](https://www.aclweb.org/anthology/D18-1451/)|EMNLP18|
-|[Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization](https://arxiv.org/abs/1805.05271)|ACL18|
-</p></details>
+1. **Unsupervised Extractive Summarization by Pre-training Hierarchical Transformers** *Shusheng Xu, Xingxing Zhang, Yi Wu, Furu Wei, Ming Zhou* [[pdf]](https://arxiv.org/abs/2010.08242) [[code]](https://github.com/xssstory/STAS)
+2. **Q-learning with Language Model for Edit-based Unsupervised Summarization** *Ryosuke Kohita, Akifumi Wachi, Yang Zhao, Ryuki Tachibana* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.04379) [[code]](https://github.com/kohilin/ealm)
+3. **Abstractive Document Summarization without Parallel Data** *Nikola I. Nikolov, Richard H.R. Hahnloser* `LREC20` [[pdf]](https://arxiv.org/abs/1907.12951) [[code]](https://github.com/ninikolov/low_resource_summarization)
+4. **Unsupervised Neural Single-Document Summarization of Reviews via Learning Latent Discourse Structure and its Ranking** *Masaru Isonuma, Junichiro Mori, Ichiro Sakata* `ACL19` [[pdf]](https://arxiv.org/abs/1906.05691) [[code]](https://github.com/misonuma/strsum)
+5. **Sentence Centrality Revisited for Unsupervised Summarization** *Hao Zheng, Mirella Lapata* `ACL19` [[pdf]](https://www.aclweb.org/anthology/P19-1628/) [[code]](https://github.com/mswellhao/PacSum)
+6. **Discrete Optimization for Unsupervised Sentence Summarization with Word-Level Extraction** *Raphael Schumann, Lili Mou, Yao Lu, Olga Vechtomova, Katja Markert* `ACL20` [[pdf]](https://arxiv.org/abs/2005.01791) [[code]](https://github.com/raphael-sch/HC_Sentence_Summarization)
+7. **MeanSum : A Neural Model for Unsupervised Multi-Document Abstractive Summarization** *Eric Chu, Peter J. Liu* `ICML19` [[pdf]](https://arxiv.org/abs/1810.05739) [[code]](https://github.com/sosuperic/MeanSum)
+8. **SEQ3: Differentiable Sequence-to-Sequence-to-Sequence Autoencoder for Unsupervised Abstractive Sentence Compression** *Christos Baziotis, Ion Androutsopoulos, Ioannis Konstas, Alexandros Potamianos* `NAACL19` [[pdf]](https://arxiv.org/abs/1904.03651) [[code]](https://github.com/cbaziotis/seq3)
+9. **Learning to Encode Text as Human-Readable Summaries usingGenerative Adversarial Networks** *Yaushian Wang, Hung-Yi Lee* `EMNLP18` [[pdf]](https://www.aclweb.org/anthology/D18-1451/) [[code]](https://github.com/yaushian/Unparalleled-Text-Summarization-using-GAN)
+10. **Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization** *Guokan Shang, Wensi Ding, Zekun Zhang, Antoine Tixier, Polykarpos Meladianos, Michalis Vazirgiannis, Jean-Pierre Lorré* `ACL18` [[pdf]](https://arxiv.org/abs/1805.05271) [[code]](https://bitbucket.org/dascim/acl2018_abssumm)
 
 ## Multi-modal
 <details><summary>papers</summary><p>
