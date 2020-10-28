@@ -114,7 +114,7 @@ This repo contains a list of summarization papers including various topics. If a
 |45|[Multi-XScience](https://github.com/yaolu/Multi-XScience)|Multi-document|[Multi-XScience: A Large-scale Dataset for Extreme Multi-document Summarization of Scientiﬁc Articles](https://arxiv.org/abs/2010.14235)|EMNLP20 short|
 |46|[SCITLDR](https://github.com/allenai/scitldr)|Scientific Document|[TLDR: Extreme Summarization of Scientific Documents](https://arxiv.org/abs/2004.15011)|Findings of EMNLP20|
 |47|[scisumm-corpus](https://github.com/WING-NUS/scisumm-corpus)|Scientific Document|||
-|48|[QBSUM](https://www.dropbox.com/sh/t2cp7ml1kb8ako0/AADmS2RMfJvLbukyQbb08CGGa?dl=0)|Query-Based Chinese|||
+|48|[QBSUM](https://www.dropbox.com/sh/t2cp7ml1kb8ako0/AADmS2RMfJvLbukyQbb08CGGa?dl=0)|Query-Based Chinese|[QBSUM: a Large-Scale Query-Based Document Summarization Dataset from Real-world Applications](https://arxiv.org/abs/2010.14108)|Computer Speech & Language|
 
 ## Scientific Document
 1. **On Extractive and Abstractive Neural Document Summarization with Transformer Language Models** *Sandeep Subramanian, Raymond Li, Jonathan Pilault, Christopher Pal* `EMNLP20` [[pdf]](https://arxiv.org/abs/1909.03186) 
