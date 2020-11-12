@@ -140,6 +140,7 @@ This repo contains a list of summarization papers including various topics. If a
 |48|[QBSUM](https://www.dropbox.com/sh/t2cp7ml1kb8ako0/AADmS2RMfJvLbukyQbb08CGGa?dl=0)![](https://img.shields.io/badge/-Chinese-orange)|Query-Based Chinese|[QBSUM: a Large-Scale Query-Based Document Summarization Dataset from Real-world Applications](https://arxiv.org/abs/2010.14108)|Computer Speech & Language|
 |49|[qMDS](https://github.com/google-research-datasets/aquamuse)|Query-Based Multi-Document|[AQuaMuSe: Automatically Generating Datasets for Query-Based Multi-Document Summarization](https://arxiv.org/abs/2010.12694)||
 |50|[Liputan6](https://github.com/fajri91/sum_liputan6)|Indonesian|[Liputan6: A Large-scale Indonesian Dataset for Text Summarization](https://arxiv.org/pdf/2011.00679.pdf)|AACL20|
+|51|[SportsSum](https://github.com/ej0cl6/SportsSum)![](https://img.shields.io/badge/-Chinese-orange)|Sports Game|[Generating Sports News from Live Commentary: A Chinese Dataset for Sports Game Summarization](https://khhuang.me/docs/aacl2020sportssum.pdf)|AACL20|
 
 ## Scientific Document
 1. **On Extractive and Abstractive Neural Document Summarization with Transformer Language Models** *Sandeep Subramanian, Raymond Li, Jonathan Pilault, Christopher Pal* `EMNLP20` [[pdf]](https://arxiv.org/abs/1909.03186) 
