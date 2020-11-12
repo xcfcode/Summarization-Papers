@@ -4,7 +4,10 @@
 
 Contributed by [Xiachong Feng](http://xcfeng.net/), [Yichong Huang](https://github.com/OrangeInSouth) ([Factual Consistency](#factual-consistency)), [Haozheng Yang](https://github.com/hzyang95) ([Multi-Document](#multi-document))
 
-This repo contains a list of summarization papers including various topics. If any error, please open an issue. 
+This repo contains a list of summarization papers including various topics. If any error, please open an issue.
+
+**For summarization, [Text Summarization Papers](http://pfliu.com/pl-summarization/summ_paper.html) is one great project powered by [Pengfei Liu](http://pfliu.com/).**
+
 
 > For more topics, please refer to another repo [xcfcode/What-I-Have-Read](https://github.com/xcfcode/What-I-Have-Read), including Meta Learning, Graph Neural Networks (GNN), Knowledge Distillation, Pre-trained Language Models, Natural Language Generation and several [survey and paper slides](https://github.com/xcfcode/What-I-Have-Read#slides). Other excellent Repos: [yizhen20133868/NLP-Conferences-Code](https://github.com/yizhen20133868/NLP-Conferences-Code), [teacherpeterpan/Question-Generation-Paper-List](https://github.com/teacherpeterpan/Question-Generation-Paper-List), [thunlp/PLMpapers](https://github.com/thunlp/PLMpapers), [thu-coai/PaperForONLG](https://github.com/thu-coai/PaperForONLG), [NiuTrans/ABigSurvey](https://github.com/NiuTrans). 
 
