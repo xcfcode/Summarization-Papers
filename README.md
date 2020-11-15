@@ -23,7 +23,6 @@ This repo contains a list of summarization papers including various topics. If a
       * [Factual Consistency](#factual-consistency) 
       * [Sentiment Related](#sentiment-related) 
       * [Pretrain Based](#pretrain-based) 
-      * [Style](#style)
       * [Dialogue](#dialogue)
       * [Graph-Based](#graph-based) 
       * [Multi-Document](#multi-document)
@@ -35,7 +34,7 @@ This repo contains a list of summarization papers including various topics. If a
       * [Opinion](#opinion)
       * [Reinforcement Learning](#reinforcement-learning) 
       * [Reward Learning](#reward-learning)
-      * [Controlled](#controlled)
+      * [Controllable](#controllable)
       * [Extractive](#extractive) 
       * [Abstractive](#abstractive)
       * [Extractive-Abstractive](#extractive-abstractive)
@@ -217,25 +216,28 @@ This repo contains a list of summarization papers including various topics. If a
 16. **Self-Supervised Learning for Contextualized Extractive Summarization** *Hong Wang, Xin Wang, Wenhan Xiong, Mo Yu, Xiaoxiao Guo, Shiyu Chang, William Yang Wang* `ACL19` [[pdf]](https://arxiv.org/abs/1906.04466) [[code]](https://github.com/hongwang600/Summarization)
 17. **Efficient Adaptation of Pretrained Transformers for Abstractive Summarization** *Andrew Hoang, Antoine Bosselut, Asli Celikyilmaz, Yejin Choi* [[pdf]](https://arxiv.org/abs/1906.00138) [[code]](https://github.com/Andrew03/transformer-abstractive-summarization)
 
-## Style
-1. **Hooks in the Headline: Learning to Generate Headlines with Controlled Styles** *Di Jin, Zhijing Jin, Joey Tianyi Zhou, Lisa Orii, Peter Szolovits* `ACL20` [[pdf]](https://arxiv.org/abs/2004.01980) [[code]](https://github.com/jind11/TitleStylist)
-
 ## Dialogue 
 1. **Incorporating Commonsense Knowledge into Abstractive Dialogue Summarization via Heterogeneous Graph Networks** *Xiachong Feng, Xiaocheng Feng, Bing Qin, Ting Liu* [[pdf]](https://arxiv.org/abs/2010.10044)  ![](https://img.shields.io/badge/-samsum-orange)
 2. **Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization** *Jiaao Chen, Diyi Yang* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.01672) [[code]](https://github.com/GT-SALT/Multi-View-Seq2Seq)![](https://img.shields.io/badge/-samsum-orange)
+3. **Restructuring Conversations using Discourse Relations for Zero-shot Abstractive Dialogue Summarization** *Prakhar Ganesh, Saket Dingliwal* [[pdf]](https://arxiv.org/abs/1902.01615) ![](https://img.shields.io/badge/-meeting-brightgreen)
 1. **How Domain Terminology Affects Meeting Summarization Performance** *Jia Jin Koay, Alexander Roustai, Xiaojin Dai, Dillon Burns, Alec Kerrigan, Fei Liu* `COLING20 Short` [[pdf]](https://arxiv.org/abs/2011.00692) [[code]](https://github.com/ucfnlp/meeting-domain-terminology) ![](https://img.shields.io/badge/-meeting-brightgreen)
 2. **Dr.Summarize: Global Summarization of Medical Dialogue by Exploiting Local Structures** *Anirudh Joshi, Namit Katariya, Xavier Amatriain, Anitha Kannan* `Findings of EMNLP20` [[pdf]](https://arxiv.org/abs/2009.08666) ![](https://img.shields.io/badge/-medical-blue)
+3. **A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining** *Chenguang Zhu, Ruochen Xu, Michael Zeng, Xuedong Huang* `Findings of EMNLP20` [[pdf]](https://arxiv.org/abs/2004.02016) ![](https://img.shields.io/badge/-meeting-brightgreen)
 3. **Unsupervised Abstractive Dialogue Summarization for Tete-a-Tetes** *Xinyuan Zhang, Ruiyi Zhang, Manzil Zaheer, Amr Ahmed* [[pdf]](https://arxiv.org/abs/2009.06851) ![](https://img.shields.io/badge/-other-yellow)
 4. **Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset** *Revanth Rameshkumar, Peter Bailey* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.459/) [[data]](https://github.com/RevanthRameshkumar/CRD3) ![](https://img.shields.io/badge/-data-ff69b4)
 3. **Medical Dialogue Summarization for Automated Reporting in Healthcare** *Sabine Molenaar, Lientje Maas, Verónica Burriel, Fabiano Dalpiaz,Sjaak Brinkkemper* `Advanced Information Systems Engineering Workshops 2020` [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7225507/) ![](https://img.shields.io/badge/-medical-blue)
 4. **Generating Medical Reports from Patient-Doctor Conversations using Sequence-to-Sequence Models** *Seppo Enarvi, Marilisa Amoia, Miguel Del-Agua Teba, Brian Delaney, Frank Diehl, Stefan Hahn, Kristina Harris, Liam McGrath, Yue Pan, Joel Pinto, Luca Rubini, Miguel Ruiz, Gagandeep Singh, Fabian Stemmer, Weiyi Sun, Paul Vozila, Thomas Lin, Ranjani Ramamurthy* `ACL20 Short` [[pdf]](https://www.aclweb.org/anthology/2020.nlpmc-1.4/) ![](https://img.shields.io/badge/-medical-blue)
 5. **Alignment Annotation for Clinic Visit Dialogue to Clinical Note Sentence Language Generation** *Wen-wai Yim, Meliha Yetisgen, Jenny Huang, Micah Grossman* `LREC20` [[pdf]](https://www.aclweb.org/anthology/2020.lrec-1.52/) ![](https://img.shields.io/badge/-medical-blue)
-3. **SAMSum Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization** *Bogdan Gliwa, Iwona Mochol, Maciej Biesek, Aleksander Wawer* `EMNLP19` [[pdf]](https://arxiv.org/abs/1911.12237) [[data]](https://arxiv.org/src/1911.12237v2/anc/corpus.7z) ![](https://img.shields.io/badge/-samsum-orange)
+3. **SAMSum Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization** *Bogdan Gliwa, Iwona Mochol, Maciej Biesek, Aleksander Wawer* `EMNLP19` [[pdf]](https://arxiv.org/abs/1911.12237) [[data]](https://arxiv.org/src/1911.12237v2/anc/corpus.7z) ![](https://img.shields.io/badge/-samsum-orange) ![](https://img.shields.io/badge/-data-ff69b4)
 4. **Topic-aware Pointer-Generator Networks for Summarizing Spoken Conversations** *Zhengyuan Liu, Angela Ng, Sheldon Lee, Ai Ti Aw, Nancy F. Chen* ` ASRU2019` [[pdf]](https://arxiv.org/abs/1910.01335)![](https://img.shields.io/badge/-medical-blue)
-5. **A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining** *Chenguang Zhu, Ruochen Xu, Michael Zeng, Xuedong Huang* `Findings of EMNLP` [[pdf]](https://arxiv.org/abs/2004.02016) ![](https://img.shields.io/badge/-meeting-brightgreen)
-6. **Automatic Dialogue Summary Generation for Customer Service** *Chunyi Liu, Peng Wang, Jiang Xu, Zang Li and Jieping Ye* `KDD19` [[pdf]](https://dl.acm.org/doi/10.1145/3292500.3330683) ![](https://img.shields.io/badge/-other-yellow)
+5. **Automatic Dialogue Summary Generation for Customer Service** *Chunyi Liu, Peng Wang, Jiang Xu, Zang Li and Jieping Ye* `KDD19` [[pdf]](https://dl.acm.org/doi/10.1145/3292500.3330683) ![](https://img.shields.io/badge/-other-yellow)
+6. **Abstractive Meeting Summarization via Hierarchical Adaptive Segmental Network Learning** *Zhou Zhao, Haojie Pan, Changjie Fan, Yan Liu, Linlin Li, Min Yang* `WWW19` [[pdf]](https://dl.acm.org/doi/10.1145/3308558.3313619) ![](https://img.shields.io/badge/-meeting-brightgreen)
 7. **Generating SOAP Notes from Doctor-Patient Conversations** *Kundan Krishna, Sopan Khosla, Jeffrey P. Bigham, Zachary C. Lipton* [[pdf]](https://arxiv.org/abs/2005.01795) ![](https://img.shields.io/badge/-medical-blue)
+8. **Keep Meeting Summaries on Topic: Abstractive Multi-Modal Meeting Summarization** *Manling Li, Lingyu Zhang, Heng Ji, Richard J. Radke* `ACL19` [[pdf]](https://www.aclweb.org/anthology/P19-1210/) ![](https://img.shields.io/badge/-meeting-brightgreen)
 8. **Automatically Generating Psychiatric Case Notes From Digital Transcripts of Doctor-Patient Conversations** *Nazmul Kazi, Indika Kahanda* `NAACL19` [[pdf]](https://www.aclweb.org/anthology/W19-1918/) ![](https://img.shields.io/badge/-other-yellow)
+9. **Abstractive Dialogue Summarization with Sentence-Gated Modeling Optimized by Dialogue Acts** *Chih-Wen Goo, Yun-Nung Chen* `SLT18` [[pdf]](https://arxiv.org/abs/1809.05715) [[code]](https://github.com/MiuLab/DialSum) ![](https://img.shields.io/badge/-meeting-brightgreen)
+10. **Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization** *Guokan Shang, Wensi Ding, Zekun Zhang, Antoine Jean-Pierre Tixier, Polykarpos Meladianos, Michalis Vazirgiannis, Jean-Pierre Lorré* `ACL18` [[pdf]](https://arxiv.org/abs/1805.05271) [[code]](https://bitbucket.org/dascim/acl2018_abssumm/src) ![](https://img.shields.io/badge/-meeting-brightgreen)
+11. **Dial2Desc: End-to-end Dialogue Description Generation** *Haojie Pan, Junpei Zhou, Zhou Zhao, Yan Liu, Deng Cai, Min Yang* [[pdf]](https://arxiv.org/abs/1811.00185) ![](https://img.shields.io/badge/-other-yellow)
 
 <details><summary>papers</summary><p>
 
@@ -250,14 +252,9 @@ This repo contains a list of summarization papers including various topics. If a
 | Paper | Conference |
 | :---: | :---: |
 |[A Study of Text Summarization Techniques for Generating Meeting Minutes](https://link.springer.com/chapter/10.1007/978-3-030-50316-1_33)||
-|[Restructuring Conversations using Discourse Relations for Zero-shot Abstractive Dialogue Summarization](https://arxiv.org/abs/1902.01615)||
 |[How to Interact and Change? Abstractive Dialogue Summarization with Dialogue Act Weight and Topic Change Info](https://link.springer.com/chapter/10.1007/978-3-030-55393-7_22)|KSEM20|
 |[Abstractive Text Summarization of Meetings](https://github.com/Bastian/Abstractive-Summarization-of-Meetings)||
 |[Meeting Summarization, A Challenge for Deep Learning](https://link.springer.com/chapter/10.1007/978-3-030-20521-8_53)||
-|[End-to-End Abstractive Summarization for Meetings](https://arxiv.org/abs/2004.02016)|2020|
-| [Abstractive Meeting Summarization via Hierarchical Adaptive Segmental Network Learning](https://dl.acm.org/doi/10.1145/3308558.3313619) | WWW19 |
-| [Abstractive Dialogue Summarization with Sentence-Gated Modeling Optimized by Dialogue Acts](https://arxiv.org/abs/1809.05715) | SLT18 |
-| [Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization](https://arxiv.org/abs/1805.05271) | ACL18|
 |[Generating Abstractive Summaries from Meeting Transcripts](https://arxiv.org/abs/1609.07033)|||
 |[Automatic meeting summarization and topic detection system](https://www.emerald.com/insight/content/doi/10.1108/DTA-09-2017-0062/full/html)||
 |[Automatic Community Creation for Abstractive Spoken Conversation Summarization](https://www.aclweb.org/anthology/W17-4506/)|ACL17 workshop||
@@ -279,7 +276,6 @@ This repo contains a list of summarization papers including various topics. If a
 | :---: | :---: |
 |[A Multimodal Meeting Browser that Implements an Important Utterance Detection Model based on Multimodal Information](https://dl.acm.org/doi/abs/10.1145/3379336.3381491)||
 |[Exploring Methods for Predicting Important Utterances Contributing to Meeting Summarization](https://www.mdpi.com/2414-4088/3/3/50)||
-| [Keep Meeting Summaries on Topic: Abstractive Multi-Modal Meeting Summarization](https://www.aclweb.org/anthology/P19-1210/)| ACL19 |
 |[Fusing Verbal and Nonverbal Information for Extractive Meeting Summarization](https://dl.acm.org/doi/10.1145/3279981.3279987)|GIFT18|
 |[Meeting Extracts for Discussion Summarization Based on Multimodal Nonverbal Information](https://dl.acm.org/doi/10.1145/2993148.2993160)|ICMI16|
 |[Extractive Summarization of Meeting Recordings](https://pdfs.semanticscholar.org/6159/506bdd368fff24dd12e5c6ed91ba05b44f9e.pdf)||
@@ -304,15 +300,14 @@ This repo contains a list of summarization papers including various topics. If a
 | :---: | :---: |
 |[The SENSEI Annotated Corpus: Human Summaries of Reader Comment Conversations in On-line News](https://www.aclweb.org/anthology/W16-3605/)|SIGDIAL16|
 
+
 ### Others
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[文本摘要:浓缩的才是精华](https://dl.ccf.org.cn/institude/institudeDetail?id=5011489004210176&_ack=1)|||
 | [Legal Summarization for Multi-role Debate Dialogue via Controversy Focus Mining and Multi-task Learning](https://dl.acm.org/doi/10.1145/3357384.3357940)|CIKM19|
-| [Abstractive Dialog Summarization with Semantic Scaffolds](https://openreview.net/forum?id=B1eibJrtwr) ||
 |[Creating a reference data set for the summarization of discussion forum threads](https://link.springer.com/article/10.1007/s10579-017-9389-4)||
 |[Summarizing Dialogic Arguments from Social Media](https://arxiv.org/abs/1711.00092)|SemDial 2017|
-| [Dial2Desc: End-to-end Dialogue Description Generation](https://arxiv.org/pdf/1811.00185.pdf) | |
 |[Using Summarization to Discover Argument Facets in Online Idealogical Dialog](https://www.aclweb.org/anthology/N15-1046.pdf)|NAACL15|
 |[Conversation summarization using machine learning and scoring method](http://www.pluto.ai.kyutech.ac.jp/~shimada/paper/pacling2013.pdf)||
 |[Plans Toward Automated Chat Summarization](https://www.aclweb.org/anthology/W11-0501/)|ACL11|
@@ -452,11 +447,12 @@ This repo contains a list of summarization papers including various topics. If a
 1. **Learning to summarize from human feedback** *Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano* [[pdf]](https://arxiv.org/abs/2009.01325) [[code]](https://github.com/openai/summarize-from-feedback)
 2. **Better Rewards Yield Better Summaries: Learning to Summarise Without References** *Florian Böhm, Yang Gao, Christian M. Meyer, Ori Shapira, Ido Dagan, Iryna Gurevych* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.01214) [[code]](https://github.com/yg211/summary-reward-no-reference)
 
-## Controlled
+## Controllable
 1. **GSum: A General Framework for Guided Neural Abstractive Summarization** *Zi-Yi Dou, Pengfei Liu, Hiroaki Hayashi, Zhengbao Jiang, Graham Neubig* [[pdf]](https://arxiv.org/abs/2010.08014) [[code]](https://github.com/neulab/guided_summarization)
 2. **Summarizing Text on Any Aspects: A Knowledge-Informed Weakly-Supervised Approach** *Bowen Tan, Lianhui Qin, Eric P. Xing, Zhiting Hu* `EMNLP20 Short` [[pdf]](https://arxiv.org/abs/2010.06792) [[code]](https://github.com/tanyuqian/aspect-based-summarization)
 3. **Length-controllable Abstractive Summarization by Guiding with Summary Prototype** *Itsumi Saito, Kyosuke Nishida, Kosuke Nishida, Atsushi Otsuka, Hisako Asano, Junji Tomita, Hiroyuki Shindo, Yuji Matsumoto* [[pdf]](https://arxiv.org/abs/2001.07331)
 4. **The Summary Loop: Learning to Write Abstractive Summaries Without Examples** *Philippe Laban, Andrew Hsi, John Canny, Marti A. Hearst* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.460/)
+5. **Hooks in the Headline: Learning to Generate Headlines with Controlled Styles** *Di Jin, Zhijing Jin, Joey Tianyi Zhou, Lisa Orii, Peter Szolovits* `ACL20` [[pdf]](https://arxiv.org/abs/2004.01980) [[code]](https://github.com/jind11/TitleStylist)
 4. **Positional Encoding to Control Output Sequence Length** *Sho Takase, Naoaki Okazaki* `NAACL19` [[pdf]](https://www.aclweb.org/anthology/N19-1401/) [[code]](https://github.com/takase/control-length)
 5. **Query Focused Abstractive Summarization: Incorporating Query Relevance, Multi-Document Coverage, and Summary Length Constraints into seq2seq Models** *Tal Baumel, Matan Eyal, Michael Elhadad* [[pdf]](https://arxiv.org/abs/1801.07704)
 6. **Controllable Abstractive Summarization** *Angela Fan, David Grangier, Michael Auli* `ACL2018 Workshop` [[pdf]](https://arxiv.org/abs/1711.05217)
