@@ -70,6 +70,7 @@ This repo contains a list of summarization papers including various topics. If a
 ## Analysis
 ![](https://img.shields.io/badge/Analysis-analysis-red) ![](https://img.shields.io/badge/Meta%20Evaluation-evaluation-brightgreen) ![](https://img.shields.io/badge/Bias-bias-orange) ![](https://img.shields.io/badge/Architecture-architecture-blue)
 
+1. **Intrinsic Evaluation of Summarization Datasets** *Rishi Bommasani, Claire Cardie* `EMNLP20` [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.649/) ![](https://img.shields.io/badge/-analysis-red)
 1. **Metrics also Disagree in the Low Scoring Range: Revisiting Summarization Evaluation Metrics** *Manik Bhandari, Pranav Gour, Atabak Ashfaq, Pengfei Liu* `COLING20 Short` [[pdf]](https://arxiv.org/abs/2011.04096) [[code]](https://github.com/manikbhandari/RevisitSummEvalMetrics) ![](https://img.shields.io/badge/-analysis-red)
 1. **At Which Level Should We Extract? An Empirical Analysis on Extractive Document Summarization** *Qingyu Zhou, Furu Wei, Ming Zhou* `COLING20` [[pdf]](https://arxiv.org/abs/2004.02664) ![](https://img.shields.io/badge/-analysis-red)
 1. **Corpora Evaluation and System Bias detection in Multi Document Summarization** *Alvin Dey, Tanya Chowdhury, Yash Kumar, Tanmoy Chakraborty* `Findings of EMNLP` [[pdf]](https://www.aclweb.org/anthology/2020.findings-emnlp.254/) ![](https://img.shields.io/badge/-analysis-red)
