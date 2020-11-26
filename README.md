@@ -156,6 +156,8 @@ This repo contains a list of summarization papers including various topics. If a
 |52|[WikiAsp](https://github.com/neulab/wikiasp)|Aspect-based|[WikiAsp: A Dataset for Multi-domain Aspect-based Summarization](https://arxiv.org/abs/2011.07832)|Transaction of the ACL|
 |53|[DebateSum](https://github.com/Hellisotherpeople/DebateSum)|argument|[DebateSum:A large-scale argument mining and summarization dataset](https://arxiv.org/abs/2011.07251)|ARGMIN 2020|
 |54|[Open4Business](https://github.com/amanpreet692/Open4Business)|Business|[Open4Business (O4B): An Open Access Dataset for Summarizing Business Documents](https://arxiv.org/abs/2011.07636)|Workshop on Dataset Curation and Security-NeurIPS 2020|
+|55|[OrangeSum](https://github.com/moussaKam/OrangeSum)|French|[BARThez: a Skilled Pretrained French Sequence-to-Sequence Model](https://arxiv.org/abs/2010.12321)||
+
 
 ## Scientific Document
 1. **On Extractive and Abstractive Neural Document Summarization with Transformer Language Models** *Sandeep Subramanian, Raymond Li, Jonathan Pilault, Christopher Pal* `EMNLP20` [[pdf]](https://arxiv.org/abs/1909.03186) 
