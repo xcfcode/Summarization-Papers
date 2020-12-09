@@ -164,6 +164,7 @@ This repo contains a list of summarization papers including various topics. If a
 |58|[BANS](https://www.kaggle.com/prithwirajsust/bengali-news-summarization-datase)|bengali news|[Bengali Abstractive News Summarization (BANS): A Neural Attention Approach]()|TCCE-2020|
 |59|[e-commerce](https://github.com/ypnlp/coling)![](https://img.shields.io/badge/-Chinese-orange)|E-commerce|[On the Faithfulness for E-commerce Product Summarization](https://www.aclweb.org/anthology/2020.coling-main.502/)|COLING20|
 |60|[TWEETSUM]()|Twitter|[TWEETSUM: Event-oriented Social Summarization Dataset](https://www.aclweb.org/anthology/2020.coling-main.504/)|COLING20|
+|61|[SPACE](https://github.com/stangelid/qt)|Opinion|[Extractive Opinion Summarization in Quantized Transformer Spaces](https://arxiv.org/abs/2012.04443)|TACL|
 
 
 ## Scientific Document
@@ -254,6 +255,7 @@ This repo contains a list of summarization papers including various topics. If a
 6. **Generating Wikipedia By Summarizing Long Sequence** *Peter J. Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser, Noam Shazeer* `ICLR18` [[pdf]](https://arxiv.org/abs/1801.10198) [[code]](https://github.com/lucidrains/memory-compressed-attention.git) ![](https://img.shields.io/badge/-sentence-red)
 
 ## Dialogue 
+1. **Identifying Implicit Quotes for Unsupervised Extractive Summarization of Conversations** *Ryuji Kano, Yasuhide Miura, Tomoki Taniguchi, Tomoko Ohkuma* `AACL20` [[pdf]](https://www.aclweb.org/anthology/2020.aacl-main.32/) ![](https://img.shields.io/badge/-other-yellow)
 1. **Dialogue Discourse-Aware Graph Convolutional Networks for Abstractive Meeting Summarization** *Xiachong Feng, Xiaocheng Feng, Bing Qin, Xinwei Geng, Ting Liu* [[pdf]](https://arxiv.org/abs/2012.03502) ![](https://img.shields.io/badge/-meeting-brightgreen)
 1. **SumTitles: a Summarization Dataset with Low Extractiveness** *Valentin Malykh, Konstantin Chernis, Ekaterina Artemova, Irina Piontkovskaya* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.503/) [[code]](https://github.com/huawei-noah/sumtitles) ![](https://img.shields.io/badge/-other-yellow)
 1. **Improving Abstractive Dialogue Summarization with Graph Structures and Topic Words** *Lulu Zhao, Weiran Xu, Jun Guo* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.39/) ![](https://img.shields.io/badge/-samsum-orange)
@@ -394,6 +396,7 @@ This repo contains a list of summarization papers including various topics. If a
 21. **Event-Centric Summary Generation** *Lucy Vanderwende Michele Banko Arul Menezes* `ACL04` [[pdf]](https://www.microsoft.com/en-us/research/publication/event-centric-summary-generation/) 
 
 ## Cross-Lingual
+1. **Cross-lingual Approach to Abstractive Summarization** *Aleš Žagar, Marko Robnik-Šikonja* [[pdf]](https://arxiv.org/abs/2012.04307)
 1. **Mixed-Lingual Pre-training for Cross-lingual Summarization** *Ruochen Xu, Chenguang Zhu, Yu Shi, Michael Zeng, Xuedong Huang* `AACL20` [[pdf]](https://arxiv.org/abs/2010.08892)
 2. **Multi-Task Learning for Cross-Lingual Abstractive Summarization** *Sho Takase, Naoaki Okazaki* [[pdf]](https://arxiv.org/abs/2010.07503)
 3. **WikiLingua: A New Benchmark Dataset for Cross-Lingual Abstractive Summarization** *Faisal Ladhak, Esin Durmus, Claire Cardie, Kathleen McKeown* `Findings of EMNLP20` [[pdf]](https://arxiv.org/abs/2010.03093) [[data]](https://github.com/esdurmus/Wikilingua)
@@ -468,7 +471,7 @@ This repo contains a list of summarization papers including various topics. If a
 2. **Learning towards Abstractive Timeline Summarization** *Xiuying Chen, Zhangming Chan, Shen Gao, Meng-Hsuan Yu, Dongyan Zhao, Rui Yan* `IJCAI19` [[pdf]](https://www.ijcai.org/Proceedings/2019/686) [[data]](https://github.com/yingtaomj/Learning-towards-Abstractive-Timeline-Summarization)
 
 ## Opinion
-
+1. **Extractive Opinion Summarization in Quantized Transformer Spaces** *Stefanos Angelidis, Reinald Kim Amplayo, Yoshihiko Suhara, Xiaolan Wang, Mirella Lapata* `TACL` [[pdf]](https://arxiv.org/abs/2012.04443) [[code]](https://github.com/stangelid/qt)
 1. **Few-Shot Learning for Opinion Summarization** *Arthur Bražinskas, Mirella Lapata, Ivan Titov* `EMNLP20` [[pdf]](https://arxiv.org/abs/2004.14884) [[code]](https://github.com/abrazinskas/FewSum)
 2. **Unsupervised Opinion Summarization as Copycat-Review Generation** *Arthur Bražinskas, Mirella Lapata, Ivan Titov* `ACL20` [[pdf]](https://arxiv.org/abs/1911.02247) [[code]](https://github.com/abrazinskas/Copycat-abstractive-opinion-summarizer)
 3. **Unsupervised Opinion Summarization with Noising and Denoising** *Reinald Kim Amplayo, Mirella Lapata* `ACL20` [[pdf]](https://arxiv.org/abs/2004.10150) [[code]](https://github.com/rktamplayo/DenoiseSum)
@@ -492,6 +495,7 @@ This repo contains a list of summarization papers including various topics. If a
 2. **Better Rewards Yield Better Summaries: Learning to Summarise Without References** *Florian Böhm, Yang Gao, Christian M. Meyer, Ori Shapira, Ido Dagan, Iryna Gurevych* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.01214) [[code]](https://github.com/yg211/summary-reward-no-reference)
 
 ## Controllable
+1. **CTRLsum: Towards Generic Controllable Text Summarization** *Junxian He, Wojciech Kryściński, Bryan McCann, Nazneen Rajani, Caiming Xiong* [[pdf]](https://arxiv.org/abs/2012.04281) [[code]](https://github.com/salesforce/ctrl-sum)
 1. **Interpretable Multi-Headed Attention for Abstractive Summarization at Controllable Lengths** *Ritesh Sarkhel, Moniba Keymanesh, Arnab Nandi, Srinivasan Parthasarathy* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.606/)
 1. **Summarizing Text on Any Aspects: A Knowledge-Informed Weakly-Supervised Approach** *Bowen Tan, Lianhui Qin, Eric P. Xing, Zhiting Hu* `EMNLP20 Short` [[pdf]](https://arxiv.org/abs/2010.06792) [[code]](https://github.com/tanyuqian/aspect-based-summarization)
 2. **Length-controllable Abstractive Summarization by Guiding with Summary Prototype** *Itsumi Saito, Kyosuke Nishida, Kosuke Nishida, Atsushi Otsuka, Hisako Asano, Junji Tomita, Hiroyuki Shindo, Yuji Matsumoto* [[pdf]](https://arxiv.org/abs/2001.07331)
