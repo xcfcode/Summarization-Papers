@@ -43,6 +43,7 @@ This repo contains a list of summarization papers including various topics. If a
       * [Extractive](#extractive) 
       * [Abstractive](#abstractive)
       * [Extractive-Abstractive](#extractive-abstractive)
+      * [VAE](#vae)
       * [Syntactic](#syntactic)
       * [QA Related](#qa-related)
       * [Evaluation](#evaluation)
@@ -561,12 +562,15 @@ This repo contains a list of summarization papers including various topics. If a
 33. **Get To The Point: Summarization with Pointer-Generator Networks** *Abigail See, Peter J. Liu, Christopher D. Manning* `ACL17` [[pdf]](https://arxiv.org/abs/1704.04368) [[code]](https://github.com/abisee/pointer-generator) 
 34. **Selective Encoding for Abstractive Sentence Summarization** *Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou* `ACL17` [[pdf]](https://arxiv.org/abs/1704.07073)
 35. **Abstractive Document Summarization with a Graph-Based Attentional Neural Model** *Jiwei Tan, Xiaojun Wan, Jianguo Xiao* `ACL17` [[pdf]](https://www.aclweb.org/anthology/P17-1108/)
-36. **Deep Recurrent Generative Decoder for Abstractive Text Summarization** *Piji Li, Wai Lam, Lidong Bing, Zihao Wang* `EMNL17` [[pdf]](https://www.aclweb.org/anthology/D17-1222/)
 39. **Toward Abstractive Summarization Using Semantic Representations** *Fei Liu, Jeffrey Flanigan, Sam Thomson, Norman Sadeh, Noah A. Smith* `NAACL15` [[pdf]](https://www.aclweb.org/anthology/N15-1114/)
 40. **Abstractive Meeting Summarization with Entailment and Fusion** *Yashar Mehdad, Giuseppe Carenini, Frank Tompa, Raymond T. Ng* `ENLG13` [[pdf]](https://www.aclweb.org/anthology/W13-2117/)
 
 ## Extractive-Abstractive
 1. **Jointly Extracting and Compressing Documents with Summary State Representations** *Afonso Mendes, Shashi Narayan, Sebastião Miranda, Zita Marinho, André F. T. Martins, Shay B. Cohen* `NAACL19` [[pdf]](https://arxiv.org/abs/1904.02020) [[code]](https://github.com/Priberam/exconsumm)
+
+## VAE
+1. **Deep Recurrent Generative Decoder for Abstractive Text Summarization** *Piji Li, Wai Lam, Lidong Bing, Zihao Wang* `EMNLP17` [[pdf]](https://www.aclweb.org/anthology/D17-1222/)
+2. **Document Summarization with VHTM: Variational Hierarchical Topic-Aware Mechanism** *Xiyan Fu, Jun Wang, Jinghan Zhang, Jinmao Wei, Zhenglu Yang* `AAAI20` [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6277)
 
 ## Syntactic
 1. **Compressive Summarization with Plausibility and Salience Modeling** *Shrey Desai, Jiacheng Xu, Greg Durrett* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.07886) [[code]](https://github.com/shreydesai/cups)
