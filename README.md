@@ -166,9 +166,11 @@ This repo contains a list of summarization papers including various topics. If a
 |59|[e-commerce](https://github.com/ypnlp/coling)![](https://img.shields.io/badge/-Chinese-orange)|E-commerce|[On the Faithfulness for E-commerce Product Summarization](https://www.aclweb.org/anthology/2020.coling-main.502/)|COLING20|
 |60|[TWEETSUM]()|Twitter|[TWEETSUM: Event-oriented Social Summarization Dataset](https://www.aclweb.org/anthology/2020.coling-main.504/)|COLING20|
 |61|[SPACE](https://github.com/stangelid/qt)|Opinion|[Extractive Opinion Summarization in Quantized Transformer Spaces](https://arxiv.org/abs/2012.04443)|TACL|
+|62|[pn-summary](https://github.com/hooshvare/pn-summary)|Persian|[Leveraging ParsBERT and Pretrained mT5 for Persian Abstractive Text Summarization](https://arxiv.org/abs/2012.11204)|csicc2021|
 
 
 ## Scientific Document
+1. **Self-Supervised Learning for Visual Summary Identification in Scientific Publications** *Shintaro Yamamoto, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, Shigeo Morishima* [[pdf]](https://arxiv.org/abs/2012.11213)
 1. **Systematically Exploring Redundancy Reduction in Summarizing Long Documents** *Wen Xiao, Giuseppe Carenini* `AACL20` [[pdf](https://www.aclweb.org/anthology/2020.aacl-main.51/) [[code]](http://www.cs.ubc.ca/cs-research/lci/research-groups/natural-language-processing/)
 1. **On Extractive and Abstractive Neural Document Summarization with Transformer Language Models** *Sandeep Subramanian, Raymond Li, Jonathan Pilault, Christopher Pal* `EMNLP20` [[pdf]](https://arxiv.org/abs/1909.03186) 
 2. **Dimsum @LaySumm 20: BART-based Approach for Scientific Document Summarization** *Tiezheng Yu, Dan Su, Wenliang Dai, Pascale Fung* [[pdf]](https://arxiv.org/abs/2010.09252) [[code]](https://github.com/TysonYu/Laysumm)
