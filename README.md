@@ -610,6 +610,7 @@ This repo contains a list of summarization papers including various topics. If a
 3. **A Semantic QA-Based Approach for Text Summarization Evaluation** *Ping Chen, Fei Wu, Tong Wang, Wei Ding* `AAAI18` [[pdf]](https://arxiv.org/abs/1704.06259) 
 
 ## Evaluation
+1. **How to Evaluate a Summarizer: Study Design and Statistical Analysis for Manual Linguistic Quality Evaluation** *Julius Steen, Katja Markert* `EACL21` [[pdf]](https://arxiv.org/abs/2101.11298) [[code]](https://github.com/julmaxi/summary_lq_analysis)
 1. **Is human scoring the best criteria for summary evaluation?** *Oleg Vasilyev, John Bohannon* [[pdf]](https://arxiv.org/abs/2012.14602)
 1. **HOLMS: Alternative Summary Evaluation with Large Language Models** *Yassine Mrabet, Dina Demner-Fushman* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.498/) [[bib]](https://www.aclweb.org/anthology/2020.coling-main.498.bib)
 1. **FFCI: A Framework for Interpretable Automatic Evaluation of Summarization** *Fajri Koto, Jey Han Lau, Timothy Baldwin* [[pdf]](https://arxiv.org/abs/2011.13662) [[code]](https://github.com/fajri91/ffci) ![](https://img.shields.io/badge/-evaluation-brightgreen)
