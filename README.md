@@ -30,13 +30,6 @@ This repo contains a list of summarization papers including various topics. If a
       * [Pretrain Based](#pretrain-based)
       * [Guided](#guided)
       * [Dialogue](#dialogue)
-         * [French Meeting](#french-meeting)
-         * [Meeting](#meeting)
-            * [Multi-modal](#multi-modal)
-         * [Open Domain](#open-domain)
-         * [Email](#email)
-         * [News Review](#news-review)
-         * [Others](#others)
       * [Graph-Based](#graph-based)
       * [Multi-Document](#multi-document)
       * [Cross-Lingual](#cross-lingual)
@@ -59,6 +52,7 @@ This repo contains a list of summarization papers including various topics. If a
       * [EncoderFusion](#encoderfusion)
       * [Discourse](#discourse)
       * [Movie](#movie)
+      * [Low Resource](#low-resource)
       * [Toolkit](#toolkit)
 
 ## Presentations && Notes
@@ -638,6 +632,9 @@ This repo contains a list of summarization papers including various topics. If a
 ## Movie
 1. **Movie Summarization via Sparse Graph Construction** *Pinelopi Papalampidi, Frank Keller, Mirella Lapata* `AAAI21` [[pdf]](https://arxiv.org/abs/2012.07536) [[code]](https://github.com/ppapalampidi/GraphTP)
 
+## Low Resource
+1. **Meta-Transfer Learning for Low-Resource Abstractive Summarization** *Yi-Syuan Chen, Hong-Han Shuai* `AAAI21` [[pdf]](https://basiclab.nctu.edu.tw/assets/LowResourceSummarization.pdf) [[code]](https://github.com/YiSyuanChen/MTL-ABS)
+2. 
 ## Toolkit
 1. **OpenNMT-py: Open-Source Neural Machine Translation** [[pdf]](https://www.aclweb.org/anthology/W18-1817.pdf) [[code]](https://github.com/OpenNMT/OpenNMT-py)
 2. **Fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.**  [[code]](https://github.com/pytorch/fairseq)
