@@ -53,6 +53,7 @@ This repo contains a list of summarization papers including various topics. If a
       * [Discourse](#discourse)
       * [Movie](#movie)
       * [Low Resource](#low-resource)
+      * [Contrastive Learning](#contrastive)
       * [Toolkit](#toolkit)
 
 ## Presentations && Notes
@@ -180,6 +181,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 
 ## Scientific Document
+1. **Long Document Summarization in a Low Resource Setting using Pretrained Language Models** *Ahsaas Bajaj, Pavitra Dangati, Kalpesh Krishna, Pradhiksha Ashok Kumar, Rheeya Uppaal, Bradford Windsor, Eliot Brenner, Dominic Dotterrer, Rajarshi Das, Andrew McCallum* [[pdf]](http://arxiv.org/abs/2103.00751)
 1. **Summaformers @ LaySumm 20, LongSumm 20** *Sayar Ghosh Roy, Nikhil Pinnaparaju, Risubh Jain, Manish Gupta, Vasudeva Varma* `SDP EMNLP20` [[pdf]](https://arxiv.org/abs/2101.03553)
 1. **On Generating Extended Summaries of Long Documents** *Sajad Sotudeh, Arman Cohan, Nazli Goharian* `SDU21` [[pdf]](https://arxiv.org/abs/2012.14136) [[code]](https://github.com/Georgetown-IR-Lab/ExtendedSumm)
 1. **Self-Supervised Learning for Visual Summary Identification in Scientific Publications** *Shintaro Yamamoto, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, Shigeo Morishima* [[pdf]](https://arxiv.org/abs/2012.11213)
@@ -201,7 +203,8 @@ This repo contains a list of summarization papers including various topics. If a
 ![](https://img.shields.io/badge/analysis%20about%20factual%20consistency%20of%20summary-analysis-blue)<br>
 ![](https://img.shields.io/badge/How%20to%20correct%20factual%20errors%20in%20summary-correct-red)<br>
 
-1. **On the Faithfulness for E-commerce Product Summarization** *Peng Yuan, Haoran Li, Song Xu, Youzheng Wu, Xiaodong He, Bowen Zhou* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.502/) [[code]](https://github.com/ypnlp/coling) ![](https://img.shields.io/badge/-improve-orange)
+1. **Entity-level Factual Consistency of Abstractive Text Summarization** *Feng Nan, Ramesh Nallapati, Zhiguo Wang, Cicero Nogueira dos Santos, Henghui Zhu, Dejiao Zhang, Kathleen McKeown, Bing Xiang* `EACL21` [[pdf]](https://arxiv.org/abs/2102.09130) [[code]](https://github.com/amazon-research/fact-check-summarization) ![](https://img.shields.io/badge/-evaluation-brightgreen)
+2. **On the Faithfulness for E-commerce Product Summarization** *Peng Yuan, Haoran Li, Song Xu, Youzheng Wu, Xiaodong He, Bowen Zhou* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.502/) [[code]](https://github.com/ypnlp/coling) ![](https://img.shields.io/badge/-improve-orange)
 2. **FFCI: A Framework for Interpretable Automatic Evaluation of Summarization** *Fajri Koto, Jey Han Lau, Timothy Baldwin* [[pdf]](https://arxiv.org/abs/2011.13662) [[code]](https://github.com/fajri91/ffci) ![](https://img.shields.io/badge/-evaluation-brightgreen)
 3. **GSum: A General Framework for Guided Neural Abstractive Summarization** *Zi-Yi Dou, Pengfei Liu, Hiroaki Hayashi, Zhengbao Jiang, Graham Neubig* [[pdf]](https://arxiv.org/abs/2010.08014) [[code]](https://github.com/neulab/guided_summarization) ![](https://img.shields.io/badge/-improve-orange)
 4. **Truth or Error? Towards systematic analysis of factual errors in abstractive summaries** *Klaus-Michael Lux, Maya Sappelli, Martha Larson* `EMNLP | Eval4NLP 20` [[pdf]](https://www.aclweb.org/anthology/2020.eval4nlp-1.1/)
@@ -272,6 +275,7 @@ This repo contains a list of summarization papers including various topics. If a
 6. **Generating Wikipedia By Summarizing Long Sequence** *Peter J. Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser, Noam Shazeer* `ICLR18` [[pdf]](https://arxiv.org/abs/1801.10198) [[code]](https://github.com/lucidrains/memory-compressed-attention.git) ![](https://img.shields.io/badge/-sentence-red)
 
 ## Dialogue 
+1. **Abstractive meeting summarization based on an attentional neural model** *Nouha Dammak, Yassine BenAyed* [[pdf]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11605/1160504/Abstractive-meeting-summarization-based-on-an-attentional-neural-model/10.1117/12.2587172.full) ![](https://img.shields.io/badge/-meeting-brightgreen)
 1. **Unsupervised Abstractive Dialogue Summarization for Tete-a-Tetes** *Xinyuan Zhang, Ruiyi Zhang, Manzil Zaheer, Amr Ahmed* `AAAI21` [[pdf]](https://arxiv.org/abs/2009.06851)
 1. **Topic-Oriented Spoken Dialogue Summarization for Customer Service with Saliency-Aware Topic Modeling** *Yicheng Zou, Lujun Zhao, Yangyang Kang, Jun Lin, Minlong Peng, Zhuoren Jiang, Changlong Sun, Qi Zhang, Xuanjing Huang, Xiaozhong Liu* `AAAI21` [[pdf]](https://arxiv.org/abs/2012.07311) [[code]](https://github.com/RowitZou/topic-dialog-summ) ![](https://img.shields.io/badge/-customer_service-blueviolet) ![](https://img.shields.io/badge/-data-ff69b4)
 1. **Unsupervised Summarization for Chat Logs with Topic-Oriented Ranking and Context-Aware Auto-Encoders** *Yicheng Zou, Jun Lin, Lujun Zhao, Yangyang Kang, Zhuoren Jiang, Changlong Sun, Qi Zhang, Xuanjing Huang, Xiaozhong Liu* `AAAI21` [[pdf]](https://arxiv.org/abs/2012.07300) [[code]](https://github.com/RowitZou/RankAE) ![](https://img.shields.io/badge/-customer_service-blueviolet) ![](https://img.shields.io/badge/-data-ff69b4)
@@ -635,7 +639,10 @@ This repo contains a list of summarization papers including various topics. If a
 
 ## Low Resource
 1. **Meta-Transfer Learning for Low-Resource Abstractive Summarization** *Yi-Syuan Chen, Hong-Han Shuai* `AAAI21` [[pdf]](https://basiclab.nctu.edu.tw/assets/LowResourceSummarization.pdf) [[code]](https://github.com/YiSyuanChen/MTL-ABS)
-2. 
+
+## Contrastive Learning
+1. **Contrastive Learning with Adversarial Perturbations for Conditional Text Generation** *Seanie Lee, Dong Bok Lee, Sung Ju Hwang* `ICLR21` [[pdf]](https://arxiv.org/abs/2012.07280)
+
 ## Toolkit
 1. **OpenNMT-py: Open-Source Neural Machine Translation** [[pdf]](https://www.aclweb.org/anthology/W18-1817.pdf) [[code]](https://github.com/OpenNMT/OpenNMT-py)
 2. **Fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.**  [[code]](https://github.com/pytorch/fairseq)
