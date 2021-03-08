@@ -178,6 +178,7 @@ This repo contains a list of summarization papers including various topics. If a
 |62|[pn-summary](https://github.com/hooshvare/pn-summary)|Persian|[Leveraging ParsBERT and Pretrained mT5 for Persian Abstractive Text Summarization](https://arxiv.org/abs/2012.11204)|csicc2021|
 |63|[E-commerce1](https://github.com/RowitZou/topic-dialog-summ)![](https://img.shields.io/badge/-Chinese-orange)*desensitized*|Dialogue|[Topic-Oriented Spoken Dialogue Summarization for Customer Service with Saliency-Aware Topic Modeling](https://arxiv.org/abs/2012.07311)|AAAI21|
 |64|[E-commerce2](https://github.com/RowitZou/RankAE)![](https://img.shields.io/badge/-Chinese-orange)*desensitized*|Dialogue|[Unsupervised Summarization for Chat Logs with Topic-Oriented Ranking and Context-Aware Auto-Encoders](https://arxiv.org/abs/2012.07300)|AAAI21|
+|65|[BengaliSummarization](https://github.com/tafseer-nayeem/BengaliSummarization)|Bengali|[Unsupervised Abstractive Summarization of Bengali Text Documents](https://arxiv.org/abs/2102.04490)|EACL21|
 
 
 ## Scientific Document
@@ -397,6 +398,7 @@ This repo contains a list of summarization papers including various topics. If a
 7. **Abstractive Document Summarization with a Graph-Based Attentional Neural Model** *Jiwei Tan, Xiaojun Wan, Jianguo Xiao* `ACL17` [[pdf]](https://www.aclweb.org/anthology/P17-1108/)
 
 ## Multi-Document
+1. **Multi-document Summarization using Semantic Role Labeling and Semantic Graph for Indonesian News Article** *Yuly Haruka Berliana Gunawan, Masayu Leylia Khodra* [[pdf]](https://arxiv.org/abs/2103.03736)
 1. **Flight of the PEGASUS? Comparing Transformers on Few-Shot and Zero-Shot Multi-document Abstractive Summarization** *Travis Goodwin, Max Savery, Dina Demner-Fushman* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.494/) 
 2. **Abstractive Multi-Document Summarization via Joint Learning with Single-Document Summarization** *Hanqi Jin, Xiaojun Wan* `Findings of EMNLP` [[pdf]](https://www.aclweb.org/anthology/2020.findings-emnlp.231/) [[code]](https://github.com/zhongxia96/MDS-and-SDS)
 3. **Coarse-to-Fine Query Focused Multi-Document Summarization** *Yumo Xu, Mirella Lapata* `EMNLP20` [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.296/) [[code]](https://github.com/yumoxu/querysum) [[code]](https://github.com/yumoxu/querysum)
