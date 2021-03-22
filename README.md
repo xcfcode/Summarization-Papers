@@ -661,6 +661,7 @@ This repo contains a list of summarization papers including various topics. If a
 1. **Contrastive Learning with Adversarial Perturbations for Conditional Text Generation** *Seanie Lee, Dong Bok Lee, Sung Ju Hwang* `ICLR21` [[pdf]](https://arxiv.org/abs/2012.07280)
 
 ## Toolkit
+1. **CTRLsum: Towards Generic Controllable Text Summarization** [[pdf]](https://arxiv.org/abs/2012.04281) [[code]](https://github.com/hyunwoongko/summarizers)
 1. **OpenNMT-py: Open-Source Neural Machine Translation** [[pdf]](https://www.aclweb.org/anthology/W18-1817.pdf) [[code]](https://github.com/OpenNMT/OpenNMT-py)
 2. **Fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.**  [[code]](https://github.com/pytorch/fairseq)
 3. **LeafNATS: An Open-Source Toolkit and Live Demo System for Neural Abstractive Text Summarization** *Tian Shi, Ping Wang, Chandan K. Reddy* `NAACL19` [[pdf]](https://www.aclweb.org/anthology/N19-4012/) [[code]](https://github.com/tshi04/LeafNATS)
