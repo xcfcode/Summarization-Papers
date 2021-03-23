@@ -655,6 +655,7 @@ This repo contains a list of summarization papers including various topics. If a
 1. **Movie Summarization via Sparse Graph Construction** *Pinelopi Papalampidi, Frank Keller, Mirella Lapata* `AAAI21` [[pdf]](https://arxiv.org/abs/2012.07536) [[code]](https://github.com/ppapalampidi/GraphTP)
 
 ## Low Resource
+1. **AdaptSum: Towards Low-Resource Domain Adaptation for Abstractive Summarization** *Tiezheng Yu, Zihan Liu, Pascale Fung* `NAACL21` [[pdf]](https://arxiv.org/abs/2103.11332) [[code]](https://github.com/TysonYu/AdaptSum)
 1. **Meta-Transfer Learning for Low-Resource Abstractive Summarization** *Yi-Syuan Chen, Hong-Han Shuai* `AAAI21` [[pdf]](https://basiclab.nctu.edu.tw/assets/LowResourceSummarization.pdf) [[code]](https://github.com/YiSyuanChen/MTL-ABS)
 
 ## Contrastive Learning
