@@ -284,6 +284,7 @@ This repo contains a list of summarization papers including various topics. If a
 6. **Generating Wikipedia By Summarizing Long Sequence** *Peter J. Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser, Noam Shazeer* `ICLR18` [[pdf]](https://arxiv.org/abs/1801.10198) [[code]](https://github.com/lucidrains/memory-compressed-attention.git) ![](https://img.shields.io/badge/-sentence-red)
 
 ## Dialogue 
+1. **Improving Online Forums Summarization via Unifying Hierarchical Attention Networks with Convolutional Neural Networks** *Sansiri Tarnpradab, Fereshteh Jafariakinabad, Kien A. Hua* [[pdf]](https://arxiv.org/abs/2103.13587) [[code]](https://github.com/sansiri20/forums_summ)![](https://img.shields.io/badge/-other-yellow)
 1. **Extractive Summarization of Call Transcripts** *Pratik K. Biswas, Aleksandr Iakubovich* [[pdf]](https://arxiv.org/abs/2103.10599)
 1. **MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization** *Chenguang Zhu, Yang Liu, Jie Mei, Michael Zeng* `NAACL21` [[pdf]](https://arxiv.org/abs/2103.06410) [[code]](https://github.com/zcgzcgzcg1/MediaSum) ![](https://img.shields.io/badge/-other-yellow) ![](https://img.shields.io/badge/-data-ff69b4)
 1. **Abstractive meeting summarization based on an attentional neural model** *Nouha Dammak, Yassine BenAyed* [[pdf]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11605/1160504/Abstractive-meeting-summarization-based-on-an-attentional-neural-model/10.1117/12.2587172.full) ![](https://img.shields.io/badge/-meeting-brightgreen)
