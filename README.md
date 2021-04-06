@@ -543,6 +543,7 @@ This repo contains a list of summarization papers including various topics. If a
 2. **Better Rewards Yield Better Summaries: Learning to Summarise Without References** *Florian Böhm, Yang Gao, Christian M. Meyer, Ori Shapira, Ido Dagan, Iryna Gurevych* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.01214) [[code]](https://github.com/yg211/summary-reward-no-reference)
 
 ## Controllable
+1. **Inference Time Style Control for Summarization** *Shuyang Cao, Lu Wang* `NAACL21 short` [[pdf]](https://arxiv.org/abs/2104.01724) [[code]](https://shuyangcao.github.io/projects/inference_style_control/)
 1. **CTRLsum: Towards Generic Controllable Text Summarization** *Junxian He, Wojciech Kryściński, Bryan McCann, Nazneen Rajani, Caiming Xiong* [[pdf]](https://arxiv.org/abs/2012.04281) [[code]](https://github.com/salesforce/ctrl-sum)
 1. **Interpretable Multi-Headed Attention for Abstractive Summarization at Controllable Lengths** *Ritesh Sarkhel, Moniba Keymanesh, Arnab Nandi, Srinivasan Parthasarathy* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.606/)
 1. **Summarizing Text on Any Aspects: A Knowledge-Informed Weakly-Supervised Approach** *Bowen Tan, Lianhui Qin, Eric P. Xing, Zhiting Hu* `EMNLP20 Short` [[pdf]](https://arxiv.org/abs/2010.06792) [[code]](https://github.com/tanyuqian/aspect-based-summarization)
@@ -575,6 +576,7 @@ This repo contains a list of summarization papers including various topics. If a
 13. **Text Summarization through Entailment-based Minimum Vertex Cover** *Anand Gupta, Manpreet Kaur, Shachar Mirkin, Adarsh Singh, Aseem Goyal* `ENLG13` [[pdf]](https://www.aclweb.org/anthology/S14-1010/)
 
 ## Abstractive
+1. **A New Approach to Overgenerating and Scoring Abstractive Summaries** *Kaiqiang Song, Bingqing Wang, Zhe Feng, Fei Liu* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.01726) [[code]](https://github.com/ucfnlp/varying-length-summ)
 1. **Exploring Explainable Selection to Control Abstractive Summarization** *Wang Haonan, Gao Yang, Bai Yu, Mirella Lapata, Huang Heyan* `AAAI21` [[pdf]](https://arxiv.org/abs/2004.11779) [[code]](https://github.com/Wanghn95/Esca_Code)
 1. **Friendly Topic Assistant for Transformer Based Abstractive Summarization** *Zhengjue Wang, Zhibin Duan, Hao Zhang, Chaojie Wang, Long Tian, Bo Chen, Mingyuan Zhou* `EMNLP20` [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.35/) [[code]](https://github.com/BoChenGroup/TA)
 1. **Neural Abstractive Text Summarizer for Telugu Language** *Mohan Bharath B, Aravindh Gowtham B, Akhil M* `ICSCSP20` [[pdf]](https://arxiv.org/abs/2101.07120)
