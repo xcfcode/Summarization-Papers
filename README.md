@@ -190,9 +190,11 @@ This repo contains a list of summarization papers including various topics. If a
 |65|[BengaliSummarization](https://github.com/tafseer-nayeem/BengaliSummarization)|Bengali|[Unsupervised Abstractive Summarization of Bengali Text Documents](https://arxiv.org/abs/2102.04490)|EACL21|
 |66|[MediaSum](https://github.com/zcgzcgzcg1/MediaSum)|Dialogue|[MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization](https://arxiv.org/abs/2103.06410)|NAACL21|
 |67|[Healthline and BreastCancer](https://github.com/darsh10/Nutribullets)|multi-document|[Nutri-bullets: Summarizing Health Studies by Composing Segments](https://arxiv.org/abs/2103.11921)|AAAI21|
+|68|[GOVREPORT](https://gov-report-data.github.io/)|Long Government reports|[Efficient Attentions for Long Document Summarization](https://arxiv.org/abs/2104.02112)|NAACL21|
 
 
 ## Scientific Document
+1. **Efficient Attentions for Long Document Summarization** *Luyang Huang, Shuyang Cao, Nikolaus Parulian, Heng Ji, Lu Wang* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.02112) [[code]](https://github.com/luyang-huang96/LongDocSum) [[data]](https://gov-report-data.github.io/)
 1. **Can We Automate Scientific Reviewing?** *Weizhe Yuan, Pengfei Liu, and Graham Neubig* [[pdf]](https://arxiv.org/abs/2102.00176) [[code]](https://github.com/neulab/ReviewAdvisor)
 1. **Long Document Summarization in a Low Resource Setting using Pretrained Language Models** *Ahsaas Bajaj, Pavitra Dangati, Kalpesh Krishna, Pradhiksha Ashok Kumar, Rheeya Uppaal, Bradford Windsor, Eliot Brenner, Dominic Dotterrer, Rajarshi Das, Andrew McCallum* [[pdf]](http://arxiv.org/abs/2103.00751)
 1. **Summaformers @ LaySumm 20, LongSumm 20** *Sayar Ghosh Roy, Nikhil Pinnaparaju, Risubh Jain, Manish Gupta, Vasudeva Varma* `SDP EMNLP20` [[pdf]](https://arxiv.org/abs/2101.03553)
@@ -576,6 +578,7 @@ This repo contains a list of summarization papers including various topics. If a
 13. **Text Summarization through Entailment-based Minimum Vertex Cover** *Anand Gupta, Manpreet Kaur, Shachar Mirkin, Adarsh Singh, Aseem Goyal* `ENLG13` [[pdf]](https://www.aclweb.org/anthology/S14-1010/)
 
 ## Abstractive
+1. **Attention Head Masking for Inference Time Content Selection in Abstractive Summarization** *Shuyang Cao, Lu Wang* `NAACL21 short` [[pdf]](https://arxiv.org/abs/2104.02205) [[code]](https://shuyangcao.github.io/projects/inference_head_masking/)
 1. **A New Approach to Overgenerating and Scoring Abstractive Summaries** *Kaiqiang Song, Bingqing Wang, Zhe Feng, Fei Liu* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.01726) [[code]](https://github.com/ucfnlp/varying-length-summ)
 1. **Exploring Explainable Selection to Control Abstractive Summarization** *Wang Haonan, Gao Yang, Bai Yu, Mirella Lapata, Huang Heyan* `AAAI21` [[pdf]](https://arxiv.org/abs/2004.11779) [[code]](https://github.com/Wanghn95/Esca_Code)
 1. **Friendly Topic Assistant for Transformer Based Abstractive Summarization** *Zhengjue Wang, Zhibin Duan, Hao Zhang, Chaojie Wang, Long Tian, Bo Chen, Mingyuan Zhou* `EMNLP20` [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.35/) [[code]](https://github.com/BoChenGroup/TA)
