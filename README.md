@@ -62,8 +62,10 @@ This repo contains a list of summarization papers including various topics. If a
       * [Toolkit](#toolkit)
 
 ## Presentations && Notes
-![](https://img.shields.io/badge/Presentations-presentations-brightgreen) ![](https://img.shields.io/badge/Notes-notes-orange) ![](https://img.shields.io/badge/Papers-papers-blue)
 
+* [文本摘要论文列表(Chinese)](https://mp.weixin.qq.com/s/tLdLGSFl229selxeogQk-w) ![](https://img.shields.io/badge/-blog-red) 
+* [事实感知的生成式文本摘要(Chinese)](https://mp.weixin.qq.com/s/Aye9FBwG-v2JO2MLoEjo0g) ![](https://img.shields.io/badge/-blog-red) 
+* [多模态摘要简述(Chinese)](https://mp.weixin.qq.com/s/Ce6jtp-gTtqeh9lgi-kHtQ) ![](https://img.shields.io/badge/-blog-red) 
 * [Multi-modal Summarization](slides/presentation/Multi-modal-Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
 * [ACL20 Summarization](slides/presentation/acl2020-summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
 * [文本摘要简述 (Chinese)](slides/presentation/文本摘要简述.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
