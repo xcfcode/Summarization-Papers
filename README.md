@@ -59,6 +59,7 @@ This repo contains a list of summarization papers including various topics. If a
       * [Movie](#movie)
       * [Low Resource](#low-resource)
       * [Contrastive Learning](#contrastive)
+      * [Personalized](#personalized)
       * [Toolkit](#toolkit)
 
 ## Presentations && Notes
@@ -679,6 +680,10 @@ This repo contains a list of summarization papers including various topics. If a
 
 ## Contrastive Learning
 1. **Contrastive Learning with Adversarial Perturbations for Conditional Text Generation** *Seanie Lee, Dong Bok Lee, Sung Ju Hwang* `ICLR21` [[pdf]](https://arxiv.org/abs/2012.07280)
+
+## Personalized
+1. **Collabot: Personalized Group Chat Summarization** *Naama Tepper, Anat Hashavit, Maya Barnea, Inbal Ronen, Lior Leiba* `WSDM18` [[pdf]](https://dl.acm.org/doi/abs/10.1145/3159652.3160588)
+1. **Context Enhanced Personalized Social Summarization** *Po Hu, Donghong Ji, Chong Teng, Yujing Guo* `COLING12` [[pdf]](https://www.aclweb.org/anthology/C12-1075.pdf)
 
 ## Toolkit
 1. **CTRLsum: Towards Generic Controllable Text Summarization** [[pdf]](https://arxiv.org/abs/2012.04281) [[code]](https://github.com/hyunwoongko/summarizers)
