@@ -196,6 +196,7 @@ This repo contains a list of summarization papers including various topics. If a
 |68|[GOVREPORT](https://gov-report-data.github.io/)|Long Government reports|[Efficient Attentions for Long Document Summarization](https://arxiv.org/abs/2104.02112)|NAACL21|
 |69|[SSN](https://github.com/ChenxinAn-fdu/CGSum)|Scientific Paper|[Enhancing Scientific Papers Summarization with Citation Graph](https://arxiv.org/abs/2104.03057)|AAAI21|
 |70|[MTSamples](https://github.com/babylonhealth/medical-note-summarisation)|Medical|[Towards objectively evaluating the quality of generated medical summaries](https://arxiv.org/abs/2104.04412)||
+|71|[QMSum](https://github.com/Yale-LILY/QMSum)|Meeting, Query|[QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization]()|NAACL21|
 
 
 ## Scientific Document
