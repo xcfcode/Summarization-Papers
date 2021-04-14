@@ -225,7 +225,7 @@ This repo contains a list of summarization papers including various topics. If a
 ![](https://img.shields.io/badge/analysis%20about%20factual%20consistency%20of%20summary-analysis-blue)<br>
 ![](https://img.shields.io/badge/How%20to%20correct%20factual%20errors%20in%20summary-correct-red)<br>
 
-1. **Improving Faithfulness in Abstractive Summarization with Contrast Candidate Generation and Selection** *Sihao Chen, Fan Zhang, Kazoo Sone and Dan Roth* `NAACL21`![](https://img.shields.io/badge/-improve-orange)
+1. **Improving Faithfulness in Abstractive Summarization with Contrast Candidate Generation and Selection** *Sihao Chen, Fan Zhang, Kazoo Sone and Dan Roth* `NAACL21` [[pdf]](https://www.seas.upenn.edu/~sihaoc/static/pdf/CZSR21.pdf) [[code]](https://github.com/CogComp/faithful_summarization) ![](https://img.shields.io/badge/-improve-orange)
 2. **Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics** *Artidoro Pagnoni, Vidhisha Balachandran and Yulia Tsvetkov* `NAACL21` ![](https://img.shields.io/badge/-evaluation-brightgreen)
 3. **Annotating and Modeling Fine-grained Factuality in Summarization** *Tanya Goyal, Greg Durrett* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.04302) [[code]](https://github.com/tagoyal/factuality-datasets)
 4. **SAFEval: Summarization Asks for Fact-based Evaluation** *Thomas Scialom, Paul-Alexis Dray, Patrick Gallinari, Sylvain Lamprier, Benjamin Piwowarski, Jacopo Staiano, Alex Wang* [[pdf]](https://arxiv.org/abs/2103.12693) [[code]](https://github.com/recitalAI/QuestEval) ![](https://img.shields.io/badge/-evaluation-brightgreen)
