@@ -17,6 +17,9 @@ This repo contains a list of summarization papers including various topics. If a
 
 [Piji Li](http://lipiji.com/), [Pengfei Liu](http://pfliu.com/), [Yue Dong](https://www.cs.mcgill.ca/~ydong26/),  [Yang Liu](https://nlp-yang.github.io/) ......
 
+## Reference
+[summarization.bib](https://github.com/xcfcode/Summarization-Papers/blob/main/summarization.bib)
+
 ## Benchmark
 * **GLGE: A New General Language Generation Evaluation Benchmark** *Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan* [[pdf]](https://arxiv.org/abs/2011.11928) [[benchmark]](https://github.com/microsoft/glge)
 
