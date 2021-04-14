@@ -196,7 +196,7 @@ This repo contains a list of summarization papers including various topics. If a
 |68|[GOVREPORT](https://gov-report-data.github.io/)|Long Government reports|[Efficient Attentions for Long Document Summarization](https://arxiv.org/abs/2104.02112)|NAACL21|
 |69|[SSN](https://github.com/ChenxinAn-fdu/CGSum)|Scientific Paper|[Enhancing Scientific Papers Summarization with Citation Graph](https://arxiv.org/abs/2104.03057)|AAAI21|
 |70|[MTSamples](https://github.com/babylonhealth/medical-note-summarisation)|Medical|[Towards objectively evaluating the quality of generated medical summaries](https://arxiv.org/abs/2104.04412)||
-|71|[QMSum](https://github.com/Yale-LILY/QMSum)|Meeting, Query|[QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization]()|NAACL21|
+|71|[QMSum](https://github.com/Yale-LILY/QMSum)|Meeting, Query|[QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization](https://arxiv.org/abs/2104.05938)|NAACL21|
 
 
 ## Scientific Document
@@ -301,6 +301,7 @@ This repo contains a list of summarization papers including various topics. If a
 6. **Generating Wikipedia By Summarizing Long Sequence** *Peter J. Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser, Noam Shazeer* `ICLR18` [[pdf]](https://arxiv.org/abs/1801.10198) [[code]](https://github.com/lucidrains/memory-compressed-attention.git) ![](https://img.shields.io/badge/-sentence-red)
 
 ## Dialogue 
+1. **QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization** *Ming Zhong, Da Yin, Tao Yu, Ahmad Zaidi, Mutethia Mutuma, Rahul Jha, Ahmed Hassan Awadallah, Asli Celikyilmaz, Yang Liu, Xipeng Qiu, Dragomir Radev* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.05938) [[data]](https://github.com/Yale-LILY/QMSum) ![](https://img.shields.io/badge/-meeting-brightgreen)
 1. **Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs** *Jiaao Chen, Diyi Yang* `NAACL21` [[pdf]](https://www.cc.gatech.edu/~dyang888/docs/naacl21_chen_summarization.pdf) ![](https://img.shields.io/badge/-samsum-orange)
 1. **Improving Online Forums Summarization via Unifying Hierarchical Attention Networks with Convolutional Neural Networks** *Sansiri Tarnpradab, Fereshteh Jafariakinabad, Kien A. Hua* [[pdf]](https://arxiv.org/abs/2103.13587) [[code]](https://github.com/sansiri20/forums_summ)![](https://img.shields.io/badge/-other-yellow)
 1. **Extractive Summarization of Call Transcripts** *Pratik K. Biswas, Aleksandr Iakubovich* [[pdf]](https://arxiv.org/abs/2103.10599)
