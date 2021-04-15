@@ -200,6 +200,7 @@ This repo contains a list of summarization papers including various topics. If a
 |69|[SSN](https://github.com/ChenxinAn-fdu/CGSum)|Scientific Paper|[Enhancing Scientific Papers Summarization with Citation Graph](https://arxiv.org/abs/2104.03057)|AAAI21|
 |70|[MTSamples](https://github.com/babylonhealth/medical-note-summarisation)|Medical|[Towards objectively evaluating the quality of generated medical summaries](https://arxiv.org/abs/2104.04412)||
 |71|[QMSum](https://github.com/Yale-LILY/QMSum)|Meeting, Query|[QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization](https://arxiv.org/abs/2104.05938)|NAACL21|
+|71|[MS2](https://github.com/allenai/ms2)|Medical, Multi-Document|[MS2: Multi-Document Summarization of Medical Studies](https://arxiv.org/abs/2104.06486)||
 
 
 ## Scientific Document
@@ -432,6 +433,7 @@ This repo contains a list of summarization papers including various topics. If a
 7. **Abstractive Document Summarization with a Graph-Based Attentional Neural Model** *Jiwei Tan, Xiaojun Wan, Jianguo Xiao* `ACL17` [[pdf]](https://www.aclweb.org/anthology/P17-1108/)
 
 ## Multi-Document
+1. **MS2: Multi-Document Summarization of Medical Studies** *Jay DeYoung, Iz Beltagy, Madeleine van Zuylen, Bailey Keuhl, Lucy Lu Wang* [[pdf]](https://arxiv.org/abs/2104.06486) [[data]](https://github.com/allenai/ms2)
 1. **Nutri-bullets: Summarizing Health Studies by Composing Segments** *Darsh J Shah, Lili Yu, Tao Lei, Regina Barzilay* `AAAI21` [[pdf]](https://arxiv.org/abs/2103.11921) [[code]](https://github.com/darsh10/Nutribullets)
 1. **Multi-document Summarization using Semantic Role Labeling and Semantic Graph for Indonesian News Article** *Yuly Haruka Berliana Gunawan, Masayu Leylia Khodra* [[pdf]](https://arxiv.org/abs/2103.03736)
 1. **Flight of the PEGASUS? Comparing Transformers on Few-Shot and Zero-Shot Multi-document Abstractive Summarization** *Travis Goodwin, Max Savery, Dina Demner-Fushman* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.494/) 
