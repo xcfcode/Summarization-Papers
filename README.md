@@ -121,6 +121,7 @@ This repo contains a list of summarization papers including various topics. If a
 2.  **Neural Text Summarization and Generation** *Piji Li* [[pdf]](http://lipiji.com/docs/thesis.pdf)
 
 ## Theory
+1. **RefSum: Refactoring Neural Summarization** *Yixin Liu, Zi-Yi Dou, Pengfei Liu* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.07210) [[code]](https://github.com/yixinL7/Refactoring-Summarization)
 1. **Principled Approaches to Automatic Text Summarization** *Maxime Peyrard* [[pdf]](https://tuprints.ulb.tu-darmstadt.de/9012/) ![](https://img.shields.io/badge/-thesis-red)
 1. **KLearn: Background Knowledge Inference from Summarization Data** *Maxime Peyrard, Robert West* `Findings of EMNLP20` [[pdf]](https://arxiv.org/abs/2010.06213) [[code]](https://github.com/epfl-dlab/KLearn)
 2. **A Simple Theoretical Model of Importance for Summarization** *Maxime Peyrard* `ACL19` [[pdf]](https://www.aclweb.org/anthology/P19-1101/)
