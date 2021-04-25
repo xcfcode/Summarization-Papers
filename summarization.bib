@@ -4865,5 +4865,205 @@ Zhou, Ming},
 }
 
 
+@inproceedings{bi-etal-2021-aredsum,
+    title = "{AREDSUM}: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive Document Summarization",
+    author = "Bi, Keping  and
+      Jha, Rahul  and
+      Croft, Bruce  and
+      Celikyilmaz, Asli",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.eacl-main.22",
+    pages = "281--291",
+    abstract = "Redundancy-aware extractive summarization systems score the redundancy of the sentences to be included in a summary either jointly with their salience information or separately as an additional sentence scoring step. Previous work shows the efficacy of jointly scoring and selecting sentences with neural sequence generation models. It is, however, not well-understood if the gain is due to better encoding techniques or better redundancy reduction approaches. Similarly, the contribution of salience versus diversity components on the created summary is not studied well. Building on the state-of-the-art encoding methods for summarization, we present two adaptive learning models: AREDSUM-SEQ that jointly considers salience and novelty during sentence selection; and a two-step AREDSUM-CTX that scores salience first, then learns to balance salience and redundancy, enabling the measurement of the impact of each aspect. Empirical results on CNN/DailyMail and NYT50 datasets show that by modeling diversity explicitly in a separate step, AREDSUM-CTX achieves significantly better performance than AREDSUM-SEQ as well as state-of-the-art extractive summarization baselines.",
+}
 
+@inproceedings{gabriel-etal-2021-discourse,
+    title = "Discourse Understanding and Factual Consistency in Abstractive Summarization",
+    author = "Gabriel, Saadia  and
+      Bosselut, Antoine  and
+      Da, Jeff  and
+      Holtzman, Ari  and
+      Buys, Jan  and
+      Lo, Kyle  and
+      Celikyilmaz, Asli  and
+      Choi, Yejin",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.eacl-main.34",
+    pages = "435--447",
+    abstract = "We introduce a general framework for abstractive summarization with factual consistency and distinct modeling of the narrative flow in an output summary. Our work addresses current limitations of models for abstractive summarization that often hallucinate information or generate summaries with coherence issues. To generate abstractive summaries with factual consistency and narrative flow, we propose Cooperative Generator-Discriminator Networks (Co-opNet), a novel transformer-based framework where the generator works with a discriminator architecture to compose coherent long-form summaries. We explore four different discriminator objectives which each capture a different aspect of coherence, including whether salient spans of generated abstracts are hallucinated or appear in the input context, and the likelihood of sentence adjacency in generated abstracts. We measure the ability of Co-opNet to learn these objectives with arXiv scientific papers, using the abstracts as a proxy for gold long-form scientific article summaries. Empirical results from automatic and human evaluations demonstrate that Co-opNet learns to summarize with considerably improved global coherence compared to competitive baselines.",
+}
 
+@inproceedings{dong-etal-2021-discourse,
+    title = "Discourse-Aware Unsupervised Summarization for Long Scientific Documents",
+    author = "Dong, Yue  and
+      Mircea Romascanu, Andrei  and
+      Cheung, Jackie Chi Kit",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.eacl-main.93",
+    pages = "1089--1102",
+    abstract = "We propose an unsupervised graph-based ranking model for extractive summarization of long scientific documents. Our method assumes a two-level hierarchical graph representation of the source document, and exploits asymmetrical positional cues to determine sentence importance. Results on the PubMed and arXiv datasets show that our approach outperforms strong unsupervised baselines by wide margins in automatic metrics and human evaluation. In addition, it achieves performance comparable to many state-of-the-art supervised approaches which are trained on hundreds of thousands of examples. These results suggest that patterns in the discourse structure are a strong signal for determining importance in scientific articles.",
+}
+
+@inproceedings{kano-etal-2021-quantifying,
+    title = "Quantifying Appropriateness of Summarization Data for Curriculum Learning",
+    author = "Kano, Ryuji  and
+      Takahashi, Takumi  and
+      Nishino, Toru  and
+      Taniguchi, Motoki  and
+      Taniguchi, Tomoki  and
+      Ohkuma, Tomoko",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.eacl-main.119",
+    pages = "1395--1405",
+    abstract = "Much research has reported the training data of summarization models are noisy; summaries often do not reflect what is written in the source texts. We propose an effective method of curriculum learning to train summarization models from such noisy data. Curriculum learning is used to train sequence-to-sequence models with noisy data. In translation tasks, previous research quantified noise of the training data using two models trained with noisy and clean corpora. Because such corpora do not exist in summarization fields, we propose a model that can quantify noise from a single noisy corpus. We conduct experiments on three summarization models; one pretrained model and two non-pretrained models, and verify our method improves the performance. Furthermore, we analyze how different curricula affect the performance of pretrained and non-pretrained summarization models. Our result on human evaluation also shows our method improves the performance of summarization models.",
+}
+
+@inproceedings{elsahar-etal-2021-self,
+    title = "Self-Supervised and Controlled Multi-Document Opinion Summarization",
+    author = "Elsahar, Hady  and
+      Coavoux, Maximin  and
+      Rozen, Jos  and
+      Gall{\'e}, Matthias",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.eacl-main.141",
+    pages = "1646--1662",
+    abstract = "We address the problem of unsupervised abstractive summarization of collections of user generated reviews through self-supervision and control. We propose a self-supervised setup that considers an individual document as a target summary for a set of similar documents. This setting makes training simpler than previous approaches by relying only on standard log-likelihood loss and mainstream models. We address the problem of hallucinations through the use of control codes, to steer the generation towards more coherent and relevant summaries.",
+}
+
+@inproceedings{yela-bello-etal-2021-multihumes,
+    title = "{M}ulti{H}um{ES}: Multilingual Humanitarian Dataset for Extractive Summarization",
+    author = "Yela-Bello, Jenny Paola  and
+      Oglethorpe, Ewan  and
+      Rekabsaz, Navid",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.eacl-main.146",
+    pages = "1713--1717",
+    abstract = "When responding to a disaster, humanitarian experts must rapidly process large amounts of secondary data sources to derive situational awareness and guide decision-making. While these documents contain valuable information, manually processing them is extremely time-consuming when an expedient response is necessary. To improve this process, effective summarization models are a valuable tool for humanitarian response experts as they provide digestible overviews of essential information in secondary data. This paper focuses on extractive summarization for the humanitarian response domain and describes and makes public a new multilingual data collection for this purpose. The collection {--} called MultiHumES{--} provides multilingual documents coupled with informative snippets that have been annotated by humanitarian analysts over the past four years. We report the performance results of a recent neural networks-based summarization model together with other baselines. We hope that the released data collection can further grow the research on multilingual extractive summarization in the humanitarian response domain.",
+}
+
+@inproceedings{grail-etal-2021-globalizing,
+    title = "Globalizing {BERT}-based Transformer Architectures for Long Document Summarization",
+    author = "Grail, Quentin  and
+      Perez, Julien  and
+      Gaussier, Eric",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.eacl-main.154",
+    pages = "1792--1810",
+    abstract = "Fine-tuning a large language model on downstream tasks has become a commonly adopted process in the Natural Language Processing (NLP) (CITATION). However, such a process, when associated with the current transformer-based (CITATION) architectures, shows several limitations when the target task requires to reason with long documents. In this work, we introduce a novel hierarchical propagation layer that spreads information between multiple transformer windows. We adopt a hierarchical approach where the input is divided in multiple blocks independently processed by the scaled dot-attentions and combined between the successive layers. We validate the effectiveness of our approach on three extractive summarization corpora of long scientific papers and news articles. We compare our approach to standard and pre-trained language-model-based summarizers and report state-of-the-art results for long document summarization and comparable results for smaller document summarization.",
+}
+
+@inproceedings{iskender-etal-2021-reliability,
+    title = "Reliability of Human Evaluation for Text Summarization: Lessons Learned and Challenges Ahead",
+    author = {Iskender, Neslihan  and
+      Polzehl, Tim  and
+      M{\"o}ller, Sebastian},
+    booktitle = "Proceedings of the Workshop on Human Evaluation of NLP Systems (HumEval)",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.humeval-1.10",
+    pages = "86--96",
+    abstract = "Only a small portion of research papers with human evaluation for text summarization provide information about the participant demographics, task design, and experiment protocol. Additionally, many researchers use human evaluation as gold standard without questioning the reliability or investigating the factors that might affect the reliability of the human evaluation. As a result, there is a lack of best practices for reliable human summarization evaluation grounded by empirical evidence. To investigate human evaluation reliability, we conduct a series of human evaluation experiments, provide an overview of participant demographics, task design, experimental set-up and compare the results from different experiments. Based on our empirical analysis, we provide guidelines to ensure the reliability of expert and non-expert evaluations, and we determine the factors that might affect the reliability of the human evaluation.",
+}
+
+@inproceedings{zagar-robnik-sikonja-2021-unsupervised,
+    title = "Unsupervised Approach to Multilingual User Comments Summarization",
+    author = "{\v{Z}}agar, Ale{\v{s}}  and
+      Robnik-{\v{S}}ikonja, Marko",
+    booktitle = "Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.hackashop-1.13",
+    pages = "89--98",
+    abstract = "User commenting is a valuable feature of many news outlets, enabling them a contact with readers and enabling readers to express their opinion, provide different viewpoints, and even complementary information. Yet, large volumes of user comments are hard to filter, let alone read and extract relevant information. The research on the summarization of user comments is still in its infancy, and human-created summarization datasets are scarce, especially for less-resourced languages. To address this issue, we propose an unsupervised approach to user comments summarization, which uses a modern multilingual representation of sentences together with standard extractive summarization techniques. Our comparison of different sentence representation approaches coupled with different summarization approaches shows that the most successful combinations are the same in news and comment summarization. The empirical results and presented visualisation show usefulness of the proposed methodology for several languages.",
+}
+
+@inproceedings{karn-etal-2021-shot,
+    title = "Few-Shot Learning of an Interleaved Text Summarization Model by Pretraining with Synthetic Data",
+    author = {Karn, Sanjeev Kumar  and
+      Chen, Francine  and
+      Chen, Yan-Ying  and
+      Waltinger, Ulli  and
+      Sch{\"u}tze, Hinrich},
+    booktitle = "Proceedings of the Second Workshop on Domain Adaptation for NLP",
+    month = apr,
+    year = "2021",
+    address = "Kyiv, Ukraine",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.adaptnlp-1.24",
+    pages = "245--254",
+    abstract = "Interleaved texts, where posts belonging to different threads occur in a sequence, commonly occur in online chat posts, so that it can be time-consuming to quickly obtain an overview of the discussions. Existing systems first disentangle the posts by threads and then extract summaries from those threads. A major issue with such systems is error propagation from the disentanglement component. While end-to-end trainable summarization system could obviate explicit disentanglement, such systems require a large amount of labeled data. To address this, we propose to pretrain an end-to-end trainable hierarchical encoder-decoder system using synthetic interleaved texts. We show that by fine-tuning on a real-world meeting dataset (AMI), such a system out-performs a traditional two-step system by 22{\%}. We also compare against transformer models and observed that pretraining with synthetic data both the encoder and decoder outperforms the BertSumExtAbs transformer model which pretrains only the encoder on a large dataset.",
+}
+
+@inproceedings{huang-kurohashi-2021-extractive,
+    title = "Extractive Summarization Considering Discourse and Coreference Relations based on Heterogeneous Graph",
+    author = "Huang, Yin Jou  and
+      Kurohashi, Sadao",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.eacl-main.265",
+    pages = "3046--3052",
+    abstract = "Modeling the relations between text spans in a document is a crucial yet challenging problem for extractive summarization. Various kinds of relations exist among text spans of different granularity, such as discourse relations between elementary discourse units and coreference relations between phrase mentions. In this paper, we propose a heterogeneous graph based model for extractive summarization that incorporates both discourse and coreference relations. The heterogeneous graph contains three types of nodes, each corresponds to text spans of different granularity. Experimental results on a benchmark summarization dataset verify the effectiveness of our proposed method.",
+}
+
+@inproceedings{amplayo-lapata-2021-informative,
+    title = "Informative and Controllable Opinion Summarization",
+    author = "Amplayo, Reinald Kim  and
+      Lapata, Mirella",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.eacl-main.229",
+    pages = "2662--2672",
+    abstract = "Opinion summarization is the task of automatically generating summaries for a set of reviews about a specific target (e.g., a movie or a product). Since the number of reviews for each target can be prohibitively large, neural network-based methods follow a two-stage approach where an extractive step first pre-selects a subset of salient opinions and an abstractive step creates the summary while conditioning on the extracted subset. However, the extractive model leads to loss of information which may be useful depending on user needs. In this paper we propose a summarization framework that eliminates the need to rely only on pre-selected content and waste possibly useful information, especially when customizing summaries. The framework enables the use of all input reviews by first condensing them into multiple dense vectors which serve as input to an abstractive model. We showcase an effective instantiation of our framework which produces more informative summaries and also allows to take user preferences into account using our zero-shot customization technique. Experimental results demonstrate that our model improves the state of the art on the Rotten Tomatoes dataset and generates customized summaries effectively.",
+}
+
+@inproceedings{steen-markert-2021-evaluate,
+    title = "How to Evaluate a Summarizer: Study Design and Statistical Analysis for Manual Linguistic Quality Evaluation",
+    author = "Steen, Julius  and
+      Markert, Katja",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.eacl-main.160",
+    pages = "1861--1875",
+    abstract = "Manual evaluation is essential to judge progress on automatic text summarization. However, we conduct a survey on recent summarization system papers that reveals little agreement on how to perform such evaluation studies. We conduct two evaluation experiments on two aspects of summaries{'} linguistic quality (coherence and repetitiveness) to compare Likert-type and ranking annotations and show that best choice of evaluation method can vary from one aspect to another. In our survey, we also find that study parameters such as the overall number of annotators and distribution of annotators to annotation items are often not fully reported and that subsequent statistical analysis ignores grouping factors arising from one annotator judging multiple summaries. Using our evaluation experiments, we show that the total number of annotators can have a strong impact on study power and that current statistical analysis methods can inflate type I error rates up to eight-fold. In addition, we highlight that for the purpose of system comparison the current practice of eliciting multiple judgements per summary leads to less powerful and reliable annotations given a fixed study budget.",
+}
