@@ -312,6 +312,7 @@ This repo contains a list of summarization papers including various topics. If a
 6. **Generating Wikipedia By Summarizing Long Sequence** *Peter J. Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser, Noam Shazeer* `ICLR18` [[pdf]](https://arxiv.org/abs/1801.10198) [[code]](https://github.com/lucidrains/memory-compressed-attention.git) ![](https://img.shields.io/badge/-sentence-red)
 
 ## Dialogue 
+1. **GupShup: An Annotated Corpus for Abstractive Summarization of Open-Domain Code-Switched Conversations** *Laiba Mehnaz, Debanjan Mahata, Rakesh Gosangi, Uma Sushmitha Gunturi, Riya Jain, Gauri Gupta, Amardeep Kumar, Isabelle Lee, Anish Acharya, Rajiv Ratn Shah* [[pdf]](https://arxiv.org/abs/2104.08578) [[data]]()
 1. **Few-Shot Learning of an Interleaved Text Summarization Model by Pretraining with Synthetic Data** *Sanjeev Kumar Karn, Francine Chen, Yan-Ying Chen, Ulli Waltinger, Hinrich Schütze* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.adaptnlp-1.24/) ![](https://img.shields.io/badge/-meeting-brightgreen)
 1. **SummScreen: A Dataset for Abstractive Screenplay Summarization** *Mingda Chen, Zewei Chu, Sam Wiseman, Kevin Gimpel* [[pdf]](https://arxiv.org/abs/2104.07091) [[data]](https://github.com/mingdachen/SummScreen) ![](https://img.shields.io/badge/-data-ff69b4)
 1. **Planning with Entity Chains for Abstractive Summarization** *Shashi Narayan, Yao Zhao, Joshua Maynez, Gonçalo Simoes, Ryan McDonald* [[pdf]](https://arxiv.org/abs/2104.07606) ![](https://img.shields.io/badge/-samsum-orange)
