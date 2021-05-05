@@ -81,6 +81,8 @@ This repo contains a list of summarization papers including various topics. If a
 * [ACL19-Multimodal Abstractive Summarization for How2 Videos](slides/paper-slides/Multimodal%20Abstractive%20Summarization%20for%20How2%20Videos.pdf) ![](https://img.shields.io/badge/-papers-blue)
 
 ## Survey
+1. **A Survey of Recent Abstract Summarization Techniques** *Diyah Puspitaningrum
+* `ICICT21` [[pdf]](https://arxiv.org/abs/2105.00824)
 1. **A Survey of the State-of-the-Art Models in Neural Abstractive Text Summarization** *AYESHA AYUB SYED, FORD LUMBAN GAOL, TOKURO MATSUO* [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9328413)
 1. **Automatic summarization of scientific articles: A survey** *Nouf Ibrahim Altmami, Mohamed El Bachir Menai* `Journal of King Saud University - Computer and Information Sciences` [[pdf]](https://www.sciencedirect.com/science/article/pii/S1319157820303554)
 1. **Multi-document Summarization via Deep Learning Techniques: A Survey** *Congbo Ma, Wei Emma Zhang, Mingyu Guo, Hu Wang, Quan Z. Sheng* [[pdf]](https://arxiv.org/abs/2011.04843) 
@@ -234,6 +236,7 @@ This repo contains a list of summarization papers including various topics. If a
 ![](https://img.shields.io/badge/analysis%20about%20factual%20consistency%20of%20summary-analysis-blue)<br>
 ![](https://img.shields.io/badge/How%20to%20correct%20factual%20errors%20in%20summary-correct-red)<br>
 
+1. **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 1. **Discourse Understanding and Factual Consistency in Abstractive Summarization** *Saadia Gabriel, Antoine Bosselut, Jeff Da, Ari Holtzman, Jan Buys, Kyle Lo, Asli Celikyilmaz, Yejin Choi* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.34/) [[code]](https://github.com/skgabriel/coopnet)
 1. **Improving Faithfulness in Abstractive Summarization with Contrast Candidate Generation and Selection** *Sihao Chen, Fan Zhang, Kazoo Sone and Dan Roth* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.09061) [[code]](https://github.com/CogComp/faithful_summarization) ![](https://img.shields.io/badge/-improve-orange)
 2. **Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics** *Artidoro Pagnoni, Vidhisha Balachandran and Yulia Tsvetkov* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.13346) [[code]](https://github.com/artidoro/frank) ![](https://img.shields.io/badge/-evaluation-brightgreen)
@@ -497,6 +500,7 @@ This repo contains a list of summarization papers including various topics. If a
 20. **Cross-language document summarization based on machine translation quality prediction** *Xiaojun Wan, Huiying Li, Jianguo Xiao* `ACL10` [[pdf]](https://www.aclweb.org/anthology/P10-1094/)
 
 ## Unsupervised
+1. **MRCBert: A Machine Reading ComprehensionApproach for Unsupervised Summarization** *Saurabh Jain, Guokai Tang, Lim Sze Chi* [[pdf]](https://arxiv.org/abs/2105.00239) [[code]](https://github.com/saurabhhssaurabh/reviews_summarization)
 1. **Centrality Meets Centroid: A Graph-based Approach for Unsupervised Document Summarization** *Haopeng Zhang, Jiawei Zhang* [[pdf]](https://arxiv.org/abs/2103.15327)
 1. **Unsupervised Opinion Summarization with Content Planning** *Reinald Kim Amplayo, Stefanos Angelidis, Mirella Lapata* `AAAI21` [[pdf]](https://arxiv.org/abs/2012.07808) [[code]](https://github.com/rktamplayo/PlanSum)
 1. **Biased TextRank: Unsupervised Graph-Based Content Extraction** *Ashkan Kazemi, Verónica Pérez-Rosas, Rada Mihalcea* `COLING20` [[pdf]](https://arxiv.org/abs/2011.01026) [[code]](https://lit.eecs.umich.edu/downloads.html) 
@@ -551,6 +555,7 @@ This repo contains a list of summarization papers including various topics. If a
 2. **Learning towards Abstractive Timeline Summarization** *Xiuying Chen, Zhangming Chan, Shen Gao, Meng-Hsuan Yu, Dongyan Zhao, Rui Yan* `IJCAI19` [[pdf]](https://www.ijcai.org/Proceedings/2019/686) [[data]](https://github.com/yingtaomj/Learning-towards-Abstractive-Timeline-Summarization)
 
 ## Opinion
+1. **MRCBert: A Machine Reading ComprehensionApproach for Unsupervised Summarization** *Saurabh Jain, Guokai Tang, Lim Sze Chi* [[pdf]](https://arxiv.org/abs/2105.00239) [[code]](https://github.com/saurabhhssaurabh/reviews_summarization)
 1. **Informative and Controllable Opinion Summarization** *Reinald Kim Amplayo, Mirella Lapata* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.229/) [[code]](https://github.com/rktamplayo/CondaSum)
 1. **Self-Supervised and Controlled Multi-Document Opinion Summarization** *Hady Elsahar, Maximin Coavoux, Jos Rozen, Matthias Gallé* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.141/)
 1. **Unsupervised Opinion Summarization with Content Planning** *Reinald Kim Amplayo, Stefanos Angelidis, Mirella Lapata* `AAAI21` [[pdf]](https://arxiv.org/abs/2012.07808) [[code]](https://github.com/rktamplayo/PlanSum)
@@ -613,6 +618,7 @@ This repo contains a list of summarization papers including various topics. If a
 13. **Text Summarization through Entailment-based Minimum Vertex Cover** *Anand Gupta, Manpreet Kaur, Shachar Mirkin, Adarsh Singh, Aseem Goyal* `ENLG13` [[pdf]](https://www.aclweb.org/anthology/S14-1010/)
 
 ## Abstractive
+1. **Summarization, Simplification, and Generation: The Case of Patents** *Silvia Casola, Alberto Lavelli* [[pdf]](https://arxiv.org/abs/2104.14860)
 1. **Quantifying Appropriateness of Summarization Data for Curriculum Learning** *Ryuji Kano, Takumi Takahashi, Toru Nishino, Motoki Taniguchi, Tomoki Taniguchi, Tomoko Ohkuma* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.119/)
 1. **Text Summarization of Czech News Articles Using Named Entities** *Petr Marek, Štěpán Müller, Jakub Konrád, Petr Lorenc, Jan Pichl, Jan Šedivý* `Journal` [[pdf]](https://arxiv.org/abs/2104.10454)
 1. **Planning with Entity Chains for Abstractive Summarization** *Shashi Narayan, Yao Zhao, Joshua Maynez, Gonçalo Simoes, Ryan McDonald* [[pdf]](https://arxiv.org/abs/2104.07606)
