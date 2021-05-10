@@ -618,6 +618,7 @@ This repo contains a list of summarization papers including various topics. If a
 13. **Text Summarization through Entailment-based Minimum Vertex Cover** *Anand Gupta, Manpreet Kaur, Shachar Mirkin, Adarsh Singh, Aseem Goyal* `ENLG13` [[pdf]](https://www.aclweb.org/anthology/S14-1010/)
 
 ## Abstractive
+1. **Generating abstractive summaries of Lithuanian news articles using a transformer model** *Lukas Stankevičius, Mantas Lukoševičius* [[pdf]](https://arxiv.org/abs/2105.03279)
 1. **Summarization, Simplification, and Generation: The Case of Patents** *Silvia Casola, Alberto Lavelli* [[pdf]](https://arxiv.org/abs/2104.14860)
 1. **Quantifying Appropriateness of Summarization Data for Curriculum Learning** *Ryuji Kano, Takumi Takahashi, Toru Nishino, Motoki Taniguchi, Tomoki Taniguchi, Tomoko Ohkuma* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.119/)
 1. **Text Summarization of Czech News Articles Using Named Entities** *Petr Marek, Štěpán Müller, Jakub Konrád, Petr Lorenc, Jan Pichl, Jan Šedivý* `Journal` [[pdf]](https://arxiv.org/abs/2104.10454)
