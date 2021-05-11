@@ -209,6 +209,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 
 ## Scientific Document
+1. **Long-Span Dependencies in Transformer-based Summarization Systems** *Potsawee Manakul, Mark J. F. Gales* `ACl21` [[pdf]](https://arxiv.org/abs/2105.03801)
 1. **Globalizing BERT-based Transformer Architectures for Long Document Summarization** *Quentin Grail, Julien Perez, Eric Gaussier* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.154/)
 1. **Discourse-Aware Unsupervised Summarization for Long Scientific Documents** *Yue Dong, Andrei Mircea Romascanu, Jackie Chi Kit Cheung* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.93/) [[code]](https://github.com/mirandrom/HipoRank)
 1. **Enhancing Scientific Papers Summarization with Citation Graph** *Chenxin An, Ming Zhong, Yiran Chen, Danqing Wang, Xipeng Qiu, Xuanjing Huang*  `AAAI21` [[pdf]](https://arxiv.org/abs/2104.03057) [[code]](https://github.com/ChenxinAn-fdu/CGSum)
@@ -699,6 +700,7 @@ This repo contains a list of summarization papers including various topics. If a
 4. **HIGHRES: Highlight-based Reference-less Evaluation of Summarization** *Hardy, Shashi Narayan, Andreas Vlachos* `ACL19` [[pdf]](https://arxiv.org/abs/1906.01361) [[code]](https://github.com/sheffieldnlp/highres)
 
 ## Query
+1. **D2S: Document-to-Slide Generation Via Query-Based Text Summarization** *Edward Sun, Yufang Hou, Dakuo Wang, Yunfeng Zhang, Nancy X.R. Wang* `NAACL21` [[pdf]](https://arxiv.org/abs/2105.03664) [[code]](https://github.com/IBM/document2slides)
 1. **Abstractive Query Focused Summarization with Query-Free Resources** *Yumo Xu, Mirella Lapata* [[pdf]](https://arxiv.org/abs/2012.14774) [[code]](https://github.com/yumoxu/margesum)
 
 ## EncoderFusion
