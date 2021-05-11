@@ -206,6 +206,7 @@ This repo contains a list of summarization papers including various topics. If a
 |72|[MS2](https://github.com/allenai/ms2)|Medical, Multi-Document|[MS2: Multi-Document Summarization of Medical Studies](https://arxiv.org/abs/2104.06486)||
 |73|[SummScreen](https://github.com/mingdachen/SummScreen)|Television Series|[SummScreen: A Dataset for Abstractive Screenplay Summarization](https://arxiv.org/abs/2104.07091)|
 |74|[SciDuet](https://github.com/IBM/document2slides)|Scientific Papers and Slides|[D2S: Document-to-Slide Generation Via Query-Based Text Summarization](D2S: Document-to-Slide Generation Via Query-Based Text Summarization)|NAACL21|
+|75|[MultiHumES](https://deephelp.zendesk.com/hc/en-us/sections/360011925552-MultiHumES)|Multilingual|[MultiHumES: Multilingual Humanitarian Dataset for Extractive Summarization](https://www.aclweb.org/anthology/2021.eacl-main.146/)|EACL21|
 
 
 ## Scientific Document
