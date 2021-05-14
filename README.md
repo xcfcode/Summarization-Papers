@@ -691,6 +691,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 3. **A Semantic QA-Based Approach for Text Summarization Evaluation** *Ping Chen, Fei Wu, Tong Wang, Wei Ding* `AAAI18` [[pdf]](https://arxiv.org/abs/1704.06259) 
 
 ## Evaluation
+1. **Towards Human-Free Automatic Quality Evaluation of German Summarization** *Neslihan Iskender, Oleg Vasilyev, Tim Polzehl, John Bohannon, Sebastian Möller* [[pdf]](https://arxiv.org/abs/2105.06027)
 1. **Reliability of Human Evaluation for Text Summarization: Lessons Learned and Challenges Ahead** *Neslihan Iskender, Tim Polzehl, Sebastian Möller* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.humeval-1.10/) [[code]](https://github.com/nesliskender/reliability_humeval_summarization)
 1. **SummVis: Interactive Visual Analysis of Models, Data, and Evaluation for Text Summarization** *Jesse Vig, Wojciech Kryscinski, Karan Goel, Nazneen Fatema Rajani* [[pdf]](https://arxiv.org/abs/2104.07605) [[data]](https://github.com/robustness-gym/summvis)
 1. **Play the Shannon Game With Language Models: A Human-Free Approach to Summary Evaluation** *Nicholas Egan, Oleg Vasilyev, John Bohannon* [[pdf]](https://arxiv.org/abs/2103.10918)
