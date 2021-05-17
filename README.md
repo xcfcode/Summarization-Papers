@@ -207,6 +207,7 @@ This repo contains a list of summarization papers including various topics. If a
 |73|[SummScreen](https://github.com/mingdachen/SummScreen)|Television Series|[SummScreen: A Dataset for Abstractive Screenplay Summarization](https://arxiv.org/abs/2104.07091)|
 |74|[SciDuet](https://github.com/IBM/document2slides)|Scientific Papers and Slides|[D2S: Document-to-Slide Generation Via Query-Based Text Summarization](D2S: Document-to-Slide Generation Via Query-Based Text Summarization)|NAACL21|
 |75|[MultiHumES](https://deephelp.zendesk.com/hc/en-us/sections/360011925552-MultiHumES)|Multilingual|[MultiHumES: Multilingual Humanitarian Dataset for Extractive Summarization](https://www.aclweb.org/anthology/2021.eacl-main.146/)|EACL21|
+|76|[DialSumm](https://github.com/cylnlp/DialSumm)|Dialogue|[DialSumm: A Real-Life Scenario Dialogue Summarization Dataset](https://arxiv.org/abs/2105.06762)|Findings of ACL21|
 
 
 ## Scientific Document
@@ -320,6 +321,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 6. **Generating Wikipedia By Summarizing Long Sequence** *Peter J. Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser, Noam Shazeer* `ICLR18` [[pdf]](https://arxiv.org/abs/1801.10198) [[code]](https://github.com/lucidrains/memory-compressed-attention.git) ![](https://img.shields.io/badge/-sentence-red)
 
 ## Dialogue 
+1. **DialSumm: A Real-Life Scenario Dialogue Summarization Dataset** *Yulong Chen, Yang Liu, Liang Chen, Yue Zhang* `Findings of ACL21` [[pdf]](https://arxiv.org/abs/2105.06762) [[data]](https://github.com/cylnlp/DialSumm)
 1. **Dialogue Discourse-Aware Graph Model and Data Augmentation for Meeting Summarization** *Xiachong Feng, Xiaocheng Feng, Bing Qin, Xinwei Geng* `IJCAI21` [[pdf]](https://arxiv.org/abs/2012.03502) [[code]](https://github.com/xcfcode/DDAMS) ![](https://img.shields.io/badge/-meeting-brightgreen)
 1. **A Sliding-Window Approach to Automatic Creation of Meeting Minutes** *Jia Jin Koay, Alexander Roustai, Xiaojin Dai, Fei Liu* [[pdf]](https://arxiv.org/abs/2104.12324) ![](https://img.shields.io/badge/-meeting-brightgreen)
 1. **GupShup: An Annotated Corpus for Abstractive Summarization of Open-Domain Code-Switched Conversations** *Laiba Mehnaz, Debanjan Mahata, Rakesh Gosangi, Uma Sushmitha Gunturi, Riya Jain, Gauri Gupta, Amardeep Kumar, Isabelle Lee, Anish Acharya, Rajiv Ratn Shah* [[pdf]](https://arxiv.org/abs/2104.08578) [[data]]()
@@ -670,6 +672,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 40. **Abstractive Meeting Summarization with Entailment and Fusion** *Yashar Mehdad, Giuseppe Carenini, Frank Tompa, Raymond T. Ng* `ENLG13` [[pdf]](https://www.aclweb.org/anthology/W13-2117/)
 
 ## Extractive-Abstractive
+1. **EASE: Extractive-Abstractive Summarization with Explanations** *Haoran Li, Arash Einolghozati, Srinivasan Iyer, Bhargavi Paranjape, Yashar Mehdad, Sonal Gupta, Marjan Ghazvininejad* [[pdf]](https://arxiv.org/abs/2105.06982)
 1. **Semantic Extractor-Paraphraser based Abstractive Summarization** *Anubhav Jangra, Raghav Jain, Vaibhav Mavi, Sriparna Saha, Pushpak Bhattacharyya* [[pdf]](https://arxiv.org/abs/2105.01296)1. **Contextualized Rewriting for Text Summarization** *Guangsheng Bao, Yue Zhang* `AAAI21` [[pdf]](https://arxiv.org/abs/2102.00385)
 1. **Jointly Extracting and Compressing Documents with Summary State Representations** *Afonso Mendes, Shashi Narayan, Sebastião Miranda, Zita Marinho, André F. T. Martins, Shay B. Cohen* `NAACL19` [[pdf]](https://arxiv.org/abs/1904.02020) [[code]](https://github.com/Priberam/exconsumm)
 
