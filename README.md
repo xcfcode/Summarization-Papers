@@ -208,7 +208,7 @@ This repo contains a list of summarization papers including various topics. If a
 |74|[SciDuet](https://github.com/IBM/document2slides)|Scientific Papers and Slides|[D2S: Document-to-Slide Generation Via Query-Based Text Summarization](D2S: Document-to-Slide Generation Via Query-Based Text Summarization)|NAACL21|
 |75|[MultiHumES](https://deephelp.zendesk.com/hc/en-us/sections/360011925552-MultiHumES)|Multilingual|[MultiHumES: Multilingual Humanitarian Dataset for Extractive Summarization](https://www.aclweb.org/anthology/2021.eacl-main.146/)|EACL21|
 |76|[DialSumm](https://github.com/cylnlp/DialSumm)|Dialogue|[DialSumm: A Real-Life Scenario Dialogue Summarization Dataset](https://arxiv.org/abs/2105.06762)|Findings of ACL21|
-
+|77|[BookSum](https://github.com/salesforce/booksum)|Book, Long-form|[BookSum: A Collection of Datasets for Long-form Narrative Summarization](https://arxiv.org/abs/2105.08209)||
 
 ## Scientific Document
 1. **Long-Span Dependencies in Transformer-based Summarization Systems** *Potsawee Manakul, Mark J. F. Gales* `ACl21` [[pdf]](https://arxiv.org/abs/2105.03801)
