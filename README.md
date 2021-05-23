@@ -64,6 +64,7 @@ This repo contains a list of summarization papers including various topics. If a
       * [Low Resource](#low-resource)
       * [Contrastive Learning](#contrastive)
       * [Personalized](#personalized)
+      * [Interactive](#interactive)
       * [Toolkit](#toolkit)
 
 ## Presentations && Notes
@@ -604,6 +605,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 9. **Controlling Output Length in Neural Encoder-Decoders** *Yuta Kikuchi, Graham Neubig, Ryohei Sasano, Hiroya Takamura, Manabu Okumura* `EMNLP16` [[pdf]](https://www.aclweb.org/anthology/D16-1140/) [[code]](https://github.com/kiyukuta/lencon)
 
 ## Extractive
+1. **Genetic Algorithms For Extractive Summarization** *William Chen, Kensal Ramos, Kalyan Naidu Mullaguri* [[pdf]](https://arxiv.org/abs/2105.02365)
 1. **Extractive Summarization Considering Discourse and Coreference Relations based on Heterogeneous Graph** *Yin Jou Huang, Sadao Kurohashi* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.265/)
 1. **AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive Document Summarization** *Keping Bi, Rahul Jha, Bruce Croft, Asli Celikyilmaz* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.22/)
 1. **Unsupervised Extractive Summarization using Pointwise Mutual Information** *Vishakh Padmakumar, He He* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.213/) [[code]](https://github.com/vishakhpk/mi-unsup-summ)
@@ -741,6 +743,9 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 ## Personalized
 1. **Collabot: Personalized Group Chat Summarization** *Naama Tepper, Anat Hashavit, Maya Barnea, Inbal Ronen, Lior Leiba* `WSDM18` [[pdf]](https://dl.acm.org/doi/abs/10.1145/3159652.3160588)
 1. **Context Enhanced Personalized Social Summarization** *Po Hu, Donghong Ji, Chong Teng, Yujing Guo* `COLING12` [[pdf]](https://www.aclweb.org/anthology/C12-1075.pdf)
+
+## Interactive
+1. **Hone as You Read: A Practical Type of Interactive Summarization** *Tanner Bohn, Charles X. Ling* [[pdf]](https://arxiv.org/abs/2105.02923)
 
 ## Toolkit
 1. **CTRLsum: Towards Generic Controllable Text Summarization** [[pdf]](https://arxiv.org/abs/2012.04281) [[code]](https://github.com/hyunwoongko/summarizers)
