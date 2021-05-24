@@ -82,6 +82,7 @@ This repo contains a list of summarization papers including various topics. If a
 * [ACL19-Multimodal Abstractive Summarization for How2 Videos](slides/paper-slides/Multimodal%20Abstractive%20Summarization%20for%20How2%20Videos.pdf) ![](https://img.shields.io/badge/-papers-blue)
 
 ## Survey
+1. **Pretrained Language Models for Text Generation: A Survey** *Junyi Li, Tianyi Tang, Wayne Xin Zhao, Ji-Rong Wen* `IJCAI21` [[pdf]](https://arxiv.org/abs/2105.10311)
 1. **A Survey of Recent Abstract Summarization Techniques** *Diyah Puspitaningrum* `ICICT21` [[pdf]](https://arxiv.org/abs/2105.00824)
 1. **A Survey of the State-of-the-Art Models in Neural Abstractive Text Summarization** *AYESHA AYUB SYED, FORD LUMBAN GAOL, TOKURO MATSUO* [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9328413)
 1. **Automatic summarization of scientific articles: A survey** *Nouf Ibrahim Altmami, Mohamed El Bachir Menai* `Journal of King Saud University - Computer and Information Sciences` [[pdf]](https://www.sciencedirect.com/science/article/pii/S1319157820303554)
@@ -627,6 +628,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 13. **Text Summarization through Entailment-based Minimum Vertex Cover** *Anand Gupta, Manpreet Kaur, Shachar Mirkin, Adarsh Singh, Aseem Goyal* `ENLG13` [[pdf]](https://www.aclweb.org/anthology/S14-1010/)
 
 ## Abstractive
+1. **Uncertainty-Aware Abstractive Summarization** *Alexios Gidiotis, Grigorios Tsoumakas* [[pdf]](https://arxiv.org/abs/2105.10155)
 1. **What's in a Summary? Laying the Groundwork for Advances in Hospital-Course Summarization** *Griffin Adams, Emily Alsentzer, Mert Ketenci, Jason Zucker, Noémie Elhadad* `NAACL21` [[pdf]](https://arxiv.org/abs/2105.00816)
 1. **Generating abstractive summaries of Lithuanian news articles using a transformer model** *Lukas Stankevičius, Mantas Lukoševičius* [[pdf]](https://arxiv.org/abs/2105.03279)
 1. **Summarization, Simplification, and Generation: The Case of Patents** *Silvia Casola, Alberto Lavelli* [[pdf]](https://arxiv.org/abs/2104.14860)
