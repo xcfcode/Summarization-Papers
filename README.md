@@ -327,6 +327,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 6. **Generating Wikipedia By Summarizing Long Sequence** *Peter J. Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser, Noam Shazeer* `ICLR18` [[pdf]](https://arxiv.org/abs/1801.10198) [[code]](https://github.com/lucidrains/memory-compressed-attention.git) ![](https://img.shields.io/badge/-sentence-red)
 
 ## Dialogue 
+1. **Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization** *Xiachong Feng, Xiaocheng Feng, Libo Qin, Bing Qin, Ting Liu* `ACL21` [[pdf]](https://arxiv.org/abs/2105.12544) [[code]](https://github.com/xcfcode/PLM_annotator)
 1. **Hierarchical Speaker-Aware Sequence-to-Sequence Model for Dialogue Summarization** *Yuejie Lei, Yuanmeng Yan, Zhiyuan Zeng, Keqing He, Ximing Zhang, Weiran Xu* `ICASSP21` [[pdf]](https://ieeexplore.ieee.org/document/9414547)
 1. **DialSumm: A Real-Life Scenario Dialogue Summarization Dataset** *Yulong Chen, Yang Liu, Liang Chen, Yue Zhang* `Findings of ACL21` [[pdf]](https://arxiv.org/abs/2105.06762) [[data]](https://github.com/cylnlp/DialSumm)
 1. **Dialogue Discourse-Aware Graph Model and Data Augmentation for Meeting Summarization** *Xiachong Feng, Xiaocheng Feng, Bing Qin, Xinwei Geng* `IJCAI21` [[pdf]](https://arxiv.org/abs/2012.03502) [[code]](https://github.com/xcfcode/DDAMS) ![](https://img.shields.io/badge/-meeting-brightgreen)
