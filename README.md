@@ -327,6 +327,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 6. **Generating Wikipedia By Summarizing Long Sequence** *Peter J. Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser, Noam Shazeer* `ICLR18` [[pdf]](https://arxiv.org/abs/1801.10198) [[code]](https://github.com/lucidrains/memory-compressed-attention.git) ![](https://img.shields.io/badge/-sentence-red)
 
 ## Dialogue 
+1. **Generating SOAP Notes from Doctor-Patient Conversations** *Kundan Krishna, Sopan Khosla, Jeffrey P. Bigham, Zachary C. Lipton* `ACL2021` [[pdf]](https://arxiv.org/abs/2005.01795) [[code]](https://github.com/kukrishna/modular-summarization) ![](https://img.shields.io/badge/-medical-blue)
 1. **Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization** *Xiachong Feng, Xiaocheng Feng, Libo Qin, Bing Qin, Ting Liu* `ACL21` [[pdf]](https://arxiv.org/abs/2105.12544) [[code]](https://github.com/xcfcode/PLM_annotator)
 1. **Hierarchical Speaker-Aware Sequence-to-Sequence Model for Dialogue Summarization** *Yuejie Lei, Yuanmeng Yan, Zhiyuan Zeng, Keqing He, Ximing Zhang, Weiran Xu* `ICASSP21` [[pdf]](https://ieeexplore.ieee.org/document/9414547)
 1. **DialSumm: A Real-Life Scenario Dialogue Summarization Dataset** *Yulong Chen, Yang Liu, Liang Chen, Yue Zhang* `Findings of ACL21` [[pdf]](https://arxiv.org/abs/2105.06762) [[data]](https://github.com/cylnlp/DialSumm)
@@ -360,7 +361,6 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 3. **Medical Dialogue Summarization for Automated Reporting in Healthcare** *Sabine Molenaar, Lientje Maas, Verónica Burriel, Fabiano Dalpiaz,Sjaak Brinkkemper* `Advanced Information Systems Engineering Workshops 2020` [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7225507/) ![](https://img.shields.io/badge/-medical-blue)
 4. **Generating Medical Reports from Patient-Doctor Conversations using Sequence-to-Sequence Models** *Seppo Enarvi, Marilisa Amoia, Miguel Del-Agua Teba, Brian Delaney, Frank Diehl, Stefan Hahn, Kristina Harris, Liam McGrath, Yue Pan, Joel Pinto, Luca Rubini, Miguel Ruiz, Gagandeep Singh, Fabian Stemmer, Weiyi Sun, Paul Vozila, Thomas Lin, Ranjani Ramamurthy* `ACL20 Short` [[pdf]](https://www.aclweb.org/anthology/2020.nlpmc-1.4/) ![](https://img.shields.io/badge/-medical-blue)
 5. **Automatically Generating Psychiatric Case Notes From Digital Transcripts of Doctor-Patient Conversations** *Nazmul Kazi, Indika Kahanda* `NAACL19` [[pdf]](https://www.aclweb.org/anthology/W19-1918/) ![](https://img.shields.io/badge/-medical-blue)
-6. **Generating SOAP Notes from Doctor-Patient Conversations** *Kundan Krishna, Sopan Khosla, Jeffrey P. Bigham, Zachary C. Lipton* [[pdf]](https://arxiv.org/abs/2005.01795) ![](https://img.shields.io/badge/-medical-blue)
 7. **Alignment Annotation for Clinic Visit Dialogue to Clinical Note Sentence Language Generation** *Wen-wai Yim, Meliha Yetisgen, Jenny Huang, Micah Grossman* `LREC20` [[pdf]](https://www.aclweb.org/anthology/2020.lrec-1.52/) ![](https://img.shields.io/badge/-medical-blue)
 8. **Topic-aware Pointer-Generator Networks for Summarizing Spoken Conversations** *Zhengyuan Liu, Angela Ng, Sheldon Lee, Ai Ti Aw, Nancy F. Chen* ` ASRU2019` [[pdf]](https://arxiv.org/abs/1910.01335) ![](https://img.shields.io/badge/-medical-blue)
 9. **CorDial: Coarse-to-fine Abstractive Dialogue Summarization with Controllable Granularity** *Chien-Sheng Wu, Linqing Liu, Wenhao Liu, Pontus Stenetorp, Caiming Xiong* [[pdf]](https://openreview.net/forum?id=Uf_WNt41tUA) ![](https://img.shields.io/badge/-samsum-orange)
@@ -493,6 +493,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 21. **Event-Centric Summary Generation** *Lucy Vanderwende Michele Banko Arul Menezes* `ACL04` [[pdf]](https://www.microsoft.com/en-us/research/publication/event-centric-summary-generation/) 
 
 ## Cross-Lingual
+1. **Cross-Lingual Abstractive Summarization with Limited Parallel Resources** *Yu Bai, Yang Gao, Heyan Huang* `ACL2021` [[pdf]](https://arxiv.org/abs/2105.13648) [[code]](https://github.com/WoodenWhite/MCLAS)
 1. **Unsupervised Approach to Multilingual User Comments Summarization** *Aleš Žagar, Marko Robnik-Šikonja* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.hackashop-1.13/) [[code]](https://colab.research.google.com/drive/12wUDg64k4oK24rNSd4DRZL9xywNMiPil?usp=sharing)
 1. **MultiHumES: Multilingual Humanitarian Dataset for Extractive Summarization** *Jenny Paola Yela-Bello, Ewan Oglethorpe, Navid Rekabsaz* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.146/) [[data]](https://deephelp.zendesk.com/hc/en-us/sections/360011925552-MultiHumES)
 1. **Cross-lingual Approach to Abstractive Summarization** *Aleš Žagar, Marko Robnik-Šikonja* [[pdf]](https://arxiv.org/abs/2012.04307)
