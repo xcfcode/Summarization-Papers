@@ -69,6 +69,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 ## Presentations && Notes
 
+* [Dialogue Summarization](slides/presentation/Dialogue_Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
 * [文本摘要论文列表(Chinese)](https://mp.weixin.qq.com/s/tLdLGSFl229selxeogQk-w) ![](https://img.shields.io/badge/-blog-red) 
 * [事实感知的生成式文本摘要(Chinese)](https://mp.weixin.qq.com/s/Aye9FBwG-v2JO2MLoEjo0g) ![](https://img.shields.io/badge/-blog-red) 
 * [多模态摘要简述(Chinese)](https://mp.weixin.qq.com/s/Ce6jtp-gTtqeh9lgi-kHtQ) ![](https://img.shields.io/badge/-blog-red) 
