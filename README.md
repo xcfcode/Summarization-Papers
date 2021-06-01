@@ -327,6 +327,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 6. **Generating Wikipedia By Summarizing Long Sequence** *Peter J. Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser, Noam Shazeer* `ICLR18` [[pdf]](https://arxiv.org/abs/1801.10198) [[code]](https://github.com/lucidrains/memory-compressed-attention.git) ![](https://img.shields.io/badge/-sentence-red)
 
 ## Dialogue 
+1. **Controllable Abstractive Dialogue Summarization with Sketch Supervision** *Chien-Sheng Wu, Linqing Liu, Wenhao Liu, Pontus Stenetorp, Caiming Xiong* `ACL-Findings 2021` [[pdf]](https://arxiv.org/abs/2105.14064) [[code]](https://github.com/salesforce/ConvSumm) ![](https://img.shields.io/badge/-samsum-orange)
 1. **Generating SOAP Notes from Doctor-Patient Conversations** *Kundan Krishna, Sopan Khosla, Jeffrey P. Bigham, Zachary C. Lipton* `ACL2021` [[pdf]](https://arxiv.org/abs/2005.01795) [[code]](https://github.com/kukrishna/modular-summarization) ![](https://img.shields.io/badge/-medical-blue)
 1. **Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization** *Xiachong Feng, Xiaocheng Feng, Libo Qin, Bing Qin, Ting Liu* `ACL21` [[pdf]](https://arxiv.org/abs/2105.12544) [[code]](https://github.com/xcfcode/PLM_annotator)
 1. **Hierarchical Speaker-Aware Sequence-to-Sequence Model for Dialogue Summarization** *Yuejie Lei, Yuanmeng Yan, Zhiyuan Zeng, Keqing He, Ximing Zhang, Weiran Xu* `ICASSP21` [[pdf]](https://ieeexplore.ieee.org/document/9414547)
@@ -363,7 +364,6 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 5. **Automatically Generating Psychiatric Case Notes From Digital Transcripts of Doctor-Patient Conversations** *Nazmul Kazi, Indika Kahanda* `NAACL19` [[pdf]](https://www.aclweb.org/anthology/W19-1918/) ![](https://img.shields.io/badge/-medical-blue)
 7. **Alignment Annotation for Clinic Visit Dialogue to Clinical Note Sentence Language Generation** *Wen-wai Yim, Meliha Yetisgen, Jenny Huang, Micah Grossman* `LREC20` [[pdf]](https://www.aclweb.org/anthology/2020.lrec-1.52/) ![](https://img.shields.io/badge/-medical-blue)
 8. **Topic-aware Pointer-Generator Networks for Summarizing Spoken Conversations** *Zhengyuan Liu, Angela Ng, Sheldon Lee, Ai Ti Aw, Nancy F. Chen* ` ASRU2019` [[pdf]](https://arxiv.org/abs/1910.01335) ![](https://img.shields.io/badge/-medical-blue)
-9. **CorDial: Coarse-to-fine Abstractive Dialogue Summarization with Controllable Granularity** *Chien-Sheng Wu, Linqing Liu, Wenhao Liu, Pontus Stenetorp, Caiming Xiong* [[pdf]](https://openreview.net/forum?id=Uf_WNt41tUA) ![](https://img.shields.io/badge/-samsum-orange)
 1. **Improving Abstractive Dialogue Summarization with Graph Structures and Topic Words** *Lulu Zhao, Weiran Xu, Jun Guo* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.39/) ![](https://img.shields.io/badge/-samsum-orange)
 2. **Incorporating Commonsense Knowledge into Abstractive Dialogue Summarization via Heterogeneous Graph Networks** *Xiachong Feng, Xiaocheng Feng, Bing Qin, Ting Liu* [[pdf]](https://arxiv.org/abs/2010.10044)  ![](https://img.shields.io/badge/-samsum-orange)
 3. **Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization** *Jiaao Chen, Diyi Yang* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.01672) [[code]](https://github.com/GT-SALT/Multi-View-Seq2Seq)![](https://img.shields.io/badge/-samsum-orange)
@@ -589,6 +589,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 6. **MeanSum: A Neural Model for Unsupervised Multi-Document Abstractive Summarization** *Eric Chu, Peter J. Liu* `ICML19` [[pdf]](https://arxiv.org/abs/1810.05739) [[code]](https://github.com/sosuperic/MeanSum)
 
 ## Reinforcement Learning
+1. **Reinforced Generative Adversarial Network for Abstractive Text Summarization** *Tianyang Xu, Chunyun Zhang* [[pdf]](https://arxiv.org/abs/2105.15176)
 1. **Answers Unite! Unsupervised Metrics for Reinforced Summarization Models** *Thomas Scialom, Sylvain Lamprier, Benjamin Piwowarski, Jacopo Staiano* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.01610)
 2. **Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization** *Siyao Li, Deren Lei, Pengda Qin, William Yang Wang* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.00141)
 3. **Reinforced Extractive Summarization with Question-Focused Rewards** *Kristjan Arumae, Fei Liu* `ACL18` [[pdf]](https://www.aclweb.org/anthology/P18-3015/) 
@@ -618,6 +619,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 9. **Controlling Output Length in Neural Encoder-Decoders** *Yuta Kikuchi, Graham Neubig, Ryohei Sasano, Hiroya Takamura, Manabu Okumura* `EMNLP16` [[pdf]](https://www.aclweb.org/anthology/D16-1140/) [[code]](https://github.com/kiyukuta/lencon)
 
 ## Extractive
+1. **Demoting the Lead Bias in News Summarization via Alternating Adversarial Learning** *Linzi Xing, Wen Xiao, Giuseppe Carenini* `ACL2021-short` [[pdf]](https://arxiv.org/abs/2105.14241) [[code]](https://github.com/lxing532/Debiasing)
 1. **Genetic Algorithms For Extractive Summarization** *William Chen, Kensal Ramos, Kalyan Naidu Mullaguri* [[pdf]](https://arxiv.org/abs/2105.02365)
 1. **Extractive Summarization Considering Discourse and Coreference Relations based on Heterogeneous Graph** *Yin Jou Huang, Sadao Kurohashi* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.265/)
 1. **AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive Document Summarization** *Keping Bi, Rahul Jha, Bruce Croft, Asli Celikyilmaz* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.22/)
