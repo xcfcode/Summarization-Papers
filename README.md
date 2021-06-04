@@ -15,7 +15,7 @@ This repo contains a list of summarization papers including various topics. If a
 ## Researchers 
 *Alphabetical order*
 
-[Alexander R. Fabbri](https://alex-fabbri.github.io/), [Piji Li](http://lipiji.com/), [Pengfei Liu](http://pfliu.com/), [Yue Dong](https://www.cs.mcgill.ca/~ydong26/),  [Yang Liu](https://nlp-yang.github.io/) ......
+[Alexander R. Fabbri](https://alex-fabbri.github.io/), [Jiacheng Xu](https://www.cs.utexas.edu/~jcxu/), [Piji Li](http://lipiji.com/), [Pengfei Liu](http://pfliu.com/), [Yue Dong](https://www.cs.mcgill.ca/~ydong26/),  [Yang Liu](https://nlp-yang.github.io/) ......
 
 ## Reference
 **[summarization.bib](https://github.com/xcfcode/Summarization-Papers/blob/main/summarization.bib)** (based on [yuchenlin/rebiber](https://github.com/yuchenlin/rebiber))
@@ -101,6 +101,8 @@ This repo contains a list of summarization papers including various topics. If a
 ## Analysis
 ![](https://img.shields.io/badge/Analysis-analysis-red) ![](https://img.shields.io/badge/Meta%20Evaluation-evaluation-brightgreen) ![](https://img.shields.io/badge/Bias-bias-orange) ![](https://img.shields.io/badge/Architecture-architecture-blue)
 
+1. **Dissecting Generation Modes for Abstractive Summarization Models via Ablation and Attribution** *Jiacheng Xu, Greg Durrett* `ACL2021` [[pdf]](https://arxiv.org/abs/2106.01518) [[code]](https://github.com/jiacheng-xu/sum-interpret)
+1. **To Point or Not to Point: Understanding How Abstractive Summarizers Paraphrase Text** *Matt Wilber, William Timkey, Marten Van Schijndel* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.01581) [[code]](https://github.com/mwilbz/pointer-generator-analysis)
 1. **What Makes a Good Summary? Reconsidering the Focus of Automatic Summarization** *Maartje ter Hoeve, Julia Kiseleva, Maarten de Rijke* [[pdf]](https://arxiv.org/abs/2012.07619)
 1. **Intrinsic Evaluation of Summarization Datasets** *Rishi Bommasani, Claire Cardie* `EMNLP20` [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.649/) ![](https://img.shields.io/badge/-analysis-red)
 1. **Metrics also Disagree in the Low Scoring Range: Revisiting Summarization Evaluation Metrics** *Manik Bhandari, Pranav Gour, Atabak Ashfaq, Pengfei Liu* `COLING20 Short` [[pdf]](https://arxiv.org/abs/2011.04096) [[code]](https://github.com/manikbhandari/RevisitSummEvalMetrics) ![](https://img.shields.io/badge/-analysis-red)
@@ -721,6 +723,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 3. **A Semantic QA-Based Approach for Text Summarization Evaluation** *Ping Chen, Fei Wu, Tong Wang, Wei Ding* `AAAI18` [[pdf]](https://arxiv.org/abs/1704.06259) 
 
 ## Evaluation
+1. **Evaluating the Efficacy of Summarization Evaluation across Languages** *Fajri Koto, Jey Han Lau, Timothy Baldwin* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.01478)
 1. **Question-aware Transformer Models for Consumer Health Question Summarization** *Shweta Yadav, Deepak Gupta, Asma Ben Abacha, Dina Demner-Fushman* [[pdf]](https://arxiv.org/abs/2106.00219)
 1. **Towards Human-Free Automatic Quality Evaluation of German Summarization** *Neslihan Iskender, Oleg Vasilyev, Tim Polzehl, John Bohannon, Sebastian Möller* [[pdf]](https://arxiv.org/abs/2105.06027)
 1. **Reliability of Human Evaluation for Text Summarization: Lessons Learned and Challenges Ahead** *Neslihan Iskender, Tim Polzehl, Sebastian Möller* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.humeval-1.10/) [[code]](https://github.com/nesliskender/reliability_humeval_summarization)
@@ -765,6 +768,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 1. **Meta-Transfer Learning for Low-Resource Abstractive Summarization** *Yi-Syuan Chen, Hong-Han Shuai* `AAAI21` [[pdf]](https://basiclab.nctu.edu.tw/assets/LowResourceSummarization.pdf) [[code]](https://github.com/YiSyuanChen/MTL-ABS)
 
 ## Contrastive Learning
+1. **SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization** *Yixin Liu, Pengfei Liu* `ACL2021 short` [[pdf]](https://arxiv.org/abs/2106.01890) [[code]](https://github.com/yixinL7/SimCLS)
 1. **Contrastive Learning with Adversarial Perturbations for Conditional Text Generation** *Seanie Lee, Dong Bok Lee, Sung Ju Hwang* `ICLR21` [[pdf]](https://arxiv.org/abs/2012.07280)
 
 ## Personalized
