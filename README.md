@@ -69,10 +69,13 @@ This repo contains a list of summarization papers including various topics. If a
 
 ## Presentations && Notes
 
-* [Dialogue Summarization](slides/presentation/Dialogue_Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
+* **[NEW]** [Dialogue Summarization](slides/presentation/Dialogue_Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
+* **[NEW]** [融入常识知识的生成式对话摘要](https://mp.weixin.qq.com/s/x3zqGc4pqh4x3q_uorNKcg) ![](https://img.shields.io/badge/-blog-red) 
+* **[NEW]** [会议摘要有难度？快来引入对话篇章结构信息](https://mp.weixin.qq.com/s/Be7AYUPdux8NvAO4wo6_fg) ![](https://img.shields.io/badge/-blog-red) 
 * [文本摘要论文列表(Chinese)](https://mp.weixin.qq.com/s/tLdLGSFl229selxeogQk-w) ![](https://img.shields.io/badge/-blog-red) 
 * [事实感知的生成式文本摘要(Chinese)](https://mp.weixin.qq.com/s/Aye9FBwG-v2JO2MLoEjo0g) ![](https://img.shields.io/badge/-blog-red) 
 * [多模态摘要简述(Chinese)](https://mp.weixin.qq.com/s/Ce6jtp-gTtqeh9lgi-kHtQ) ![](https://img.shields.io/badge/-blog-red) 
+* [文本摘要简述](https://mp.weixin.qq.com/s/NGpDrYilAeuH6pQji0ujaA) ![](https://img.shields.io/badge/-blog-red) 
 * [Multi-modal Summarization](slides/presentation/Multi-modal-Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
 * [ACL20 Summarization](slides/presentation/acl2020-summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
 * [文本摘要简述 (Chinese)](slides/presentation/文本摘要简述.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
