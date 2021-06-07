@@ -785,6 +785,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 1. **Hone as You Read: A Practical Type of Interactive Summarization** *Tanner Bohn, Charles X. Ling* [[pdf]](https://arxiv.org/abs/2105.02923)
 
 ## Toolkit
+1. **Graph4NLP** [[code]](https://github.com/graph4ai/graph4nlp) [[summarization]](https://github.com/graph4ai/graph4nlp/tree/master/examples/pytorch/summarization)
 1. **CTRLsum: Towards Generic Controllable Text Summarization** [[pdf]](https://arxiv.org/abs/2012.04281) [[code]](https://github.com/hyunwoongko/summarizers)
 1. **OpenNMT-py: Open-Source Neural Machine Translation** [[pdf]](https://www.aclweb.org/anthology/W18-1817.pdf) [[code]](https://github.com/OpenNMT/OpenNMT-py)
 2. **Fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.**  [[code]](https://github.com/pytorch/fairseq)
