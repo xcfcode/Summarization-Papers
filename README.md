@@ -219,7 +219,8 @@ This repo contains a list of summarization papers including various topics. If a
 |77|[BookSum](https://github.com/salesforce/booksum)|Book, Long-form|[BookSum: A Collection of Datasets for Long-form Narrative Summarization](https://arxiv.org/abs/2105.08209)||
 |78|[CLES](http://icrc.hitsz.edu.cn/xszy/yjzy.htm)|Chinese Weibo ![](https://img.shields.io/badge/-Chinese-orange)|[A Large-Scale Chinese Long-Text Extractive Summarization Corpus](https://ieeexplore.ieee.org/abstract/document/9414946)|ICASSP|
 |79|[FacetSum](https://github.com/hfthair/emerald_crawler)|Scientific Paper|[Bringing Structure into Summaries: a Faceted Summarization Dataset for Long Scientific Documents](https://arxiv.org/abs/2106.00130)|ACL2021|
-|80|[ConvoSumm](https://github.com/Yale-LILY/ConvoSumm)||[ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining](https://arxiv.org/abs/2106.00829)|ACL2021|
+|80|[ConvoSumm](https://github.com/Yale-LILY/ConvoSumm)|Dialogue|[ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining](https://arxiv.org/abs/2106.00829)|ACL2021|
+|81|[AgreeSum](https://github.com/google-research-datasets/AgreeSum)|Multi-document with entailment annotations|[AgreeSum: Agreement-Oriented Multi-Document Summarization](https://arxiv.org/abs/2106.02278)|Findings of ACL2021|
 
 ## Scientific Document
 1. **Bringing Structure into Summaries: a Faceted Summarization Dataset for Long Scientific Documents** *Rui Meng, Khushboo Thaker, Lei Zhang, Yue Dong, Xingdi Yuan, Tong Wang, Daqing He* `ACL2021` [[pdf]](https://arxiv.org/abs/2106.00130) [[data]](https://github.com/hfthair/emerald_crawler)
@@ -256,6 +257,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
+1. **AgreeSum: Agreement-Oriented Multi-Document Summarization** *Richard Yuanzhe Pang, Adam D. Lelkes, Vinh Q. Tran, Cong Yu* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.02278) [[data]](https://github.com/google-research-datasets/AgreeSum)
 1. **Focus Attention: Promoting Faithfulness and Diversity in Summarization** *Rahul Aralikatte, Shashi Narayan, Joshua Maynez, Sascha Rothe, Ryan McDonald* `ACL21` [[pdf]](https://arxiv.org/abs/2105.11921) 
 1. **Improving Factual Consistency of Abstractive Summarization via Question Answering** *Feng Nan, Cicero Nogueira dos Santos, Henghui Zhu, Patrick Ng, Kathleen McKeown, Ramesh Nallapati, Dejiao Zhang, Zhiguo Wang, Andrew O. Arnold, Bing Xiang* `ACL21` [[pdf]](https://arxiv.org/abs/2105.04623)
 1. **Discourse Understanding and Factual Consistency in Abstractive Summarization** *Saadia Gabriel, Antoine Bosselut, Jeff Da, Ari Holtzman, Jan Buys, Kyle Lo, Asli Celikyilmaz, Yejin Choi* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.34/) [[code]](https://github.com/skgabriel/coopnet)
@@ -473,6 +475,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 7. **Abstractive Document Summarization with a Graph-Based Attentional Neural Model** *Jiwei Tan, Xiaojun Wan, Jianguo Xiao* `ACL17` [[pdf]](https://www.aclweb.org/anthology/P17-1108/)
 
 ## Multi-Document
+1.**AgreeSum: Agreement-Oriented Multi-Document Summarization** *Richard Yuanzhe Pang, Adam D. Lelkes, Vinh Q. Tran, Cong Yu* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.02278) [[data]](https://github.com/google-research-datasets/AgreeSum)
 1. **Analysis of GraphSum's Attention Weights to Improve the Explainability of Multi-Document Summarization** *M. Lautaro Hickmann, Fabian Wurzberger, Megi Hoxhalli, Arne Lochner, Jessica Töllich, Ansgar Scherp* [[pdf]](https://arxiv.org/abs/2105.11908)
 1. **Extending Multi-Document Summarization Evaluation to the Interactive Setting** *Ori Shapira, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal, Yael Amsterdamer, Ido Dagan* `NAACL21` [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.54/) [[code]](https://github.com/OriShapira/InterExp)
 1. **Efficiently Summarizing Text and Graph Encodings of Multi-Document Clusters** *Ramakanth Pasunuru, Mengwen Liu, Mohit Bansal, Sujith Ravi, Markus Dreyer* `NAACL21` [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.380/) [[code]](https://github.com/amazon-research/BartGraphSumm)
