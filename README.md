@@ -15,7 +15,7 @@ This repo contains a list of summarization papers including various topics. If a
 ## Researchers 
 *Alphabetical order*
 
-[Alexander R. Fabbri](https://alex-fabbri.github.io/), [Jiacheng Xu](https://www.cs.utexas.edu/~jcxu/), [Piji Li](http://lipiji.com/), [Pengfei Liu](http://pfliu.com/), [Yue Dong](https://www.cs.mcgill.ca/~ydong26/),  [Yang Liu](https://nlp-yang.github.io/) ......
+[Alexander R. Fabbri](https://alex-fabbri.github.io/), [Jiacheng Xu](https://www.cs.utexas.edu/~jcxu/), [Piji Li](http://lipiji.com/), [Pengfei Liu](http://pfliu.com/), [Yue Dong](https://www.cs.mcgill.ca/~ydong26/),  [Yang Liu](https://nlp-yang.github.io/), [Ming Zhong](https://maszhongming.github.io/) ......
 
 ## Reference
 **[summarization.bib](https://github.com/xcfcode/Summarization-Papers/blob/main/summarization.bib)** (based on [yuchenlin/rebiber](https://github.com/yuchenlin/rebiber))
