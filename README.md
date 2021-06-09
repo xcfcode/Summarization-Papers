@@ -603,6 +603,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 6. **MeanSum: A Neural Model for Unsupervised Multi-Document Abstractive Summarization** *Eric Chu, Peter J. Liu* `ICML19` [[pdf]](https://arxiv.org/abs/1810.05739) [[code]](https://github.com/sosuperic/MeanSum)
 
 ## Reinforcement Learning
+1. **RewardsOfSum: Exploring Reinforcement Learning Rewards for Summarisation** *Jacob Parnell, Inigo Jauregi Unanue, Massimo Piccardi* `5th Workshop on Structured Prediction for NLP ACL-IJCNLP 2021` [[pdf]](https://arxiv.org/abs/2106.04080) 
 1. **Reinforced Generative Adversarial Network for Abstractive Text Summarization** *Tianyang Xu, Chunyun Zhang* [[pdf]](https://arxiv.org/abs/2105.15176)
 1. **Answers Unite! Unsupervised Metrics for Reinforced Summarization Models** *Thomas Scialom, Sylvain Lamprier, Benjamin Piwowarski, Jacopo Staiano* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.01610)
 2. **Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization** *Siyao Li, Deren Lei, Pengda Qin, William Yang Wang* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.00141)
@@ -657,6 +658,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 13. **Text Summarization through Entailment-based Minimum Vertex Cover** *Anand Gupta, Manpreet Kaur, Shachar Mirkin, Adarsh Singh, Aseem Goyal* `ENLG13` [[pdf]](https://www.aclweb.org/anthology/S14-1010/)
 
 ## Abstractive
+1. **Neural Abstractive Unsupervised Summarization of Online News Discussions** *Ignacio Tampe Palma, Marcelo Mendoza, Evangelos Milios* [[pdf]](https://arxiv.org/abs/2106.03953)
 1. **Attention Temperature Matters in Abstractive Summarization Distillation** *Shengqiang Zhang, Xingxing Zhang, Hangbo Bao, Furu Wei* [[pdf]](https://arxiv.org/abs/2106.03441)
 1. **BASS: Boosting Abstractive Summarization with Unified Semantic Graph** *Wenhao Wu, Wei Li, Xinyan Xiao, Jiachen Liu, Ziqiang Cao, Sujian Li, Hua Wu, Haifeng Wang* `ACL21` [[pdf]](https://arxiv.org/abs/2105.12041)
 1. **Enriching Transformers with Structured Tensor-Product Representations for Abstractive Summarization** *Yichen Jiang, Asli Celikyilmaz, Paul Smolensky, Paul Soulos, Sudha Rao, Hamid Palangi, Roland Fernandez, Caitlin Smith, Mohit Bansal, Jianfeng Gao* `NAACL21` [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.381/) [[code]](https://github.com/jiangycTarheel/TPT-Summ)
