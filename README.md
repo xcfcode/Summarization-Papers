@@ -63,7 +63,7 @@ This repo contains a list of summarization papers including various topics. If a
       * [Discourse](#discourse)
       * [Movie](#movie)
       * [Low Resource](#low-resource)
-      * [Contrastive Learning](#contrastive)
+      * [Contrastive Learning](#contrastive-learning)
       * [Personalized](#personalized)
       * [Interactive](#interactive)
 
