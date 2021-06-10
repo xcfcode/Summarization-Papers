@@ -20,11 +20,30 @@ This repo contains a list of summarization papers including various topics. If a
 ## Reference
 **[summarization.bib](https://github.com/xcfcode/Summarization-Papers/blob/main/summarization.bib)** (based on [yuchenlin/rebiber](https://github.com/yuchenlin/rebiber))
 
+
+## Presentations && Notes
+* **[NEW]** [Dialogue Summarization](slides/presentation/Dialogue_Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
+* **[NEW]** [融入常识知识的生成式对话摘要](https://mp.weixin.qq.com/s/x3zqGc4pqh4x3q_uorNKcg) ![](https://img.shields.io/badge/-blog-red) 
+* **[NEW]** [会议摘要有难度？快来引入对话篇章结构信息](https://mp.weixin.qq.com/s/Be7AYUPdux8NvAO4wo6_fg) ![](https://img.shields.io/badge/-blog-red) 
+* [文本摘要论文列表(Chinese)](https://mp.weixin.qq.com/s/tLdLGSFl229selxeogQk-w) ![](https://img.shields.io/badge/-blog-red) 
+* [事实感知的生成式文本摘要(Chinese)](https://mp.weixin.qq.com/s/Aye9FBwG-v2JO2MLoEjo0g) ![](https://img.shields.io/badge/-blog-red) 
+* [多模态摘要简述(Chinese)](https://mp.weixin.qq.com/s/Ce6jtp-gTtqeh9lgi-kHtQ) ![](https://img.shields.io/badge/-blog-red) 
+* [文本摘要简述](https://mp.weixin.qq.com/s/NGpDrYilAeuH6pQji0ujaA) ![](https://img.shields.io/badge/-blog-red) 
+* [Multi-modal Summarization](slides/presentation/Multi-modal-Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
+* [ACL20 Summarization](slides/presentation/acl2020-summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
+* [文本摘要简述 (Chinese)](slides/presentation/文本摘要简述.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
+* [ACL19 Summarization](slides/presentation/ACL19%20Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
+* [Brief intro to summarization (Chinese)](slides/notes/Brief-intro-to-summarization.pdf) ![](https://img.shields.io/badge/-notes-orange)
+* [EMNLP19 Summarization (Chinese)](slides/notes/EMNLP19_Summarization.pdf) ![](https://img.shields.io/badge/-notes-orange)
+* [ACL19-A Simple Theoretical Model of Importance for Summarization](slides/paper-slides/A%20Simple%20Theoretical%20Model%20of%20Importance%20for%20Summarization.pdf) ![](https://img.shields.io/badge/-papers-blue)
+* [ACL19-Multimodal Abstractive Summarization for How2 Videos](slides/paper-slides/Multimodal%20Abstractive%20Summarization%20for%20How2%20Videos.pdf) ![](https://img.shields.io/badge/-papers-blue)
+
+
 ## Benchmark
 * **EXPLAINABOARD: An Explainable Leaderboard for NLP** *Pengfei Liu, Jinlan Fu, Yang Xiao, Weizhe Yuan, Shuaichen Chang, Junqi Dai, Yixin Liu, Zihuiwen Ye, Graham Neubig* [[pdf]](http://explainaboard.nlpedia.ai/ExplainaBoard.pdf) [[ExplainaBoard]](http://explainaboard.nlpedia.ai/leaderboard/task-summ/index.php)
 * **GLGE: A New General Language Generation Evaluation Benchmark** *Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan* [[pdf]](https://arxiv.org/abs/2011.11928) [[benchmark]](https://github.com/microsoft/glge)
 
-## Content
+<!--## Content
    * [Summarization Papers](#summarization-papers)
       * [Benchmark](#benchmark)
       * [Content](#content)
@@ -65,25 +84,7 @@ This repo contains a list of summarization papers including various topics. If a
       * [Movie](#movie)
       * [Low Resource](#low-resource)
       * [Personalized](#personalized)
-      * [Interactive](#interactive)
-
-## Presentations && Notes
-
-* **[NEW]** [Dialogue Summarization](slides/presentation/Dialogue_Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
-* **[NEW]** [融入常识知识的生成式对话摘要](https://mp.weixin.qq.com/s/x3zqGc4pqh4x3q_uorNKcg) ![](https://img.shields.io/badge/-blog-red) 
-* **[NEW]** [会议摘要有难度？快来引入对话篇章结构信息](https://mp.weixin.qq.com/s/Be7AYUPdux8NvAO4wo6_fg) ![](https://img.shields.io/badge/-blog-red) 
-* [文本摘要论文列表(Chinese)](https://mp.weixin.qq.com/s/tLdLGSFl229selxeogQk-w) ![](https://img.shields.io/badge/-blog-red) 
-* [事实感知的生成式文本摘要(Chinese)](https://mp.weixin.qq.com/s/Aye9FBwG-v2JO2MLoEjo0g) ![](https://img.shields.io/badge/-blog-red) 
-* [多模态摘要简述(Chinese)](https://mp.weixin.qq.com/s/Ce6jtp-gTtqeh9lgi-kHtQ) ![](https://img.shields.io/badge/-blog-red) 
-* [文本摘要简述](https://mp.weixin.qq.com/s/NGpDrYilAeuH6pQji0ujaA) ![](https://img.shields.io/badge/-blog-red) 
-* [Multi-modal Summarization](slides/presentation/Multi-modal-Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
-* [ACL20 Summarization](slides/presentation/acl2020-summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
-* [文本摘要简述 (Chinese)](slides/presentation/文本摘要简述.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
-* [ACL19 Summarization](slides/presentation/ACL19%20Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
-* [Brief intro to summarization (Chinese)](slides/notes/Brief-intro-to-summarization.pdf) ![](https://img.shields.io/badge/-notes-orange)
-* [EMNLP19 Summarization (Chinese)](slides/notes/EMNLP19_Summarization.pdf) ![](https://img.shields.io/badge/-notes-orange)
-* [ACL19-A Simple Theoretical Model of Importance for Summarization](slides/paper-slides/A%20Simple%20Theoretical%20Model%20of%20Importance%20for%20Summarization.pdf) ![](https://img.shields.io/badge/-papers-blue)
-* [ACL19-Multimodal Abstractive Summarization for How2 Videos](slides/paper-slides/Multimodal%20Abstractive%20Summarization%20for%20How2%20Videos.pdf) ![](https://img.shields.io/badge/-papers-blue)
+      * [Interactive](#interactive)-->
 
 ## Survey
 1. **Pretrained Language Models for Text Generation: A Survey** *Junyi Li, Tianyi Tang, Wayne Xin Zhao, Ji-Rong Wen* `IJCAI21` [[pdf]](https://arxiv.org/abs/2105.10311)
