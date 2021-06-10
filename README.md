@@ -523,6 +523,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 21. **Event-Centric Summary Generation** *Lucy Vanderwende Michele Banko Arul Menezes* `ACL04` [[pdf]](https://www.microsoft.com/en-us/research/publication/event-centric-summary-generation/) 
 
 ## Cross-Lingual
+1. **Evaluating the Efficacy of Summarization Evaluation across Languages** *Fajri Koto, Jey Han Lau, Timothy Baldwin* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.01478)
 1. **Cross-Lingual Abstractive Summarization with Limited Parallel Resources** *Yu Bai, Yang Gao, Heyan Huang* `ACL2021` [[pdf]](https://arxiv.org/abs/2105.13648) [[code]](https://github.com/WoodenWhite/MCLAS)
 1. **Unsupervised Approach to Multilingual User Comments Summarization** *Aleš Žagar, Marko Robnik-Šikonja* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.hackashop-1.13/) [[code]](https://colab.research.google.com/drive/12wUDg64k4oK24rNSd4DRZL9xywNMiPil?usp=sharing)
 1. **MultiHumES: Multilingual Humanitarian Dataset for Extractive Summarization** *Jenny Paola Yela-Bello, Ewan Oglethorpe, Navid Rekabsaz* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.146/) [[data]](https://deephelp.zendesk.com/hc/en-us/sections/360011925552-MultiHumES)
