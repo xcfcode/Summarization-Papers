@@ -12,6 +12,10 @@ This repo contains a list of summarization papers including various topics. If a
 > For more topics, please refer to another repo [xcfcode/What-I-Have-Read](https://github.com/xcfcode/What-I-Have-Read), including Meta Learning, Graph Neural Networks (GNN), Knowledge Distillation, Pre-trained Language Models, Natural Language Generation and several [survey and paper slides](https://github.com/xcfcode/What-I-Have-Read#slides). Other excellent Repos: [xcfcode/covid19-nlp-papers](https://github.com/xcfcode/covid19-nlp-papers), [yizhen20133868/NLP-Conferences-Code](https://github.com/yizhen20133868/NLP-Conferences-Code), [thunlp/PromptPapers](https://github.com/thunlp/PromptPapers), [teacherpeterpan/Question-Generation-Paper-List](https://github.com/teacherpeterpan/Question-Generation-Paper-List), [thunlp/PLMpapers](https://github.com/thunlp/PLMpapers), [thu-coai/PaperForONLG](https://github.com/thu-coai/PaperForONLG), [NiuTrans/ABigSurvey](https://github.com/NiuTrans). 
 
 
+## Trending
+![](./pic/trending.png)
+
+
 ## Researchers 
 *Alphabetical order*
 
