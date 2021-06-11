@@ -236,6 +236,7 @@ This repo contains a list of summarization papers including various topics. If a
 |80|[ConvoSumm](https://github.com/Yale-LILY/ConvoSumm)|Dialogue|[ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining](https://arxiv.org/abs/2106.00829)|ACL2021|
 |81|[AgreeSum](https://github.com/google-research-datasets/AgreeSum)|Multi-document with entailment annotations|[AgreeSum: Agreement-Oriented Multi-Document Summarization](https://arxiv.org/abs/2106.02278)|Findings of ACL2021|
 |82|[En2De](https://github.com/ybai-nlp/MCLAS)|Cross-Lingual En2De|[Cross-Lingual Abstractive Summarization with Limited Parallel Resources](https://arxiv.org/abs/2105.13648)|ACL 2021|
+|83|[VT-SSum]()|Spoken|[VT-SSum: A Benchmark Dataset for Video Transcript Segmentation and Summarization](https://arxiv.org/abs/2106.05606)||
 
 ## Dialogue 
 1. **Summary Grounded Conversation Generation** *Chulaka Gunasekara, Guy Feigenblat, Benjamin Sznajder, Sachindra Joshi, David Konopnicki* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.03337)
@@ -489,6 +490,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 21. **Event-Centric Summary Generation** *Lucy Vanderwende Michele Banko Arul Menezes* `ACL04` [[pdf]](https://www.microsoft.com/en-us/research/publication/event-centric-summary-generation/) 
 
 ## Cross-Lingual
+1. **ZmBART: An Unsupervised Cross-lingual Transfer Framework for Language Generation** *Kaushal Kumar Maurya, Maunendra Sankar Desarkar, Yoshinobu Kano, Kumari Deepshikha* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.01597) [[code]](https://github.com/kaushal0494/ZmBART)
 1. **mT6: Multilingual Pretrained Text-to-Text Transformer with Translation Pairs** *Zewen Chi, Li Dong, Shuming Ma, Shaohan Huang Xian-Ling Mao, Heyan Huang, Furu Wei* [[pdf]](https://arxiv.org/abs/2104.08692) [[code]](https://github.com/microsoft/unilm)
 1. **Evaluating the Efficacy of Summarization Evaluation across Languages** *Fajri Koto, Jey Han Lau, Timothy Baldwin* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.01478)
 1. **Cross-Lingual Abstractive Summarization with Limited Parallel Resources** *Yu Bai, Yang Gao, Heyan Huang* `ACL2021` [[pdf]](https://arxiv.org/abs/2105.13648) [[code]](https://github.com/WoodenWhite/MCLAS)
