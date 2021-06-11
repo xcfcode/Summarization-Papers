@@ -239,6 +239,7 @@ This repo contains a list of summarization papers including various topics. If a
 |83|[VT-SSum]()|Spoken|[VT-SSum: A Benchmark Dataset for Video Transcript Segmentation and Summarization](https://arxiv.org/abs/2106.05606)||
 
 ## Dialogue 
+1. **Hierarchical Learning for Generation with Long Source Sequences** *Tobias Rohde, Xiaoxia Wu, Yinhan Liu* [[pdf]](https://arxiv.org/abs/2104.07545) [[code]](https://github.com/birch-research/hierarchical-learning)
 1. **Summary Grounded Conversation Generation** *Chulaka Gunasekara, Guy Feigenblat, Benjamin Sznajder, Sachindra Joshi, David Konopnicki* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.03337)
 1. **Incorporating Commonsense Knowledge into Abstractive Dialogue Summarization via Heterogeneous Graph Networks** *Xiachong Feng, Xiaocheng Feng, Bing Qin* `CCL2021` [[pdf]](https://arxiv.org/abs/2010.10044)  ![](https://img.shields.io/badge/-samsum-orange)
 1. **ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining** *Alexander R. Fabbri, Faiaz Rahman, Imad Rizvi, Borui Wang, Haoran Li, Yashar Mehdad, Dragomir Radev* `ACL2021` [[pdf]](https://arxiv.org/abs/2106.00829) [[code]](https://github.com/Yale-LILY/ConvoSumm) ![](https://img.shields.io/badge/-data-ff69b4)
