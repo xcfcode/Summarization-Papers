@@ -373,7 +373,7 @@ This repo contains a list of summarization papers including various topics. If a
 ## Scientific Document
 1. **Bringing Structure into Summaries: a Faceted Summarization Dataset for Long Scientific Documents** *Rui Meng, Khushboo Thaker, Lei Zhang, Yue Dong, Xingdi Yuan, Tong Wang, Daqing He* `ACL2021` [[pdf]](https://arxiv.org/abs/2106.00130) [[data]](https://github.com/hfthair/emerald_crawler)
 1. **Sliding Selector Network with Dynamic Memory for Extractive Summarization of Long Documents** *Peng Cui, Le Hu* `NAACL21` [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.470/) [[code]](https://github.com/pcui-nlp/SSN_DM)
-1. **Long-Span Dependencies in Transformer-based Summarization Systems** *Potsawee Manakul, Mark J. F. Gales* `ACl21` [[pdf]](https://arxiv.org/abs/2105.03801)
+1. **Long-Span Summarization via Local Attention and Content Selection** *Potsawee Manakul, Mark J. F. Gales* `ACl21` [[pdf]](https://arxiv.org/abs/2105.03801)
 1. **Globalizing BERT-based Transformer Architectures for Long Document Summarization** *Quentin Grail, Julien Perez, Eric Gaussier* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.154/)
 1. **Discourse-Aware Unsupervised Summarization for Long Scientific Documents** *Yue Dong, Andrei Mircea Romascanu, Jackie Chi Kit Cheung* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.93/) [[code]](https://github.com/mirandrom/HipoRank)
 1. **Enhancing Scientific Papers Summarization with Citation Graph** *Chenxin An, Ming Zhong, Yiran Chen, Danqing Wang, Xipeng Qiu, Xuanjing Huang*  `AAAI21` [[pdf]](https://arxiv.org/abs/2104.03057) [[code]](https://github.com/ChenxinAn-fdu/CGSum)
@@ -708,6 +708,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 2. **Learning towards Abstractive Timeline Summarization** *Xiuying Chen, Zhangming Chan, Shen Gao, Meng-Hsuan Yu, Dongyan Zhao, Rui Yan* `IJCAI19` [[pdf]](https://www.ijcai.org/Proceedings/2019/686) [[data]](https://github.com/yingtaomj/Learning-towards-Abstractive-Timeline-Summarization)
 
 ## Opinion
+1. **PASS: Perturb-and-Select Summarizer for Product Reviews** *Nadav Oved, Ran Levy* `ACL 2021` [[pdf]](https://assets.amazon.science/33/41/677245214d0c945597a735a1c521/pass-perturb-and-select-summarizer-for-product-reviews.pdf)
 1. **Self-Supervised Multimodal Opinion Summarization** *Jinbae Im, Moonki Kim, Hoyeop Lee, Hyunsouk Cho, Sehee Chung* `ACL21` [[pdf]](https://arxiv.org/abs/2105.13135) [[code]](https://github.com/nc-ai/knowledge/tree/master/publications/MultimodalSum)
 1. **MRCBert: A Machine Reading Comprehension Approach for Unsupervised Summarization** *Saurabh Jain, Guokai Tang, Lim Sze Chi* [[pdf]](https://arxiv.org/abs/2105.00239) [[code]](https://github.com/saurabhhssaurabh/reviews_summarization)
 1. **Informative and Controllable Opinion Summarization** *Reinald Kim Amplayo, Mirella Lapata* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.229/) [[code]](https://github.com/rktamplayo/CondaSum)
@@ -784,9 +785,9 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 3. **A Semantic QA-Based Approach for Text Summarization Evaluation** *Ping Chen, Fei Wu, Tong Wang, Wei Ding* `AAAI18` [[pdf]](https://arxiv.org/abs/1704.06259) 
 
 ## Query
+1. **Generating Query Focused Summaries from Query-Free Resources** `ACL 2021` *Yumo Xu, Mirella Lapata* [[pdf]](https://arxiv.org/abs/2012.14774) [[code]](https://github.com/yumoxu/margesum)
 1. **Improve Query Focused Abstractive Summarization by Incorporating Answer Relevance** *Dan Su, Tiezheng Yu, Pascale Fung* `ACL21` [[pdf]](https://arxiv.org/abs/2105.12969) [[code]](https://github.com/HLTCHKUST/QFS)
 1. **D2S: Document-to-Slide Generation Via Query-Based Text Summarization** *Edward Sun, Yufang Hou, Dakuo Wang, Yunfeng Zhang, Nancy X.R. Wang* `NAACL21` [[pdf]](https://arxiv.org/abs/2105.03664) [[code]](https://github.com/IBM/document2slides)
-1. **Abstractive Query Focused Summarization with Query-Free Resources** *Yumo Xu, Mirella Lapata* [[pdf]](https://arxiv.org/abs/2012.14774) [[code]](https://github.com/yumoxu/margesum)
 
 ## EncoderFusion
 1. **Understanding and Improving Encoder Layer Fusion in Sequence-to-Sequence Learning** *Xuebo Liu, Longyue Wang, Derek F. Wong, Liang Ding, Lidia S. Chao, Zhaopeng Tu* `ICLR21` [[pdf]](https://openreview.net/pdf?id=n1HD8M6WGn) 
