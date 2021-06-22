@@ -241,6 +241,8 @@ This repo contains a list of summarization papers including various topics. If a
 |84|[AESLC](https://github.com/ryanzhumich/AESLC)|Email|[This Email Could Save Your Life: Introducing the Task of Email Subject Line Generation](https://www.aclweb.org/anthology/P19-1043/)|ACL 2019|
 |85|[XL-Sum](https://github.com/csebuetnlp/xl-sum)|Cross-lingual|[XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages](http://rifatshahriyar.github.io/files/XL-Sum.pdf)|Findings of ACL2021|
 |86|[TES 2012-2016](https://github.com/JoeBloggsIR/TSSuBERT)||[TSSuBERT: Tweet Stream Summarization Using BERT](https://arxiv.org/abs/2106.08770)||
+|87|[PENS](https://msnews.github.io/pens.html)|Personalized Headline|[PENS: A Dataset and Generic Framework for Personalized News Headline Generation](https://www.microsoft.com/en-us/research/uploads/prod/2021/06/ACL2021_PENS_Camera_Ready_1862_Paper.pdf)|ACL 2021|
+
 
 ## Dialogue 
 1. **Coreference-Aware Dialogue Summarization** *Zhengyuan Liu, Ke Shi, Nancy F. Chen* `SIGDIAL 2021` [[pdf]](https://arxiv.org/abs/2106.08556)
@@ -813,6 +815,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 1. **Meta-Transfer Learning for Low-Resource Abstractive Summarization** *Yi-Syuan Chen, Hong-Han Shuai* `AAAI21` [[pdf]](https://basiclab.nctu.edu.tw/assets/LowResourceSummarization.pdf) [[code]](https://github.com/YiSyuanChen/MTL-ABS)
 
 ## Personalized
+1. **PENS: A Dataset and Generic Framework for Personalized News Headline Generation** *Xiang Ao Xiting Wang Ling Luo Ying Qiao Qing He Xing Xie* `ACL 2021` [[pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2021/06/ACL2021_PENS_Camera_Ready_1862_Paper.pdf) [[data]](https://msnews.github.io/pens.html) 
 1. **Collabot: Personalized Group Chat Summarization** *Naama Tepper, Anat Hashavit, Maya Barnea, Inbal Ronen, Lior Leiba* `WSDM18` [[pdf]](https://dl.acm.org/doi/abs/10.1145/3159652.3160588)
 1. **Context Enhanced Personalized Social Summarization** *Po Hu, Donghong Ji, Chong Teng, Yujing Guo* `COLING12` [[pdf]](https://www.aclweb.org/anthology/C12-1075.pdf)
 
