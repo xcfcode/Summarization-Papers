@@ -119,6 +119,7 @@ This repo contains a list of summarization papers including various topics. If a
 ## Analysis
 ![](https://img.shields.io/badge/Analysis-analysis-red) ![](https://img.shields.io/badge/Meta%20Evaluation-evaluation-brightgreen) ![](https://img.shields.io/badge/Bias-bias-orange) ![](https://img.shields.io/badge/Architecture-architecture-blue)
 
+1. **How well do you know your summarization datasets?** *Priyam Tejaswin, Dhruv Naik, Pengfei Liu* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.11388) [[code]](https://github.com/priyamtejaswin/howwelldoyouknow)
 1. **Dissecting Generation Modes for Abstractive Summarization Models via Ablation and Attribution** *Jiacheng Xu, Greg Durrett* `ACL2021` [[pdf]](https://arxiv.org/abs/2106.01518) [[code]](https://github.com/jiacheng-xu/sum-interpret)
 1. **To Point or Not to Point: Understanding How Abstractive Summarizers Paraphrase Text** *Matt Wilber, William Timkey, Marten Van Schijndel* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.01581) [[code]](https://github.com/mwilbz/pointer-generator-analysis)
 1. **What Makes a Good Summary? Reconsidering the Focus of Automatic Summarization** *Maartje ter Hoeve, Julia Kiseleva, Maarten de Rijke* [[pdf]](https://arxiv.org/abs/2012.07619)
