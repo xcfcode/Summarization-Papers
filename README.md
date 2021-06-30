@@ -255,6 +255,7 @@ This repo contains a list of summarization papers including various topics. If a
 |97|[MeQSum](https://github.com/abachaa/MeQSum)|Medical|[On the Summarization of Consumer Health Questions](https://www.aclweb.org/anthology/P19-1215/)|ACL 2019|
 |98|[OpoSum](https://github.com/stangelid/oposum)|Opinion|[Summarizing Opinions: Aspect Extraction Meets Sentiment Prediction and They Are Both Weakly Supervised](https://www.aclweb.org/anthology/D18-1403/)|EMNLP 2018|
 |99|[MM-AVS](https://github.com/xiyan524/MM-AVS)|Multi-modal|[Multi-modal Summarization for Video-containing Documents](https://arxiv.org/abs/2009.08018)|NAACL 2021|
+|100|[WikiCatSum](https://github.com/lauhaide/WikiCatSum)|multi-doc|[Generating Summaries with Topic Templates and Structured Convolutional Decoders](https://arxiv.org/abs/1906.04687)|ACL 2019|
 
 
 ## Dialogue 
@@ -473,6 +474,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 4. **HIGHRES: Highlight-based Reference-less Evaluation of Summarization** *Hardy, Shashi Narayan, Andreas Vlachos* `ACL19` [[pdf]](https://arxiv.org/abs/1906.01361) [[code]](https://github.com/sheffieldnlp/highres)
 
 ## Multi-Document
+1. **TWAG: A Topic-Guided Wikipedia Abstract Generator** *Fangwei Zhu, Shangqing Tu, Jiaxin Shi, Juanzi Li, Lei Hou, Tong Cui* `ACL 2021` [[pdf]](https://arxiv.org/abs/2106.15135) [[code]](https://github.com/THU-KEG/TWAG)
 1. **AgreeSum: Agreement-Oriented Multi-Document Summarization** *Richard Yuanzhe Pang, Adam D. Lelkes, Vinh Q. Tran, Cong Yu* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.02278) [[data]](https://github.com/google-research-datasets/AgreeSum)
 1. **Analysis of GraphSum's Attention Weights to Improve the Explainability of Multi-Document Summarization** *M. Lautaro Hickmann, Fabian Wurzberger, Megi Hoxhalli, Arne Lochner, Jessica Töllich, Ansgar Scherp* [[pdf]](https://arxiv.org/abs/2105.11908)
 1. **Extending Multi-Document Summarization Evaluation to the Interactive Setting** *Ori Shapira, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal, Yael Amsterdamer, Ido Dagan* `NAACL21` [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.54/) [[code]](https://github.com/OriShapira/InterExp)
@@ -749,6 +751,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 2. **Better Rewards Yield Better Summaries: Learning to Summarise Without References** *Florian Böhm, Yang Gao, Christian M. Meyer, Ori Shapira, Ido Dagan, Iryna Gurevych* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.01214) [[code]](https://github.com/yg211/summary-reward-no-reference)
 
 ## Extractive
+1. **Topic Modeling Based Extractive Text Summarization** *Kalliath Abdul Rasheed Issam, Shivam Patel, Subalalitha C. N* `Journal` [[pdf]](https://arxiv.org/abs/2106.15313) 
 1. **Demoting the Lead Bias in News Summarization via Alternating Adversarial Learning** *Linzi Xing, Wen Xiao, Giuseppe Carenini* `ACL2021-short` [[pdf]](https://arxiv.org/abs/2105.14241) [[code]](https://github.com/lxing532/Debiasing)
 1. **Genetic Algorithms For Extractive Summarization** *William Chen, Kensal Ramos, Kalyan Naidu Mullaguri* [[pdf]](https://arxiv.org/abs/2105.02365)
 1. **Extractive Summarization Considering Discourse and Coreference Relations based on Heterogeneous Graph** *Yin Jou Huang, Sadao Kurohashi* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.265/)
