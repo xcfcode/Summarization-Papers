@@ -258,6 +258,7 @@ This repo contains a list of summarization papers including various topics. If a
 |99|[MM-AVS](https://github.com/xiyan524/MM-AVS)|Multi-modal|[Multi-modal Summarization for Video-containing Documents](https://arxiv.org/abs/2009.08018)|NAACL 2021|
 |100|[WikiCatSum](https://github.com/lauhaide/WikiCatSum)|multi-doc|[Generating Summaries with Topic Templates and Structured Convolutional Decoders](https://arxiv.org/abs/1906.04687)|ACL 2019|
 |101|[SDF-TLS](https://github.com/MorenoLaQuatra/SDF-TLS)|Timeline|[Summarize Dates First: A Paradigm Shift in Timeline Summarization](https://dl.acm.org/doi/10.1145/3404835.3462954)|SIGIR 2021|
+|102|[RWS-Cit](https://github.com/jingqiangchen/RWS-Cit)||[*Automatic generation of related work through summarizing citations](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cpe.4261)|2017|
 
 
 ## Dialogue 
@@ -509,6 +510,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 17. **Adapting the Neural Encoder-Decoder Framework from Single to Multi-Document Summarization** *Logan Lebanoff, Kaiqiang Song, Fei Liu* `EMNLP18` [[pdf]](https://www.aclweb.org/anthology/D18-1446/) [[code]](https://github.com/ucfnlp/multidoc_summarization)
 18. **Graph-based Neural Multi-Document Summarization** *Michihiro Yasunaga, Rui Zhang, Kshitijh Meelu, Ayush Pareek, Krishnan Srinivasan, Dragomir Radev* `CoNLL17` [[pdf]](https://www.aclweb.org/anthology/K17-1045/)
 19. **Improving Multi-Document Summarization via Text Classification** *Ziqiang Cao, Wenjie Li, Sujian Li, Furu Wei* `AAAI17` [[pdf]](https://arxiv.org/abs/1611.09238)
+20. **Automatic generation of related work through summarizing citations** *Jingqiang Chen, Hai Zhuge* [[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cpe.4261) [[data]](https://github.com/jingqiangchen/RWS-Cit)
 20. **An Unsupervised Multi-Document Summarization Framework Based on Neural Document Model** *Shulei Ma, Zhi-Hong Deng, Yunlun Yang* `COLING16` [[pdf]](https://www.aclweb.org/anthology/C16-1143/)
 21. **Event-Centric Summary Generation** *Lucy Vanderwende Michele Banko Arul Menezes* `ACL04` [[pdf]](https://www.microsoft.com/en-us/research/publication/event-centric-summary-generation/) 
 
