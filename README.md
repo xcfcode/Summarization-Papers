@@ -121,7 +121,7 @@ This repo contains a list of summarization papers including various topics. If a
 ![](https://img.shields.io/badge/Analysis-analysis-red) ![](https://img.shields.io/badge/Meta%20Evaluation-evaluation-brightgreen) ![](https://img.shields.io/badge/Bias-bias-orange) ![](https://img.shields.io/badge/Architecture-architecture-blue)
 
 1. **How well do you know your summarization datasets?** *Priyam Tejaswin, Dhruv Naik, Pengfei Liu* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.11388) [[code]](https://github.com/priyamtejaswin/howwelldoyouknow)
-1. **Dissecting Generation Modes for Abstractive Summarization Models via Ablation and Attribution** *Jiacheng Xu, Greg Durrett* `ACL2021` [[pdf]](https://arxiv.org/abs/2106.01518) [[code]](https://github.com/jiacheng-xu/sum-interpret)
+1. **Dissecting Generation Modes for Abstractive Summarization Models via Ablation and Attribution** *Jiacheng Xu, Greg Durrett* `ACL2021` [[pdf]](https://aclanthology.org/2021.acl-long.539/) [[code]](https://github.com/jiacheng-xu/sum-interpret)
 1. **To Point or Not to Point: Understanding How Abstractive Summarizers Paraphrase Text** *Matt Wilber, William Timkey, Marten Van Schijndel* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.01581) [[code]](https://github.com/mwilbz/pointer-generator-analysis)
 1. **What Makes a Good Summary? Reconsidering the Focus of Automatic Summarization** *Maartje ter Hoeve, Julia Kiseleva, Maarten de Rijke* [[pdf]](https://arxiv.org/abs/2012.07619)
 1. **Intrinsic Evaluation of Summarization Datasets** *Rishi Bommasani, Claire Cardie* `EMNLP20` [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.649/) ![](https://img.shields.io/badge/-analysis-red)
@@ -235,8 +235,8 @@ This repo contains a list of summarization papers including various topics. If a
 |76|[DialSumm](https://github.com/cylnlp/DialSumm)|Dialogue|[DialSumm: A Real-Life Scenario Dialogue Summarization Dataset](https://arxiv.org/abs/2105.06762)|Findings of ACL21|
 |77|[BookSum](https://github.com/salesforce/booksum)|Book, Long-form|[BookSum: A Collection of Datasets for Long-form Narrative Summarization](https://arxiv.org/abs/2105.08209)||
 |78|[CLES](http://icrc.hitsz.edu.cn/xszy/yjzy.htm)![](https://img.shields.io/badge/-Chinese-orange)|Chinese Weibo |[A Large-Scale Chinese Long-Text Extractive Summarization Corpus](https://ieeexplore.ieee.org/abstract/document/9414946)|ICASSP|
-|79|[FacetSum](https://github.com/hfthair/emerald_crawler)|Scientific Paper|[Bringing Structure into Summaries: a Faceted Summarization Dataset for Long Scientific Documents](https://arxiv.org/abs/2106.00130)|ACL2021 short|
-|80|[ConvoSumm](https://github.com/Yale-LILY/ConvoSumm)|Dialogue|[ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining](https://arxiv.org/abs/2106.00829)|ACL2021|
+|79|[FacetSum](https://github.com/hfthair/emerald_crawler)|Scientific Paper|[Bringing Structure into Summaries: a Faceted Summarization Dataset for Long Scientific Documents](https://aclanthology.org/2021.acl-short.137/)|ACL2021 short|
+|80|[ConvoSumm](https://github.com/Yale-LILY/ConvoSumm)|Dialogue|[ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining](https://aclanthology.org/2021.acl-long.535/)|ACL2021|
 |81|[AgreeSum](https://github.com/google-research-datasets/AgreeSum)|Multi-document with entailment annotations|[AgreeSum: Agreement-Oriented Multi-Document Summarization](https://arxiv.org/abs/2106.02278)|Findings of ACL2021|
 |82|[En2De](https://github.com/ybai-nlp/MCLAS)|Cross-Lingual En2De|[Cross-Lingual Abstractive Summarization with Limited Parallel Resources](https://arxiv.org/abs/2105.13648)|ACL 2021|
 |83|[VT-SSum]()|Spoken|[VT-SSum: A Benchmark Dataset for Video Transcript Segmentation and Summarization](https://arxiv.org/abs/2106.05606)||
@@ -259,14 +259,17 @@ This repo contains a list of summarization papers including various topics. If a
 |100|[WikiCatSum](https://github.com/lauhaide/WikiCatSum)|multi-doc|[Generating Summaries with Topic Templates and Structured Convolutional Decoders](https://arxiv.org/abs/1906.04687)|ACL 2019|
 |101|[SDF-TLS](https://github.com/MorenoLaQuatra/SDF-TLS)|Timeline|[Summarize Dates First: A Paradigm Shift in Timeline Summarization](https://dl.acm.org/doi/10.1145/3404835.3462954)|SIGIR 2021|
 |102|[RWS-Cit](https://github.com/jingqiangchen/RWS-Cit)||[*Automatic generation of related work through summarizing citations](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cpe.4261)|2017|
-
+|103|[MTLS](https://yiyualt.github.io/mtlsdata/)|Timeline|[Multi-TimeLine Summarization (MTLS): Improving Timeline Summarization by Generating Multiple Summaries](https://aclanthology.org/2021.acl-long.32/)|ACL 2021|
+|104|[EMAILSUM](https://github.com/ZhangShiyue/EmailSum)|Email|[EmailSum: Abstractive Email Thread Summarization](https://aclanthology.org/2021.acl-long.537/)|ACL 2021|
+|105|[WikiSum](https://registry.opendata.aws/wikisum/)|WikiHow|[WikiSum: Coherent Summarization Dataset for Efficient Human-Evaluation](https://aclanthology.org/2021.acl-short.28/)|ACL 2021 Short|
+|106|[SumPubMed](https://github.com/vgupta123/sumpubmed)|PubMed Scientific Article|[SumPubMed: Summarization Dataset of PubMed Scientific Articles](https://aclanthology.org/2021.acl-srw.30/)|ACL 2021 Student Research Workshop|
 
 ## Dialogue 
 > **A Survey on Dialogue Summarization: Recent Advances and New Frontiers** *Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2107.03175)
 
 ### Dataset
 2. **DialSumm: A Real-Life Scenario Dialogue Summarization Dataset** *Yulong Chen, Yang Liu, Liang Chen, Yue Zhang* `Findings of ACL21` [[pdf]](https://arxiv.org/abs/2105.06762) [[data]](https://github.com/cylnlp/DialSumm)
-3. **ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining** *Alexander R. Fabbri, Faiaz Rahman, Imad Rizvi, Borui Wang, Haoran Li, Yashar Mehdad, Dragomir Radev* `ACL2021` [[pdf]](https://arxiv.org/abs/2106.00829) [[code]](https://github.com/Yale-LILY/ConvoSumm)
+3. **ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining** *Alexander R. Fabbri, Faiaz Rahman, Imad Rizvi, Borui Wang, Haoran Li, Yashar Mehdad, Dragomir Radev* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.535/) [[code]](https://github.com/Yale-LILY/ConvoSumm)
 4. **MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization** *Chenguang Zhu, Yang Liu, Jie Mei, Michael Zeng* `NAACL21` [[pdf]](https://arxiv.org/abs/2103.06410) [[code]](https://github.com/zcgzcgzcg1/MediaSum) 
 5. **QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization** *Ming Zhong, Da Yin, Tao Yu, Ahmad Zaidi, Mutethia Mutuma, Rahul Jha, Ahmed Hassan Awadallah, Asli Celikyilmaz, Yang Liu, Xipeng Qiu, Dragomir Radev* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.05938) [[data]](https://github.com/Yale-LILY/QMSum) 
 6. **Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset** *Revanth Rameshkumar, Peter Bailey* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.459/) [[data]](https://github.com/RevanthRameshkumar/CRD3) 
@@ -281,6 +284,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 
 ### Email Summarization
+* **EmailSum: Abstractive Email Thread Summarization** *Shiyue Zhang, Asli Celikyilmaz, Jianfeng Gao, Mohit Bansal* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.537/) [[data]](https://github.com/ZhangShiyue/EmailSum)
 * **Smart To-Do: Automatic Generation of To-Do Items from Emails** *Sudipto Mukherjee, Subhabrata Mukherjee, Marcello Hasegawa, Ahmed Hassan Awadallah, Ryen White* `ACL 2020` [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.767/) [[code]](https://github.com/MSR-LIT/SmartToDo) [[bib]](https://www.aclweb.org/anthology/2020.acl-main.767.bib)
 * **Identifying Implicit Quotes for Unsupervised Extractive Summarization of Conversations** *Ryuji Kano, Yasuhide Miura, Tomoki Taniguchi, Tomoko Ohkuma* `AACL20` [[pdf]](https://www.aclweb.org/anthology/2020.aacl-main.32/) 
 * **This Email Could Save Your Life: Introducing the Task of Email Subject Line Generation** *Rui Zhang, Joel Tetreault* `ACL 2019` [[pdf]](https://www.aclweb.org/anthology/P19-1043/) [[data]](https://github.com/ryanzhumich/AESLC) [[bib]](https://www.aclweb.org/anthology/P19-1043.bib)
@@ -337,6 +341,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 
 ### Chit-Chat Summarization
+1. **Situation-Based Multiparticipant Chat Summarization: a Concept, an Exploration-Annotation Tool and an Example Collection** *Anna Smirnova, Evgeniy Slobodkin, George Chernishev* `ACL 2021 Student Research Workshop` [[pdf]](https://aclanthology.org/2021.acl-srw.14/) [[tool]](https://github.com/mechanicpanic/Chat-Corpora-Annotator) [[data]](https://github.com/mechanicpanic/Situation_Dataset)
 1. **Coreference-Aware Dialogue Summarization** *Zhengyuan Liu, Ke Shi, Nancy F. Chen* `SIGDIAL 2021` [[pdf]](https://arxiv.org/abs/2106.08556)
 1. **Incorporating Commonsense Knowledge into Abstractive Dialogue Summarization via Heterogeneous Graph Networks** *Xiachong Feng, Xiaocheng Feng, Bing Qin* `CCL 2021` [[pdf]](https://arxiv.org/abs/2010.10044)  
 1. **Hierarchical Speaker-Aware Sequence-to-Sequence Model for Dialogue Summarization** *Yuejie Lei, Yuanmeng Yan, Zhiyuan Zeng, Keqing He, Ximing Zhang, Weiran Xu* `ICASSP21` [[pdf]](https://ieeexplore.ieee.org/document/9414547) 
@@ -350,7 +355,7 @@ This repo contains a list of summarization papers including various topics. If a
 4. **SAMSum Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization** *Bogdan Gliwa, Iwona Mochol, Maciej Biesek, Aleksander Wawer* `EMNLP19` [[pdf]](https://arxiv.org/abs/1911.12237) [[data]](https://arxiv.org/src/1911.12237v2/anc/corpus.7z) 
 
 ### Medical Dialogue Summarization
-1. **Generating SOAP Notes from Doctor-Patient Conversations Using Modular Summarization Techniques** *Kundan Krishna, Sopan Khosla, Jeffrey P. Bigham, Zachary C. Lipton* `ACL 2021` [[pdf]](https://arxiv.org/abs/2005.01795) [[code]](https://github.com/acmi-lab/modular-summarization)
+1. **Generating SOAP Notes from Doctor-Patient Conversations Using Modular Summarization Techniques** *Kundan Krishna, Sopan Khosla, Jeffrey P. Bigham, Zachary C. Lipton* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.384/) [[code]](https://github.com/acmi-lab/modular-summarization)
 1. **Summarizing Medical Conversations via Identifying Important Utterances** *Yan Song, Yuanhe Tian, Nan Wang, Fei Xia* `COLING 2020` [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.63/) [[code]](https://github.com/cuhksz-nlp/HET-MC) [[bib]](https://www.aclweb.org/anthology/2020.coling-main.63.bib)
 2. **Dr.Summarize: Global Summarization of Medical Dialogue by Exploiting Local Structures** *Anirudh Joshi, Namit Katariya, Xavier Amatriain, Anitha Kannan* `Findings of EMNLP 2020` [[pdf]](https://arxiv.org/abs/2009.08666) [[bib]](https://www.aclweb.org/anthology/2020.findings-emnlp.335.bib)
 3. **Medical Dialogue Summarization for Automated Reporting in Healthcare** *Sabine Molenaar, Lientje Maas, Verónica Burriel, Fabiano Dalpiaz,Sjaak Brinkkemper* `Advanced Information Systems Engineering Workshops 2020` [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7225507/) [[bib]]()
@@ -372,7 +377,8 @@ This repo contains a list of summarization papers including various topics. If a
 2. **Domain Adaptation to Summarize Human Conversations** *Oana Sandu, Giuseppe Carenini, Gabriel Murray, Raymond Ng* `ACL2010 Workshop` [[pdf]](https://www.aclweb.org/anthology/W10-2603/)
 
 ### Others
-1. **Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization** *Xiachong Feng, Xiaocheng Feng, Libo Qin, Bing Qin, Ting Liu* `ACL21` [[pdf]](https://arxiv.org/abs/2105.12544) [[code]](https://github.com/xcfcode/PLM_annotator)
+1. **RepSum: Unsupervised Dialogue Summarization based on Replacement Strategy** *Xiyan Fu, Yating Zhang, Tianyi Wang, Xiaozhong Liu, Changlong Sun, Zhenglu Yang* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.471/) [[code]](https://github.com/xiyan524/RepSum)
+1. **Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization** *Xiachong Feng, Xiaocheng Feng, Libo Qin, Bing Qin, Ting Liu* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.117/) [[code]](https://github.com/xcfcode/PLM_annotator)
 1. **A Two-Phase Approach for Abstractive Podcast Summarization** *Chujie Zheng, Kunpeng Zhang, Harry Jiannan Wang, Ling Fan* `TREC 2020 Podcasts Track` [[pdf]](https://arxiv.org/abs/2011.08291) 
 1. **Hierarchical Learning for Generation with Long Source Sequences** *Tobias Rohde, Xiaoxia Wu, Yinhan Liu* [[pdf]](https://arxiv.org/abs/2104.07545) [[code]](https://github.com/birch-research/hierarchical-learning)
 1. **Improving Online Forums Summarization via Unifying Hierarchical Attention Networks with Convolutional Neural Networks** *Sansiri Tarnpradab, Fereshteh Jafariakinabad, Kien A. Hua* [[pdf]](https://arxiv.org/abs/2103.13587) [[code]](https://github.com/sansiri20/forums_summ)
@@ -386,15 +392,15 @@ This repo contains a list of summarization papers including various topics. If a
 
 
 ## Scientific Document
-1. **Bringing Structure into Summaries: a Faceted Summarization Dataset for Long Scientific Documents** *Rui Meng, Khushboo Thaker, Lei Zhang, Yue Dong, Xingdi Yuan, Tong Wang, Daqing He* `ACL2021 short` [[pdf]](https://arxiv.org/abs/2106.00130) [[data]](https://github.com/hfthair/emerald_crawler)
+1. **Bringing Structure into Summaries: a Faceted Summarization Dataset for Long Scientific Documents** *Rui Meng, Khushboo Thaker, Lei Zhang, Yue Dong, Xingdi Yuan, Tong Wang, Daqing He* `ACL 2021 short` [[pdf]](https://aclanthology.org/2021.acl-short.137/) [[data]](https://github.com/hfthair/emerald_crawler)
 1. **Sliding Selector Network with Dynamic Memory for Extractive Summarization of Long Documents** *Peng Cui, Le Hu* `NAACL21` [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.470/) [[code]](https://github.com/pcui-nlp/SSN_DM)
-1. **Long-Span Summarization via Local Attention and Content Selection** *Potsawee Manakul, Mark J. F. Gales* `ACl21` [[pdf]](https://arxiv.org/abs/2105.03801)
+1. **Long-Span Summarization via Local Attention and Content Selection** *Potsawee Manakul, Mark J. F. Gales* `ACl 2021` [[pdf]](https://aclanthology.org/2021.acl-long.470/)
 1. **Globalizing BERT-based Transformer Architectures for Long Document Summarization** *Quentin Grail, Julien Perez, Eric Gaussier* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.154/)
 1. **Discourse-Aware Unsupervised Summarization for Long Scientific Documents** *Yue Dong, Andrei Mircea Romascanu, Jackie Chi Kit Cheung* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.93/) [[code]](https://github.com/mirandrom/HipoRank)
 1. **Enhancing Scientific Papers Summarization with Citation Graph** *Chenxin An, Ming Zhong, Yiran Chen, Danqing Wang, Xipeng Qiu, Xuanjing Huang*  `AAAI21` [[pdf]](https://arxiv.org/abs/2104.03057) [[code]](https://github.com/ChenxinAn-fdu/CGSum)
 1. **Efficient Attentions for Long Document Summarization** *Luyang Huang, Shuyang Cao, Nikolaus Parulian, Heng Ji, Lu Wang* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.02112) [[code]](https://github.com/luyang-huang96/LongDocSum) [[data]](https://gov-report-data.github.io/)
 1. **Can We Automate Scientific Reviewing?** *Weizhe Yuan, Pengfei Liu, and Graham Neubig* [[pdf]](https://arxiv.org/abs/2102.00176) [[code]](https://github.com/neulab/ReviewAdvisor)
-1. **Long Document Summarization in a Low Resource Setting using Pretrained Language Models** *Ahsaas Bajaj, Pavitra Dangati, Kalpesh Krishna, Pradhiksha Ashok Kumar, Rheeya Uppaal, Bradford Windsor, Eliot Brenner, Dominic Dotterrer, Rajarshi Das, Andrew McCallum* [[pdf]](http://arxiv.org/abs/2103.00751)
+1. **Long Document Summarization in a Low Resource Setting using Pretrained Language Models** *Ahsaas Bajaj, Pavitra Dangati, Kalpesh Krishna, Pradhiksha Ashok Kumar, Rheeya Uppaal, Bradford Windsor, Eliot Brenner, Dominic Dotterrer, Rajarshi Das, Andrew McCallum* `ACL 2021 Student Research Workshop` [[pdf]](https://aclanthology.org/2021.acl-srw.7/)
 1. **Summaformers @ LaySumm 20, LongSumm 20** *Sayar Ghosh Roy, Nikhil Pinnaparaju, Risubh Jain, Manish Gupta, Vasudeva Varma* `SDP EMNLP20` [[pdf]](https://arxiv.org/abs/2101.03553)
 1. **On Generating Extended Summaries of Long Documents** *Sajad Sotudeh, Arman Cohan, Nazli Goharian* `SDU21` [[pdf]](https://arxiv.org/abs/2012.14136) [[code]](https://github.com/Georgetown-IR-Lab/ExtendedSumm)
 1. **Self-Supervised Learning for Visual Summary Identification in Scientific Publications** *Shintaro Yamamoto, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, Shigeo Morishima* [[pdf]](https://arxiv.org/abs/2012.11213)
@@ -420,10 +426,10 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
-1. **Improving Factual Consistency of Abstractive Summarization on Customer Feedback** *Yang Liu, Yifei Sun, Vincent Gao* [[pdf]](https://arxiv.org/abs/2106.16188)
+1. **Improving Factual Consistency of Abstractive Summarization on Customer Feedback** *Yang Liu, Yifei Sun, Vincent Gao* `ACL 2021 Proceedings of The 4th Workshop on e-Commerce and NLP` [[pdf]](https://aclanthology.org/2021.ecnlp-1.19/)
 1. **AgreeSum: Agreement-Oriented Multi-Document Summarization** *Richard Yuanzhe Pang, Adam D. Lelkes, Vinh Q. Tran, Cong Yu* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.02278) [[data]](https://github.com/google-research-datasets/AgreeSum)
-1. **Focus Attention: Promoting Faithfulness and Diversity in Summarization** *Rahul Aralikatte, Shashi Narayan, Joshua Maynez, Sascha Rothe, Ryan McDonald* `ACL21` [[pdf]](https://arxiv.org/abs/2105.11921) 
-1. **Improving Factual Consistency of Abstractive Summarization via Question Answering** *Feng Nan, Cicero Nogueira dos Santos, Henghui Zhu, Patrick Ng, Kathleen McKeown, Ramesh Nallapati, Dejiao Zhang, Zhiguo Wang, Andrew O. Arnold, Bing Xiang* `ACL21` [[pdf]](https://arxiv.org/abs/2105.04623)
+1. **Focus Attention: Promoting Faithfulness and Diversity in Summarization** *Rahul Aralikatte, Shashi Narayan, Joshua Maynez, Sascha Rothe, Ryan McDonald* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.474/) 
+1. **Improving Factual Consistency of Abstractive Summarization via Question Answering** *Feng Nan, Cicero Nogueira dos Santos, Henghui Zhu, Patrick Ng, Kathleen McKeown, Ramesh Nallapati, Dejiao Zhang, Zhiguo Wang, Andrew O. Arnold, Bing Xiang* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.536/)
 1. **Discourse Understanding and Factual Consistency in Abstractive Summarization** *Saadia Gabriel, Antoine Bosselut, Jeff Da, Ari Holtzman, Jan Buys, Kyle Lo, Asli Celikyilmaz, Yejin Choi* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.34/) [[code]](https://github.com/skgabriel/coopnet)
 1. **Improving Faithfulness in Abstractive Summarization with Contrast Candidate Generation and Selection** *Sihao Chen, Fan Zhang, Kazoo Sone and Dan Roth* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.09061) [[code]](https://github.com/CogComp/faithful_summarization) ![](https://img.shields.io/badge/-improve-orange)
 2. **Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics** *Artidoro Pagnoni, Vidhisha Balachandran and Yulia Tsvetkov* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.13346) [[code]](https://github.com/artidoro/frank) ![](https://img.shields.io/badge/-evaluation-brightgreen)
@@ -457,7 +463,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 30. **FAR-ASS：Fact-aware reinforced abstractive sentence summarization** *MengLi Zhanga, Gang Zhoua, Wanting Yua, Wenfen Liub* [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0306457320309675) ![](https://img.shields.io/badge/-improve-orange)
 
 ## Contrastive Learning
-1. **SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization** *Yixin Liu, Pengfei Liu* `ACL2021 short` [[pdf]](https://arxiv.org/abs/2106.01890) [[code]](https://github.com/yixinL7/SimCLS)
+1. **SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization** *Yixin Liu, Pengfei Liu* `ACL 2021 short` [[pdf]](https://aclanthology.org/2021.acl-short.135/) [[code]](https://github.com/yixinL7/SimCLS)
 1. **Contrastive Learning with Adversarial Perturbations for Conditional Text Generation** *Seanie Lee, Dong Bok Lee, Sung Ju Hwang* `ICLR21` [[pdf]](https://arxiv.org/abs/2012.07280)
 1. **DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document Summarization** *Jiaxin Shi, Chen Liang, Lei Hou, Juanzi Li, Zhiyuan Liu, Hanwang Zhang* `AAAI19` [[pdf]](https://arxiv.org/abs/1811.02394) [[code]](https://github.com/lliangchenc/DeepChannel)
 3. **Unsupervised Reference-Free Summary Quality Evaluation via Contrastive Learning** *Hanlu Wu, Tengfei Ma, Lingfei Wu, Tariro Manyumwa, Shouling Ji* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.01781) [[code]](https://github.com/whl97/LS-Score)
@@ -465,12 +471,12 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 ## Evaluation
 1. **BARTScore: Evaluating Generated Text as Text Generation** *Weizhe Yuan, Graham Neubig, Pengfei Liu* [[pdf]](https://arxiv.org/abs/2106.11520) [[code]](https://github.com/neulab/BARTScore)
-1. **A Training-free and Reference-free Summarization Evaluation Metric via Centrality-weighted Relevance and Self-referenced Redundancy** *Wang Chen, Piji Li, Irwin King* `ACL 2021` [[pdf]](https://arxiv.org/abs/2106.13945) [[code]](https://github.com/Chen-Wang-CUHK/Training-Free-and-Ref-Free-Summ-Evaluation)
+1. **A Training-free and Reference-free Summarization Evaluation Metric via Centrality-weighted Relevance and Self-referenced Redundancy** *Wang Chen, Piji Li, Irwin King* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.34/) [[code]](https://github.com/Chen-Wang-CUHK/Training-Free-and-Ref-Free-Summ-Evaluation)
 1. **Evaluating the Efficacy of Summarization Evaluation across Languages** *Fajri Koto, Jey Han Lau, Timothy Baldwin* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.01478)
 1. **Question-aware Transformer Models for Consumer Health Question Summarization** *Shweta Yadav, Deepak Gupta, Asma Ben Abacha, Dina Demner-Fushman* [[pdf]](https://arxiv.org/abs/2106.00219)
 1. **Towards Human-Free Automatic Quality Evaluation of German Summarization** *Neslihan Iskender, Oleg Vasilyev, Tim Polzehl, John Bohannon, Sebastian Möller* [[pdf]](https://arxiv.org/abs/2105.06027)
 1. **Reliability of Human Evaluation for Text Summarization: Lessons Learned and Challenges Ahead** *Neslihan Iskender, Tim Polzehl, Sebastian Möller* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.humeval-1.10/) [[code]](https://github.com/nesliskender/reliability_humeval_summarization)
-1. **SummVis: Interactive Visual Analysis of Models, Data, and Evaluation for Text Summarization** *Jesse Vig, Wojciech Kryscinski, Karan Goel, Nazneen Fatema Rajani* [[pdf]](https://arxiv.org/abs/2104.07605) [[data]](https://github.com/robustness-gym/summvis)
+1. **SummVis: Interactive Visual Analysis of Models, Data, and Evaluation for Text Summarization** *Jesse Vig, Wojciech Kryscinski, Karan Goel, Nazneen Fatema Rajani* `ACL 2021 demo` [[pdf]](https://aclanthology.org/2021.acl-demo.18/) [[data]](https://github.com/robustness-gym/summvis)
 1. **Play the Shannon Game With Language Models: A Human-Free Approach to Summary Evaluation** *Nicholas Egan, Oleg Vasilyev, John Bohannon* [[pdf]](https://arxiv.org/abs/2103.10918)
 1. **Is human scoring the best criteria for summary evaluation?** `Findings of ACL 2021` *Oleg Vasilyev, John Bohannon* [[pdf]](https://arxiv.org/abs/2012.14602)
 1. **How to Evaluate a Summarizer: Study Design and Statistical Analysis for Manual Linguistic Quality Evaluation** *Julius Steen, Katja Markert* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.160/) [[code]](https://github.com/julmaxi/summary_lq_analysis)
@@ -482,7 +488,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 4. **HIGHRES: Highlight-based Reference-less Evaluation of Summarization** *Hardy, Shashi Narayan, Andreas Vlachos* `ACL19` [[pdf]](https://arxiv.org/abs/1906.01361) [[code]](https://github.com/sheffieldnlp/highres)
 
 ## Multi-Document
-1. **TWAG: A Topic-Guided Wikipedia Abstract Generator** *Fangwei Zhu, Shangqing Tu, Jiaxin Shi, Juanzi Li, Lei Hou, Tong Cui* `ACL 2021` [[pdf]](https://arxiv.org/abs/2106.15135) [[code]](https://github.com/THU-KEG/TWAG)
+1. **TWAG: A Topic-Guided Wikipedia Abstract Generator** *Fangwei Zhu, Shangqing Tu, Jiaxin Shi, Juanzi Li, Lei Hou, Tong Cui* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.356/) [[code]](https://github.com/THU-KEG/TWAG)
 1. **AgreeSum: Agreement-Oriented Multi-Document Summarization** *Richard Yuanzhe Pang, Adam D. Lelkes, Vinh Q. Tran, Cong Yu* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.02278) [[data]](https://github.com/google-research-datasets/AgreeSum)
 1. **Analysis of GraphSum's Attention Weights to Improve the Explainability of Multi-Document Summarization** *M. Lautaro Hickmann, Fabian Wurzberger, Megi Hoxhalli, Arne Lochner, Jessica Töllich, Ansgar Scherp* [[pdf]](https://arxiv.org/abs/2105.11908)
 1. **Extending Multi-Document Summarization Evaluation to the Interactive Setting** *Ori Shapira, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal, Yael Amsterdamer, Ido Dagan* `NAACL21` [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.54/) [[code]](https://github.com/OriShapira/InterExp)
@@ -519,7 +525,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 1. **ZmBART: An Unsupervised Cross-lingual Transfer Framework for Language Generation** *Kaushal Kumar Maurya, Maunendra Sankar Desarkar, Yoshinobu Kano, Kumari Deepshikha* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.01597) [[code]](https://github.com/kaushal0494/ZmBART)
 1. **mT6: Multilingual Pretrained Text-to-Text Transformer with Translation Pairs** *Zewen Chi, Li Dong, Shuming Ma, Shaohan Huang Xian-Ling Mao, Heyan Huang, Furu Wei* [[pdf]](https://arxiv.org/abs/2104.08692) [[code]](https://github.com/microsoft/unilm)
 1. **Evaluating the Efficacy of Summarization Evaluation across Languages** *Fajri Koto, Jey Han Lau, Timothy Baldwin* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.01478)
-1. **Cross-Lingual Abstractive Summarization with Limited Parallel Resources** *Yu Bai, Yang Gao, Heyan Huang* `ACL2021` [[pdf]](https://arxiv.org/abs/2105.13648) [[code]](https://github.com/WoodenWhite/MCLAS)
+1. **Cross-Lingual Abstractive Summarization with Limited Parallel Resources** *Yu Bai, Yang Gao, Heyan Huang* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.538/) [[code]](https://github.com/WoodenWhite/MCLAS)
 1. **Unsupervised Approach to Multilingual User Comments Summarization** *Aleš Žagar, Marko Robnik-Šikonja* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.hackashop-1.13/) [[code]](https://colab.research.google.com/drive/12wUDg64k4oK24rNSd4DRZL9xywNMiPil?usp=sharing)
 1. **MultiHumES: Multilingual Humanitarian Dataset for Extractive Summarization** *Jenny Paola Yela-Bello, Ewan Oglethorpe, Navid Rekabsaz* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.146/) [[data]](https://deephelp.zendesk.com/hc/en-us/sections/360011925552-MultiHumES)
 1. **Cross-lingual Approach to Abstractive Summarization** *Aleš Žagar, Marko Robnik-Šikonja* [[pdf]](https://arxiv.org/abs/2012.04307)
@@ -547,7 +553,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 ## Multi-modal
 1. **Multi-Modal Supplementary-Complementary Summarization using Multi-Objective Optimization** *Anubhav Jangra, Sriparna Saha, Adam Jatowt, Mohammad Hasanuzzaman* `SIGIR 2021` [[pdf]](https://dl.acm.org/doi/10.1145/3404835.3462877)
-1. **Self-Supervised Multimodal Opinion Summarization** *Jinbae Im, Moonki Kim, Hoyeop Lee, Hyunsouk Cho, Sehee Chung* `ACL21` [[pdf]](https://arxiv.org/abs/2105.13135) [[code]](https://github.com/nc-ai/knowledge/tree/master/publications/MultimodalSum)
+1. **Self-Supervised Multimodal Opinion Summarization** *Jinbae Im, Moonki Kim, Hoyeop Lee, Hyunsouk Cho, Sehee Chung* `ACL21` [[pdf]](https://aclanthology.org/2021.acl-long.33/) [[code]](https://github.com/nc-ai/knowledge/tree/master/publications/MultimodalSum)
 1. **GPT2MVS: Generative Pre-trained Transformer-2 for Multi-modal Video Summarization** *Jia-Hong Huang, Luka Murn, Marta Mrak, Marcel Worring* `ICMR21` [[pdf]](https://arxiv.org/abs/2104.12465)
 1. **Multimodal Sentence Summarization via Multimodal Selective Encoding** *Haoran Li, Junnan Zhu, Jiajun Zhang, Xiaodong He, Chengqing Zong* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.496/)
 1. **Multistage Fusion with Forget Gate for Multimodal Summarization in Open-Domain Videos** *Nayu Liu, Xian Sun, Hongfeng Yu, Wenkai Zhang, Guangluan Xu* `EMNLP20` [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.144/)
@@ -644,7 +650,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 1. **Subjective Bias in Abstractive Summarization** *Lei Li, Wei Liu, Marina Litvak, Natalia Vanetik, Jiacheng Pei, Yinan Liu, Siya Qi* [[pdf]](https://arxiv.org/abs/2106.10084) [[code]](https://github.com/thinkwee/SubjectiveBiasABS)
 1. **Neural Abstractive Unsupervised Summarization of Online News Discussions** *Ignacio Tampe Palma, Marcelo Mendoza, Evangelos Milios* [[pdf]](https://arxiv.org/abs/2106.03953)
 1. **Attention Temperature Matters in Abstractive Summarization Distillation** *Shengqiang Zhang, Xingxing Zhang, Hangbo Bao, Furu Wei* [[pdf]](https://arxiv.org/abs/2106.03441)
-1. **BASS: Boosting Abstractive Summarization with Unified Semantic Graph** *Wenhao Wu, Wei Li, Xinyan Xiao, Jiachen Liu, Ziqiang Cao, Sujian Li, Hua Wu, Haifeng Wang* `ACL21` [[pdf]](https://arxiv.org/abs/2105.12041)
+1. **BASS: Boosting Abstractive Summarization with Unified Semantic Graph** *Wenhao Wu, Wei Li, Xinyan Xiao, Jiachen Liu, Ziqiang Cao, Sujian Li, Hua Wu, Haifeng Wang* `ACL21` [[pdf]](https://aclanthology.org/2021.acl-long.472/)
 1. **Enriching Transformers with Structured Tensor-Product Representations for Abstractive Summarization** *Yichen Jiang, Asli Celikyilmaz, Paul Smolensky, Paul Soulos, Sudha Rao, Hamid Palangi, Roland Fernandez, Caitlin Smith, Mohit Bansal, Jianfeng Gao* `NAACL21` [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.381/) [[code]](https://github.com/jiangycTarheel/TPT-Summ)
 1. **Uncertainty-Aware Abstractive Summarization** *Alexios Gidiotis, Grigorios Tsoumakas* [[pdf]](https://arxiv.org/abs/2105.10155)
 1. **What's in a Summary? Laying the Groundwork for Advances in Hospital-Course Summarization** *Griffin Adams, Emily Alsentzer, Mert Ketenci, Jason Zucker, Noémie Elhadad* `NAACL21` [[pdf]](https://arxiv.org/abs/2105.00816)
@@ -726,13 +732,14 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 2. **Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps** *Tobias Falke, Iryna Gurevych* `EMNLP17` [[pdf]](https://www.aclweb.org/anthology/D17-1320/) [[code]](https://github.com/UKPLab/emnlp2017-cmapsum-corpus/)
 
 ## Timeline
+1. **Multi-TimeLine Summarization (MTLS): Improving Timeline Summarization by Generating Multiple Summaries** *Yi Yu, Adam Jatowt, Antoine Doucet, Kazunari Sugiyama, Masatoshi Yoshikawa* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.32/) [[data]](https://yiyualt.github.io/mtlsdata/)
 1. **Summarize Dates First: A Paradigm Shift in Timeline Summarization** *Moreno La Quatra, Luca Cagliero, Elena Baralis, Alberto Messina, Maurizio Montagnuolo* `SIGIR 2021` [[pdf]](https://dl.acm.org/doi/10.1145/3404835.3462954) [[data]](https://github.com/MorenoLaQuatra/SDF-TLS)
 1. **Examining the State-of-the-Art in News Timeline Summarization** *Demian Gholipour Ghalandari, Georgiana Ifrim* `ACL20` [[pdf]](https://arxiv.org/abs/2005.10107) [[code]](https://github.com/complementizer/news-tls)
 2. **Learning towards Abstractive Timeline Summarization** *Xiuying Chen, Zhangming Chan, Shen Gao, Meng-Hsuan Yu, Dongyan Zhao, Rui Yan* `IJCAI19` [[pdf]](https://www.ijcai.org/Proceedings/2019/686) [[data]](https://github.com/yingtaomj/Learning-towards-Abstractive-Timeline-Summarization)
 
 ## Opinion
 1. **Unsupervised Abstractive Opinion Summarization by Generating Sentences with Tree-Structured Topic Guidance** *Masaru Isonuma, Junichiro Mori, Danushka Bollegala, Ichiro Sakata* `TACL 2021` [[pdf]](https://arxiv.org/abs/2106.08007)
-1. **PASS: Perturb-and-Select Summarizer for Product Reviews** *Nadav Oved, Ran Levy* `ACL 2021` [[pdf]](https://assets.amazon.science/33/41/677245214d0c945597a735a1c521/pass-perturb-and-select-summarizer-for-product-reviews.pdf)
+1. **PASS: Perturb-and-Select Summarizer for Product Reviews** *Nadav Oved, Ran Levy* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.30/)
 1. **Self-Supervised Multimodal Opinion Summarization** *Jinbae Im, Moonki Kim, Hoyeop Lee, Hyunsouk Cho, Sehee Chung* `ACL21` [[pdf]](https://arxiv.org/abs/2105.13135) [[code]](https://github.com/nc-ai/knowledge/tree/master/publications/MultimodalSum)
 1. **MRCBert: A Machine Reading Comprehension Approach for Unsupervised Summarization** *Saurabh Jain, Guokai Tang, Lim Sze Chi* [[pdf]](https://arxiv.org/abs/2105.00239) [[code]](https://github.com/saurabhhssaurabh/reviews_summarization)
 1. **Informative and Controllable Opinion Summarization** *Reinald Kim Amplayo, Mirella Lapata* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.229/) [[code]](https://github.com/rktamplayo/CondaSum)
@@ -747,7 +754,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 6. **MeanSum: A Neural Model for Unsupervised Multi-Document Abstractive Summarization** *Eric Chu, Peter J. Liu* `ICML19` [[pdf]](https://arxiv.org/abs/1810.05739) [[code]](https://github.com/sosuperic/MeanSum)
 
 ## Reinforcement Learning
-1. **Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards** *Shweta Yadav, Deepak Gupta, Asma Ben Abacha, Dina Demner-Fushman* `ACL 2021 short` [[pdf]](https://arxiv.org/abs/2107.00176) [[code]](https://github.com/shwetanlp/CHQ-Summ)
+1. **Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards** *Shweta Yadav, Deepak Gupta, Asma Ben Abacha, Dina Demner-Fushman* `ACL 2021 short` [[pdf]](https://aclanthology.org/2021.acl-short.33/) [[code]](https://github.com/shwetanlp/CHQ-Summ)
 1. **RewardsOfSum: Exploring Reinforcement Learning Rewards for Summarisation** *Jacob Parnell, Inigo Jauregi Unanue, Massimo Piccardi* `5th Workshop on Structured Prediction for NLP ACL-IJCNLP 2021` [[pdf]](https://arxiv.org/abs/2106.04080) 
 1. **Reinforced Generative Adversarial Network for Abstractive Text Summarization** *Tianyang Xu, Chunyun Zhang* [[pdf]](https://arxiv.org/abs/2105.15176)
 1. **Answers Unite! Unsupervised Metrics for Reinforced Summarization Models** *Thomas Scialom, Sylvain Lamprier, Benjamin Piwowarski, Jacopo Staiano* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.01610)
@@ -764,9 +771,11 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 2. **Better Rewards Yield Better Summaries: Learning to Summarise Without References** *Florian Böhm, Yang Gao, Christian M. Meyer, Ori Shapira, Ido Dagan, Iryna Gurevych* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.01214) [[code]](https://github.com/yg211/summary-reward-no-reference)
 
 ## Extractive
+1. **Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering** *Reinald Adrian Pugoy, Hung-Yu Kao* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.232/)
+1. **Deep Differential Amplifier for Extractive Summarization** *Ruipeng Jia, Yanan Cao, Fang Fang, Yuchen Zhou, Zheng Fang, Yanbing Liu, Shi Wang* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.31/)
 1. **Incorporating Domain Knowledge for Extractive Summarization of Legal Case Documents** *Paheli Bhattacharya, Soham Poddar, Koustav Rudra, Kripabandhu Ghosh, Saptarshi Ghosh* `ICAIL 2021` [[pdf]](https://arxiv.org/abs/2106.15876)
 1. **Topic Modeling Based Extractive Text Summarization** *Kalliath Abdul Rasheed Issam, Shivam Patel, Subalalitha C. N* `Journal` [[pdf]](https://arxiv.org/abs/2106.15313) 
-1. **Demoting the Lead Bias in News Summarization via Alternating Adversarial Learning** *Linzi Xing, Wen Xiao, Giuseppe Carenini* `ACL2021-short` [[pdf]](https://arxiv.org/abs/2105.14241) [[code]](https://github.com/lxing532/Debiasing)
+1. **Demoting the Lead Bias in News Summarization via Alternating Adversarial Learning** *Linzi Xing, Wen Xiao, Giuseppe Carenini* `ACL2021-short` [[pdf]](https://aclanthology.org/2021.acl-short.119/) [[code]](https://github.com/lxing532/Debiasing)
 1. **Genetic Algorithms For Extractive Summarization** *William Chen, Kensal Ramos, Kalyan Naidu Mullaguri* [[pdf]](https://arxiv.org/abs/2105.02365)
 1. **Extractive Summarization Considering Discourse and Coreference Relations based on Heterogeneous Graph** *Yin Jou Huang, Sadao Kurohashi* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.265/)
 1. **AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive Document Summarization** *Keping Bi, Rahul Jha, Bruce Croft, Asli Celikyilmaz* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.22/)
@@ -813,8 +822,9 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 3. **A Semantic QA-Based Approach for Text Summarization Evaluation** *Ping Chen, Fei Wu, Tong Wang, Wei Ding* `AAAI18` [[pdf]](https://arxiv.org/abs/1704.06259) 
 
 ## Query
+1. **Summary-Oriented Question Generation for Informational Queries** *Xusen Yin, Li Zhou, Kevin Small, Jonathan May* `Proceedings of the 1st Workshop on Document-grounded Dialogue and Conversational Question Answering (DialDoc 2021)` [[pdf]](https://aclanthology.org/2021.dialdoc-1.11/)
 1. **Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards** *Shweta Yadav, Deepak Gupta, Asma Ben Abacha, Dina Demner-Fushman* `ACL 2021 short` [[pdf]](https://arxiv.org/abs/2107.00176) [[code]](https://github.com/shwetanlp/CHQ-Summ)
-1. **Generating Query Focused Summaries from Query-Free Resources** `ACL 2021` *Yumo Xu, Mirella Lapata* [[pdf]](https://arxiv.org/abs/2012.14774) [[code]](https://github.com/yumoxu/margesum)
+1. **Generating Query Focused Summaries from Query-Free Resources** `ACL 2021` *Yumo Xu, Mirella Lapata* [[pdf]](https://aclanthology.org/2021.acl-long.475/) [[code]](https://github.com/yumoxu/margesum)
 1. **Improve Query Focused Abstractive Summarization by Incorporating Answer Relevance** *Dan Su, Tiezheng Yu, Pascale Fung* `ACL21` [[pdf]](https://arxiv.org/abs/2105.12969) [[code]](https://github.com/HLTCHKUST/QFS)
 1. **D2S: Document-to-Slide Generation Via Query-Based Text Summarization** *Edward Sun, Yufang Hou, Dakuo Wang, Yunfeng Zhang, Nancy X.R. Wang* `NAACL21` [[pdf]](https://arxiv.org/abs/2105.03664) [[code]](https://github.com/IBM/document2slides)
 
