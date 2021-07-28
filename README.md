@@ -488,6 +488,9 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 4. **HIGHRES: Highlight-based Reference-less Evaluation of Summarization** *Hardy, Shashi Narayan, Andreas Vlachos* `ACL19` [[pdf]](https://arxiv.org/abs/1906.01361) [[code]](https://github.com/sheffieldnlp/highres)
 
 ## Multi-Document
+1. **Capturing Relations between Scientific Papers: An Abstractive Model for Related Work Section Generation** *Xiuying Chen, Hind Alamro, Mingzhe Li, Shen Gao, Xiangliang Zhang, Dongyan Zhao, Rui Yan* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.473/) [[data]](https://github.com/iriscxy/relatedworkgeneration)
+1. **Highlight-Transformer: Leveraging Key Phrase Aware Attention to Improve Abstractive Multi-Document Summarization** *Shuaiqi Liu, Jiannong Cao, Ruosong Yang, Zhiyuan Wen* `ACL 2021 Findings` [[pdf]](https://aclanthology.org/2021.findings-acl.445/)
+1. **Entity-Aware Abstractive Multi-Document Summarization** *Hao Zhou, Weidong Ren, Gongshen Liu, Bo Su, Wei Lu* `ACL 2021 Findings` [[pdf]](https://aclanthology.org/2021.findings-acl.30/) [[code]](https://github.com/Oceandam/EMSum)
 1. **TWAG: A Topic-Guided Wikipedia Abstract Generator** *Fangwei Zhu, Shangqing Tu, Jiaxin Shi, Juanzi Li, Lei Hou, Tong Cui* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.356/) [[code]](https://github.com/THU-KEG/TWAG)
 1. **AgreeSum: Agreement-Oriented Multi-Document Summarization** *Richard Yuanzhe Pang, Adam D. Lelkes, Vinh Q. Tran, Cong Yu* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.02278) [[data]](https://github.com/google-research-datasets/AgreeSum)
 1. **Analysis of GraphSum's Attention Weights to Improve the Explainability of Multi-Document Summarization** *M. Lautaro Hickmann, Fabian Wurzberger, Megi Hoxhalli, Arne Lochner, Jessica Töllich, Ansgar Scherp* [[pdf]](https://arxiv.org/abs/2105.11908)
@@ -521,6 +524,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 21. **Event-Centric Summary Generation** *Lucy Vanderwende Michele Banko Arul Menezes* `ACL04` [[pdf]](https://www.microsoft.com/en-us/research/publication/event-centric-summary-generation/) 
 
 ## Cross-Lingual
+1. **Contrastive Aligned Joint Learning for Multilingual Summarization** *Danqing Wang, Jiaze Chen, Hao Zhou, Xipeng Qiu, Lei Li* `ACL 2021 Findings` [[pdf]](https://aclanthology.org/2021.findings-acl.242/)
 1. **XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages** *T. Hasan, A. Bhattacharjee, M. S. Islam, K. Samin, Y. Li, Y. Kang, M. S. Rahman, R. Shahriyar* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.13822) [[data]](https://github.com/csebuetnlp/xl-sum)
 1. **ZmBART: An Unsupervised Cross-lingual Transfer Framework for Language Generation** *Kaushal Kumar Maurya, Maunendra Sankar Desarkar, Yoshinobu Kano, Kumari Deepshikha* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.01597) [[code]](https://github.com/kaushal0494/ZmBART)
 1. **mT6: Multilingual Pretrained Text-to-Text Transformer with Translation Pairs** *Zewen Chi, Li Dong, Shuming Ma, Shaohan Huang Xian-Ling Mao, Heyan Huang, Furu Wei* [[pdf]](https://arxiv.org/abs/2104.08692) [[code]](https://github.com/microsoft/unilm)
@@ -711,6 +715,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 7. **Abstractive Document Summarization with a Graph-Based Attentional Neural Model** *Jiwei Tan, Xiaojun Wan, Jianguo Xiao* `ACL17` [[pdf]](https://www.aclweb.org/anthology/P17-1108/)
 
 ## Unsupervised
+1. **Improving Unsupervised Extractive Summarization with Facet-Aware Modeling** *Xinnian Liang, Shuangzhi Wu, Mu Li, Zhoujun Li* `ACL 2021 Findings` [[pdf]](https://aclanthology.org/2021.findings-acl.147/) [[code]]()
 1. **MRCBert: A Machine Reading ComprehensionApproach for Unsupervised Summarization** *Saurabh Jain, Guokai Tang, Lim Sze Chi* [[pdf]](https://arxiv.org/abs/2105.00239) [[code]](https://github.com/saurabhhssaurabh/reviews_summarization)
 1. **Centrality Meets Centroid: A Graph-based Approach for Unsupervised Document Summarization** *Haopeng Zhang, Jiawei Zhang* [[pdf]](https://arxiv.org/abs/2103.15327)
 1. **Unsupervised Opinion Summarization with Content Planning** *Reinald Kim Amplayo, Stefanos Angelidis, Mirella Lapata* `AAAI21` [[pdf]](https://arxiv.org/abs/2012.07808) [[code]](https://github.com/rktamplayo/PlanSum)
@@ -738,6 +743,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 2. **Learning towards Abstractive Timeline Summarization** *Xiuying Chen, Zhangming Chan, Shen Gao, Meng-Hsuan Yu, Dongyan Zhao, Rui Yan* `IJCAI19` [[pdf]](https://www.ijcai.org/Proceedings/2019/686) [[data]](https://github.com/yingtaomj/Learning-towards-Abstractive-Timeline-Summarization)
 
 ## Opinion
+1. **TransSum: Translating Aspect and Sentiment Embeddings for Self-Supervised Opinion Summarization** *Ke Wang, Xiaojun Wan* `ACL 2021 Findings` [[pdf]](https://aclanthology.org/2021.findings-acl.65/)
 1. **Unsupervised Abstractive Opinion Summarization by Generating Sentences with Tree-Structured Topic Guidance** *Masaru Isonuma, Junichiro Mori, Danushka Bollegala, Ichiro Sakata* `TACL 2021` [[pdf]](https://arxiv.org/abs/2106.08007)
 1. **PASS: Perturb-and-Select Summarizer for Product Reviews** *Nadav Oved, Ran Levy* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.30/)
 1. **Self-Supervised Multimodal Opinion Summarization** *Jinbae Im, Moonki Kim, Hoyeop Lee, Hyunsouk Cho, Sehee Chung* `ACL21` [[pdf]](https://arxiv.org/abs/2105.13135) [[code]](https://github.com/nc-ai/knowledge/tree/master/publications/MultimodalSum)
