@@ -298,7 +298,7 @@ This repo contains a list of summarization papers including various topics. If a
 * **Combining linguistic and machine learning techniques for email summarization** *Smaranda Muresan, Evelyne Tzoukermann, Judith L. Klavans* `Proceedings of the ACL 2001 Workshop on Computational Natural Language Learning (ConLL) 2001` [[pdf]](https://www.aclweb.org/anthology/W01-0719/) [[bib]](https://www.aclweb.org/anthology/W01-0719.bib)
 
 ### Meeting Summarization
-
+1. **Incremental temporal summarization in multiparty meetings** *Ramesh Manuvinakurike, Saurav Sahay, Wenda Chen, Lama Nachman* `SIGIR 2021` [[pdf]](https://sigdial.org/sites/default/files/workshops/conference22/Proceedings/pdf/2021.sigdial-1.56.pdf)
 1. **What are meeting summaries? An analysis of human extractive summaries in meeting corpus** *Fei Liu, Yang Liu* `SIGDIAL 2008` [[pdf]](https://www.aclweb.org/anthology/W08-0112/)
 1. **Exploring Speaker Characteristics for Meeting Summarization** *Fei Liu, Yang Liu* `INTERSPEECH 2010` [[pdf]](https://www.isca-speech.org/archive/archive_papers/interspeech_2010/i10_2518.pdf)
 1. **Automatic meeting summarization and topic detection system** *Tai-Chia Huang, Chia-Hsuan Hsieh, Hei-Chia Wang* [[pdf]](https://www.emerald.com/insight/content/doi/10.1108/DTA-09-2017-0062/full/html) 
