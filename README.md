@@ -341,6 +341,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 
 ### Chit-Chat Summarization
+1. **Dialogue summarization with supporting utterance flow modeling and fact regularization** *Wang Chen, Piji Li, Hou PongChan, Irwin King* `Knowledge-Based Systems` [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705121005906) 
 1. **Situation-Based Multiparticipant Chat Summarization: a Concept, an Exploration-Annotation Tool and an Example Collection** *Anna Smirnova, Evgeniy Slobodkin, George Chernishev* `ACL 2021 Student Research Workshop` [[pdf]](https://aclanthology.org/2021.acl-srw.14/) [[tool]](https://github.com/mechanicpanic/Chat-Corpora-Annotator) [[data]](https://github.com/mechanicpanic/Situation_Dataset)
 1. **Coreference-Aware Dialogue Summarization** *Zhengyuan Liu, Ke Shi, Nancy F. Chen* `SIGDIAL 2021` [[pdf]](https://arxiv.org/abs/2106.08556)
 1. **Incorporating Commonsense Knowledge into Abstractive Dialogue Summarization via Heterogeneous Graph Networks** *Xiachong Feng, Xiaocheng Feng, Bing Qin* `CCL 2021` [[pdf]](https://arxiv.org/abs/2010.10044)  
