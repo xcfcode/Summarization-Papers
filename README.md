@@ -110,6 +110,7 @@ This repo contains a list of summarization papers including various topics. If a
 9. **Recent automatic text summarization techniques: a survey** *Mahak Gambhir, Vishal Gupta* [[pdf]](https://link.springer.com/article/10.1007/s10462-016-9475-9)
 
 ## Toolkit
+1. **Summary Explorer: Visualizing the State of the Art in Text Summarization** *Shahbaz Syed, Tariq Yousef, Khalid Al-Khatib, Stefan Jänicke, Martin Potthast*  [[pdf]](https://arxiv.org/abs/2108.01879) [[web]](https://tldr.webis.de/)
 1. **fastnlp/fastSum** [[code]](https://github.com/fastnlp/fastSum)
 1. **Graph4NLP** [[code]](https://github.com/graph4ai/graph4nlp) [[summarization]](https://github.com/graph4ai/graph4nlp/tree/master/examples/pytorch/summarization)
 1. **CTRLsum: Towards Generic Controllable Text Summarization** [[pdf]](https://arxiv.org/abs/2012.04281) [[code]](https://github.com/hyunwoongko/summarizers)
