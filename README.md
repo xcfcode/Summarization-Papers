@@ -26,6 +26,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 
 ## Presentations && Notes
+* **[NEW]** [如何把DialoGPT用到对话摘要任务？@ ACL 2021](https://zhuanlan.zhihu.com/p/395451011) ![](https://img.shields.io/badge/-blog-red) 
 * **[NEW]** [对话摘要最新进展简述](https://mp.weixin.qq.com/s/628OAOW1_-Yc_vQbeuY_uA) ![](https://img.shields.io/badge/-blog-red) 
 * **[NEW]** [Dialogue Summarization](slides/presentation/Dialogue_Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
 * **[NEW]** [融入常识知识的生成式对话摘要](https://mp.weixin.qq.com/s/x3zqGc4pqh4x3q_uorNKcg) ![](https://img.shields.io/badge/-blog-red) 
