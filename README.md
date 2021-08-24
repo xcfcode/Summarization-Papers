@@ -386,6 +386,7 @@ This repo contains a list of summarization papers including various topics. If a
 2. **Domain Adaptation to Summarize Human Conversations** *Oana Sandu, Giuseppe Carenini, Gabriel Murray, Raymond Ng* `ACL2010 Workshop` [[pdf]](https://www.aclweb.org/anthology/W10-2603/)
 
 ### Others
+1. **Hierarchical Summarization for Longform Spoken Dialog** *Daniel Li, Thomas Chen, Albert Tung, Lydia Chilton* `UIST 2021` [[pdf]](https://arxiv.org/abs/2108.09597)
 1. **RepSum: Unsupervised Dialogue Summarization based on Replacement Strategy** *Xiyan Fu, Yating Zhang, Tianyi Wang, Xiaozhong Liu, Changlong Sun, Zhenglu Yang* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.471/) [[code]](https://github.com/xiyan524/RepSum)
 1. **Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization** *Xiachong Feng, Xiaocheng Feng, Libo Qin, Bing Qin, Ting Liu* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.117/) [[code]](https://github.com/xcfcode/PLM_annotator)
 1. **A Two-Phase Approach for Abstractive Podcast Summarization** *Chujie Zheng, Kunpeng Zhang, Harry Jiannan Wang, Ling Fan* `TREC 2020 Podcasts Track` [[pdf]](https://arxiv.org/abs/2011.08291) 
