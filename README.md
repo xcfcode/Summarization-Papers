@@ -111,6 +111,7 @@ This repo contains a list of summarization papers including various topics. If a
 9. **Recent automatic text summarization techniques: a survey** *Mahak Gambhir, Vishal Gupta* [[pdf]](https://link.springer.com/article/10.1007/s10462-016-9475-9)
 
 ## Toolkit
+1. **SummerTime: Text Summarization Toolkit for Non-experts** *Ansong Ni, Zhangir Azerbayev, Mutethia Mutuma, Troy Feng, Yusen Zhang, Tao Yu, Ahmed Hassan Awadallah, Dragomir Radev* `EMNLP 2021 Demo Track` [[pdf]](https://arxiv.org/abs/2108.12738) [[Demo]](https://github.com/Yale-LILY/SummerTime)
 1. **Summary Explorer: Visualizing the State of the Art in Text Summarization** *Shahbaz Syed, Tariq Yousef, Khalid Al-Khatib, Stefan Jänicke, Martin Potthast*  [[pdf]](https://arxiv.org/abs/2108.01879) [[web]](https://tldr.webis.de/)
 1. **fastnlp/fastSum** [[code]](https://github.com/fastnlp/fastSum)
 1. **Graph4NLP** [[code]](https://github.com/graph4ai/graph4nlp) [[summarization]](https://github.com/graph4ai/graph4nlp/tree/master/examples/pytorch/summarization)
@@ -268,12 +269,15 @@ This repo contains a list of summarization papers including various topics. If a
 |106|[SumPubMed](https://github.com/vgupta123/sumpubmed)|PubMed Scientific Article|[SumPubMed: Summarization Dataset of PubMed Scientific Articles](https://aclanthology.org/2021.acl-srw.30/)|ACL 2021 Student Research Workshop|
 |107|[MLGSum](https://github.com/brxx122/CALMS)|Multi-lingual|[Contrastive Aligned Joint Learning for Multilingual Summarization](https://aclanthology.org/2021.findings-acl.242/)|ACL 2021 Findings|
 |108|[SMARTPHONE,COMPUTER](https://github.com/JD-AI-Research-NLP/CUSTOM)|Product|[CUSTOM: Aspect-Oriented Product Summarization for E-Commerce](https://arxiv.org/abs/2108.08010)||
+|109|[CSDS](https://github.com/xiaolinAndy/CSDS)|Customer Service Dialogue|[CSDS: A Fine-grained Chinese Dataset for Customer Service Dialogue Summarization](https://arxiv.org/abs/2108.13139)|EMNLP 2021|
 
 
 ## Dialogue 
 > **A Survey on Dialogue Summarization: Recent Advances and New Frontiers** *Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2107.03175)
 
 ### Dataset
+1. **CSDS: A Fine-grained Chinese Dataset for Customer Service Dialogue Summarization** *Haitao Lin, Liqun Ma, Junnan Zhu, Lu Xiang, Yu Zhou, Jiajun Zhang, Chengqing Zong* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2108.13139) [[data]](https://github.com/xiaolinAndy/CSDS)
+1. **EmailSum: Abstractive Email Thread Summarization** *Shiyue Zhang, Asli Celikyilmaz, Jianfeng Gao, Mohit Bansal* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.537/) [[data]](https://github.com/ZhangShiyue/EmailSum)
 2. **DialSumm: A Real-Life Scenario Dialogue Summarization Dataset** *Yulong Chen, Yang Liu, Liang Chen, Yue Zhang* `Findings of ACL21` [[pdf]](https://arxiv.org/abs/2105.06762) [[data]](https://github.com/cylnlp/DialSumm)
 3. **ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining** *Alexander R. Fabbri, Faiaz Rahman, Imad Rizvi, Borui Wang, Haoran Li, Yashar Mehdad, Dragomir Radev* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.535/) [[code]](https://github.com/Yale-LILY/ConvoSumm)
 4. **MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization** *Chenguang Zhu, Yang Liu, Jie Mei, Michael Zeng* `NAACL21` [[pdf]](https://arxiv.org/abs/2103.06410) [[code]](https://github.com/zcgzcgzcg1/MediaSum) 
@@ -374,6 +378,7 @@ This repo contains a list of summarization papers including various topics. If a
 8. **Topic-aware Pointer-Generator Networks for Summarizing Spoken Conversations** *Zhengyuan Liu, Angela Ng, Sheldon Lee, Ai Ti Aw, Nancy F. Chen* ` ASRU 2019` [[pdf]](https://arxiv.org/abs/1910.01335)
 
 ### Customer Service Summarization
+* **CSDS: A Fine-grained Chinese Dataset for Customer Service Dialogue Summarization** *Haitao Lin, Liqun Ma, Junnan Zhu, Lu Xiang, Yu Zhou, Jiajun Zhang, Chengqing Zong* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2108.13139) [[data]](https://github.com/xiaolinAndy/CSDS)
 * **Distant Supervision based Machine Reading Comprehension for Extractive Summarization in Customer Service** *Bing Ma, Cao Liu, Jingyu Wang, Shujie Hu, Fan Yang, Xunliang Cai, Guanglu Wan, Jiansong Chen, Jianxin Liao* `SIGIR 2021` [[pdf]](https://dl.acm.org/doi/10.1145/3404835.3463046)
 * **Unsupervised Abstractive Dialogue Summarization for Tete-a-Tetes** *Xinyuan Zhang, Ruiyi Zhang, Manzil Zaheer, Amr Ahmed* `AAAI21` [[pdf]](https://arxiv.org/abs/2009.06851) 
 * **Topic-Oriented Spoken Dialogue Summarization for Customer Service with Saliency-Aware Topic Modeling** *Yicheng Zou, Lujun Zhao, Yangyang Kang, Jun Lin, Minlong Peng, Zhuoren Jiang, Changlong Sun, Qi Zhang, Xuanjing Huang, Xiaozhong Liu* `AAAI21` [[pdf]](https://arxiv.org/abs/2012.07311) [[code]](https://github.com/RowitZou/topic-dialog-summ) 
@@ -436,6 +441,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
+1. **Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation** *Yuexiang Xie, Fei Sun, Yang Deng, Yaliang Li, Bolin Ding* `EMNLP 2021 Findings` [[pdf]](https://arxiv.org/abs/2108.13134) [[code]](https://github.com/xieyxclack/factual_coco)
 1. **Improving Factual Consistency of Abstractive Summarization on Customer Feedback** *Yang Liu, Yifei Sun, Vincent Gao* `ACL 2021 Proceedings of The 4th Workshop on e-Commerce and NLP` [[pdf]](https://aclanthology.org/2021.ecnlp-1.19/)
 1. **AgreeSum: Agreement-Oriented Multi-Document Summarization** *Richard Yuanzhe Pang, Adam D. Lelkes, Vinh Q. Tran, Cong Yu* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.02278) [[data]](https://github.com/google-research-datasets/AgreeSum)
 1. **Focus Attention: Promoting Faithfulness and Diversity in Summarization** *Rahul Aralikatte, Shashi Narayan, Joshua Maynez, Sascha Rothe, Ryan McDonald* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.474/) 
@@ -793,6 +799,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 2. **Better Rewards Yield Better Summaries: Learning to Summarise Without References** *Florian Böhm, Yang Gao, Christian M. Meyer, Ori Shapira, Ido Dagan, Iryna Gurevych* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.01214) [[code]](https://github.com/yg211/summary-reward-no-reference)
 
 ## Extractive
+1. **Multiplex Graph Neural Network for Extractive Text Summarization** *Baoyu Jing, Zeyu You, Tao Yang, Wei Fan, Hanghang Tong* `EMNLP 2021 Short` [[pdf]](https://arxiv.org/abs/2108.12870)
 1. **Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering** *Reinald Adrian Pugoy, Hung-Yu Kao* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.232/)
 1. **Deep Differential Amplifier for Extractive Summarization** *Ruipeng Jia, Yanan Cao, Fang Fang, Yuchen Zhou, Zheng Fang, Yanbing Liu, Shi Wang* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.31/)
 1. **Incorporating Domain Knowledge for Extractive Summarization of Legal Case Documents** *Paheli Bhattacharya, Soham Poddar, Koustav Rudra, Kripabandhu Ghosh, Saptarshi Ghosh* `ICAIL 2021` [[pdf]](https://arxiv.org/abs/2106.15876)
