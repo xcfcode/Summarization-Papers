@@ -308,6 +308,7 @@ This repo contains a list of summarization papers including various topics. If a
 * **Combining linguistic and machine learning techniques for email summarization** *Smaranda Muresan, Evelyne Tzoukermann, Judith L. Klavans* `Proceedings of the ACL 2001 Workshop on Computational Natural Language Learning (ConLL) 2001` [[pdf]](https://www.aclweb.org/anthology/W01-0719/) [[bib]](https://www.aclweb.org/anthology/W01-0719.bib)
 
 ### Meeting Summarization
+1. **Dynamic Sliding Window for Meeting Summarization** *Zhengyuan Liu, Nancy F. Chen* `SummDial@SIGDial 2021` [[pdf]](https://arxiv.org/abs/2108.13629)
 1. **MeetSum: Transforming Meeting Transcript Summarization using Transformers!** *Nima Sadri, Bohan Zhang, Bihan Liu* [[pdf]](https://arxiv.org/abs/2108.06310)
 1. **Incremental temporal summarization in multiparty meetings** *Ramesh Manuvinakurike, Saurav Sahay, Wenda Chen, Lama Nachman* `SIGIR 2021` [[pdf]](https://sigdial.org/sites/default/files/workshops/conference22/Proceedings/pdf/2021.sigdial-1.56.pdf)
 1. **What are meeting summaries? An analysis of human extractive summaries in meeting corpus** *Fei Liu, Yang Liu* `SIGDIAL 2008` [[pdf]](https://www.aclweb.org/anthology/W08-0112/)
@@ -441,6 +442,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
+1. **Faithful or Extractive? On Mitigating the Faithfulness-Abstractiveness Trade-off in Abstractive Summarization** *Faisal Ladhak, Esin Durmus, He He, Claire Cardie, Kathleen McKeown* [[pdf]](https://arxiv.org/abs/2108.13684)
 1. **Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation** *Yuexiang Xie, Fei Sun, Yang Deng, Yaliang Li, Bolin Ding* `EMNLP 2021 Findings` [[pdf]](https://arxiv.org/abs/2108.13134) [[code]](https://github.com/xieyxclack/factual_coco)
 1. **Improving Factual Consistency of Abstractive Summarization on Customer Feedback** *Yang Liu, Yifei Sun, Vincent Gao* `ACL 2021 Proceedings of The 4th Workshop on e-Commerce and NLP` [[pdf]](https://aclanthology.org/2021.ecnlp-1.19/)
 1. **AgreeSum: Agreement-Oriented Multi-Document Summarization** *Richard Yuanzhe Pang, Adam D. Lelkes, Vinh Q. Tran, Cong Yu* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.02278) [[data]](https://github.com/google-research-datasets/AgreeSum)
@@ -736,6 +738,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 7. **Abstractive Document Summarization with a Graph-Based Attentional Neural Model** *Jiwei Tan, Xiaojun Wan, Jianguo Xiao* `ACL17` [[pdf]](https://www.aclweb.org/anthology/P17-1108/)
 
 ## Unsupervised
+1. **Want To Reduce Labeling Cost? GPT-3 Can Help** *Shuohang Wang, Yang Liu, Yichong Xu, Chenguang Zhu, Michael Zeng* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2108.13487)
 1. **Improving Unsupervised Extractive Summarization with Facet-Aware Modeling** *Xinnian Liang, Shuangzhi Wu, Mu Li, Zhoujun Li* `ACL 2021 Findings` [[pdf]](https://aclanthology.org/2021.findings-acl.147/) [[code]]()
 1. **MRCBert: A Machine Reading ComprehensionApproach for Unsupervised Summarization** *Saurabh Jain, Guokai Tang, Lim Sze Chi* [[pdf]](https://arxiv.org/abs/2105.00239) [[code]](https://github.com/saurabhhssaurabh/reviews_summarization)
 1. **Centrality Meets Centroid: A Graph-based Approach for Unsupervised Document Summarization** *Haopeng Zhang, Jiawei Zhang* [[pdf]](https://arxiv.org/abs/2103.15327)
@@ -799,6 +802,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 2. **Better Rewards Yield Better Summaries: Learning to Summarise Without References** *Florian Böhm, Yang Gao, Christian M. Meyer, Ori Shapira, Ido Dagan, Iryna Gurevych* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.01214) [[code]](https://github.com/yg211/summary-reward-no-reference)
 
 ## Extractive
+1. **Monolingual versus Multilingual BERTology for Vietnamese Extractive Multi-Document Summarization** *Huy To Quoc, Kiet Van Nguyen, Ngan Luu-Thuy Nguyen, Anh Gia-Tuan Nguyen* [[pdf]](https://arxiv.org/abs/2108.13741)
 1. **Multiplex Graph Neural Network for Extractive Text Summarization** *Baoyu Jing, Zeyu You, Tao Yang, Wei Fan, Hanghang Tong* `EMNLP 2021 Short` [[pdf]](https://arxiv.org/abs/2108.12870)
 1. **Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering** *Reinald Adrian Pugoy, Hung-Yu Kao* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.232/)
 1. **Deep Differential Amplifier for Extractive Summarization** *Ruipeng Jia, Yanan Cao, Fang Fang, Yuchen Zhou, Zheng Fang, Yanbing Liu, Shi Wang* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.31/)
