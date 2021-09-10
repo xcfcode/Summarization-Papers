@@ -270,6 +270,7 @@ This repo contains a list of summarization papers including various topics. If a
 |107|[MLGSum](https://github.com/brxx122/CALMS)|Multi-lingual|[Contrastive Aligned Joint Learning for Multilingual Summarization](https://aclanthology.org/2021.findings-acl.242/)|ACL 2021 Findings|
 |108|[SMARTPHONE,COMPUTER](https://github.com/JD-AI-Research-NLP/CUSTOM)|Product|[CUSTOM: Aspect-Oriented Product Summarization for E-Commerce](https://arxiv.org/abs/2108.08010)||
 |109|[CSDS](https://github.com/xiaolinAndy/CSDS)|Customer Service Dialogue|[CSDS: A Fine-grained Chinese Dataset for Customer Service Dialogue Summarization](https://arxiv.org/abs/2108.13139)|EMNLP 2021|
+|110|[persian-dataset](https://github.com/mohammadiahmad/persian-dataset)|persian|[ARMAN: Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization](https://arxiv.org/abs/2109.04098)||
 
 
 ## Dialogue 
@@ -354,6 +355,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 
 ### Chat Summarization
+1. **Low-Resource Dialogue Summarization with Domain-Agnostic Multi-Source Pretraining** *Yicheng Zou, Bolin Zhu, Xingwu Hu, Tao Gui, Qi Zhang* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.04080) [[code]](https://github.com/RowitZou/DAMS)
 1. **Enhancing Semantic Understanding with Self-Supervised Methods for Abstractive Dialogue Summarization** *Hyunjae Lee, Jaewoong Yun, Hyunjin Choi, Seongho Joe, Youngjune L. Gwon* `Interspeech 2021` [[pdf]](https://www.isca-speech.org/archive/interspeech_2021/lee21_interspeech.html)
 1. **Dialogue summarization with supporting utterance flow modeling and fact regularization** *Wang Chen, Piji Li, Hou PongChan, Irwin King* `Knowledge-Based Systems` [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705121005906) 
 1. **Situation-Based Multiparticipant Chat Summarization: a Concept, an Exploration-Annotation Tool and an Example Collection** *Anna Smirnova, Evgeniy Slobodkin, George Chernishev* `ACL 2021 Student Research Workshop` [[pdf]](https://aclanthology.org/2021.acl-srw.14/) [[tool]](https://github.com/mechanicpanic/Chat-Corpora-Annotator) [[data]](https://github.com/mechanicpanic/Situation_Dataset)
@@ -407,9 +409,8 @@ This repo contains a list of summarization papers including various topics. If a
 2. **The SENSEI Annotated Corpus: Human Summaries of Reader Comment Conversations in On-line News** *Emma Barker, Monica Lestari Paramita, Ahmet Aker, Emina Kurtic, Mark Hepple, Robert Gaizauskas* `SIGDIAL 2016` [[pdf]](https://www.aclweb.org/anthology/W16-3605/)
 2. **Semantic Similarity Applied to Spoken Dialogue Summarization** *Iryna Gurevych, Michael Strube* `COLING 2004` [[pdf]](https://www.aclweb.org/anthology/C04-1110/) [[bib]](https://www.aclweb.org/anthology/C04-1110.bib) Switchboard dialogues
 
-
-
-## Scientific Document
+## Scientific Document (Long Doc)
+1. **Sparsity and Sentence Structure in Encoder-Decoder Attention of Summarization Systems** *Potsawee Manakul, Mark J. F. Gales* `EMNLP 2021 short paper` [[pdf]](https://arxiv.org/abs/2109.03888) [[code]](https://github.com/potsawee/encdec_attn_sparse)
 1. **Bringing Structure into Summaries: a Faceted Summarization Dataset for Long Scientific Documents** *Rui Meng, Khushboo Thaker, Lei Zhang, Yue Dong, Xingdi Yuan, Tong Wang, Daqing He* `ACL 2021 short` [[pdf]](https://aclanthology.org/2021.acl-short.137/) [[data]](https://github.com/hfthair/emerald_crawler)
 1. **Sliding Selector Network with Dynamic Memory for Extractive Summarization of Long Documents** *Peng Cui, Le Hu* `NAACL21` [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.470/) [[code]](https://github.com/pcui-nlp/SSN_DM)
 1. **Long-Span Summarization via Local Attention and Content Selection** *Potsawee Manakul, Mark J. F. Gales* `ACl 2021` [[pdf]](https://aclanthology.org/2021.acl-long.470/)
@@ -484,6 +485,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 30. **FAR-ASS：Fact-aware reinforced abstractive sentence summarization** *MengLi Zhanga, Gang Zhoua, Wanting Yua, Wenfen Liub* [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0306457320309675) ![](https://img.shields.io/badge/-improve-orange)
 
 ## Contrastive Learning
+1. **Sequence Level Contrastive Learning for Text Summarization** *Shusheng Xu, Xingxing Zhang, Yi Wu, Furu Wei* [pdf]](https://arxiv.org/abs/2109.03481)
 1. **Enhanced Seq2Seq Autoencoder via Contrastive Learning for Abstractive Text Summarization** *Chujie Zheng, Kunpeng Zhang, Harry Jiannan Wang, Ling Fan, Zhe Wang* [[pdf]](https://arxiv.org/abs/2108.11992) [[code]](https://github.com/chz816/esacl)
 1. **Constructing Contrastive samples via Summarization for Text Classification with limited annotations** *Yangkai Du, Tengfei Ma, Lingfei Wu, Fangli Xu, Xuhong Zhang, Shouling Ji* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2104.05094)
 1. **Alleviating Exposure Bias via Contrastive Learning for Abstractive Text Summarization** *Shichao Sun, Wenjie Li* [[pdf]](https://arxiv.org/abs/2108.11846) [[code]](https://github.com/ShichaoSun/ConAbsSum)
@@ -613,7 +615,6 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 24. **Summarization of Multimodal Information** *Saif Ahmad, Paulo C F de Oliveira, Khurshid Ahmad* `LREC04` [[pdf]](http://www.lrec-conf.org/proceedings/lrec2004/pdf/502.pdf)
 25. **Multimodal Summarization of Meeting Recordings** *Berna Erol, Dar-Shyang Lee, and Jonathan Hull* `ICME03` [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.862.6509&rep=rep1&type=pdf)
 
-
 ## Sentiment Related
 1. **Making the Best Use of Review Summary for Sentiment Analysis** *Sen Yang, Leyang Cui, Jun Xie, Yue Zhang* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.15/) [[code]](https://github.com/RingoS/sentiment-review-summary) [[bib]](https://www.aclweb.org/anthology/2020.coling-main.15.bib)
 1. **A Unified Dual-view Model for Review Summarization and Sentiment Classification with Inconsistency Loss** *Hou Pong Chan, Wang Chen, Irwin King* `SIGIR20` [[pdf]](https://arxiv.org/abs/2006.01592) [[code]](https://github.com/kenchan0226/dual_view_review_sum)
@@ -649,7 +650,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 ## Controllable
 1. **Aspect-Controllable Opinion Summarization** *Reinald Kim Amplayo, Stefanos Angelidis, Mirella Lapata* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.03171) [[code]](https://github.com/rktamplayo/AceSum)
 1. **Extract, Denoise, and Enforce: Evaluating and Predicting Lexical Constraints for Conditional Text Generation** *Yuning Mao, Wenchang Ma, Deren Lei, Xiang Ren* [[pdf]](https://arxiv.org/abs/2104.08724) [[code]](https://github.com/morningmoni/LCGen-eval)
-1. **Planning with Entity Chains for Abstractive Summarization** *Shashi Narayan, Yao Zhao, Joshua Maynez, Gonçalo Simoes, Ryan McDonald* [[pdf]](https://arxiv.org/abs/2104.07606)
+1. **Planning with Learned Entity Prompts for Abstractive Summarization** *Shashi Narayan, Yao Zhao, Joshua Maynez, Gonçalo Simoes, Ryan McDonald* `TACL` [[pdf]](https://arxiv.org/abs/2104.07606)
 2. **GSum: A General Framework for Guided Neural Abstractive Summarization** *Zi-Yi Dou, Pengfei Liu, Hiroaki Hayashi, Zhengbao Jiang, Graham Neubig* `NAACL21` [[pdf]](https://arxiv.org/abs/2010.08014) [[code]](https://github.com/neulab/guided_summarization) ![](https://img.shields.io/badge/-keywords-brightgreen) ![](https://img.shields.io/badge/-sentence-red) ![](https://img.shields.io/badge/-triples-orange) ![](https://img.shields.io/badge/-summaries-blue)
 3. **Abstractive summarization with combination of pre-trained sequence-to-sequence and saliency models** *Itsumi Saito, Kyosuke Nishida, Kosuke Nishida, Junji Tomita* [[pdf]](https://arxiv.org/abs/2003.13028) ![](https://img.shields.io/badge/-keywords-brightgreen) ![](https://img.shields.io/badge/-sentence-red)
 4. **Self-Supervised and Controlled Multi-Document Opinion Summarization** *Hady Elsahar, Maximin Coavoux, Jos Rozen, Matthias Gallé* `EACL 2021` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.141/)
@@ -680,6 +681,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 8. **Controlling Output Length in Neural Encoder-Decoders** *Yuta Kikuchi, Graham Neubig, Ryohei Sasano, Hiroya Takamura, Manabu Okumura* `EMNLP16` [[pdf]](https://www.aclweb.org/anthology/D16-1140/) [[code]](https://github.com/kiyukuta/lencon)
 
 ## Abstractive
+1. **ARMAN: Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization** *Alireza Salemi, Emad Kebriaei, Ghazal Neisi Minaei, Azadeh Shakery* [[pdf]](https://arxiv.org/abs/2109.04098) [[data]](https://github.com/mohammadiahmad/persian-dataset)
 1. **Subjective Bias in Abstractive Summarization** *Lei Li, Wei Liu, Marina Litvak, Natalia Vanetik, Jiacheng Pei, Yinan Liu, Siya Qi* [[pdf]](https://arxiv.org/abs/2106.10084) [[code]](https://github.com/thinkwee/SubjectiveBiasABS)
 1. **Neural Abstractive Unsupervised Summarization of Online News Discussions** *Ignacio Tampe Palma, Marcelo Mendoza, Evangelos Milios* [[pdf]](https://arxiv.org/abs/2106.03953)
 1. **Attention Temperature Matters in Abstractive Summarization Distillation** *Shengqiang Zhang, Xingxing Zhang, Hangbo Bao, Furu Wei* [[pdf]](https://arxiv.org/abs/2106.03441)
@@ -773,6 +775,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 2. **Learning towards Abstractive Timeline Summarization** *Xiuying Chen, Zhangming Chan, Shen Gao, Meng-Hsuan Yu, Dongyan Zhao, Rui Yan* `IJCAI19` [[pdf]](https://www.ijcai.org/Proceedings/2019/686) [[data]](https://github.com/yingtaomj/Learning-towards-Abstractive-Timeline-Summarization)
 
 ## Opinion
+1. **Learning Opinion Summarizers by Selecting Informative Reviews** *Arthur Bražinskas, Mirella Lapata, Ivan Titov* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.04325) [[code]](https://github.com/abrazinskas/SelSum)
 1. **Aspect-Controllable Opinion Summarization** *Reinald Kim Amplayo, Stefanos Angelidis, Mirella Lapata* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.03171) [[code]](https://github.com/rktamplayo/AceSum)
 1. **CUSTOM: Aspect-Oriented Product Summarization for E-Commerce** *Jiahui Liang, Junwei Bao, Yifan Wang, Youzheng Wu, Xiaodong He, Bowen Zhou* [[pdf]](https://arxiv.org/abs/2108.08010) [[code]](https://github.com/JD-AI-Research-NLP/CUSTOM)
 1. **TransSum: Translating Aspect and Sentiment Embeddings for Self-Supervised Opinion Summarization** *Ke Wang, Xiaojun Wan* `ACL 2021 Findings` [[pdf]](https://aclanthology.org/2021.findings-acl.65/)
