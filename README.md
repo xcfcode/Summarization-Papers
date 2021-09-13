@@ -306,6 +306,7 @@ This repo contains a list of summarization papers including various topics. If a
 * **Combining linguistic and machine learning techniques for email summarization** *Smaranda Muresan, Evelyne Tzoukermann, Judith L. Klavans* `Proceedings of the ACL 2001 Workshop on Computational Natural Language Learning (ConLL) 2001` [[pdf]](https://www.aclweb.org/anthology/W01-0719/) [[bib]](https://www.aclweb.org/anthology/W01-0719.bib)
 
 ### Meeting Summarization
+1. **An Exploratory Study on Long Dialogue Summarization: What Works and What's Next** *Yusen Zhang, Ansong Ni, Tao Yu, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah, Dragomir Radev* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.04609)
 1. **DialogLM: Pre-trained Model for Long Dialogue Understanding and Summarization** *Ming Zhong, Yang Liu, Yichong Xu, Chenguang Zhu, Michael Zeng* [[pdf]](https://arxiv.org/abs/2109.02492)
 1. **Dynamic Sliding Window for Meeting Summarization** *Zhengyuan Liu, Nancy F. Chen* `SummDial@SIGDial 2021` [[pdf]](https://arxiv.org/abs/2108.13629)
 1. **MeetSum: Transforming Meeting Transcript Summarization using Transformers!** *Nima Sadri, Bohan Zhang, Bihan Liu* [[pdf]](https://arxiv.org/abs/2108.06310)
@@ -352,6 +353,8 @@ This repo contains a list of summarization papers including various topics. If a
 
 
 ### Chat Summarization
+1. **Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization** *Junpeng Liu, Yanyan Zou, Hainan Zhang, Hongshen Chen, Zhuoye Ding, Caixia Yuan, Xiaojie Wang* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.04994) [[code]](https://github.com/Junpliu/ConDigSum)
+1. **Give the Truth: Incorporate Semantic Slot into Abstractive Dialogue Summarization** *Lulu Zhao, Weihao Zeng, Weiran Xu, Jun Guo* `EMNLP 2021` [[pdf]](https://www.researchgate.net/publication/354162497_Give_the_Truth_Incorporate_Semantic_Slot_into_Abstractive_Dialogue_Summarization)
 1. **Low-Resource Dialogue Summarization with Domain-Agnostic Multi-Source Pretraining** *Yicheng Zou, Bolin Zhu, Xingwu Hu, Tao Gui, Qi Zhang* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.04080) [[code]](https://github.com/RowitZou/DAMS)
 1. **Enhancing Semantic Understanding with Self-Supervised Methods for Abstractive Dialogue Summarization** *Hyunjae Lee, Jaewoong Yun, Hyunjin Choi, Seongho Joe, Youngjune L. Gwon* `Interspeech 2021` [[pdf]](https://www.isca-speech.org/archive/interspeech_2021/lee21_interspeech.html)
 1. **Dialogue summarization with supporting utterance flow modeling and fact regularization** *Wang Chen, Piji Li, Hou PongChan, Irwin King* `Knowledge-Based Systems` [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705121005906) 
