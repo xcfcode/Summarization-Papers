@@ -815,6 +815,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 2. **Better Rewards Yield Better Summaries: Learning to Summarise Without References** *Florian Böhm, Yang Gao, Christian M. Meyer, Ori Shapira, Ido Dagan, Iryna Gurevych* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.01214) [[code]](https://github.com/yg211/summary-reward-no-reference)
 
 ## Extractive
+1. **Decision-Focused Summarization** *Chao-Chun Hsu, Chenhao Tan* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.06896) [[code]](https://github.com/ChicagoHAI/decsum)
 1. **Monolingual versus Multilingual BERTology for Vietnamese Extractive Multi-Document Summarization** *Huy To Quoc, Kiet Van Nguyen, Ngan Luu-Thuy Nguyen, Anh Gia-Tuan Nguyen* [[pdf]](https://arxiv.org/abs/2108.13741)
 1. **Multiplex Graph Neural Network for Extractive Text Summarization** *Baoyu Jing, Zeyu You, Tao Yang, Wei Fan, Hanghang Tong* `EMNLP 2021 Short` [[pdf]](https://arxiv.org/abs/2108.12870)
 1. **Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering** *Reinald Adrian Pugoy, Hung-Yu Kao* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.232/)
