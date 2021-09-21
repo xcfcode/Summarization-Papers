@@ -451,6 +451,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
+1. **CLIFF: Contrastive Learning for Improving Faithfulness and Factuality in Abstractive Summarization** *Shuyang Cao, Lu Wang* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.09209) [[code]](https://shuyangcao.github.io/projects/cliff_summ)
 1. **Faithful or Extractive? On Mitigating the Faithfulness-Abstractiveness Trade-off in Abstractive Summarization** *Faisal Ladhak, Esin Durmus, He He, Claire Cardie, Kathleen McKeown* [[pdf]](https://arxiv.org/abs/2108.13684)
 1. **Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation** *Yuexiang Xie, Fei Sun, Yang Deng, Yaliang Li, Bolin Ding* `EMNLP 2021 Findings` [[pdf]](https://arxiv.org/abs/2108.13134) [[code]](https://github.com/xieyxclack/factual_coco)
 1. **Improving Factual Consistency of Abstractive Summarization on Customer Feedback** *Yang Liu, Yifei Sun, Vincent Gao* `ACL 2021 Proceedings of The 4th Workshop on e-Commerce and NLP` [[pdf]](https://aclanthology.org/2021.ecnlp-1.19/)
@@ -490,6 +491,8 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 30. **FAR-ASS：Fact-aware reinforced abstractive sentence summarization** *MengLi Zhanga, Gang Zhoua, Wanting Yua, Wenfen Liub* [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0306457320309675) ![](https://img.shields.io/badge/-improve-orange)
 
 ## Contrastive Learning
+1. **CLIFF: Contrastive Learning for Improving Faithfulness and Factuality in Abstractive Summarization** *Shuyang Cao, Lu Wang* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.09209) [[code]](https://shuyangcao.github.io/projects/cliff_summ)
+2. **Investigating Crowdsourcing Protocols for Evaluatingthe Factual Consistency of Summaries** *Xiangru Tang, Alexander R. Fabbri, Ziming Mao, Griffin Adams, Borui Wang, Haoran Li, Yashar Mehdad, Dragomir Radev* [[pdf]](https://arxiv.org/abs/2109.09195)
 1. **Sequence Level Contrastive Learning for Text Summarization** *Shusheng Xu, Xingxing Zhang, Yi Wu, Furu Wei* [pdf]](https://arxiv.org/abs/2109.03481)
 1. **Enhanced Seq2Seq Autoencoder via Contrastive Learning for Abstractive Text Summarization** *Chujie Zheng, Kunpeng Zhang, Harry Jiannan Wang, Ling Fan, Zhe Wang* [[pdf]](https://arxiv.org/abs/2108.11992) [[code]](https://github.com/chz816/esacl)
 1. **Constructing Contrastive samples via Summarization for Text Classification with limited annotations** *Yangkai Du, Tengfei Ma, Lingfei Wu, Fangli Xu, Xuhong Zhang, Shouling Ji* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2104.05094)
