@@ -90,6 +90,7 @@ This repo contains a list of summarization papers including various topics. If a
       * [Interactive](#interactive)-->
 
 ## Survey
+1. **A Comprehensive Review on Summarizing Financial News Using Deep Learning** *Saurabh Kamal, Sahil Sharma* [[pdf]](https://arxiv.org/abs/2109.10118)
 1. **A Survey on Multi-modal Summarization** *Anubhav Jangra, Adam Jatowt, Sriparna Saha, Mohammad Hasanuzzaman* [[pdf]](https://arxiv.org/abs/2109.05199)
 1. **Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing** *Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, Graham Neubig* [[pdf]](https://arxiv.org/abs/2107.13586)
 1. **A Survey on Dialogue Summarization: Recent Advances and New Frontiers** *Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2107.03175)
@@ -271,6 +272,7 @@ This repo contains a list of summarization papers including various topics. If a
 |109|[CSDS](https://github.com/xiaolinAndy/CSDS)|Customer Service Dialogue|[CSDS: A Fine-grained Chinese Dataset for Customer Service Dialogue Summarization](https://arxiv.org/abs/2108.13139)|EMNLP 2021|
 |110|[persian-dataset](https://github.com/mohammadiahmad/persian-dataset)|persian|[ARMAN: Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization](https://arxiv.org/abs/2109.04098)||
 |111|[StreamHover](https://github.com/ucfnlp/streamhover)|spoken livestream|[StreamHover: Livestream Transcript Summarization and Annotation](https://arxiv.org/abs/2109.05160)|EMNLP 2021|
+|112|[CNewSum](https://dqwang122.github.io/projects/CNewSum/)![](https://img.shields.io/badge/-Chinese-orange)|News|[CNewSum: A Large-scale Chinese News Summarization Dataset with Human-annotated Adequacy and Deducibility Level](https://lileicc.github.io/pubs/wang2021cnewsum.pdf)|NLPCC 2021|
 
 
 ## Dialogue 
@@ -451,6 +453,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
+1. **Inspecting the Factuality of Hallucinated Entities in Abstractive Summarization** *Meng Cao, Yue Dong, Jackie Chi Kit Cheung* [[pdf]](https://arxiv.org/abs/2109.09784)
 1. **CLIFF: Contrastive Learning for Improving Faithfulness and Factuality in Abstractive Summarization** *Shuyang Cao, Lu Wang* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.09209) [[code]](https://shuyangcao.github.io/projects/cliff_summ)
 1. **Faithful or Extractive? On Mitigating the Faithfulness-Abstractiveness Trade-off in Abstractive Summarization** *Faisal Ladhak, Esin Durmus, He He, Claire Cardie, Kathleen McKeown* [[pdf]](https://arxiv.org/abs/2108.13684)
 1. **Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation** *Yuexiang Xie, Fei Sun, Yang Deng, Yaliang Li, Bolin Ding* `EMNLP 2021 Findings` [[pdf]](https://arxiv.org/abs/2108.13134) [[code]](https://github.com/xieyxclack/factual_coco)
