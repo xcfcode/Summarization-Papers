@@ -273,6 +273,7 @@ This repo contains a list of summarization papers including various topics. If a
 |110|[persian-dataset](https://github.com/mohammadiahmad/persian-dataset)|persian|[ARMAN: Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization](https://arxiv.org/abs/2109.04098)||
 |111|[StreamHover](https://github.com/ucfnlp/streamhover)|spoken livestream|[StreamHover: Livestream Transcript Summarization and Annotation](https://arxiv.org/abs/2109.05160)|EMNLP 2021|
 |112|[CNewSum](https://dqwang122.github.io/projects/CNewSum/)![](https://img.shields.io/badge/-Chinese-orange)|News|[CNewSum: A Large-scale Chinese News Summarization Dataset with Human-annotated Adequacy and Deducibility Level](https://lileicc.github.io/pubs/wang2021cnewsum.pdf)|NLPCC 2021|
+|113|[MiRANews](https://github.com/XinnuoXu/MiRANews)|news, factual|[MiRANews: Dataset and Benchmarks for Multi-Resource-Assisted News Summarization](https://arxiv.org/abs/2109.10650)|EMNLP 2021 Findings|
 
 
 ## Dialogue 
@@ -453,6 +454,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
+1. **MiRANews: Dataset and Benchmarks for Multi-Resource-Assisted News Summarization** *Xinnuo Xu, Ondřej Dušek, Shashi Narayan, Verena Rieser, Ioannis Konstas* `EMNLP2021 Findings` [[pdf]](https://arxiv.org/abs/2109.10650) [[data]](https://github.com/XinnuoXu/MiRANews)
 1. **Inspecting the Factuality of Hallucinated Entities in Abstractive Summarization** *Meng Cao, Yue Dong, Jackie Chi Kit Cheung* [[pdf]](https://arxiv.org/abs/2109.09784)
 1. **CLIFF: Contrastive Learning for Improving Faithfulness and Factuality in Abstractive Summarization** *Shuyang Cao, Lu Wang* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.09209) [[code]](https://shuyangcao.github.io/projects/cliff_summ)
 1. **Faithful or Extractive? On Mitigating the Faithfulness-Abstractiveness Trade-off in Abstractive Summarization** *Faisal Ladhak, Esin Durmus, He He, Claire Cardie, Kathleen McKeown* [[pdf]](https://arxiv.org/abs/2108.13684)
@@ -693,6 +695,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 8. **Controlling Output Length in Neural Encoder-Decoders** *Yuta Kikuchi, Graham Neubig, Ryohei Sasano, Hiroya Takamura, Manabu Okumura* `EMNLP16` [[pdf]](https://www.aclweb.org/anthology/D16-1140/) [[code]](https://github.com/kiyukuta/lencon)
 
 ## Abstractive
+1. **Enriching and Controlling Global Semantics for Text Summarization** *Thong Nguyen, Anh Tuan Luu, Truc Lu, Tho Quan* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.10616)
 1. **Augmented Abstractive Summarization With Document-LevelSemantic Graph** *Qiwei Bi, Haoyuan Li, Kun Lu, Hanfang Yang* `Journal of Data Science` [[pdf]](https://arxiv.org/abs/2109.06046)
 1. **ARMAN: Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization** *Alireza Salemi, Emad Kebriaei, Ghazal Neisi Minaei, Azadeh Shakery* [[pdf]](https://arxiv.org/abs/2109.04098) [[data]](https://github.com/mohammadiahmad/persian-dataset)
 1. **Subjective Bias in Abstractive Summarization** *Lei Li, Wei Liu, Marina Litvak, Natalia Vanetik, Jiacheng Pei, Yinan Liu, Siya Qi* [[pdf]](https://arxiv.org/abs/2106.10084) [[code]](https://github.com/thinkwee/SubjectiveBiasABS)
@@ -821,6 +824,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 8. **A Deep Reinforced Model For Abstractive Summarization** *Romain Paulus, Caiming Xiong, Richard Socher* `ICLR18` [[pdf]](https://arxiv.org/abs/1705.04304)
 
 ## Reward Learning
+1. **Recursively Summarizing Books with Human Feedback** *Jeff Wu, Long Ouyang, Daniel M. Ziegler, Nissan Stiennon, Ryan Lowe, Jan Leike, Paul Christiano* [[pdf]](https://arxiv.org/abs/2109.10862) [[code]](https://openaipublic.blob.core.windows.net/recursive-book-summ/website/index.html#/)
 1. **Learning to summarize from human feedback** *Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano* [[pdf]](https://arxiv.org/abs/2009.01325) [[code]](https://github.com/openai/summarize-from-feedback)
 2. **Better Rewards Yield Better Summaries: Learning to Summarise Without References** *Florian Böhm, Yang Gao, Christian M. Meyer, Ori Shapira, Ido Dagan, Iryna Gurevych* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.01214) [[code]](https://github.com/yg211/summary-reward-no-reference)
 
