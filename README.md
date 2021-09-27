@@ -110,6 +110,7 @@ This repo contains a list of summarization papers including various topics. If a
 9. **Recent automatic text summarization techniques: a survey** *Mahak Gambhir, Vishal Gupta* [[pdf]](https://link.springer.com/article/10.1007/s10462-016-9475-9)
 
 ## Toolkit
+1. **iFacetSum: Coreference-based Interactive Faceted Summarization for Multi-Document Exploration** *Eran Hirsch, Alon Eirew, Ori Shapira, Avi Caciularu, Arie Cattan, Ori Ernst, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal, Ido Dagan* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.11621) [[demo]](https://biu-nlp.github.io/iFACETSUM/WebApp/client/)
 1. **SummerTime: Text Summarization Toolkit for Non-experts** *Ansong Ni, Zhangir Azerbayev, Mutethia Mutuma, Troy Feng, Yusen Zhang, Tao Yu, Ahmed Hassan Awadallah, Dragomir Radev* `EMNLP 2021 Demo Track` [[pdf]](https://arxiv.org/abs/2108.12738) [[Demo]](https://github.com/Yale-LILY/SummerTime)
 1. **Summary Explorer: Visualizing the State of the Art in Text Summarization** *Shahbaz Syed, Tariq Yousef, Khalid Al-Khatib, Stefan Jänicke, Martin Potthast*  [[pdf]](https://arxiv.org/abs/2108.01879) [[web]](https://tldr.webis.de/)
 1. **fastnlp/fastSum** [[code]](https://github.com/fastnlp/fastSum)
