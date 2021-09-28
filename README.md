@@ -406,6 +406,7 @@ This repo contains a list of summarization papers including various topics. If a
 2. **Domain Adaptation to Summarize Human Conversations** *Oana Sandu, Giuseppe Carenini, Gabriel Murray, Raymond Ng* `ACL2010 Workshop` [[pdf]](https://www.aclweb.org/anthology/W10-2603/)
 
 ### Others
+1. **Do Boat and Ocean Suggest Beach? Dialogue Summarization with External Knowledge** *Tianqing Fang, Haojie Pan, Hongming Zhang, Yangqiu Song, Kun Xu, Dong Yu* `AKBC 2021` [[pdf]](https://www.akbc.ws/2021/papers/AJKd0iIFMDc) [[code]](https://github.com/HKUST-KnowComp/CODC-Dialogue-Summarization)
 1. **Prompt scoring system for dialogue summarization using GPT3** *Prodan, George; Pelican, Elena* [[pdf]](https://www.techrxiv.org/articles/preprint/Prompt_scoring_system_for_dialogue_summarization_using_GPT-3/16652392)
 1. **Simple Conversational Data Augmentation for Semi-supervised Abstractive Dialogue SummarizationJiaao** *Jiaao Chen, Diyi Yang* `EMNLP 2021` [[pdf]](https://www.cc.gatech.edu/~dyang888/docs/emnlp21_chen_coda.pdf) [[code]](https://github.com/GT-SALT/CODA)
 1. **A Bag of Tricks for Dialogue Summarization** *Muhammad Khalifa, Miguel Ballesteros, Kathleen McKeown* `EMNLP 2021 Short` [[pdf]](https://arxiv.org/abs/2109.08232) 
