@@ -426,6 +426,7 @@ This repo contains a list of summarization papers including various topics. If a
 2. **Semantic Similarity Applied to Spoken Dialogue Summarization** *Iryna Gurevych, Michael Strube* `COLING 2004` [[pdf]](https://www.aclweb.org/anthology/C04-1110/) [[bib]](https://www.aclweb.org/anthology/C04-1110.bib) Switchboard dialogues
 
 ## Scientific Document (Long Doc)
+1. **Leveraging Information Bottleneck for Scientific Document Summarization** *Jiaxin Ju, Ming Liu, Huan Yee Koh, Yuan Jin, Lan Du, Shirui Pan* `EMNLP 2021 Findings` [[pdf]](https://arxiv.org/abs/2110.01280)
 1. **Generating Summaries for Scientific Paper Review** *Ana Sabina Uban, Cornelia Caragea* [[pdf]](https://arxiv.org/abs/2109.14059)
 1. **Sparsity and Sentence Structure in Encoder-Decoder Attention of Summarization Systems** *Potsawee Manakul, Mark J. F. Gales* `EMNLP 2021 short paper` [[pdf]](https://arxiv.org/abs/2109.03888) [[code]](https://github.com/potsawee/encdec_attn_sparse)
 1. **Bringing Structure into Summaries: a Faceted Summarization Dataset for Long Scientific Documents** *Rui Meng, Khushboo Thaker, Lei Zhang, Yue Dong, Xingdi Yuan, Tong Wang, Daqing He* `ACL 2021 short` [[pdf]](https://aclanthology.org/2021.acl-short.137/) [[data]](https://github.com/hfthair/emerald_crawler)
