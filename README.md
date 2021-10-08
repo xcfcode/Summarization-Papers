@@ -275,6 +275,7 @@ This repo contains a list of summarization papers including various topics. If a
 |111|[StreamHover](https://github.com/ucfnlp/streamhover)|spoken livestream|[StreamHover: Livestream Transcript Summarization and Annotation](https://arxiv.org/abs/2109.05160)|EMNLP 2021|
 |112|[CNewSum](https://dqwang122.github.io/projects/CNewSum/)![](https://img.shields.io/badge/-Chinese-orange)|News|[CNewSum: A Large-scale Chinese News Summarization Dataset with Human-annotated Adequacy and Deducibility Level](https://lileicc.github.io/pubs/wang2021cnewsum.pdf)|NLPCC 2021|
 |113|[MiRANews](https://github.com/XinnuoXu/MiRANews)|news, factual|[MiRANews: Dataset and Benchmarks for Multi-Resource-Assisted News Summarization](https://arxiv.org/abs/2109.10650)|EMNLP 2021 Findings|
+|114|[HowSumm](https://github.com/odelliab/HowSumm)|query multi-doc|[HowSumm: A Multi-Document Summarization Dataset Derived from WikiHow Articles](https://arxiv.org/abs/2110.03179)||
 
 
 ## Dialogue 
