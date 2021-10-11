@@ -708,6 +708,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 8. **Controlling Output Length in Neural Encoder-Decoders** *Yuta Kikuchi, Graham Neubig, Ryohei Sasano, Hiroya Takamura, Manabu Okumura* `EMNLP16` [[pdf]](https://www.aclweb.org/anthology/D16-1140/) [[code]](https://github.com/kiyukuta/lencon)
 
 ## Abstractive
+1. **VieSum: How Robust Are Transformer-based Models on Vietnamese Summarization?** *Hieu Nguyen, Long Phan, James Anibal, Alec Peltekian, Hieu Tran* [[pdf]](https://arxiv.org/abs/2110.04257)
 1. **Enriching and Controlling Global Semantics for Text Summarization** *Thong Nguyen, Anh Tuan Luu, Truc Lu, Tho Quan* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.10616)
 1. **Augmented Abstractive Summarization With Document-LevelSemantic Graph** *Qiwei Bi, Haoyuan Li, Kun Lu, Hanfang Yang* `Journal of Data Science` [[pdf]](https://arxiv.org/abs/2109.06046)
 1. **ARMAN: Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization** *Alireza Salemi, Emad Kebriaei, Ghazal Neisi Minaei, Azadeh Shakery* [[pdf]](https://arxiv.org/abs/2109.04098) [[data]](https://github.com/mohammadiahmad/persian-dataset)
