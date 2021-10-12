@@ -27,7 +27,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 
 ## Presentations && Notes
-* **[NEW]** [如何把DialoGPT用到对话摘要任务？@ ACL 2021](https://zhuanlan.zhihu.com/p/395451011) ![](https://img.shields.io/badge/-blog-red) 
+* **[NEW]** [如何把DialoGPT用到对话摘要任务？@ ACL 2021](https://mp.weixin.qq.com/s/GQQRRS3F7p4Zv6wSuDh0ng) ![](https://img.shields.io/badge/-blog-red) 
 * **[NEW]** [对话摘要最新进展简述](https://mp.weixin.qq.com/s/628OAOW1_-Yc_vQbeuY_uA) ![](https://img.shields.io/badge/-blog-red) 
 * **[NEW]** [Dialogue Summarization](slides/presentation/Dialogue_Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
 * **[NEW]** [融入常识知识的生成式对话摘要](https://mp.weixin.qq.com/s/x3zqGc4pqh4x3q_uorNKcg) ![](https://img.shields.io/badge/-blog-red) 
@@ -156,6 +156,7 @@ This repo contains a list of summarization papers including various topics. If a
 2.  **Neural Text Summarization and Generation** *Piji Li* [[pdf]](http://lipiji.com/docs/thesis.pdf)
 
 ## Theory
+1. **Bayesian Active Summarization** *Alexios Gidiotis, Grigorios Tsoumakas* [[pdf]](https://arxiv.org/abs/2110.04480)
 1. **RefSum: Refactoring Neural Summarization** *Yixin Liu, Zi-Yi Dou, Pengfei Liu* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.07210) [[code]](https://github.com/yixinL7/Refactoring-Summarization)
 1. **Principled Approaches to Automatic Text Summarization** *Maxime Peyrard* [[pdf]](https://tuprints.ulb.tu-darmstadt.de/9012/) ![](https://img.shields.io/badge/-thesis-red)
 1. **KLearn: Background Knowledge Inference from Summarization Data** *Maxime Peyrard, Robert West* `Findings of EMNLP20` [[pdf]](https://arxiv.org/abs/2010.06213) [[code]](https://github.com/epfl-dlab/KLearn)
@@ -524,6 +525,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 4. **Contrastive Attention Mechanism for Abstractive Sentence Summarization** *Xiangyu Duan, Hongfei Yu, Mingming Yin, Min Zhang, Weihua Luo, Yue Zhang* `EMNLP 2019` [[pdf]](https://www.aclweb.org/anthology/D19-1301/) [[code]](https://github.com/travel-go/Abstractive-Text-Summarization)
 
 ## Evaluation
+1. **Evaluation of Summarization Systems across Gender, Age, and Race** *Anna Jørgensen, Anders Søgaard* [[pdf]](https://arxiv.org/abs/2110.04384)
 1. **Finding a Balanced Degree of Automation for Summary Evaluation** *Shiyue Zhang, Mohit Bansal* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.11503) [[code]](https://github.com/ZhangShiyue/Lite2-3Pyramid)
 1. **QuestEval: Summarization Asks for Fact-based Evaluation** *Thomas Scialom, Paul-Alexis Dray, Patrick Gallinari, Sylvain Lamprier, Benjamin Piwowarski, Jacopo Staiano, Alex Wang* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2103.12693) [[code]](https://github.com/recitalAI/QuestEval)
 1. **BARTScore: Evaluating Generated Text as Text Generation** *Weizhe Yuan, Graham Neubig, Pengfei Liu* [[pdf]](https://arxiv.org/abs/2106.11520) [[code]](https://github.com/neulab/BARTScore)
@@ -678,6 +680,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 17. **Efficient Adaptation of Pretrained Transformers for Abstractive Summarization** *Andrew Hoang, Antoine Bosselut, Asli Celikyilmaz, Yejin Choi* [[pdf]](https://arxiv.org/abs/1906.00138) [[code]](https://github.com/Andrew03/transformer-abstractive-summarization)
 
 ## Controllable
+1. **HydraSum -- Disentangling Stylistic Features in Text Summarization using Multi-Decoder Models** *Tanya Goyal, Nazneen Fatema Rajani, Wenhao Liu, Wojciech Kryściński* [[pdf]](https://arxiv.org/abs/2110.04400)
 1. **RetrievalSum: A Retrieval Enhanced Framework for Abstractive Summarization** *Chenxin An, Ming Zhong, Zhichao Geng, Jianqiang Yang, Xipeng Qiu* [[pdf]](https://arxiv.org/abs/2109.07943)
 1. **Aspect-Controllable Opinion Summarization** *Reinald Kim Amplayo, Stefanos Angelidis, Mirella Lapata* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.03171) [[code]](https://github.com/rktamplayo/AceSum)
 1. **Extract, Denoise, and Enforce: Evaluating and Predicting Lexical Constraints for Conditional Text Generation** *Yuning Mao, Wenchang Ma, Deren Lei, Xiang Ren* [[pdf]](https://arxiv.org/abs/2104.08724) [[code]](https://github.com/morningmoni/LCGen-eval)
@@ -712,6 +715,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 8. **Controlling Output Length in Neural Encoder-Decoders** *Yuta Kikuchi, Graham Neubig, Ryohei Sasano, Hiroya Takamura, Manabu Okumura* `EMNLP16` [[pdf]](https://www.aclweb.org/anthology/D16-1140/) [[code]](https://github.com/kiyukuta/lencon)
 
 ## Abstractive
+1. **Enhance Long Text Understanding via Distilled Gist Detector from Abstractive Summarization** *Yan Liu, Yazheng Yang* [[pdf]](https://arxiv.org/abs/2110.04741)
 1. **VieSum: How Robust Are Transformer-based Models on Vietnamese Summarization?** *Hieu Nguyen, Long Phan, James Anibal, Alec Peltekian, Hieu Tran* [[pdf]](https://arxiv.org/abs/2110.04257)
 1. **Enriching and Controlling Global Semantics for Text Summarization** *Thong Nguyen, Anh Tuan Luu, Truc Lu, Tho Quan* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.10616)
 1. **Augmented Abstractive Summarization With Document-LevelSemantic Graph** *Qiwei Bi, Haoyuan Li, Kun Lu, Hanfang Yang* `Journal of Data Science` [[pdf]](https://arxiv.org/abs/2109.06046)
