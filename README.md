@@ -364,6 +364,7 @@ This repo contains a list of summarization papers including various topics. If a
 8. **Topic-aware Pointer-Generator Networks for Summarizing Spoken Conversations** *Zhengyuan Liu, Angela Ng, Sheldon Lee, Ai Ti Aw, Nancy F. Chen* ` ASRU 2019` [[pdf]](https://arxiv.org/abs/1910.01335)
 
 ### Customer Service Summarization
+1. **TODSum: Task-Oriented Dialogue Summarization with State Tracking** *Lulu Zhao, Fujia Zheng, Keqing He, Weihao Zeng, Yuejie Lei, Huixing Jiang, Wei Wu, Weiran Xu, Jun Guo, Fanyu Meng* [[pdf]](https://arxiv.org/abs/2110.12680)
 * **CSDS: A Fine-grained Chinese Dataset for Customer Service Dialogue Summarization** *Haitao Lin, Liqun Ma, Junnan Zhu, Lu Xiang, Yu Zhou, Jiajun Zhang, Chengqing Zong* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2108.13139) [[data]](https://github.com/xiaolinAndy/CSDS)
 * **Distant Supervision based Machine Reading Comprehension for Extractive Summarization in Customer Service** *Bing Ma, Cao Liu, Jingyu Wang, Shujie Hu, Fan Yang, Xunliang Cai, Guanglu Wan, Jiansong Chen, Jianxin Liao* `SIGIR 2021` [[pdf]](https://dl.acm.org/doi/10.1145/3404835.3463046)
 * **Unsupervised Abstractive Dialogue Summarization for Tete-a-Tetes** *Xinyuan Zhang, Ruiyi Zhang, Manzil Zaheer, Amr Ahmed* `AAAI21` [[pdf]](https://arxiv.org/abs/2009.06851) 
@@ -513,6 +514,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 4. **HIGHRES: Highlight-based Reference-less Evaluation of Summarization** *Hardy, Shashi Narayan, Andreas Vlachos* `ACL19` [[pdf]](https://arxiv.org/abs/1906.01361) [[code]](https://github.com/sheffieldnlp/highres)
 
 ## Multi-Document
+1. **SgSum: Transforming Multi-document Summarization into Sub-graph Selection** *Moye Chen, Wei Li, Jiachen Liu, Xinyan Xiao, Hua Wu, Haifeng Wang* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2110.12645) [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/EMNLP2021-SgSum)
 1. **Topic-Guided Abstractive Multi-Document Summarization** *Peng Cui, Le Hu* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2110.11207)
 1. **PRIMER: Pyramid-based Masked Sentence Pre-training for Multi-document Summarization** *Wen Xiao, Iz Beltagy, Giuseppe Carenini, Arman Cohan* [[pdf]](https://arxiv.org/abs/2110.08499)
 1. **Modeling Endorsement for Multi-Document Abstractive Summarization** *Logan Lebanoff, Bingqing Wang, Zhe Feng, Fei Liu* `EMNLP 2021 Workshop on New Frontiers in Summarization` [[pdf]](https://arxiv.org/abs/2110.07844) 
