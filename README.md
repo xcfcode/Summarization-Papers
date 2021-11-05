@@ -243,6 +243,10 @@ This repo contains a list of summarization papers including various topics. If a
 |115|[SportsSum2.0](https://github.com/krystalan/SportsSum2.0)|Sports|[SportsSum2.0: Generating High-Quality Sports News from Live Text Commentary](https://arxiv.org/abs/2110.05750)||
 |116|[CoCoSum](https://github.com/megagonlabs/cocosum)|opinion multi-ref|[Comparative Opinion Summarization via Collaborative Decoding](https://arxiv.org/abs/2110.07520)||
 |117|[MReD](https://github.com/Shen-Chenhui/MReD/)|Controllable|[MReD: A Meta-Review Dataset for Controllable Text Generation](https://arxiv.org/abs/2110.07474)||
+|118|[MSˆ2](https://github.com/allenai/ms2)|Multi-Document, Medical|[MSˆ2: Multi-Document Summarization of Medical Studies](https://aclanthology.org/2021.emnlp-main.594/)|EMNLP 2021|
+|119|[MassiveSumm](https://github.com/danielvarab/massive-summ)||[MassiveSumm: a very large-scale, very multilingual, news summarisation dataset](https://aclanthology.org/2021.emnlp-main.797/)|EMNLP 2021|
+|120|[XWikis](https://github.com/lauhaide/clads)|multilingual|[Models and Datasets for Cross-Lingual Summarisation](https://aclanthology.org/2021.emnlp-main.742/)|EMNLP 2021|
+
 
 
 ## Dialogue 
@@ -436,6 +440,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
+1. **Fine-grained Factual Consistency Assessment for Abstractive Summarization Models** *Sen Zhang, Jianwei Niu, Chuyuan Wei* `` [[pdf]](https://aclanthology.org/2021.emnlp-main.9/)
 1. **MoFE: Mixture of Factual Experts for Controlling Hallucinations in Abstractive Summarization** *Prafulla Kumar Choubey, Jesse Vig, Wenhao Liu, Nazneen Fatema Rajani* [[pdf]](https://arxiv.org/abs/2110.07166)
 1. **Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries** *Xiangru Tang, Alexander R. Fabbri, Ziming Mao, Griffin Adams, Borui Wang, Haoran Li, Yashar Mehdad, Dragomir Radev* [[pdf]](https://arxiv.org/abs/2109.09195)
 1. **MiRANews: Dataset and Benchmarks for Multi-Resource-Assisted News Summarization** *Xinnuo Xu, Ondřej Dušek, Shashi Narayan, Verena Rieser, Ioannis Konstas* `EMNLP2021 Findings` [[pdf]](https://arxiv.org/abs/2109.10650) [[data]](https://github.com/XinnuoXu/MiRANews)
@@ -514,6 +519,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 4. **HIGHRES: Highlight-based Reference-less Evaluation of Summarization** *Hardy, Shashi Narayan, Andreas Vlachos* `ACL19` [[pdf]](https://arxiv.org/abs/1906.01361) [[code]](https://github.com/sheffieldnlp/highres)
 
 ## Multi-Document
+1. **MSˆ2: Multi-Document Summarization of Medical Studies** *Jay DeYoung, Iz Beltagy, Madeleine van Zuylen, Bailey Kuehl, Lucy Wang* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.594/) [[data]](https://github.com/allenai/ms2)
 1. **SgSum: Transforming Multi-document Summarization into Sub-graph Selection** *Moye Chen, Wei Li, Jiachen Liu, Xinyan Xiao, Hua Wu, Haifeng Wang* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2110.12645) [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/EMNLP2021-SgSum)
 1. **Topic-Guided Abstractive Multi-Document Summarization** *Peng Cui, Le Hu* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2110.11207)
 1. **PRIMER: Pyramid-based Masked Sentence Pre-training for Multi-document Summarization** *Wen Xiao, Iz Beltagy, Giuseppe Carenini, Arman Cohan* [[pdf]](https://arxiv.org/abs/2110.08499)
@@ -555,6 +561,8 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 21. **Event-Centric Summary Generation** *Lucy Vanderwende Michele Banko Arul Menezes* `ACL04` [[pdf]](https://www.microsoft.com/en-us/research/publication/event-centric-summary-generation/) 
 
 ## Cross-Lingual
+1. **Models and Datasets for Cross-Lingual Summarisation** *Laura Perez-Beltrachini, Mirella Lapata* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.742/) [[data]](https://github.com/lauhaide/clads)
+1. **MassiveSumm: a very large-scale, very multilingual, news summarisation dataset** *Daniel Varab, Natalie Schluter* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.797/) [[code]](https://github.com/danielvarab/massive-summ)
 1. **Bridging the Gap: Cross-Lingual Summarization with Compression Rate** *Yu Bai, Heyan Huang, Kai Fan, Yang Gao, Zewen Chi, Boxing Chen* [[pdf]](https://arxiv.org/abs/2110.07936)
 1. **Contrastive Aligned Joint Learning for Multilingual Summarization** *Danqing Wang, Jiaze Chen, Hao Zhou, Xipeng Qiu, Lei Li* `ACL 2021 Findings` [[pdf]](https://aclanthology.org/2021.findings-acl.242/) [[data]](https://github.com/brxx122/CALMS)
 1. **XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages** *T. Hasan, A. Bhattacharjee, M. S. Islam, K. Samin, Y. Li, Y. Kang, M. S. Rahman, R. Shahriyar* `Findings of ACL 2021` [[pdf]](https://arxiv.org/abs/2106.13822) [[data]](https://github.com/csebuetnlp/xl-sum)
@@ -628,6 +636,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 4. **Creating Video Summarization From Emotion Perspective** *Yijie Lan, Shikui Wei, Ruoyu Liu, Yao Zhao* `ICSP16` [[pdf]](https://ieeexplore.ieee.org/document/7878001/)
 
 ## Pre-trained Language Model Based
+1. **ARMAN: Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization** *Alireza Salemi, Emad Kebriaei, Ghazal Neisi Minaei, Azadeh Shakery* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.741/) [[code]](https://github.com/alirezasalemi7/ARMAN)
 1. **Leveraging Lead Bias for Zero-shot Abstractive News Summarization** *Chenguang Zhu, Ziyi Yang, Robert Gmyr, Michael Zeng, Xuedong Huang* `SIGIR 2021` [[pdf]](https://dl.acm.org/doi/10.1145/3404835.3462846) 
 1. **ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language Understanding and Generation** *Yu Sun, Shuohuan Wang, Shikun Feng, Siyu Ding, Chao Pang, Junyuan Shang, Jiaxiang Liu, Xuyi Chen, Yanbin Zhao, Yuxiang Lu, Weixin Liu, Zhihua Wu, Weibao Gong, Jianzhong Liang, Zhizhou Shang, Peng Sun, Wei Liu, Xuan Ouyang, Dianhai Yu, Hao Tian, Hua Wu, Haifeng Wang* [[pdf]](https://arxiv.org/abs/2107.02137)
 1. **BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining** *Weizhen Qi, Yeyun Gong, Jian Jiao, Yu Yan, Weizhu Chen, Dayiheng Liu, Kewen Tang, Houqiang Li, Jiusheng Chen, Ruofei Zhang, Ming Zhou, Nan Duan* `ICML 2021` [[pdf]](https://arxiv.org/abs/2012.15525) [[code]](https://github.com/microsoft/BANG)
@@ -688,6 +697,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 8. **Controlling Output Length in Neural Encoder-Decoders** *Yuta Kikuchi, Graham Neubig, Ryohei Sasano, Hiroya Takamura, Manabu Okumura* `EMNLP16` [[pdf]](https://www.aclweb.org/anthology/D16-1140/) [[code]](https://github.com/kiyukuta/lencon)
 
 ## Abstractive
+1. **Learn to Copy from the Copying History: Correlational Copy Network for Abstractive Summarization** *Haoran Li, Song Xu, Peng Yuan, Yujia Wang, Youzheng Wu, Xiaodong He, Bowen Zhou* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.336/) [[code]](https://github.com/hrlinlp/coconet)
 1. **Enhance Long Text Understanding via Distilled Gist Detector from Abstractive Summarization** *Yan Liu, Yazheng Yang* [[pdf]](https://arxiv.org/abs/2110.04741)
 1. **VieSum: How Robust Are Transformer-based Models on Vietnamese Summarization?** *Hieu Nguyen, Long Phan, James Anibal, Alec Peltekian, Hieu Tran* [[pdf]](https://arxiv.org/abs/2110.04257)
 1. **Enriching and Controlling Global Semantics for Text Summarization** *Thong Nguyen, Anh Tuan Luu, Truc Lu, Tho Quan* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.10616)
@@ -924,6 +934,9 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 ## Speech
 1. **Speech Summarization using Restricted Self-Attention** *Roshan Sharma, Shruti Palaskar, Alan W Black, Florian Metze* `ICASSP 2022` [[pdf]](https://arxiv.org/abs/2110.06263)
+
+## Temp
+1. **AUTOSUMM: Automatic Model Creation for Text Summarization** *Sharmila Reddy Nangi, Atharv Tyagi, Jay Mundra, Sagnik Mukherjee, Raj Snehal, Niyati Chhaya, Aparna Garimella* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.798.pdf)
 
 
 
