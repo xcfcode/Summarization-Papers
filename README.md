@@ -250,6 +250,7 @@ This repo contains a list of summarization papers including various topics. If a
 |122|[TLDR9+](https://github.com/sajastu/reddit_collector)||[TLDR9+: A Large Scale Resource for Extreme Summarization of Social Media Posts](https://aclanthology.org/2021.newsum-1.15/)|EMNLP 2021 newsum|
 |123|[20 Minuten](https://github.com/ZurichNLP/20Minuten)|German|[A New Dataset and Efficient Baselines for Document-level Text Simplification in German](https://aclanthology.org/2021.newsum-1.16/)|EMNLP 2021 newsum|
 |124|[SPEKTRUM](https://github.com/MehwishFatimah/wsd)|multi-lingual|[A Novel Wikipedia based Dataset for Monolingual and Cross-Lingual Summarization](https://aclanthology.org/2021.newsum-1.5/)|EMNLP 2021 newsum|
+|125|[TEDSummary](https://github.com/nttcslab-sp-admin/TEDSummary)|Speech|[Attention-based Multi-hypothesis Fusion for Speech Summarization](https://arxiv.org/abs/2111.08201)||
 
 
 ## Dialogue 
@@ -288,6 +289,7 @@ This repo contains a list of summarization papers including various topics. If a
 * **Combining linguistic and machine learning techniques for email summarization** *Smaranda Muresan, Evelyne Tzoukermann, Judith L. Klavans* `Proceedings of the ACL 2001 Workshop on Computational Natural Language Learning (ConLL) 2001` [[pdf]](https://www.aclweb.org/anthology/W01-0719/) [[bib]](https://www.aclweb.org/anthology/W01-0719.bib)
 
 ### Meeting Summarization
+1. **Meeting Summarization with Pre-training and Clustering Methods** *Andras Huebner, Wei Ji, Xiang Xiao* [[pdf]](https://arxiv.org/abs/2111.08210) [[code]](https://github.com/wxj77/MeetingSummarization)
 1. **Context or No Context? A preliminary exploration of human-in-the-loop approach for Incremental Temporal Summarization in meetings** *Nicole Beckage, Shachi H Kumar, Saurav Sahay, Ramesh Manuvinakurike* `EMNLP 2021| newsum` [[pdf]](https://aclanthology.org/2021.newsum-1.11/)
 1. **Summ^N: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents** *Yusen Zhang, Ansong Ni, Ziming Mao, Chen Henry Wu, Chenguang Zhu, Budhaditya Deb, Ahmed H. Awadallah, Dragomir Radev, Rui Zhang* [[pdf]](https://arxiv.org/abs/2110.10150)
 1. **RetrievalSum: A Retrieval Enhanced Framework for Abstractive Summarization** *Chenxin An, Ming Zhong, Zhichao Geng, Jianqiang Yang, Xipeng Qiu* [[pdf]](https://arxiv.org/abs/2109.07943)
@@ -361,6 +363,7 @@ This repo contains a list of summarization papers including various topics. If a
 4. **SAMSum Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization** *Bogdan Gliwa, Iwona Mochol, Maciej Biesek, Aleksander Wawer* `EMNLP19` [[pdf]](https://arxiv.org/abs/1911.12237) [[data]](https://arxiv.org/src/1911.12237v2/anc/corpus.7z) 
 
 ### Medical Dialogue Summarization
+1. **Adding more data does not always help: A study in medical conversation summarization with PEGASUS** *Varun Nair, Namit Katariya, Xavier Amatriain, Ilya Valmianski, Anitha Kannan* [[pdf]](https://arxiv.org/abs/2111.07564)
 1. **Leveraging Pretrained Models for Automatic Summarization of Doctor-Patient Conversations** *Longxiang Zhang, Renato Negrinho, Arindam Ghosh, Vasudevan Jagannathan, Hamid Reza Hassanzadeh, Thomas Schaaf, and Matthew R. Gormley* `Findings of EMNLP 2021` [[pdf]](https://www.cs.cmu.edu/~mgormley/papers/zhang+al.emnlp.2021.pdf)
 1. **Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization** *Bharath Chintagunta, Namit Katariya, Xavier Amatriain, Anitha Kannan* `NAACL | NLPMC 2021` [[pdf1]](https://aclanthology.org/2021.nlpmc-1.9/) [[pdf2]](https://arxiv.org/abs/2110.07356)
 1. **Generating SOAP Notes from Doctor-Patient Conversations Using Modular Summarization Techniques** *Kundan Krishna, Sopan Khosla, Jeffrey P. Bigham, Zachary C. Lipton* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.384/) [[code]](https://github.com/acmi-lab/modular-summarization)
@@ -606,6 +609,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 20. **Cross-language document summarization based on machine translation quality prediction** *Xiaojun Wan, Huiying Li, Jianguo Xiao* `ACL10` [[pdf]](https://www.aclweb.org/anthology/P10-1094/)
 
 ## Multi-modal
+1. **Attention-based Multi-hypothesis Fusion for Speech Summarization** *Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Shinji Watanabe* [[pdf]](https://arxiv.org/abs/2111.08201) 
 1. **Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization** *Tiezheng Yu, Wenliang Dai, Zihan Liu, Pascale Fung* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.02401) [[code]](https://github.com/HLTCHKUST/VG-GPLMs)
 1. **Multi-Modal Supplementary-Complementary Summarization using Multi-Objective Optimization** *Anubhav Jangra, Sriparna Saha, Adam Jatowt, Mohammad Hasanuzzaman* `SIGIR 2021` [[pdf]](https://dl.acm.org/doi/10.1145/3404835.3462877)
 1. **Self-Supervised Multimodal Opinion Summarization** *Jinbae Im, Moonki Kim, Hoyeop Lee, Hyunsouk Cho, Sehee Chung* `ACL21` [[pdf]](https://aclanthology.org/2021.acl-long.33/) [[code]](https://github.com/nc-ai/knowledge/tree/master/publications/MultimodalSum)
@@ -898,6 +902,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 5. **Single Document Summarization as Tree Induction** *Yang Liu, Ivan Titov, Mirella Lapata* `NAACL19` [[pdf]](https://www.aclweb.org/anthology/N19-1173/) [[code]](https://github.com/nlpyang/SUMO)
 
 ## QA Related
+1. **Question-Based Salient Span Selection for More Controllable Text Summarization** *Daniel Deutsch, Dan Roth* [[pdf]](https://arxiv.org/abs/2111.07935)
 1. **Text Summarization with Latent Queries** *Yumo Xu, Mirella Lapata* [[pdf]](https://arxiv.org/abs/2106.00104)
 1. **Summarizing Chinese Medical Answer with Graph Convolution Networks and Question-focused Dual Attention** *Ningyu Zhang, Shumin Deng, Juan Li, Xi Chen, Wei Zhang, Huajun Chen* `Findings of EMNLP` [[pdf]](https://www.aclweb.org/anthology/2020.findings-emnlp.2/)
 1. **Towards Question-Answering as an Automatic Metric for Evaluating the Content Quality of a Summary** *Daniel Deutsch, Tania Bedrax-Weiss, Dan Roth* [[pdf]](https://arxiv.org/abs/2010.00490) [[code]](https://github.com/CogComp/qaeval-experiments)
