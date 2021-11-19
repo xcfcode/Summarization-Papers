@@ -251,6 +251,7 @@ This repo contains a list of summarization papers including various topics. If a
 |123|[20 Minuten](https://github.com/ZurichNLP/20Minuten)|German|[A New Dataset and Efficient Baselines for Document-level Text Simplification in German](https://aclanthology.org/2021.newsum-1.16/)|EMNLP 2021 newsum|
 |124|[SPEKTRUM](https://github.com/MehwishFatimah/wsd)|multi-lingual|[A Novel Wikipedia based Dataset for Monolingual and Cross-Lingual Summarization](https://aclanthology.org/2021.newsum-1.5/)|EMNLP 2021 newsum|
 |125|[TEDSummary](https://github.com/nttcslab-sp-admin/TEDSummary)|Speech|[Attention-based Multi-hypothesis Fusion for Speech Summarization](https://arxiv.org/abs/2111.08201)||
+|126|[SummaC Benchmark](https://github.com/tingofurro/summac/)|Factual, NLI|[SummaC: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization](https://arxiv.org/abs/2111.09525)||
 
 
 ## Dialogue 
@@ -450,7 +451,8 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
-1. **Dialogue Inspectional Summarization with Factual Inconsistency Awareness** *Leilei Gan, Yating Zhang, Kun Kuang, Lin Yuan, Shuo Li, Changlong Sun, Xiaozhong Liu, Fei Wu* [[pdf]](https://arxiv.org/abs/2111.03284)
+1. **SummaC: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization** *Philippe Laban, Tobias Schnabel, Paul N. Bennett, Marti A. Hearst* [[pdf]](https://arxiv.org/abs/2111.09525) [[code]](https://github.com/tingofurro/summac/)
+2. **Dialogue Inspectional Summarization with Factual Inconsistency Awareness** *Leilei Gan, Yating Zhang, Kun Kuang, Lin Yuan, Shuo Li, Changlong Sun, Xiaozhong Liu, Fei Wu* [[pdf]](https://arxiv.org/abs/2111.03284)
 1. **Fine-grained Factual Consistency Assessment for Abstractive Summarization Models** *Sen Zhang, Jianwei Niu, Chuyuan Wei* `` [[pdf]](https://aclanthology.org/2021.emnlp-main.9/)
 1. **MoFE: Mixture of Factual Experts for Controlling Hallucinations in Abstractive Summarization** *Prafulla Kumar Choubey, Jesse Vig, Wenhao Liu, Nazneen Fatema Rajani* [[pdf]](https://arxiv.org/abs/2110.07166)
 1. **Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries** *Xiangru Tang, Alexander R. Fabbri, Ziming Mao, Griffin Adams, Borui Wang, Haoran Li, Yashar Mehdad, Dragomir Radev* [[pdf]](https://arxiv.org/abs/2109.09195)
