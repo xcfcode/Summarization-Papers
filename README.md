@@ -713,6 +713,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 8. **Controlling Output Length in Neural Encoder-Decoders** *Yuta Kikuchi, Graham Neubig, Ryohei Sasano, Hiroya Takamura, Manabu Okumura* `EMNLP16` [[pdf]](https://www.aclweb.org/anthology/D16-1140/) [[code]](https://github.com/kiyukuta/lencon)
 
 ## Abstractive
+1. **Pointer over Attention: An Improved Bangla Text Summarization Approach Using Hybrid Pointer Generator Network** *Nobel Dhar, Gaurob Saha, Prithwiraj Bhattacharjee, Avi Mallick, Md Saiful Islam* [[pdf]](https://arxiv.org/abs/2111.10269)
 1. **Template-aware Attention Model for Earnings Call Report Generation** *Yangchen Huang, Prashant K. Dhingra, Seyed Danial Mohseni Taheri* `EMNLP 2021| newsum` [[pdf]](https://aclanthology.org/2021.newsum-1.2/)
 1. **Rewards with Negative Examples for Reinforced Topic-Focused Abstractive Summarization** *Khalil Mrini, Can Liu, Markus Dreyer* `EMNLP 2021| newsum` [[pdf]](https://aclanthology.org/2021.newsum-1.4/)
 1. **Knowledge and Keywords Augmented Abstractive Sentence Summarization** *Shuo Guan, Ping Zhu, Zhihua Wei* `EMNLP 2021| newsum` [[pdf]](https://aclanthology.org/2021.newsum-1.3.pdf) [[code]](https://github.com/SeanG-325/KAS)
