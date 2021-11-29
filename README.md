@@ -198,7 +198,7 @@ This repo contains a list of summarization papers including various topics. If a
 |70|[MTSamples](https://github.com/babylonhealth/medical-note-summarisation)|Medical|[Towards objectively evaluating the quality of generated medical summaries](https://arxiv.org/abs/2104.04412)||
 |71|[QMSum](https://github.com/Yale-LILY/QMSum)|Meeting, Query|[QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization](https://arxiv.org/abs/2104.05938)|NAACL21|
 |72|[MS2](https://github.com/allenai/ms2)|Medical, Multi-Document|[MS2: Multi-Document Summarization of Medical Studies](https://arxiv.org/abs/2104.06486)||
-|73|[SummScreen](https://github.com/mingdachen/SummScreen)|Television Series|[SummScreen: A Dataset for Abstractive Screenplay Summarization](https://arxiv.org/abs/2104.07091)|
+|73|[SummScreen](https://github.com/mingdachen/SummScreen)|Television Series|[SummScreen: A Dataset for Abstractive Screenplay Summarization](https://arxiv.org/abs/2104.07091)||
 |74|[SciDuet](https://github.com/IBM/document2slides)|Scientific Papers and Slides|[D2S: Document-to-Slide Generation Via Query-Based Text Summarization](https://github.com/IBM/document2slides)|NAACL21|
 |75|[MultiHumES](https://deephelp.zendesk.com/hc/en-us/sections/360011925552-MultiHumES)|Multilingual|[MultiHumES: Multilingual Humanitarian Dataset for Extractive Summarization](https://www.aclweb.org/anthology/2021.eacl-main.146/)|EACL21|
 |76|[DialSumm](https://github.com/cylnlp/DialSumm)|Dialogue|[DialSumm: A Real-Life Scenario Dialogue Summarization Dataset](https://arxiv.org/abs/2105.06762)|Findings of ACL21|
@@ -253,9 +253,14 @@ This repo contains a list of summarization papers including various topics. If a
 |125|[TEDSummary](https://github.com/nttcslab-sp-admin/TEDSummary)|Speech|[Attention-based Multi-hypothesis Fusion for Speech Summarization](https://arxiv.org/abs/2111.08201)||
 |126|[SummaC Benchmark](https://github.com/tingofurro/summac/)|Factual, NLI|[SummaC: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization](https://arxiv.org/abs/2111.09525)||
 |127|[ForumSum](https://huggingface.co/datasets/forumsum)|Conversation|[ForumSum: A Multi-Speaker Conversation Summarization Dataset](ttps://aclanthology.org/2021.findings-emnlp.391/)|EMNLP 2021 Findings|
+|128|[K-SportsSum](https://github.com/krystalan/K-SportsSum)|Sports|[Knowledge Enhanced Sports Game Summarization](https://arxiv.org/abs/2111.12535)|WSDM 2022|
+|129|[Test-Amazon](https://github.com/abrazinskas/Copycat-abstractive-opinion-summarizer)|Opinion, New test for Amazon reviews|[Unsupervised Opinion Summarization as Copycat-Review Generation](https://aclanthology.org/2020.acl-main.461/)|ACL 2020|
+|130|[Test-Amazon-Yelp](https://github.com/abrazinskas/FewSum)|Opinion, New test for  Amazon(180) and Yelp(300)|[Few-Shot Learning for Opinion Summarization](https://aclanthology.org/2020.emnlp-main.337/)|EMNLP 2020|
+|131|[AmaSum](https://github.com/abrazinskas/SelSum)|Opinion|[Learning Opinion Summarizers by Selecting Informative Reviews](https://aclanthology.org/2021.emnlp-main.743/)|EMNLP 2021|
 
 
 ## Dialogue 
+
 > **A Survey on Dialogue Summarization: Recent Advances and New Frontiers** *Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2107.03175)
 
 ### Dataset
@@ -972,7 +977,6 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 ## Extend
 1. **SOM-NCSCM : An Efficient Neural Chinese Sentence Compression Model Enhanced with Self-Organizing Map** *Kangli Zi, Shi Wang, Yu Liu, Jicun Li, Yanan Cao, Cungen Cao* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.33/) [[data]](https://github.com/Zikangli/SOM-NCSCM)
-
 
 
 
