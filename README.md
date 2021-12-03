@@ -460,6 +460,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
+1. **CO2Sum:Contrastive Learning for Factual-Consistent Abstractive Summarization** *Wei Liu, Huanqin Wu, Wenjing Mu, Zhen Li, Tao Chen, Dan Nie* [[pdf]](https://arxiv.org/abs/2112.01147)
 1. **Are Factuality Checkers Reliable? Adversarial Meta-evaluation of Factuality in Summarization** *Yiran Chen, Pengfei Liu, Xipeng Qiu* `EMNLP 2021 Findings` [[pdf]](https://aclanthology.org/2021.findings-emnlp.179/) [[code]](https://github.com/zide05/AdvFact)
 1. **SummaC: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization** *Philippe Laban, Tobias Schnabel, Paul N. Bennett, Marti A. Hearst* [[pdf]](https://arxiv.org/abs/2111.09525) [[code]](https://github.com/tingofurro/summac/)
 2. **Dialogue Inspectional Summarization with Factual Inconsistency Awareness** *Leilei Gan, Yating Zhang, Kun Kuang, Lin Yuan, Shuo Li, Changlong Sun, Xiaozhong Liu, Fei Wu* [[pdf]](https://arxiv.org/abs/2111.03284)
