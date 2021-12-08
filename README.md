@@ -588,6 +588,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 21. **Event-Centric Summary Generation** *Lucy Vanderwende Michele Banko Arul Menezes* `ACL04` [[pdf]](https://www.microsoft.com/en-us/research/publication/event-centric-summary-generation/) 
 
 ## Cross-Lingual
+1. **Improving Neural Cross-Lingual Summarization via Employing Optimal Transport Distance for Knowledge Distillation** *Thong Nguyen, Luu Anh Tuan* `AAAI 2022` [[pdf]](https://arxiv.org/abs/2112.03473)
 1. **Evaluation of Abstractive Summarisation Models with Machine Translation in Deliberative Processes** *Miguel Arana-Catania, Rob Procter, Yulan He, Maria Liakata* `EMNLP 2021| newsum` [[pdf]](https://aclanthology.org/2021.newsum-1.7/)
 1. **Models and Datasets for Cross-Lingual Summarisation** *Laura Perez-Beltrachini, Mirella Lapata* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.742/) [[data]](https://github.com/lauhaide/clads)
 1. **MassiveSumm: a very large-scale, very multilingual, news summarisation dataset** *Daniel Varab, Natalie Schluter* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.797/) [[code]](https://github.com/danielvarab/massive-summ)
