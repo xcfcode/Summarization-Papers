@@ -297,6 +297,7 @@ This repo contains a list of summarization papers including various topics. If a
 * **Combining linguistic and machine learning techniques for email summarization** *Smaranda Muresan, Evelyne Tzoukermann, Judith L. Klavans* `Proceedings of the ACL 2001 Workshop on Computational Natural Language Learning (ConLL) 2001` [[pdf]](https://www.aclweb.org/anthology/W01-0719/) [[bib]](https://www.aclweb.org/anthology/W01-0719.bib)
 
 ### Meeting Summarization
+1. **Exploring Neural Models for Query-Focused Summarization** *Jesse Vig, Alexander R. Fabbri, Wojciech Kryściński* [[pdf]](https://arxiv.org/abs/2112.07637) [[code]](https://github.com/salesforce/query-focused-sum)
 1. **Improving Abstractive Dialogue Summarization with Hierarchical Pretraining and Topic Segment** *MengNan Qi, Hao Liu, YuZhuo Fu, Ting Liu* `EMNLP 2021 Findings` [[pdf]](https://aclanthology.org/2021.findings-emnlp.97/)
 1. **Meeting Summarization with Pre-training and Clustering Methods** *Andras Huebner, Wei Ji, Xiang Xiao* [[pdf]](https://arxiv.org/abs/2111.08210) [[code]](https://github.com/wxj77/MeetingSummarization)
 1. **Context or No Context? A preliminary exploration of human-in-the-loop approach for Incremental Temporal Summarization in meetings** *Nicole Beckage, Shachi H Kumar, Saurav Sahay, Ramesh Manuvinakurike* `EMNLP 2021| newsum` [[pdf]](https://aclanthology.org/2021.newsum-1.11/)
@@ -693,6 +694,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 17. **Efficient Adaptation of Pretrained Transformers for Abstractive Summarization** *Andrew Hoang, Antoine Bosselut, Asli Celikyilmaz, Yejin Choi* [[pdf]](https://arxiv.org/abs/1906.00138) [[code]](https://github.com/Andrew03/transformer-abstractive-summarization)
 
 ## Controllable
+1. **Reinforced Abstractive Summarization with Adaptive Length Controlling** *Mingyang Song, Yi Feng, Liping Jing* [[pdf]](https://arxiv.org/abs/2112.07534) 
 1. **HydraSum -- Disentangling Stylistic Features in Text Summarization using Multi-Decoder Models** *Tanya Goyal, Nazneen Fatema Rajani, Wenhao Liu, Wojciech Kryściński* [[pdf]](https://arxiv.org/abs/2110.04400)
 1. **RetrievalSum: A Retrieval Enhanced Framework for Abstractive Summarization** *Chenxin An, Ming Zhong, Zhichao Geng, Jianqiang Yang, Xipeng Qiu* [[pdf]](https://arxiv.org/abs/2109.07943)
 1. **Aspect-Controllable Opinion Summarization** *Reinald Kim Amplayo, Stefanos Angelidis, Mirella Lapata* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.03171) [[code]](https://github.com/rktamplayo/AceSum)
@@ -932,6 +934,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 3. **A Semantic QA-Based Approach for Text Summarization Evaluation** *Ping Chen, Fei Wu, Tong Wang, Wei Ding* `AAAI18` [[pdf]](https://arxiv.org/abs/1704.06259) 
 
 ## Query
+1. **Exploring Neural Models for Query-Focused Summarization** *Jesse Vig, Alexander R. Fabbri, Wojciech Kryściński* [[pdf]](https://arxiv.org/abs/2112.07637) [[code]](https://github.com/salesforce/query-focused-sum)
 1. **Aspect-Oriented Summarization through Query-Focused Extraction** *Ojas Ahuja, Jiacheng Xu, Akshay Gupta, Kevin Horecka, Greg Durrett* [[pdf]](https://arxiv.org/abs/2110.08296)
 1. **Query-Focused Extractive Summarisation for Finding Ideal Answers to Biomedical and COVID-19 Questions** *Diego Mollá (1 and 2), Urvashi Khanna (1), Dima Galat (1), Vincent Nguyen (2 and 3)Maciej Rybinski (3) ( (1) Macquarie University, (2) CSIRO Data61, (3) Australian National University)* [[pdf]](https://arxiv.org/abs/2108.12189)
 1. **Summary-Oriented Question Generation for Informational Queries** *Xusen Yin, Li Zhou, Kevin Small, Jonathan May* `Proceedings of the 1st Workshop on Document-grounded Dialogue and Conversational Question Answering (DialDoc 2021)` [[pdf]](https://aclanthology.org/2021.dialdoc-1.11/)
