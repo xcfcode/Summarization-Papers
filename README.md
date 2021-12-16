@@ -421,6 +421,7 @@ This repo contains a list of summarization papers including various topics. If a
 2. **Semantic Similarity Applied to Spoken Dialogue Summarization** *Iryna Gurevych, Michael Strube* `COLING 2004` [[pdf]](https://www.aclweb.org/anthology/C04-1110/) [[bib]](https://www.aclweb.org/anthology/C04-1110.bib) Switchboard dialogues
 
 ## Long Document
+1. **LongT5: Efficient Text-To-Text Transformer for Long Sequences** *Mandy Guo, Joshua Ainslie, David Uthus, Santiago Ontanon, Jianmo Ni, Yun-Hsuan Sung, Yinfei Yang* [[pdf]](https://arxiv.org/abs/2112.07916)
 1. **The Influence of Data Pre-processing and Post-processing on Long Document Summarization** *Xinwei Du, Kailun Dong, Yuchen Zhang, Yongsheng Li, Ruei-Yu Tsay* [[pdf]](https://arxiv.org/abs/2112.01660)
 1. **DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization** *Ziming Mao, Chen Henry Wu, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed H. Awadallah, Dragomir Radev* [[pdf]](https://arxiv.org/abs/2110.08168) [[code]](https://github.com/Yale-LILY/DYLE)
 1. **End-to-End Segmentation-based News Summarization** *Yang Liu, Chenguang Zhu, Michael Zeng* [[pdf]](https://arxiv.org/abs/2110.07850)
