@@ -258,6 +258,7 @@ This repo contains a list of summarization papers including various topics. If a
 |130|[Test-Amazon-Yelp](https://github.com/abrazinskas/FewSum)|Opinion, New test for  Amazon(180) and Yelp(300)|[Few-Shot Learning for Opinion Summarization](https://aclanthology.org/2020.emnlp-main.337/)|EMNLP 2020|
 |131|[AmaSum](https://github.com/abrazinskas/SelSum)|Opinion|[Learning Opinion Summarizers by Selecting Informative Reviews](https://aclanthology.org/2021.emnlp-main.743/)|EMNLP 2021|
 |132|[CrossSum](https://github.com/csebuetnlp/CrossSum)|Cross lingual|[CrossSum: Beyond English-Centric Cross-Lingual Abstractive Text Summarization for 1500+ Language Pairs](https://arxiv.org/abs/2112.08804)||
+|133|[HCSCL-MSDataset](https://github.com/LitianD/HCSCL-MSDataset)|Multi-modal|[Hierarchical Cross-Modality Semantic Correlation Learning Model for Multimodal Summarization](https://arxiv.org/abs/2112.12072)|AAAI 2022|
 
 
 ## Dialogue 
@@ -634,6 +635,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 20. **Cross-language document summarization based on machine translation quality prediction** *Xiaojun Wan, Huiying Li, Jianguo Xiao* `ACL10` [[pdf]](https://www.aclweb.org/anthology/P10-1094/)
 
 ## Multi-modal
+1. **Hierarchical Cross-Modality Semantic Correlation Learning Model for Multimodal Summarization** *Litian Zhang, Xiaoming Zhang, Junshu Pan, Feiran Huang* `AAAI 2022` [[pdf]](https://arxiv.org/abs/2112.12072) [[data]](https://github.com/LitianD/HCSCL-MSDataset)
 1. **Attention-based Multi-hypothesis Fusion for Speech Summarization** *Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Shinji Watanabe* [[pdf]](https://arxiv.org/abs/2111.08201) 
 1. **Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization** *Tiezheng Yu, Wenliang Dai, Zihan Liu, Pascale Fung* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.02401) [[code]](https://github.com/HLTCHKUST/VG-GPLMs)
 1. **Multi-Modal Supplementary-Complementary Summarization using Multi-Objective Optimization** *Anubhav Jangra, Sriparna Saha, Adam Jatowt, Mohammad Hasanuzzaman* `SIGIR 2021` [[pdf]](https://dl.acm.org/doi/10.1145/3404835.3462877)
@@ -943,6 +945,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 3. **A Semantic QA-Based Approach for Text Summarization Evaluation** *Ping Chen, Fei Wu, Tong Wang, Wei Ding* `AAAI18` [[pdf]](https://arxiv.org/abs/1704.06259) 
 
 ## Query
+1. **Domain Adaptation with Pre-trained Transformers for Query Focused Abstractive Text Summarization** *Md Tahmid Rahman Laskar, Enamul Hoque, Jimmy Xiangji Huang* [[pdf]](https://arxiv.org/abs/2112.11670) [[code]](https://github.com/tahmedge/PreQFAS)
 1. **Exploring Neural Models for Query-Focused Summarization** *Jesse Vig, Alexander R. Fabbri, Wojciech Kryściński* [[pdf]](https://arxiv.org/abs/2112.07637) [[code]](https://github.com/salesforce/query-focused-sum)
 1. **Aspect-Oriented Summarization through Query-Focused Extraction** *Ojas Ahuja, Jiacheng Xu, Akshay Gupta, Kevin Horecka, Greg Durrett* [[pdf]](https://arxiv.org/abs/2110.08296)
 1. **Query-Focused Extractive Summarisation for Finding Ideal Answers to Biomedical and COVID-19 Questions** *Diego Mollá (1 and 2), Urvashi Khanna (1), Dima Galat (1), Vincent Nguyen (2 and 3)Maciej Rybinski (3) ( (1) Macquarie University, (2) CSIRO Data61, (3) Australian National University)* [[pdf]](https://arxiv.org/abs/2108.12189)
