@@ -27,6 +27,7 @@ This repo contains a list of summarization papers including various topics. If a
 
 
 ## Presentations && Notes
+* [Cross-lingual Summarization](slides/presentation/Cross-lingual_Summarization.pdf) [](https://img.shields.io/badge/-presentations-brightgreen) 
 * [如何把DialoGPT用到对话摘要任务？@ ACL 2021](https://mp.weixin.qq.com/s/GQQRRS3F7p4Zv6wSuDh0ng) ![](https://img.shields.io/badge/-blog-red) 
 * [对话摘要最新进展简述](https://mp.weixin.qq.com/s/628OAOW1_-Yc_vQbeuY_uA) ![](https://img.shields.io/badge/-blog-red) 
 * [Dialogue Summarization](slides/presentation/Dialogue_Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
