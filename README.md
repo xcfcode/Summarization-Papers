@@ -307,7 +307,7 @@ This repo contains a list of summarization papers including various topics. If a
 1. **Summ^N: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents** *Yusen Zhang, Ansong Ni, Ziming Mao, Chen Henry Wu, Chenguang Zhu, Budhaditya Deb, Ahmed H. Awadallah, Dragomir Radev, Rui Zhang* [[pdf]](https://arxiv.org/abs/2110.10150)
 1. **RetrievalSum: A Retrieval Enhanced Framework for Abstractive Summarization** *Chenxin An, Ming Zhong, Zhichao Geng, Jianqiang Yang, Xipeng Qiu* [[pdf]](https://arxiv.org/abs/2109.07943)
 1. **An Exploratory Study on Long Dialogue Summarization: What Works and What's Next** *Yusen Zhang, Ansong Ni, Tao Yu, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah, Dragomir Radev* `Findings of EMNLP 2021 Short` [[pdf]](https://arxiv.org/abs/2109.04609)
-1. **DialogLM: Pre-trained Model for Long Dialogue Understanding and Summarization** *Ming Zhong, Yang Liu, Yichong Xu, Chenguang Zhu, Michael Zeng* [[pdf]](https://arxiv.org/abs/2109.02492)
+1. **DialogLM: Pre-trained Model for Long Dialogue Understanding and Summarization** *Ming Zhong, Yang Liu, Yichong Xu, Chenguang Zhu, Michael Zeng* `AAAI 2022` [[pdf]](https://arxiv.org/abs/2109.02492)
 1. **Dynamic Sliding Window for Meeting Summarization** *Zhengyuan Liu, Nancy F. Chen* `SummDial@SIGDial 2021` [[pdf]](https://arxiv.org/abs/2108.13629)
 1. **MeetSum: Transforming Meeting Transcript Summarization using Transformers!** *Nima Sadri, Bohan Zhang, Bihan Liu* [[pdf]](https://arxiv.org/abs/2108.06310)
 1. **Incremental temporal summarization in multiparty meetings** *Ramesh Manuvinakurike, Saurav Sahay, Wenda Chen, Lama Nachman* `SIGIR 2021` [[pdf]](https://sigdial.org/sites/default/files/workshops/conference22/Proceedings/pdf/2021.sigdial-1.56.pdf)
@@ -520,7 +520,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 ## Contrastive Learning
 1. **CLIFF: Contrastive Learning for Improving Faithfulness and Factuality in Abstractive Summarization** *Shuyang Cao, Lu Wang* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.09209) [[code]](https://shuyangcao.github.io/projects/cliff_summ)
-1. **Sequence Level Contrastive Learning for Text Summarization** *Shusheng Xu, Xingxing Zhang, Yi Wu, Furu Wei* [pdf]](https://arxiv.org/abs/2109.03481)
+1. **Sequence Level Contrastive Learning for Text Summarization** *Shusheng Xu, Xingxing Zhang, Yi Wu, Furu Wei* `AAAI 2022` [pdf]](https://arxiv.org/abs/2109.03481)
 1. **Enhanced Seq2Seq Autoencoder via Contrastive Learning for Abstractive Text Summarization** *Chujie Zheng, Kunpeng Zhang, Harry Jiannan Wang, Ling Fan, Zhe Wang* [[pdf]](https://arxiv.org/abs/2108.11992) [[code]](https://github.com/chz816/esacl)
 1. **Constructing Contrastive samples via Summarization for Text Classification with limited annotations** *Yangkai Du, Tengfei Ma, Lingfei Wu, Fangli Xu, Xuhong Zhang, Shouling Ji* `Findings of EMNLP 2021 Short` [[pdf]](https://arxiv.org/abs/2104.05094)
 1. **Alleviating Exposure Bias via Contrastive Learning for Abstractive Text Summarization** *Shichao Sun, Wenjie Li* [[pdf]](https://arxiv.org/abs/2108.11846) [[code]](https://github.com/ShichaoSun/ConAbsSum)
@@ -636,6 +636,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 20. **Cross-language document summarization based on machine translation quality prediction** *Xiaojun Wan, Huiying Li, Jianguo Xiao* `ACL10` [[pdf]](https://www.aclweb.org/anthology/P10-1094/)
 
 ## Multi-modal
+1. **UniMS: A Unified Framework for Multimodal Summarization with Knowledge Distillation** *Zhengkun Zhang, Xiaojun Meng, Yasheng Wang, Xin Jiang, Qun Liu, Zhenglu Yang* `AAAI 2022` [[pdf]](https://arxiv.org/abs/2109.05812)
 1. **Hierarchical Cross-Modality Semantic Correlation Learning Model for Multimodal Summarization** *Litian Zhang, Xiaoming Zhang, Junshu Pan, Feiran Huang* `AAAI 2022` [[pdf]](https://arxiv.org/abs/2112.12072) [[data]](https://github.com/LitianD/HCSCL-MSDataset)
 1. **Attention-based Multi-hypothesis Fusion for Speech Summarization** *Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Shinji Watanabe* [[pdf]](https://arxiv.org/abs/2111.08201) 
 1. **Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization** *Tiezheng Yu, Wenliang Dai, Zihan Liu, Pascale Fung* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.02401) [[code]](https://github.com/HLTCHKUST/VG-GPLMs)
