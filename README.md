@@ -2,15 +2,7 @@
 
 ![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-Contributed by [Xiachong Feng](http://xcfeng.net/), [Yichong Huang](https://github.com/OrangeInSouth) ([Factual Consistency](#factual-consistency)), [Haozheng Yang](https://github.com/hzyang95) ([Multi-Document](#multi-document))
-
-This repo contains a list of summarization papers including various topics. If any error, please open an issue.
-
-**For summarization, [Text Summarization Papers](http://pfliu.com/pl-summarization/summ_paper.html) is one great project powered by [Dr. Pengfei Liu](http://pfliu.com/).**
-
-
-> For more topics, please refer to another repo [xcfcode/What-I-Have-Read](https://github.com/xcfcode/What-I-Have-Read), including Meta Learning, Graph Neural Networks (GNN), Knowledge Distillation, Pre-trained Language Models, Natural Language Generation and several [survey and paper slides](https://github.com/xcfcode/What-I-Have-Read#slides). Other excellent Repos: [xcfcode/covid19-nlp-papers](https://github.com/xcfcode/covid19-nlp-papers), [yizhen20133868/NLP-Conferences-Code](https://github.com/yizhen20133868/NLP-Conferences-Code), [thunlp/PromptPapers](https://github.com/thunlp/PromptPapers), [teacherpeterpan/Question-Generation-Paper-List](https://github.com/teacherpeterpan/Question-Generation-Paper-List), [thunlp/PLMpapers](https://github.com/thunlp/PLMpapers), [thu-coai/PaperForONLG](https://github.com/thu-coai/PaperForONLG), [NiuTrans/ABigSurvey](https://github.com/NiuTrans). 
-
+Organized by [Xiachong Feng](http://xcfeng.net/).
 
 ## Summarization Learning Route
 [Summarization Learning Route (with link)](http://xcfeng.net/res/summarization-route.pdf)
@@ -19,15 +11,8 @@ This repo contains a list of summarization papers including various topics. If a
 ## Trending
 ![](./pic/trending.png)
 
-
-## Researchers 
-*Alphabetical order*
-
-[Alexander R. Fabbri](https://alex-fabbri.github.io/), [Fei Liu](https://www.cs.ucf.edu/~feiliu/), [Jiacheng Xu](https://www.cs.utexas.edu/~jcxu/), [Ming Zhong](https://maszhongming.github.io/), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/), [Piji Li](http://lipiji.com/), [Pengfei Liu](http://pfliu.com/), [Shiyue Zhang](https://www.cs.unc.edu/~shiyue/), [Yue Dong](https://www.cs.mcgill.ca/~ydong26/),  [Yang Liu](https://nlp-yang.github.io/) ......
-
-
 ## Presentations && Notes
-* [Cross-lingual Summarization](slides/presentation/Cross-lingual_Summarization.pdf) [](https://img.shields.io/badge/-presentations-brightgreen) 
+* [Cross-lingual Summarization](slides/presentation/Cross-lingual_Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
 * [如何把DialoGPT用到对话摘要任务？@ ACL 2021](https://mp.weixin.qq.com/s/GQQRRS3F7p4Zv6wSuDh0ng) ![](https://img.shields.io/badge/-blog-red) 
 * [对话摘要最新进展简述](https://mp.weixin.qq.com/s/628OAOW1_-Yc_vQbeuY_uA) ![](https://img.shields.io/badge/-blog-red) 
 * [Dialogue Summarization](slides/presentation/Dialogue_Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
@@ -1004,5 +989,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 ## Extend
 1. **SOM-NCSCM : An Efficient Neural Chinese Sentence Compression Model Enhanced with Self-Organizing Map** *Kangli Zi, Shi Wang, Yu Liu, Jicun Li, Yanan Cao, Cungen Cao* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.33/) [[data]](https://github.com/Zikangli/SOM-NCSCM)
 
+## Contributor
 
+[Yichong Huang](https://github.com/OrangeInSouth), [Haozheng Yang](https://github.com/hzyang95) 
 
