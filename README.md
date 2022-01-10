@@ -1,6 +1,6 @@
-# Summarization Papers
-
-![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+<p align="center">
+<h1 align="center">Summarization Papers</h1>
+</p>
 
 Organized by [Xiachong Feng](http://xcfeng.net/).
 
