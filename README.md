@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">Summarization Papers</h1>
+<h1 align="center"> <img src="./pic/summary.png" width="30" />Summarization Papers</h1>
 </p>
 
 Organized by [Xiachong Feng](http://xcfeng.net/).
