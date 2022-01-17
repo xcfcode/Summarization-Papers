@@ -37,6 +37,8 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 * **GLGE: A New General Language Generation Evaluation Benchmark** *Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan* [[pdf]](https://arxiv.org/abs/2011.11928) [[benchmark]](https://github.com/microsoft/glge)
 
 ## Survey
+1. **A Survey of Controllable Text Generation using Transformer-based Pre-trained Language Models** *Hanqing Zhang, Haolin Song, Shaoyu Li, Ming Zhou, Dawei Song* [[pdf]](https://arxiv.org/abs/2201.05337)
+1. **A Survey of Pretrained Language Models Based Text Generation** *Junyi Li, Tianyi Tang, Wayne Xin Zhao, Jian-Yun Nie, Ji-Rong Wen* [[pdf]](https://arxiv.org/abs/2201.05273)
 1. **A Comprehensive Review on Summarizing Financial News Using Deep Learning** *Saurabh Kamal, Sahil Sharma* [[pdf]](https://arxiv.org/abs/2109.10118)
 1. **A Survey on Multi-modal Summarization** *Anubhav Jangra, Adam Jatowt, Sriparna Saha, Mohammad Hasanuzzaman* [[pdf]](https://arxiv.org/abs/2109.05199)
 1. **Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing** *Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, Graham Neubig* [[pdf]](https://arxiv.org/abs/2107.13586)
@@ -966,11 +968,12 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 1. **Movie Summarization via Sparse Graph Construction** *Pinelopi Papalampidi, Frank Keller, Mirella Lapata* `AAAI21` [[pdf]](https://arxiv.org/abs/2012.07536) [[code]](https://github.com/ppapalampidi/GraphTP)
 
 ## Low Resource
+1. **ExtraPhrase: Efficient Data Augmentation for Abstractive Summarization** *Mengsay Loem, Sho Takase, Masahiro Kaneko, Naoaki Okazaki* [[pdf]](https://arxiv.org/abs/2201.05313)
 1. **Mitigating Data Scarceness through Data Synthesis, Augmentation and Curriculum for Abstractive Summarization** *Ahmed Magooda, Diane Litman* `Findings of EMNLP 2021 Short` [[pdf]](https://arxiv.org/abs/2109.08569) 
-1. **Exploring Multitask Learning for Low-Resource Abstractive Summarization** *Ahmed Magooda, Mohamed Elaraby, Diane Litman* `EMNLP 2021 short` [[pdf]](https://arxiv.org/abs/2109.08565)
-1. **Few-Shot Learning of an Interleaved Text Summarization Model by Pretraining with Synthetic Data** *Sanjeev Kumar Karn, Francine Chen, Yan-Ying Chen, Ulli Waltinger, Hinrich Schütze* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.adaptnlp-1.24/)
-1. **AdaptSum: Towards Low-Resource Domain Adaptation for Abstractive Summarization** *Tiezheng Yu, Zihan Liu, Pascale Fung* `NAACL21` [[pdf]](https://arxiv.org/abs/2103.11332) [[code]](https://github.com/TysonYu/AdaptSum)
-1. **Meta-Transfer Learning for Low-Resource Abstractive Summarization** *Yi-Syuan Chen, Hong-Han Shuai* `AAAI21` [[pdf]](https://basiclab.nctu.edu.tw/assets/LowResourceSummarization.pdf) [[code]](https://github.com/YiSyuanChen/MTL-ABS)
+2. **Exploring Multitask Learning for Low-Resource Abstractive Summarization** *Ahmed Magooda, Mohamed Elaraby, Diane Litman* `EMNLP 2021 short` [[pdf]](https://arxiv.org/abs/2109.08565)
+3. **Few-Shot Learning of an Interleaved Text Summarization Model by Pretraining with Synthetic Data** *Sanjeev Kumar Karn, Francine Chen, Yan-Ying Chen, Ulli Waltinger, Hinrich Schütze* `EACL21` [[pdf]](https://www.aclweb.org/anthology/2021.adaptnlp-1.24/)
+4. **AdaptSum: Towards Low-Resource Domain Adaptation for Abstractive Summarization** *Tiezheng Yu, Zihan Liu, Pascale Fung* `NAACL21` [[pdf]](https://arxiv.org/abs/2103.11332) [[code]](https://github.com/TysonYu/AdaptSum)
+5. **Meta-Transfer Learning for Low-Resource Abstractive Summarization** *Yi-Syuan Chen, Hong-Han Shuai* `AAAI21` [[pdf]](https://basiclab.nctu.edu.tw/assets/LowResourceSummarization.pdf) [[code]](https://github.com/YiSyuanChen/MTL-ABS)
 
 ## Personalized
 1. **Transformer Reasoning Network for Personalized Review Summarization** *Hongyan Xu, Hongtao Liu, Pengfei Jiao, Wenjun Wang* `SIGIR 2021` [[pdf]](https://dl.acm.org/doi/10.1145/3404835.3462854)
