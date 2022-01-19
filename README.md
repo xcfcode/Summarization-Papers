@@ -247,6 +247,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 |131|[AmaSum](https://github.com/abrazinskas/SelSum)|Opinion|[Learning Opinion Summarizers by Selecting Informative Reviews](https://aclanthology.org/2021.emnlp-main.743/)|EMNLP 2021|
 |132|[CrossSum](https://github.com/csebuetnlp/CrossSum)|Cross lingual|[CrossSum: Beyond English-Centric Cross-Lingual Abstractive Text Summarization for 1500+ Language Pairs](https://arxiv.org/abs/2112.08804)||
 |133|[HCSCL-MSDataset](https://github.com/LitianD/HCSCL-MSDataset)|Multi-modal|[Hierarchical Cross-Modality Semantic Correlation Learning Model for Multimodal Summarization](https://arxiv.org/abs/2112.12072)|AAAI 2022|
+|134|[Klexikon](https://github.com/dennlinger/klexikon)|German|[Klexikon: A German Dataset for Joint Summarization and Simplification](https://arxiv.org/abs/2201.07198)||
 
 
 ## Dialogue 
