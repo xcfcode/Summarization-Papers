@@ -417,6 +417,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 2. **Semantic Similarity Applied to Spoken Dialogue Summarization** *Iryna Gurevych, Michael Strube* `COLING 2004` [[pdf]](https://www.aclweb.org/anthology/C04-1110/) [[bib]](https://www.aclweb.org/anthology/C04-1110.bib) Switchboard dialogues
 
 ## Long Document
+1. **SciBERTSUM: Extractive Summarization for Scientific Documents** *Athar Sefid, C Lee Giles* [[pdf]](https://arxiv.org/abs/2201.08495) [[code]](https://github.com/atharsefid/SciBERTSUM)
 1. **Neural Content Extraction for Poster Generation of Scientific Papers** *Sheng Xu, Xiaojun Wan* [[pdf]](https://arxiv.org/abs/2112.08550)
 1. **LongT5: Efficient Text-To-Text Transformer for Long Sequences** *Mandy Guo, Joshua Ainslie, David Uthus, Santiago Ontanon, Jianmo Ni, Yun-Hsuan Sung, Yinfei Yang* [[pdf]](https://arxiv.org/abs/2112.07916)
 1. **The Influence of Data Pre-processing and Post-processing on Long Document Summarization** *Xinwei Du, Kailun Dong, Yuchen Zhang, Yongsheng Li, Ruei-Yu Tsay* [[pdf]](https://arxiv.org/abs/2112.01660)
