@@ -991,6 +991,9 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 ## Speech
 1. **Speech Summarization using Restricted Self-Attention** *Roshan Sharma, Shruti Palaskar, Alan W Black, Florian Metze* `ICASSP 2022` [[pdf]](https://arxiv.org/abs/2110.06263)
 
+## Prompt
+1. **Discourse-Aware Prompt Design for Text Generation** *Marjan Ghazvininejad, Vladimir Karpukhin, Asli Celikyilmaz* [[pdf]](https://arxiv.org/abs/2112.05717)
+
 ## Temp
 1. **AUTOSUMM: Automatic Model Creation for Text Summarization** *Sharmila Reddy Nangi, Atharv Tyagi, Jay Mundra, Sagnik Mukherjee, Raj Snehal, Niyati Chhaya, Aparna Garimella* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.798.pdf)
 
