@@ -981,6 +981,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 5. **Meta-Transfer Learning for Low-Resource Abstractive Summarization** *Yi-Syuan Chen, Hong-Han Shuai* `AAAI21` [[pdf]](https://basiclab.nctu.edu.tw/assets/LowResourceSummarization.pdf) [[code]](https://github.com/YiSyuanChen/MTL-ABS)
 
 ## Personalized
+1. **Unsupervised Summarization with Customized Granularities** *Ming Zhong, Yang Liu, Suyu Ge, Yuning Mao, Yizhu Jiao, Xingxing Zhang, Yichong Xu, Chenguang Zhu, Michael Zeng, Jiawei Han* [[pdf]](https://arxiv.org/abs/2201.12502)
 1. **Transformer Reasoning Network for Personalized Review Summarization** *Hongyan Xu, Hongtao Liu, Pengfei Jiao, Wenjun Wang* `SIGIR 2021` [[pdf]](https://dl.acm.org/doi/10.1145/3404835.3462854)
 1. **PENS: A Dataset and Generic Framework for Personalized News Headline Generation** *Xiang Ao Xiting Wang Ling Luo Ying Qiao Qing He Xing Xie* `ACL 2021` [[pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2021/06/ACL2021_PENS_Camera_Ready_1862_Paper.pdf) [[data]](https://msnews.github.io/pens.html) 
 1. **Collabot: Personalized Group Chat Summarization** *Naama Tepper, Anat Hashavit, Maya Barnea, Inbal Ronen, Lior Leiba* `WSDM18` [[pdf]](https://dl.acm.org/doi/abs/10.1145/3159652.3160588)
