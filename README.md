@@ -401,6 +401,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 2. **Domain Adaptation to Summarize Human Conversations** *Oana Sandu, Giuseppe Carenini, Gabriel Murray, Raymond Ng* `ACL2010 Workshop` [[pdf]](https://www.aclweb.org/anthology/W10-2603/)
 
 ### Others
+1. **ClidSum: A Benchmark Dataset for Cross-Lingual Dialogue Summarization** *Jiaan Wang, Fandong Meng, Ziyao Lu, Duo Zheng, Zhixu Li, Jianfeng Qu, Jie Zhou* [[pdf]](https://arxiv.org/abs/2202.05599) [[data]](https://github.com/krystalan/ClidSum)
 1. **CONFIT: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning** *Xiangru Tang, Arjun Nair, Borui Wang, Bingyao Wang, Jai Desai, Aaron Wade, Haoran Li, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev* [[pdf]](https://arxiv.org/abs/2112.08713)
 1. **Are We Summarizing the Right Way? A Survey of Dialogue Summarization Data Sets** *Don Tuggener, Margot Mieskes, Jan Deriu, Mark Cieliebak* `EMNLP 2021| newsum` [[pdf]](https://aclanthology.org/2021.newsum-1.12/)
 1. **Dialogue Inspectional Summarization with Factual Inconsistency Awareness** *Leilei Gan, Yating Zhang, Kun Kuang, Lin Yuan, Shuo Li, Changlong Sun, Xiaozhong Liu, Fei Wu* [[pdf]](https://arxiv.org/abs/2111.03284)
@@ -599,6 +600,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 21. **Event-Centric Summary Generation** *Lucy Vanderwende Michele Banko Arul Menezes* `ACL04` [[pdf]](https://www.microsoft.com/en-us/research/publication/event-centric-summary-generation/) 
 
 ## Cross-Lingual
+1. **ClidSum: A Benchmark Dataset for Cross-Lingual Dialogue Summarization** *Jiaan Wang, Fandong Meng, Ziyao Lu, Duo Zheng, Zhixu Li, Jianfeng Qu, Jie Zhou* [[pdf]](https://arxiv.org/abs/2202.05599) [[data]](https://github.com/krystalan/ClidSum)
 1. **CrossSum: Beyond English-Centric Cross-Lingual Abstractive Text Summarization for 1500+ Language Pairs** *Tahmid Hasan, Abhik Bhattacharjee, Wasi Uddin Ahmad, Yuan-Fang Li, Yong-Bin Kang, Rifat Shahriyar* [[pdf]](https://arxiv.org/abs/2112.08804) [[code]](https://github.com/csebuetnlp/CrossSum)
 1. **Improving Neural Cross-Lingual Summarization via Employing Optimal Transport Distance for Knowledge Distillation** *Thong Nguyen, Luu Anh Tuan* `AAAI 2022` [[pdf]](https://arxiv.org/abs/2112.03473)
 1. **Evaluation of Abstractive Summarisation Models with Machine Translation in Deliberative Processes** *Miguel Arana-Catania, Rob Procter, Yulan He, Maria Liakata* `EMNLP 2021| newsum` [[pdf]](https://aclanthology.org/2021.newsum-1.7/)
