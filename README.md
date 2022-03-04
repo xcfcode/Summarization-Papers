@@ -254,6 +254,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 |134|[Klexikon](https://github.com/dennlinger/klexikon)|German|[Klexikon: A German Dataset for Joint Summarization and Simplification](https://arxiv.org/abs/2201.07198)||
 |135|[TODSum]()|Customer Service|[TODSum: Task-Oriented Dialogue Summarization with State Tracking](https://arxiv.org/abs/2110.12680)||
 |136|[TWEETSUMM](https://aclanthology.org/2021.findings-emnlp.24/)|Customer Service|[TWEETSUMM - A Dialog Summarization Dataset for Customer Service](https://aclanthology.org/2021.findings-emnlp.24/)|Findings of EMNLP 2021|
+|137|[PeerSum](https://github.com/oaimli/PeerSum)|Multi-document, Scientific|[PeerSum: A Peer Review Dataset for Abstractive Multi-document Summarization](https://arxiv.org/abs/2203.01769)||
 
 
 ## Dialogue 
@@ -386,6 +387,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 8. **Topic-aware Pointer-Generator Networks for Summarizing Spoken Conversations** *Zhengyuan Liu, Angela Ng, Sheldon Lee, Ai Ti Aw, Nancy F. Chen* ` ASRU 2019` [[pdf]](https://arxiv.org/abs/1910.01335)
 
 ### Customer Service Summarization
+1. **Dialogue Summaries as Dialogue States (DS2), Template-Guided Summarization for Few-shot Dialogue State Tracking** *Jamin Shin, Hangyeol Yu, Hyeongdon Moon, Andrea Madotto, Juneyoung Park* `Findings of ACL 2022` [[pdf]](https://arxiv.org/abs/2203.01552) [[code]](https://github.com/jshin49/ds2)
 1. **TWEETSUMM - A Dialog Summarization Dataset for Customer Service** *Guy Feigenblat, Chulaka Gunasekara, Benjamin Sznajder, Sachindra Joshi, David Konopnicki, Ranit Aharonov* [[pdf]](https://aclanthology.org/2021.findings-emnlp.24/) [[data]](https://github.com/guyfe/Tweetsumm)
 1. **Extractive Dialogue Summarization Without Annotation Based on Distantly Supervised Machine Reading Comprehension in Customer Service** *Bing Ma, Haifeng Sun , Jingyu Wang , Qi Qi, and Jianxin Liao* `TASLP` [[pdf]](https://ieeexplore.ieee.org/document/9645319/authors#authors) 
 1. **TODSum: Task-Oriented Dialogue Summarization with State Tracking** *Lulu Zhao, Fujia Zheng, Keqing He, Weihao Zeng, Yuejie Lei, Huixing Jiang, Wei Wu, Weiran Xu, Jun Guo, Fanyu Meng* [[pdf]](https://arxiv.org/abs/2110.12680)
@@ -558,6 +560,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 4. **HIGHRES: Highlight-based Reference-less Evaluation of Summarization** *Hardy, Shashi Narayan, Andreas Vlachos* `ACL19` [[pdf]](https://arxiv.org/abs/1906.01361) [[code]](https://github.com/sheffieldnlp/highres)
 
 ## Multi-Document
+1. **PeerSum: A Peer Review Dataset for Abstractive Multi-document Summarization** *Miao Li, Jianzhong Qi, Jey Han Lau* [[pdf]](https://arxiv.org/abs/2203.01769) [[data]](https://github.com/oaimli/PeerSum)
 1. **A Proposition-Level Clustering Approach for Multi-Document Summarization** *Ori Ernst, Avi Caciularu, Ori Shapira, Ramakanth Pasunuru, Mohit Bansal, Jacob Goldberger, Ido Dagan* [[pdf]](https://arxiv.org/abs/2112.08770) [[code]](https://github.com/oriern/ClusterProp)
 1. **MSˆ2: Multi-Document Summarization of Medical Studies** *Jay DeYoung, Iz Beltagy, Madeleine van Zuylen, Bailey Kuehl, Lucy Wang* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.594/) [[data]](https://github.com/allenai/ms2)
 1. **SgSum: Transforming Multi-document Summarization into Sub-graph Selection** *Moye Chen, Wei Li, Jiachen Liu, Xinyan Xiao, Hua Wu, Haifeng Wang* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2110.12645) [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/EMNLP2021-SgSum)
