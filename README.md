@@ -39,6 +39,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 * **GLGE: A New General Language Generation Evaluation Benchmark** *Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan* [[pdf]](https://arxiv.org/abs/2011.11928) [[benchmark]](https://github.com/microsoft/glge)
 
 ## Survey
+1. **Recent Advances in Neural Text Generation: A Task-Agnostic Survey** *Chen Tang, Frank Guerin, Yucheng Li, Chenghua Lin* [[pdf]](https://arxiv.org/abs/2203.03047)
 1. **Survey of Hallucination in Natural Language Generation** *Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Yejin Bang, Andrea Madotto, Pascale Fung* [[pdf]](https://arxiv.org/abs/2202.03629)
 1. **A Survey on Retrieval-Augmented Text Generation** *Huayang Li, Yixuan Su, Deng Cai, Yan Wang, Lemao Liu* [[pdf]](https://arxiv.org/abs/2202.01110)
 1. **A Survey of Controllable Text Generation using Transformer-based Pre-trained Language Models** *Hanqing Zhang, Haolin Song, Shaoyu Li, Ming Zhou, Dawei Song* [[pdf]](https://arxiv.org/abs/2201.05337)
@@ -560,6 +561,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 4. **HIGHRES: Highlight-based Reference-less Evaluation of Summarization** *Hardy, Shashi Narayan, Andreas Vlachos* `ACL19` [[pdf]](https://arxiv.org/abs/1906.01361) [[code]](https://github.com/sheffieldnlp/highres)
 
 ## Multi-Document
+1. **A Multi-Document Coverage Reward for RELAXed Multi-Document Summarization** *Jacob Parnell, Inigo Jauregi Unanue, Massimo Piccardi* `ACl 2022` [[pdf]](https://arxiv.org/abs/2203.02894) [[code]](https://github.com/jacob-parnell-rozetta/longformer_coverage/)
 1. **PeerSum: A Peer Review Dataset for Abstractive Multi-document Summarization** *Miao Li, Jianzhong Qi, Jey Han Lau* [[pdf]](https://arxiv.org/abs/2203.01769) [[data]](https://github.com/oaimli/PeerSum)
 1. **A Proposition-Level Clustering Approach for Multi-Document Summarization** *Ori Ernst, Avi Caciularu, Ori Shapira, Ramakanth Pasunuru, Mohit Bansal, Jacob Goldberger, Ido Dagan* [[pdf]](https://arxiv.org/abs/2112.08770) [[code]](https://github.com/oriern/ClusterProp)
 1. **MSˆ2: Multi-Document Summarization of Medical Studies** *Jay DeYoung, Iz Beltagy, Madeleine van Zuylen, Bailey Kuehl, Lucy Wang* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.594/) [[data]](https://github.com/allenai/ms2)
@@ -604,6 +606,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 21. **Event-Centric Summary Generation** *Lucy Vanderwende Michele Banko Arul Menezes* `ACL04` [[pdf]](https://www.microsoft.com/en-us/research/publication/event-centric-summary-generation/) 
 
 ## Cross-Lingual
+1. **CptGraphSum: Let key clues guide the cross-lingual abstractive summarization** *Shuyu Jiang, Dengbiao Tu, Xingshu Chen, Rui Tang, Wenxian Wang, Haizhou Wang* [[pdf]](https://arxiv.org/abs/2203.02797)
 1. **ClidSum: A Benchmark Dataset for Cross-Lingual Dialogue Summarization** *Jiaan Wang, Fandong Meng, Ziyao Lu, Duo Zheng, Zhixu Li, Jianfeng Qu, Jie Zhou* [[pdf]](https://arxiv.org/abs/2202.05599) [[code]](https://github.com/krystalan/ClidSum)
 1. **CrossSum: Beyond English-Centric Cross-Lingual Abstractive Text Summarization for 1500+ Language Pairs** *Tahmid Hasan, Abhik Bhattacharjee, Wasi Uddin Ahmad, Yuan-Fang Li, Yong-Bin Kang, Rifat Shahriyar* [[pdf]](https://arxiv.org/abs/2112.08804) [[code]](https://github.com/csebuetnlp/CrossSum)
 1. **Improving Neural Cross-Lingual Summarization via Employing Optimal Transport Distance for Knowledge Distillation** *Thong Nguyen, Luu Anh Tuan* `AAAI 2022` [[pdf]](https://arxiv.org/abs/2112.03473) [[code]](https://github.com/nguyentthong/CrossSummOptimalTransport)
