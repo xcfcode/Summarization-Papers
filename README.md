@@ -606,6 +606,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 21. **Event-Centric Summary Generation** *Lucy Vanderwende Michele Banko Arul Menezes* `ACL04` [[pdf]](https://www.microsoft.com/en-us/research/publication/event-centric-summary-generation/) 
 
 ## Cross-Lingual
+1. **A Variational Hierarchical Model for Neural Cross-Lingual Summarization** *Yunlong Liang, Fandong Meng, Chulun Zhou, Jinan Xu, Yufeng Chen, Jinsong Su, Jie Zhou* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.03820) [[code]](https://github.com/XL2248/VHM)
 1. **CptGraphSum: Let key clues guide the cross-lingual abstractive summarization** *Shuyu Jiang, Dengbiao Tu, Xingshu Chen, Rui Tang, Wenxian Wang, Haizhou Wang* [[pdf]](https://arxiv.org/abs/2203.02797)
 1. **ClidSum: A Benchmark Dataset for Cross-Lingual Dialogue Summarization** *Jiaan Wang, Fandong Meng, Ziyao Lu, Duo Zheng, Zhixu Li, Jianfeng Qu, Jie Zhou* [[pdf]](https://arxiv.org/abs/2202.05599) [[code]](https://github.com/krystalan/ClidSum)
 1. **CrossSum: Beyond English-Centric Cross-Lingual Abstractive Text Summarization for 1500+ Language Pairs** *Tahmid Hasan, Abhik Bhattacharjee, Wasi Uddin Ahmad, Yuan-Fang Li, Yong-Bin Kang, Rifat Shahriyar* [[pdf]](https://arxiv.org/abs/2112.08804) [[code]](https://github.com/csebuetnlp/CrossSum)
