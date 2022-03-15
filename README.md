@@ -258,6 +258,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 |136|[TWEETSUMM](https://aclanthology.org/2021.findings-emnlp.24/)|Customer Service|[TWEETSUMM - A Dialog Summarization Dataset for Customer Service](https://aclanthology.org/2021.findings-emnlp.24/)|Findings of EMNLP 2021|
 |137|[PeerSum](https://github.com/oaimli/PeerSum)|Multi-document, Scientific|[PeerSum: A Peer Review Dataset for Abstractive Multi-document Summarization](https://arxiv.org/abs/2203.01769)||
 |138|[Celebrity TS, Event TS, Wiki TS](https://github.com/iriscxy/Unified-Timeline-Summarizer)|Timeline, person, event|[Follow the Timeline! Generating Abstractive and Extractive Timeline Summary in Chronological Order](https://dl.acm.org/doi/abs/10.1145/3517221)|TOSI 2022|
+|139|[Chart-to-Text](https://github.com/vis-nlp/Chart-to-text)|chart|[Chart-to-Text: A Large-Scale Benchmark for Chart Summarization](https://arxiv.org/abs/2203.06486)||
 
 
 ## Dialogue 
@@ -757,6 +758,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 8. **Controlling Output Length in Neural Encoder-Decoders** *Yuta Kikuchi, Graham Neubig, Ryohei Sasano, Hiroya Takamura, Manabu Okumura* `EMNLP16` [[pdf]](https://www.aclweb.org/anthology/D16-1140/) [[code]](https://github.com/kiyukuta/lencon)
 
 ## Abstractive
+1. **SummaReranker: A Multi-Task Mixture-of-Experts Re-ranking Framework for Abstractive Summarization** *Mathieu Ravaut, Shafiq Joty, Nancy F. Chen* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.06569) [[code]](https://github.com/ntunlp/SummaReranker)
 1. **Adaptive Beam Search to Enhance On-device Abstractive Summarization** *Harichandana B S S, Sumit Kumar* `IEEE INDICON 2021` [[pdf]](https://arxiv.org/abs/2201.02739)
 1. **PLSUM: Generating PT-BR Wikipedia by Summarizing Multiple Websites** *André Seidel Oliveira, Anna Helena Reali Costa* `ENIAC 2021` [[pdf]](https://arxiv.org/abs/2112.01591) 
 1. **Pointer over Attention: An Improved Bangla Text Summarization Approach Using Hybrid Pointer Generator Network** *Nobel Dhar, Gaurob Saha, Prithwiraj Bhattacharjee, Avi Mallick, Md Saiful Islam* [[pdf]](https://arxiv.org/abs/2111.10269)
@@ -1021,6 +1023,9 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 ## Extend
 1. **SOM-NCSCM : An Efficient Neural Chinese Sentence Compression Model Enhanced with Self-Organizing Map** *Kangli Zi, Shi Wang, Yu Liu, Jicun Li, Yanan Cao, Cungen Cao* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.33/) [[data]](https://github.com/Zikangli/SOM-NCSCM)
+
+## Chart-to-text
+1. **Chart-to-Text: A Large-Scale Benchmark for Chart Summarization** *Shankar Kanthara, Rixie Tiffany Ko Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq Joty* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.06486) [[data]](https://github.com/vis-nlp/Chart-to-text)
 
 ## Contributor
 
