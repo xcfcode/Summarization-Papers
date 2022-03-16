@@ -430,6 +430,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 2. **Semantic Similarity Applied to Spoken Dialogue Summarization** *Iryna Gurevych, Michael Strube* `COLING 2004` [[pdf]](https://www.aclweb.org/anthology/C04-1110/) [[bib]](https://www.aclweb.org/anthology/C04-1110.bib) Switchboard dialogues
 
 ## Long Document
+1. **Long Document Summarization with Top-down and Bottom-up Inference** *Bo Pang, Erik Nijkamp, Wojciech Kryściński, Silvio Savarese, Yingbo Zhou, Caiming Xiong* [[pdf]](https://arxiv.org/abs/2203.07586)
 1. **Summ^N: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents** *Yusen Zhang, Ansong Ni, Ziming Mao, Chen Henry Wu, Chenguang Zhu, Budhaditya Deb, Ahmed H. Awadallah, Dragomir Radev, Rui Zhang* `ACL 2022` [[pdf]](https://arxiv.org/abs/2110.10150)
 1. **DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization** *Ziming Mao, Chen Henry Wu, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed H. Awadallah, Dragomir Radev* `ACL 2022` [[pdf]](https://arxiv.org/abs/2110.08168) [[code]](https://github.com/Yale-LILY/DYLE)
 1. **SciBERTSUM: Extractive Summarization for Scientific Documents** *Athar Sefid, C Lee Giles* [[pdf]](https://arxiv.org/abs/2201.08495) [[code]](https://github.com/atharsefid/SciBERTSUM)
@@ -837,6 +838,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 7. **Abstractive Document Summarization with a Graph-Based Attentional Neural Model** *Jiwei Tan, Xiaojun Wan, Jianguo Xiao* `ACL17` [[pdf]](https://www.aclweb.org/anthology/P17-1108/)
 
 ## Unsupervised
+1. **Unsupervised Extractive Opinion Summarization Using Sparse Coding** *Somnath Basu Roy Chowdhury, Chao Zhao, Snigdha Chaturvedi* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.07921) [[code]](https://github.com/brcsomnath/SemAE)
 1. **Want To Reduce Labeling Cost? GPT-3 Can Help** *Shuohang Wang, Yang Liu, Yichong Xu, Chenguang Zhu, Michael Zeng* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2108.13487)
 1. **Improving Unsupervised Extractive Summarization with Facet-Aware Modeling** *Xinnian Liang, Shuangzhi Wu, Mu Li, Zhoujun Li* `ACL 2021 Findings` [[pdf]](https://aclanthology.org/2021.findings-acl.147/) [[code]]()
 1. **MRCBert: A Machine Reading ComprehensionApproach for Unsupervised Summarization** *Saurabh Jain, Guokai Tang, Lim Sze Chi* [[pdf]](https://arxiv.org/abs/2105.00239) [[code]](https://github.com/saurabhhssaurabh/reviews_summarization)
