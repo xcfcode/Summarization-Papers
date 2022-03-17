@@ -476,6 +476,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
+1. **Don't Say What You Don't Know: Improving the Consistency of Abstractive Summarization by Constraining Beam Search** *Daniel King, Zejiang Shen, Nishant Subramani, Daniel S. Weld, Iz Beltagy, Doug Downey* [[pdf]](https://arxiv.org/abs/2203.08436) [[code]](https://github.com/allenai/pinocchio)
 1. **CONFIT: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning** *Xiangru Tang, Arjun Nair, Borui Wang, Bingyao Wang, Jai Desai, Aaron Wade, Haoran Li, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev* [[pdf]](https://arxiv.org/abs/2112.08713)
 1. **QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization** *Alexander R. Fabbri, Chien-Sheng Wu, Wenhao Liu, Caiming Xiong* [[pdf]](https://arxiv.org/abs/2112.08542) [[code]](https://github.com/salesforce/QAFactEval)
 1. **CO2Sum:Contrastive Learning for Factual-Consistent Abstractive Summarization** *Wei Liu, Huanqin Wu, Wenjing Mu, Zhen Li, Tao Chen, Dan Nie* [[pdf]](https://arxiv.org/abs/2112.01147)
@@ -1021,10 +1022,14 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 1. **Discourse-Aware Prompt Design for Text Generation** *Marjan Ghazvininejad, Vladimir Karpukhin, Asli Celikyilmaz* [[pdf]](https://arxiv.org/abs/2112.05717)
 
 ## Temp
+1. **Differentiable Multi-Agent Actor-Critic for Multi-Step Radiology Report Summarization** *Sanjeev Kumar Karn, Ning Liu, Hinrich Schuetze, Oladimeji Farri* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.08257)
 1. **AUTOSUMM: Automatic Model Creation for Text Summarization** *Sharmila Reddy Nangi, Atharv Tyagi, Jay Mundra, Sagnik Mukherjee, Raj Snehal, Niyati Chhaya, Aparna Garimella* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.798.pdf)
 
 ## Extend
 1. **SOM-NCSCM : An Efficient Neural Chinese Sentence Compression Model Enhanced with Self-Organizing Map** *Kangli Zi, Shi Wang, Yu Liu, Jicun Li, Yanan Cao, Cungen Cao* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.33/) [[data]](https://github.com/Zikangli/SOM-NCSCM)
+
+## Retrieve-augmented
+1. **Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data** *Shuohang Wang, Yichong Xu, Yuwei Fang, Yang Liu, Siqi Sun, Ruochen Xu, Chenguang Zhu, Michael Zeng* `ACL 2022` [[pdf]](https://arxiv.org/list/cs.CL/pastweek?skip=0&show=25) [[code]](https://github.com/microsoft/REINA)
 
 ## Chart-to-text
 1. **Chart-to-Text: A Large-Scale Benchmark for Chart Summarization** *Shankar Kanthara, Rixie Tiffany Ko Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq Joty* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.06486) [[data]](https://github.com/vis-nlp/Chart-to-text)
