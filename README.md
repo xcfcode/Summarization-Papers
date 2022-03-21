@@ -430,6 +430,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 2. **Semantic Similarity Applied to Spoken Dialogue Summarization** *Iryna Gurevych, Michael Strube* `COLING 2004` [[pdf]](https://www.aclweb.org/anthology/C04-1110/) [[bib]](https://www.aclweb.org/anthology/C04-1110.bib) Switchboard dialogues
 
 ## Long Document
+1. **HiStruct+: Improving Extractive Text Summarization with Hierarchical Structure Information** *Qian Ruan, Malte Ostendorff, Georg Rehm* [[pdf]](https://arxiv.org/abs/2203.09629) [[code]](https://github.com/QianRuan/histruct)
 1. **Long Document Summarization with Top-down and Bottom-up Inference** *Bo Pang, Erik Nijkamp, Wojciech Kryściński, Silvio Savarese, Yingbo Zhou, Caiming Xiong* [[pdf]](https://arxiv.org/abs/2203.07586)
 1. **Summ^N: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents** *Yusen Zhang, Ansong Ni, Ziming Mao, Chen Henry Wu, Chenguang Zhu, Budhaditya Deb, Ahmed H. Awadallah, Dragomir Radev, Rui Zhang* `ACL 2022` [[pdf]](https://arxiv.org/abs/2110.10150)
 1. **DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization** *Ziming Mao, Chen Henry Wu, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed H. Awadallah, Dragomir Radev* `ACL 2022` [[pdf]](https://arxiv.org/abs/2110.08168) [[code]](https://github.com/Yale-LILY/DYLE)
