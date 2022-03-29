@@ -289,7 +289,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 
 
 ### Email Summarization
-1. **Focus on the Action: Learning to Highlight and Summarize Jointly for Email To-Do Items Summarization** *Kexun Zhang, Jiaao Chen, Diyi Yang* `ACL 2022` [[pdf]](https://faculty.cc.gatech.edu/~dyang888/docs/acl22_summarization.pdf)
+1. **Focus on the Action: Learning to Highlight and Summarize Jointly for Email To-Do Items Summarization** *Kexun Zhang, Jiaao Chen, Diyi Yang* `Findings of ACL 2022` [[pdf]](https://faculty.cc.gatech.edu/~dyang888/docs/acl22_summarization.pdf)
 1. **EmailSum: Abstractive Email Thread Summarization** *Shiyue Zhang, Asli Celikyilmaz, Jianfeng Gao, Mohit Bansal* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.537/) [[data]](https://github.com/ZhangShiyue/EmailSum)
 2. **Smart To-Do: Automatic Generation of To-Do Items from Emails** *Sudipto Mukherjee, Subhabrata Mukherjee, Marcello Hasegawa, Ahmed Hassan Awadallah, Ryen White* `ACL 2020` [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.767/) [[code]](https://github.com/MSR-LIT/SmartToDo) [[bib]](https://www.aclweb.org/anthology/2020.acl-main.767.bib)
 3. **Identifying Implicit Quotes for Unsupervised Extractive Summarization of Conversations** *Ryuji Kano, Yasuhide Miura, Tomoki Taniguchi, Tomoko Ohkuma* `AACL20` [[pdf]](https://www.aclweb.org/anthology/2020.aacl-main.32/) 
@@ -618,6 +618,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 21. **Event-Centric Summary Generation** *Lucy Vanderwende Michele Banko Arul Menezes* `ACL04` [[pdf]](https://www.microsoft.com/en-us/research/publication/event-centric-summary-generation/) 
 
 ## Cross-Lingual
+1. **A Survey on Cross-Lingual Summarization** *Jiaan Wang, Fandong Meng, Duo Zheng, Yunlong Liang, Zhixu Li, Jianfeng Qu, Jie Zhou* [[pdf]](https://arxiv.org/abs/2203.12515)
 1. **A Variational Hierarchical Model for Neural Cross-Lingual Summarization** *Yunlong Liang, Fandong Meng, Chulun Zhou, Jinan Xu, Yufeng Chen, Jinsong Su, Jie Zhou* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.03820) [[code]](https://github.com/XL2248/VHM)
 1. **CptGraphSum: Let key clues guide the cross-lingual abstractive summarization** *Shuyu Jiang, Dengbiao Tu, Xingshu Chen, Rui Tang, Wenxian Wang, Haizhou Wang* [[pdf]](https://arxiv.org/abs/2203.02797)
 1. **ClidSum: A Benchmark Dataset for Cross-Lingual Dialogue Summarization** *Jiaan Wang, Fandong Meng, Ziyao Lu, Duo Zheng, Zhixu Li, Jianfeng Qu, Jie Zhou* [[pdf]](https://arxiv.org/abs/2202.05599) [[code]](https://github.com/krystalan/ClidSum)
