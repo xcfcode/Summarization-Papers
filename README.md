@@ -1008,6 +1008,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 1. **Movie Summarization via Sparse Graph Construction** *Pinelopi Papalampidi, Frank Keller, Mirella Lapata* `AAAI21` [[pdf]](https://arxiv.org/abs/2012.07536) [[code]](https://github.com/ppapalampidi/GraphTP)
 
 ## Low Resource
+1. **An Overview of Indian Language Datasets used for Text Summarization** *Shagun Sinha, Girish Nath Jha* [[pdf]](https://arxiv.org/abs/2203.16127)
 1. **AraBART: a Pretrained Arabic Sequence-to-Sequence Model for Abstractive Summarization** *Moussa Kamal Eddine, Nadi Tomeh, Nizar Habash, Joseph Le Roux, Michalis Vazirgiannis* [[pdf]](https://arxiv.org/abs/2203.10945) [[code]](https://huggingface.co/moussaKam/AraBART)
 1. **ExtraPhrase: Efficient Data Augmentation for Abstractive Summarization** *Mengsay Loem, Sho Takase, Masahiro Kaneko, Naoaki Okazaki* [[pdf]](https://arxiv.org/abs/2201.05313)
 1. **Mitigating Data Scarceness through Data Synthesis, Augmentation and Curriculum for Abstractive Summarization** *Ahmed Magooda, Diane Litman* `Findings of EMNLP 2021 Short` [[pdf]](https://arxiv.org/abs/2109.08569) 
