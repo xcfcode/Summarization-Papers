@@ -33,6 +33,10 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 * [ACL19-Multimodal Abstractive Summarization for How2 Videos](slides/paper-slides/Multimodal%20Abstractive%20Summarization%20for%20How2%20Videos.pdf) ![](https://img.shields.io/badge/-papers-blue)
 
 
+## SOTA
+1. **BRIO: Bringing Order to Abstractive Summarization** *Yixin Liu, Pengfei Liu, Dragomir Radev, Graham Neubig* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.16804) [[code]](https://github.com/yixinL7/BRIO) ![](https://img.shields.io/badge/-CNNDM_XSUM-red)
+
+
 ## Benchmark
 * **MuLD: The Multitask Long Document Benchmark** *G Thomas Hudson, Noura Al Moubayed* [[pdf]](https://arxiv.org/abs/2202.07362) [[data]](https://github.com/ghomasHudson/muld)
 * **EXPLAINABOARD: An Explainable Leaderboard for NLP** *Pengfei Liu, Jinlan Fu, Yang Xiao, Weizhe Yuan, Shuaichen Chang, Junqi Dai, Yixin Liu, Zihuiwen Ye, Graham Neubig* [[pdf]](http://explainaboard.nlpedia.ai/ExplainaBoard.pdf) [[ExplainaBoard]](http://explainaboard.nlpedia.ai/leaderboard/task-summ/index.php)
@@ -770,6 +774,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 8. **Controlling Output Length in Neural Encoder-Decoders** *Yuta Kikuchi, Graham Neubig, Ryohei Sasano, Hiroya Takamura, Manabu Okumura* `EMNLP16` [[pdf]](https://www.aclweb.org/anthology/D16-1140/) [[code]](https://github.com/kiyukuta/lencon)
 
 ## Abstractive
+1. **BRIO: Bringing Order to Abstractive Summarization** *Yixin Liu, Pengfei Liu, Dragomir Radev, Graham Neubig* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.16804) [[code]](https://github.com/yixinL7/BRIO) ![](https://img.shields.io/badge/-SOTA-red)
 1. **SummaReranker: A Multi-Task Mixture-of-Experts Re-ranking Framework for Abstractive Summarization** *Mathieu Ravaut, Shafiq Joty, Nancy F. Chen* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.06569) [[code]](https://github.com/ntunlp/SummaReranker)
 1. **Adaptive Beam Search to Enhance On-device Abstractive Summarization** *Harichandana B S S, Sumit Kumar* `IEEE INDICON 2021` [[pdf]](https://arxiv.org/abs/2201.02739)
 1. **PLSUM: Generating PT-BR Wikipedia by Summarizing Multiple Websites** *André Seidel Oliveira, Anna Helena Reali Costa* `ENIAC 2021` [[pdf]](https://arxiv.org/abs/2112.01591) 
