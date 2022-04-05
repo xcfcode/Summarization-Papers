@@ -2,6 +2,10 @@
 <h1 align="center"> <img src="./pic/summary.png" width="30" />Summarization Papers</h1>
 </p>
 
+<p align="center">
+⭐️⭐️⭐️Call For Cooperators⭐️⭐️⭐️
+</p>
+
 Organized by [Xiachong Feng](http://xcfeng.net/).
 
 ## Summarization Learning Route
