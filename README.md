@@ -47,6 +47,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 * **GLGE: A New General Language Generation Evaluation Benchmark** *Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan* [[pdf]](https://arxiv.org/abs/2011.11928) [[benchmark]](https://github.com/microsoft/glge)
 
 ## Survey
+1. **Automatic Text Summarization Methods: A Comprehensive Review** *Divakar Yadav, Jalpa Desai, Arun Kumar Yadav* [[pdf]](https://arxiv.org/abs/2204.01849)
 1. **A Survey on Cross-Lingual Summarization** *Jiaan Wang, Fandong Meng, Duo Zheng, Yunlong Liang, Zhixu Li, Jianfeng Qu, Jie Zhou* [[pdf]](https://arxiv.org/abs/2203.12515)
 1. **Faithfulness in Natural Language Generation: A Systematic Survey of Analysis, Evaluation and Optimization Methods** *Wei Li, Wenhao Wu, Moye Chen, Jiachen Liu, Xinyan Xiao, Hua Wu* [[pdf]](https://arxiv.org/abs/2203.05227)
 1. **Recent Advances in Neural Text Generation: A Task-Agnostic Survey** *Chen Tang, Frank Guerin, Yucheng Li, Chenghua Lin* [[pdf]](https://arxiv.org/abs/2203.03047)
@@ -270,6 +271,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 |138|[Celebrity TS, Event TS, Wiki TS](https://github.com/iriscxy/Unified-Timeline-Summarizer)|Timeline, person, event|[Follow the Timeline! Generating Abstractive and Extractive Timeline Summary in Chronological Order](https://dl.acm.org/doi/abs/10.1145/3517221)|TOSI 2022|
 |139|[Chart-to-Text](https://github.com/vis-nlp/Chart-to-text)|chart|[Chart-to-Text: A Large-Scale Benchmark for Chart Summarization](https://arxiv.org/abs/2203.06486)||
 |140|[GovReport-QS](https://gov-report-data.github.io/)|Long Document|[HIBRIDS: Attention with Hierarchical Biases for Structure-aware Long Document Summarization](https://arxiv.org/abs/2203.10741)|ACL 2022|
+|141|[EntSUM](https://zenodo.org/record/6359875)|Entity|[EntSUM: A Data Set for Entity-Centric Summarization](https://github.com/bloomberg/entsum)|ACL 2022|
 
 
 ## Dialogue 
@@ -742,6 +744,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 17. **Efficient Adaptation of Pretrained Transformers for Abstractive Summarization** *Andrew Hoang, Antoine Bosselut, Asli Celikyilmaz, Yejin Choi* [[pdf]](https://arxiv.org/abs/1906.00138) [[code]](https://github.com/Andrew03/transformer-abstractive-summarization)
 
 ## Controllable
+1. **EntSUM: A Data Set for Entity-Centric Summarization** *Mounica Maddela, Mayank Kulkarni, Daniel Preotiuc-Pietro* `ACL 2022` [[pdf]](https://arxiv.org/abs/2204.02213) [[code]](https://github.com/bloomberg/entsum) [[data]](https://zenodo.org/record/6359875)
 1. **Reinforced Abstractive Summarization with Adaptive Length Controlling** *Mingyang Song, Yi Feng, Liping Jing* [[pdf]](https://arxiv.org/abs/2112.07534) 
 1. **HydraSum -- Disentangling Stylistic Features in Text Summarization using Multi-Decoder Models** *Tanya Goyal, Nazneen Fatema Rajani, Wenhao Liu, Wojciech Kryściński* [[pdf]](https://arxiv.org/abs/2110.04400)
 1. **RetrievalSum: A Retrieval Enhanced Framework for Abstractive Summarization** *Chenxin An, Ming Zhong, Zhichao Geng, Jianqiang Yang, Xipeng Qiu* [[pdf]](https://arxiv.org/abs/2109.07943)
@@ -882,6 +885,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 2. **Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps** *Tobias Falke, Iryna Gurevych* `EMNLP17` [[pdf]](https://www.aclweb.org/anthology/D17-1320/) [[code]](https://github.com/UKPLab/emnlp2017-cmapsum-corpus/)
 
 ## Timeline
+1. **Abstractive summarization of hospitalisation histories with transformer networks** *Alexander Yalunin, Dmitriy Umerenkov, Vladimir Kokh* [[pdf]](https://arxiv.org/abs/2204.02208)
 1. **Follow the Timeline! Generating Abstractive and Extractive Timeline Summary in Chronological Order** *Xiuying Chen, Mingzhe Li, Shen Gao, Zhangming Chan, Dongyan Zhao, Xin Gao, Xiangliang Zhang, Rui Yan* `TOIS` [[pdf]](https://dl.acm.org/doi/abs/10.1145/3517221) [[data]](https://github.com/iriscxy/Unified-Timeline-Summarizer)
 1. **Multi-TimeLine Summarization (MTLS): Improving Timeline Summarization by Generating Multiple Summaries** *Yi Yu, Adam Jatowt, Antoine Doucet, Kazunari Sugiyama, Masatoshi Yoshikawa* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.32/) [[data]](https://yiyualt.github.io/mtlsdata/)
 1. **Summarize Dates First: A Paradigm Shift in Timeline Summarization** *Moreno La Quatra, Luca Cagliero, Elena Baralis, Alberto Messina, Maurizio Montagnuolo* `SIGIR 2021` [[pdf]](https://dl.acm.org/doi/10.1145/3404835.3462954) [[data]](https://github.com/MorenoLaQuatra/SDF-TLS)
@@ -1043,9 +1047,10 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 1. **Discourse-Aware Prompt Design for Text Generation** *Marjan Ghazvininejad, Vladimir Karpukhin, Asli Celikyilmaz* [[pdf]](https://arxiv.org/abs/2112.05717)
 
 ## Temp
+1. **Applying Automatic Text Summarization for Fake News Detection** *Philipp Hartl, Udo Kruschwitz* [[pdf]](https://arxiv.org/abs/2204.01841) [[code]](https://github.com/phHartl/lrec_2022)
 1. **Graph Enhanced Contrastive Learning for Radiology Findings Summarization** *Jinpeng Hu, Zhuo Li, Zhihong Chen, Zhen Li, Xiang Wan, Tsung-Hui Chang* [[pdf]](https://arxiv.org/abs/2204.00203) [[code]](https://github.com/jinpeng01/AIG_CL)
-1. **Differentiable Multi-Agent Actor-Critic for Multi-Step Radiology Report Summarization** *Sanjeev Kumar Karn, Ning Liu, Hinrich Schuetze, Oladimeji Farri* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.08257)
-1. **AUTOSUMM: Automatic Model Creation for Text Summarization** *Sharmila Reddy Nangi, Atharv Tyagi, Jay Mundra, Sagnik Mukherjee, Raj Snehal, Niyati Chhaya, Aparna Garimella* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.798.pdf)
+2. **Differentiable Multi-Agent Actor-Critic for Multi-Step Radiology Report Summarization** *Sanjeev Kumar Karn, Ning Liu, Hinrich Schuetze, Oladimeji Farri* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.08257)
+3. **AUTOSUMM: Automatic Model Creation for Text Summarization** *Sharmila Reddy Nangi, Atharv Tyagi, Jay Mundra, Sagnik Mukherjee, Raj Snehal, Niyati Chhaya, Aparna Garimella* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.798.pdf)
 
 ## Extend
 1. **SOM-NCSCM : An Efficient Neural Chinese Sentence Compression Model Enhanced with Self-Organizing Map** *Kangli Zi, Shi Wang, Yu Liu, Jicun Li, Yanan Cao, Cungen Cao* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.33/) [[data]](https://github.com/Zikangli/SOM-NCSCM)
