@@ -586,13 +586,13 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 ## Multi-Document
 1. **Read Top News First: A Document Reordering Approach for Multi-Document News Summarization** *Chao Zhao, Tenghao Huang, Somnath Basu Roy Chowdhury, Muthu Kumar Chandrasekaran, Kathleen McKeown, Snigdha Chaturvedi* `Findings of ACL 2022` [[pdf]](https://arxiv.org/abs/2203.10254) [[code]](https://github.com/zhaochaocs/MDS-DR)
-1. **A Multi-Document Coverage Reward for RELAXed Multi-Document Summarization** *Jacob Parnell, Inigo Jauregi Unanue, Massimo Piccardi* `ACl 2022` [[pdf]](https://arxiv.org/abs/2203.02894) [[code]](https://github.com/jacob-parnell-rozetta/longformer_coverage/)
+1. **A Multi-Document Coverage Reward for RELAXed Multi-Document Summarization** *Jacob Parnell, Inigo Jauregi Unanue, Massimo Piccardi* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.02894) [[code]](https://github.com/jacob-parnell-rozetta/longformer_coverage/)
+1. **PRIMER: Pyramid-based Masked Sentence Pre-training for Multi-document Summarization** *Wen Xiao, Iz Beltagy, Giuseppe Carenini, Arman Cohan* `ACL 2022` [[pdf]](https://arxiv.org/abs/2110.08499) [[code]](https://github.com/allenai/PRIMER)
 1. **PeerSum: A Peer Review Dataset for Abstractive Multi-document Summarization** *Miao Li, Jianzhong Qi, Jey Han Lau* [[pdf]](https://arxiv.org/abs/2203.01769) [[data]](https://github.com/oaimli/PeerSum)
 1. **A Proposition-Level Clustering Approach for Multi-Document Summarization** *Ori Ernst, Avi Caciularu, Ori Shapira, Ramakanth Pasunuru, Mohit Bansal, Jacob Goldberger, Ido Dagan* [[pdf]](https://arxiv.org/abs/2112.08770) [[code]](https://github.com/oriern/ClusterProp)
 1. **MSˆ2: Multi-Document Summarization of Medical Studies** *Jay DeYoung, Iz Beltagy, Madeleine van Zuylen, Bailey Kuehl, Lucy Wang* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.594/) [[data]](https://github.com/allenai/ms2)
 1. **SgSum: Transforming Multi-document Summarization into Sub-graph Selection** *Moye Chen, Wei Li, Jiachen Liu, Xinyan Xiao, Hua Wu, Haifeng Wang* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2110.12645) [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/EMNLP2021-SgSum)
 1. **Topic-Guided Abstractive Multi-Document Summarization** *Peng Cui, Le Hu* `Findings of EMNLP 2021` [[pdf]](https://arxiv.org/abs/2110.11207)
-1. **PRIMER: Pyramid-based Masked Sentence Pre-training for Multi-document Summarization** *Wen Xiao, Iz Beltagy, Giuseppe Carenini, Arman Cohan* [[pdf]](https://arxiv.org/abs/2110.08499)
 1. **Modeling Endorsement for Multi-Document Abstractive Summarization** *Logan Lebanoff, Bingqing Wang, Zhe Feng, Fei Liu* `EMNLP 2021|newsum` [[pdf]](https://aclanthology.org/2021.newsum-1.13/) 
 1. **Incorporating Linguistic Knowledge for Abstractive Multi-document Summarization** *Congbo Ma, Wei Emma Zhang, Hu Wang, Shubham Gupta, Mingyu Guo*  [[pdf]](https://arxiv.org/abs/2109.11199)
 1. **Capturing Relations between Scientific Papers: An Abstractive Model for Related Work Section Generation** *Xiuying Chen, Hind Alamro, Mingzhe Li, Shen Gao, Xiangliang Zhang, Dongyan Zhao, Rui Yan* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.473/) [[data]](https://github.com/iriscxy/relatedworkgeneration)
@@ -667,10 +667,13 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 14. **Zero-Shot Cross-Lingual Neural Headline Generation** *Shi-qi Shen, Yun Chen, Cheng Yang, Zhi-yuan Liu, Mao-song Sun* `TASLP18` [[pdf]](https://dl.acm.org/doi/10.1109/TASLP.2018.2842432)
 15. **Cross-Language Text Summarization using Sentence and Multi-Sentence Compression** *Elvys Linhares Pontes, Stéphane Huet, Juan-Manuel Torres-Moreno, Andréa Carneiro Linhares* `NLDB18` [[pdf]](https://hal.archives-ouvertes.fr/hal-01779465/document)
 16. **Abstractive Cross-Language Summarization via Translation Model Enhanced Predicate Argument Structure Fusing** *Jiajun Zhang, Yu Zhou, Chengqing Zong* `TASLP16` [[pdf]](http://www.nlpr.ia.ac.cn/cip/ZhangPublications/zhang-taslp-2016.pdf)
-17. **Phrase-based Compressive Cross-Language Summarization** *Jin-ge Yao ,Xiaojun Wan ,Jianguo Xiao* `ACL15` [[pdf]](https://www.aclweb.org/anthology/D15-1012.pdf)
+17. **Phrase-based Compressive Cross-Language Summarization** *Jin-ge Yao ,Xiaojun Wan ,Jianguo Xiao* `EMNLP15` [[pdf]](https://www.aclweb.org/anthology/D15-1012.pdf)
 18. **Multilingual Single-Document Summarization with MUSE** *Marina Litvak, Mark Last* `MultiLing13` [[pdf]](https://www.aclweb.org/anthology/W13-3111/)
 19. **Using bilingual information for cross-language document summarization** *Xiaojun Wan* `ACL11` [[pdf]](https://www.aclweb.org/anthology/P11-1155.pdf)
-20. **Cross-language document summarization based on machine translation quality prediction** *Xiaojun Wan, Huiying Li, Jianguo Xiao* `ACL10` [[pdf]](https://www.aclweb.org/anthology/P10-1094/)
+1. **A Graph-based Approach to Cross-language Multi-document Summarization** *Florian Boudin, Stéphane Huet, Juan-Manuel Torres-Moreno* [[pdf]](https://hal.archives-ouvertes.fr/hal-02021891/file/Polibits11.pdf)
+1. **Cross-language document summarization based on machine translation quality prediction** *Xiaojun Wan, Huiying Li, Jianguo Xiao* `ACL10` [[pdf]](https://www.aclweb.org/anthology/P10-1094/)
+1. **Evaluation of a Cross-lingual Romanian-English Multi-document Summariser** *Constantin Orasan, Oana Andreea Chiorean* `LREC08` [[pdf]](http://www.lrec-conf.org/proceedings/lrec2008/pdf/539_paper.pdf)
+1. **Cross-lingual C\*ST\*RD: English access to Hindi information** *Anton Leuski, Chin-Yew Lin, Liang Zhou, Ulrich Germann, Franz Josef Och, Eduard Hovy* [[pdf]](https://dl.acm.org/doi/10.1145/979872.979877)  
 
 ## Multi-modal
 1. **Video Summarization Based on Video-text Representation** *Li Haopeng, Ke Qiuhong, Gong Mingming, Zhang Rui* [[pdf]](https://arxiv.org/abs/2201.02494)
@@ -1062,9 +1065,20 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 1. **Chart-to-Text: A Large-Scale Benchmark for Chart Summarization** *Shankar Kanthara, Rixie Tiffany Ko Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq Joty* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.06486) [[data]](https://github.com/vis-nlp/Chart-to-text)
 
 ## Podcast
-1. **Towards Abstractive Grounded Summarization of Podcast Transcripts** *Kaiqiang Song, Chen Li, Xiaoyang Wang, Dong Yu, Fei Liu* [[pdf]](https://arxiv.org/abs/2203.11425) [[code]](https://github.com/tencent-ailab/GrndPodcastSum)
+1. **Towards Abstractive Grounded Summarization of Podcast Transcripts** *Kaiqiang Song, Chen Li, Xiaoyang Wang, Dong Yu, Fei Liu* [[pdf]](https://arxiv.org/abs/2203.11425) [[code]](https://github.com/tencent-ailab/GrndPodcastSum)   
+
+## Sports
+1. **Knowledge Enhanced Sports Game Summarization** *Jiaan Wang, Zhixu Li, Tingyi Zhang, Duo Zheng, Jianfeng Qu, An Liu, Lei Zhao, Zhigang Chen* `WSDM 2022` [[pdf]](https://arxiv.org/abs/2111.12535) [[code]](https://github.com/krystalan/K-SportsSum)
+1. **SportsSum2.0: Generating High-Quality Sports News from Live Text Commentary** *Jiaan Wang, Zhixu Li, Qiang Yang, Jianfeng Qu, Zhigang Chen, Qingsheng Liu, Guoping Hu* `CIKM 2021 short` [[pdf]](https://arxiv.org/abs/2110.05750) [[data]](https://github.com/krystalan/SportsSum2.0)
+1. **Generating Sports News from Live Commentary: A Chinese Dataset for Sports Game Summarization** *Kuan-Hao Huang, Chen Li, Kai-Wei Chang* `AACL 2020` [[pdf]](https://aclanthology.org/2020.aacl-main.61/) [[data]](https://github.com/ej0cl6/SportsSum)
+1. **Generate Football News from Live Webcast Scripts Based on Character-CNN with Five Strokes** *Xue-Qiang Lv, Xin-Dong You, Wen-Chao Wang, Jian-She Zhou* [[pdf]](http://csroc.org.tw/journal/JOC31-1/JOC3101-21.pdf)
+1. **Content Selection for Real-time Sports News Construction from Commentary Texts** *Jin-ge Yao, Jianmin Zhang, Xiaojun Wan, Jianguo Xiao* `INLG 2017` [[pdf]](https://aclanthology.org/W17-3504/)  
+1. **Towards Constructing Sports News from Live Text Commentary** *Jianmin Zhang, Jin-ge Yao, Xiaojun Wan* `ACL 2016` [[pdf]](https://aclanthology.org/P16-1129/)
+1. **Sports News Generation from Live Webcast Scripts Based on Rules and Templates** *Maofu Liu, Qiaosong Qi, Huijun Hu, Han Ren* `NLPCC 2016` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-50496-4_81)
+1. **Research on Summary Sentences Extraction Oriented to Live Sports Text** *Liya Zhu, Wenchao Wang, Yujing Chen, Xueqiang Lv, Jianshe Zhou* `NLPCC 2016` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-50496-4_72)
+
 
 ## Contributor
 
-[Yichong Huang](https://github.com/OrangeInSouth), [Haozheng Yang](https://github.com/hzyang95) 
+[Yichong Huang](https://github.com/OrangeInSouth), [Haozheng Yang](https://github.com/hzyang95), [Jiaan Wang](https://github.com/krystalan)
 
