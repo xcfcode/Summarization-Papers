@@ -1045,6 +1045,11 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 1. **PENS: A Dataset and Generic Framework for Personalized News Headline Generation** *Xiang Ao Xiting Wang Ling Luo Ying Qiao Qing He Xing Xie* `ACL 2021` [[pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2021/06/ACL2021_PENS_Camera_Ready_1862_Paper.pdf) [[data]](https://msnews.github.io/pens.html) 
 1. **Collabot: Personalized Group Chat Summarization** *Naama Tepper, Anat Hashavit, Maya Barnea, Inbal Ronen, Lior Leiba* `WSDM18` [[pdf]](https://dl.acm.org/doi/abs/10.1145/3159652.3160588)
 1. **Context Enhanced Personalized Social Summarization** *Po Hu, Donghong Ji, Chong Teng, Yujing Guo* `COLING12` [[pdf]](https://www.aclweb.org/anthology/C12-1075.pdf)
+1. **Summarize What You Are Interested In: An Optimization Framework for Interactive Personalized Summarization** *Rui Yan, Jian-Yun Nie, Xiaoming Li* `EMNLP 2011` [[pdf]](https://aclanthology.org/D11-1124/)
+1. **In-Browser Summarisation: Generating Elaborative Summaries Biased Towards the Reading Context** *Stephen Wan, Cécile Paris* `ACL 2008` [[pdf]](https://aclanthology.org/P08-2033/)
+1. **Personalized Summarization Agent Using Non-negative Matrix Factorization** *Sun Park* `PRICAI 2008` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-540-89197-0_103) 
+1. **User-model based personalized summarization** *Alberto Díaz, Pablo Gervás* [[pdf]](https://doi.org/10.1016/j.ipm.2007.01.009)
+1. **Machine Learning of Generic and User-Focused Summarization** *Inderjeet Mani, Eric Bloedorn* `AAAI 1998` [[pdf]](https://arxiv.org/abs/cs/9811006)
 
 ## Interactive
 1. **Hone as You Read: A Practical Type of Interactive Summarization** *Tanner Bohn, Charles X. Ling* [[pdf]](https://arxiv.org/abs/2105.02923)
