@@ -8,6 +8,10 @@
 
 Organized by [Xiachong Feng](http://xcfeng.net/).
 
+## Contributor
+
+[Yichong Huang](https://github.com/OrangeInSouth), [Haozheng Yang](https://github.com/hzyang95), [Jiaan Wang](https://github.com/krystalan)
+
 ## Summarization Learning Route
 [Summarization Learning Route (with link)](http://xcfeng.net/res/summarization-route.pdf)
 ![](./pic/route.png)
@@ -445,6 +449,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 2. **Semantic Similarity Applied to Spoken Dialogue Summarization** *Iryna Gurevych, Michael Strube* `COLING 2004` [[pdf]](https://www.aclweb.org/anthology/C04-1110/) [[bib]](https://www.aclweb.org/anthology/C04-1110.bib) Switchboard dialogues
 
 ## Long Document
+1. **Sequence-Based Extractive Summarisation for Scientific Articles** *Daniel Kershaw, Rob Koeling* `` [[pdf]](https://arxiv.org/abs/2204.03301)
 1. **LDKP: A Dataset for Identifying Keyphrases from Long Scientific Documents** *Debanjan Mahata, Naveen Agarwal, Dibya Gautam, Amardeep Kumar, Swapnil Parekh, Yaman Kumar Singla, Anish Acharya, Rajiv Ratn Shah* [[pdf]](https://arxiv.org/abs/2203.15349) [[data1]](https://huggingface.co/datasets/midas/ldkp3k) [[data2]](https://huggingface.co/datasets/midas/ldkp10k)
 1. **HIBRIDS: Attention with Hierarchical Biases for Structure-aware Long Document Summarization** *Shuyang Cao, Lu Wang* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.10741) [[code]](https://github.com/ShuyangCao/hibrids_summ) [[data]](https://gov-report-data.github.io/)
 1. **HiStruct+: Improving Extractive Text Summarization with Hierarchical Structure Information** *Qian Ruan, Malte Ostendorff, Georg Rehm* [[pdf]](https://arxiv.org/abs/2203.09629) [[code]](https://github.com/QianRuan/histruct)
@@ -676,6 +681,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 1. **Cross-lingual C\*ST\*RD: English access to Hindi information** *Anton Leuski, Chin-Yew Lin, Liang Zhou, Ulrich Germann, Franz Josef Och, Eduard Hovy* [[pdf]](https://dl.acm.org/doi/10.1145/979872.979877)  
 
 ## Multi-modal
+1. **MHMS: Multimodal Hierarchical Multimedia Summarization** *Jielin Qiu, Jiacheng Zhu, Mengdi Xu, Franck Dernoncourt, Trung Bui, Zhaowen Wang, Bo Li, Ding Zhao, Hailin Jin* [[pdf]](https://arxiv.org/abs/2204.03734)
 1. **Video Summarization Based on Video-text Representation** *Li Haopeng, Ke Qiuhong, Gong Mingming, Zhang Rui* [[pdf]](https://arxiv.org/abs/2201.02494)
 1. **UniMS: A Unified Framework for Multimodal Summarization with Knowledge Distillation** *Zhengkun Zhang, Xiaojun Meng, Yasheng Wang, Xin Jiang, Qun Liu, Zhenglu Yang* `AAAI 2022` [[pdf]](https://arxiv.org/abs/2109.05812)
 1. **Hierarchical Cross-Modality Semantic Correlation Learning Model for Multimodal Summarization** *Litian Zhang, Xiaoming Zhang, Junshu Pan, Feiran Huang* `AAAI 2022` [[pdf]](https://arxiv.org/abs/2112.12072) [[data]](https://github.com/LitianD/HCSCL-MSDataset)
@@ -1077,8 +1083,4 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 1. **Sports News Generation from Live Webcast Scripts Based on Rules and Templates** *Maofu Liu, Qiaosong Qi, Huijun Hu, Han Ren* `NLPCC 2016` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-50496-4_81)
 1. **Research on Summary Sentences Extraction Oriented to Live Sports Text** *Liya Zhu, Wenchao Wang, Yujing Chen, Xueqiang Lv, Jianshe Zhou* `NLPCC 2016` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-50496-4_72)
 
-
-## Contributor
-
-[Yichong Huang](https://github.com/OrangeInSouth), [Haozheng Yang](https://github.com/hzyang95), [Jiaan Wang](https://github.com/krystalan)
 
