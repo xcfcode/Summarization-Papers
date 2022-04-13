@@ -276,6 +276,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 |139|[Chart-to-Text](https://github.com/vis-nlp/Chart-to-text)|chart|[Chart-to-Text: A Large-Scale Benchmark for Chart Summarization](https://arxiv.org/abs/2203.06486)||
 |140|[GovReport-QS](https://gov-report-data.github.io/)|Long Document|[HIBRIDS: Attention with Hierarchical Biases for Structure-aware Long Document Summarization](https://arxiv.org/abs/2203.10741)|ACL 2022|
 |141|[EntSUM](https://zenodo.org/record/6359875)|Entity|[EntSUM: A Data Set for Entity-Centric Summarization](https://github.com/bloomberg/entsum)|ACL 2022|
+|142|[ALLSIDES](https://github.com/HLTCHKUST/framing-bias-metric)|Framing Bias|[NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias](https://arxiv.org/abs/2204.04902)|ACL 2022|
 
 
 ## Dialogue 
@@ -565,6 +566,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 4. **Contrastive Attention Mechanism for Abstractive Sentence Summarization** *Xiangyu Duan, Hongfei Yu, Mingming Yin, Min Zhang, Weihua Luo, Yue Zhang* `EMNLP 2019` [[pdf]](https://www.aclweb.org/anthology/D19-1301/) [[code]](https://github.com/travel-go/Abstractive-Text-Summarization)
 
 ## Evaluation
+1. **TRUE: Re-evaluating Factual Consistency Evaluation** `NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.04991)
 1. **Play the Shannon Game With Language Models: A Human-Free Approach to Summary Evaluation** *Nicholas Egan, Oleg Vasilyev, John Bohannon* `AAAI 2022` [[pdf]](https://arxiv.org/abs/2103.10918) [[code]](https://github.com/PrimerAI/blanc/tree/master/shannon)
 1. **Differentiable N-gram Objective on Abstractive Summarization** *Yunqi Zhu, Wensheng Zhang, Mingjin Zhu* [[pdf]](https://arxiv.org/abs/2202.04003) [[code]](https://github.com/zhuyunqi96/ngramObj)
 1. **DiscoScore: Evaluating Text Generation with BERT and Discourse Coherence** *Wei Zhao, Michael Strube, Steffen Eger* [[pdf]](https://arxiv.org/abs/2201.11176) [[code]](https://github.com/AIPHES/DiscoScore)
