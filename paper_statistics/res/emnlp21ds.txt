@@ -1,0 +1,14 @@
+CSDS : A Fine-grained Chinese Dataset for Customer Service Dialogue Summarization
+Low-Resource Dialogue Summarization with Domain-Agnostic Multi-Source Pretraining
+Controllable Neural Dialogue Summarization with Personal Named Entity Planning
+Simple Conversational Data Augmentation for Semi-supervised Abstractive Dialogue Summarization
+GupShup : Summarizing Open-Domain Code-Switched Conversations
+A Bag of Tricks for Dialogue Summarization
+Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization
+Give the Truth : Incorporate Semantic Slot into Abstractive Dialogue Summarization
+Leveraging Pretrained Models for Automatic Summarization of Doctor-Patient Conversations
+TWEETSUMM - A Dialog Summarization Dataset for Customer Service
+Improving Abstractive Dialogue Summarization with Hierarchical Pretraining and Topic Segment
+A Finer-grain Universal Dialogue Semantic Structures based Model For Abstractive Dialogue Summarization
+An Exploratory Study on Long Dialogue Summarization: What Works and What's Next
+ForumSum : A Multi-Speaker Conversation Summarization Dataset

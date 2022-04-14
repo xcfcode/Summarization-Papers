@@ -1,0 +1,30 @@
+Attend , Translate and Summarize : An Efficient Method for Neural Cross-Lingual Summarization
+Discourse - Aware Neural Extractive Text Summarization
+Discrete Optimization for Unsupervised Sentence Summarization with Word - Level Extraction
+Examining the State-of-the-Art in News Timeline Summarization
+Extractive Summarization as Text Matching
+Facet-Aware Evaluation for Extractive Summarization
+FEQA : A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization
+From Arguments to Key Points : Towards Automatic Argument Summarization
+Heterogeneous Graph Neural Networks for Extractive Document Summarization
+Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization
+Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward
+Leveraging Graph to Improve Abstractive Multi-Document Summarization
+MATINF : A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization
+Multi-Granularity Interaction Network for Extractive and Abstractive Multi-Document Summarization
+On Faithfulness and Factuality in Abstractive Summarization
+Screenplay Summarization Using Latent Narrative Structure
+Unsupervised Opinion Summarization as Copycat-Review Generation
+Unsupervised Opinion Summarization with Noising and Denoising
+A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events Portal
+Attend to Medical Ontologies : Content Selection for Clinical Abstractive Summarization
+Composing Elementary Discourse Units in Abstractive Summarization
+Exploring Content Selection in Summarization of Novel Chapters
+OpinionDigest : A Simple Framework for Opinion Summarization
+Self-Attention Guided Copy Mechanism for Abstractive Summarization
+SUPERT : Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization
+Understanding Points of Correspondence between Sentences for Abstractive Summarization
+Asking and Answering Questions to Evaluate the Factual Consistency of Summaries
+Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports [arXiv]
+The Summary Loop: Learning to Write Abstractive Summaries Without Examples
+Fact based Content Weighting for Evaluating Abstractive Summarisation

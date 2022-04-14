@@ -1,0 +1,31 @@
+A Multi-Document Coverage Reward for RELAXed Multi-Document Summarization
+ASPECTNEWS Aspect-Oriented Summarization of News Documents
+Attention Temperature Matters in Abstractive Summarization Distillation
+A Variational Hierarchical Model for Neural Cross-Lingual Summarization
+BRIO Bringing Order to Abstractive Summarization
+Differentiable Multi-Agent Actor-Critic for Multi-Step Radiology Report Summarization
+Discriminative Marginalized Probabilistic Neural Method for Multi-Document Summarization of Medical Literature
+DYLE Dynamic Latent Extraction for Abstractive Long-Input Summarization
+Educational Question Generation of Children Storybooks via Question Type Distribution Learning and Event-centric Summarization
+EntSUM A Data Set for Entity-Centric Extractive Summarization
+Faithful or Extractive On Mitigating the Faithfulness-Abstractiveness Trade-off in Abstractive Summarization
+Graph Enhanced Contrastive Learning for Radiology Findings Summarization
+Hallucinated but Factual! Inspecting the Factuality of Hallucinations in Abstractive Summarization
+HIBRIDS Attention with Hierarchical Biases for Structure-aware Long Document Summarization
+Learning Non-Autoregressive Models from Search for Unsupervised Sentence Summarization
+Length Control in Abstractive Summarization by Pretraining Information Selection
+MemSum Extractive Summarization of Long Documents Using Multi-Step Episodic Markov Decision Processes
+Modeling Hierarchical Syntax Structure with Triplet Position for Source Code Summarization
+Neural Label Search for Zero-Shot Multi-Lingual Extractive Summarization
+Other Roles Matter Enhancing Role-Oriented Dialogue Summarization via Role Interactions
+Predicting Intervention Approval in Clinical Trials through Multi-Document Summarization
+PRIMERA Pyramid-based Masked Sentence Pre-training for Multi-Document Summarization
+RNSum A Large-Scale Dataset for Automatic Release Note Generation via Commit Logs Summarization
+Summ^N A Multi-Stage Summarization Framework for Long Input Dialogues and Documents
+SummaReranker A Multi-Task Mixture-of-Experts Re-ranking Framework for Abstractive Summarization
+SummScreen A Dataset for Abstractive Screenplay Summarization
+Textomics A Dataset for Genomics Data Summary Generation
+The patient is more dead than alive: exploring the current state of the Multi-Document summarization of the Biomedical Literature
+Towards Abstractive Grounded Summarization of Podcast Transcripts
+Unsupervised Extractive Opinion Summarization Using Sparse Coding
+Updated Headline Generation Creating Updated Summaries for Evolving News Stories

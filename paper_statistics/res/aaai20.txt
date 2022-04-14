@@ -1,0 +1,13 @@
+Multimodal Summarization with Guidance of Multimodal Reference
+Keywords Guided Abstractive Sentence Summarization
+Weakly Supervised Opinion Summarization by Leveraging External Information
+Be Relevant , Non redundant , Timely : Deep Reinforcement Learning for Realtime Event Summarization
+MultiSumm : Towards a Unified Model for Multi Lingual Abstractive Summarization
+SemSUM : Semantic Dependency Guided Neural Abstractive Summarization
+Controlling the Amount of Verbatim Copying in Abstractive Summarization
+Joint Parsing and Generation for Abstractive Summarization
+Copy or Rewrite : Hybrid Summarization with Hierarchical Reinforcement Learning
+Convolutional Hierarchical Attention Network for Query-Focused Video Summarization
+Aspect Aware Multimodal Summarization for Chinese Ecommerce Products
+Document Summarization with VHTM : Variational Hierarchical Topic Aware Mechanism
+TemPEST : Soft Template‐based Personalized EDM Subject Generation Through Collaborative Summarization

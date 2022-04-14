@@ -1,0 +1,14 @@
+Enhancing Scientific Papers Summarization with Citation Graph
+Nutri-Bullets  Summarizing Health Studies by Composing Segments
+Submodular Span  with Applications to Conditional Data Summarization
+Data Augmentation for Abstractive Query-Focused Multi-Document Summarization
+Contextualized Rewriting for Text Summarization
+Meta-Transfer Learning for Low-Resource Abstractive Summarization
+Unsupervised Opinion Summarization with Content Planning
+Exploring Explainable Selection to Control Abstractive Summarization
+Automated Lay Language Summarization of Biomedical Scientific Reviews
+Movie Summarization via Sparse Graph Construction
+Topic-Oriented Spoken Dialogue Summarization for Customer Service with Saliency-Aware Topic Modeling
+Unsupervised Summarization for Chat Logs with Topic-Oriented Ranking and Context-Aware Auto-Encoders
+Unsupervised Abstractive Dialogue Summarization for Tete-a-Tetes
+Flexible Non-Autoregressive Extractive Summarization with Threshold  How to Extract a Non-Fixed Number of Summary Sentences
