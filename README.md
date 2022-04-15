@@ -51,6 +51,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 * **GLGE: A New General Language Generation Evaluation Benchmark** *Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan* [[pdf]](https://arxiv.org/abs/2011.11928) [[benchmark]](https://github.com/microsoft/glge)
 
 ## Survey
+1. **A Survey on Dialogue Summarization: Recent Advances and New Frontiers** *Xiachong Feng, Xiaocheng Feng, Bing Qin* `IJCAI 2022, Survey Track` [[pdf]](https://arxiv.org/abs/2107.03175)
 1. **Automatic Text Summarization Methods: A Comprehensive Review** *Divakar Yadav, Jalpa Desai, Arun Kumar Yadav* [[pdf]](https://arxiv.org/abs/2204.01849)
 1. **A Survey on Cross-Lingual Summarization** *Jiaan Wang, Fandong Meng, Duo Zheng, Yunlong Liang, Zhixu Li, Jianfeng Qu, Jie Zhou* [[pdf]](https://arxiv.org/abs/2203.12515)
 1. **Faithfulness in Natural Language Generation: A Systematic Survey of Analysis, Evaluation and Optimization Methods** *Wei Li, Wenhao Wu, Moye Chen, Jiachen Liu, Xinyan Xiao, Hua Wu* [[pdf]](https://arxiv.org/abs/2203.05227)
@@ -62,7 +63,6 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 1. **A Comprehensive Review on Summarizing Financial News Using Deep Learning** *Saurabh Kamal, Sahil Sharma* [[pdf]](https://arxiv.org/abs/2109.10118)
 1. **A Survey on Multi-modal Summarization** *Anubhav Jangra, Adam Jatowt, Sriparna Saha, Mohammad Hasanuzzaman* [[pdf]](https://arxiv.org/abs/2109.05199)
 1. **Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing** *Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, Graham Neubig* [[pdf]](https://arxiv.org/abs/2107.13586)
-1. **A Survey on Dialogue Summarization: Recent Advances and New Frontiers** *Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2107.03175)
 1. **Pretrained Language Models for Text Generation: A Survey** *Junyi Li, Tianyi Tang, Wayne Xin Zhao, Ji-Rong Wen* `IJCAI21` [[pdf]](https://arxiv.org/abs/2105.10311)
 1. **A Survey of Recent Abstract Summarization Techniques** *Diyah Puspitaningrum* `ICICT21` [[pdf]](https://arxiv.org/abs/2105.00824)
 1. **A Survey of the State-of-the-Art Models in Neural Abstractive Text Summarization** *AYESHA AYUB SYED, FORD LUMBAN GAOL, TOKURO MATSUO* [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9328413)
@@ -281,7 +281,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 
 ## Dialogue 
 
-> **A Survey on Dialogue Summarization: Recent Advances and New Frontiers** *Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2107.03175)
+1. **A Survey on Dialogue Summarization: Recent Advances and New Frontiers** *Xiachong Feng, Xiaocheng Feng, Bing Qin* `IJCAI 2022, Survey Track` [[pdf]](https://arxiv.org/abs/2107.03175)
 
 ### Dataset
 1. **TODSum: Task-Oriented Dialogue Summarization with State Tracking** *Lulu Zhao, Fujia Zheng, Keqing He, Weihao Zeng, Yuejie Lei, Huixing Jiang, Wei Wu, Weiran Xu, Jun Guo, Fanyu Meng* [[pdf]](https://arxiv.org/abs/2110.12680)
