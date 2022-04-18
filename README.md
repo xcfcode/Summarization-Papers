@@ -277,6 +277,8 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 |140|[GovReport-QS](https://gov-report-data.github.io/)|Long Document|[HIBRIDS: Attention with Hierarchical Biases for Structure-aware Long Document Summarization](https://arxiv.org/abs/2203.10741)|ACL 2022|
 |141|[EntSUM](https://zenodo.org/record/6359875)|Entity|[EntSUM: A Data Set for Entity-Centric Summarization](https://github.com/bloomberg/entsum)|ACL 2022|
 |142|[ALLSIDES](https://github.com/HLTCHKUST/framing-bias-metric)|Framing Bias|[NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias](https://arxiv.org/abs/2204.04902)|ACL 2022|
+|143|[GRAPHELSUMS](https://github.com/maartjeth/summarization_with_graphical_elements)|graph|[Summarization with Graphical Elements](https://arxiv.org/abs/2204.07551)||
+|144|[Annotated-Wikilarge-Newsela](https://github.com/AshOlogn/Evaluating-Factuality-in-Text-Simplification)|Factuality|[Evaluating Factuality in Text Simplification](https://arxiv.org/abs/2204.07562)|ACL 2022|
 
 
 ## Dialogue 
@@ -502,6 +504,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
+1. **Evaluating Factuality in Text Simplification** *Ashwin Devaraj, William Sheffield, Byron C. Wallace, Junyi Jessy Li* `ACL 2022` [[pdf]](https://arxiv.org/abs/2204.07562) [[code]](https://github.com/AshOlogn/Evaluating-Factuality-in-Text-Simplification)
 1. **FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations** *Leonardo F. R. Ribeiro, Mengwen Liu, Iryna Gurevych, Markus Dreyer, Mohit Bansal* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.06508) [[code]](https://github.com/amazon-research/fact-graph) 
 1. **Don't Say What You Don't Know: Improving the Consistency of Abstractive Summarization by Constraining Beam Search** *Daniel King, Zejiang Shen, Nishant Subramani, Daniel S. Weld, Iz Beltagy, Doug Downey* [[pdf]](https://arxiv.org/abs/2203.08436) [[code]](https://github.com/allenai/pinocchio)
 1. **CONFIT: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning** *Xiangru Tang, Arjun Nair, Borui Wang, Bingyao Wang, Jai Desai, Aaron Wade, Haoran Li, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev* [[pdf]](https://arxiv.org/abs/2112.08713)
@@ -864,6 +867,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 40. **Abstractive Meeting Summarization with Entailment and Fusion** *Yashar Mehdad, Giuseppe Carenini, Frank Tompa, Raymond T. Ng* `ENLG13` [[pdf]](https://www.aclweb.org/anthology/W13-2117/)
 
 ## Graph-Based
+1. **Summarization with Graphical Elements** *Maartje ter Hoeve, Julia Kiseleva, Maarten de Rijke* [[pdf]](https://arxiv.org/abs/2204.07551) [[code]](https://github.com/maartjeth/summarization_with_graphical_elements)
 1. **HETFORMER: Heterogeneous Transformer with Sparse Attention for Long-Text Extractive Summarization** *Ye Liu, Jian-Guo Zhang, Yao Wan, Congying Xia, Lifang He, Philip S. Yu* `EMNLP 2021 short` [[pdf]](https://arxiv.org/abs/2110.06388)
 1. **Centrality Meets Centroid: A Graph-based Approach for Unsupervised Document Summarization** *Haopeng Zhang, Jiawei Zhang* [[pdf]](https://arxiv.org/abs/2103.15327)
 1. **Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network** *Ruipeng Jia, Yanan Cao, Hengzhu Tang, Fang Fang, Cong Cao, Shi Wang* `EMNLP20` [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.295/) [[code]](https://github.com/coder352/HAHSum)
