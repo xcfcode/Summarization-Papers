@@ -504,6 +504,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
+1. **Factual Error Correction for Abstractive Summaries Using Entity Retrieval** *Hwanhee Lee, Cheoneum Park, Seunghyun Yoon, Trung Bui, Franck Dernoncourt, Juae Kim, Kyomin Jung* [[pdf]](https://arxiv.org/abs/2204.08263)
 1. **Evaluating Factuality in Text Simplification** *Ashwin Devaraj, William Sheffield, Byron C. Wallace, Junyi Jessy Li* `ACL 2022` [[pdf]](https://arxiv.org/abs/2204.07562) [[code]](https://github.com/AshOlogn/Evaluating-Factuality-in-Text-Simplification)
 1. **FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations** *Leonardo F. R. Ribeiro, Mengwen Liu, Iryna Gurevych, Markus Dreyer, Mohit Bansal* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.06508) [[code]](https://github.com/amazon-research/fact-graph) 
 1. **Don't Say What You Don't Know: Improving the Consistency of Abstractive Summarization by Constraining Beam Search** *Daniel King, Zejiang Shen, Nishant Subramani, Daniel S. Weld, Iz Beltagy, Doug Downey* [[pdf]](https://arxiv.org/abs/2203.08436) [[code]](https://github.com/allenai/pinocchio)
@@ -645,6 +646,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 21. **Event-Centric Summary Generation** *Lucy Vanderwende Michele Banko Arul Menezes* `ACL04` [[pdf]](https://www.microsoft.com/en-us/research/publication/event-centric-summary-generation/) 
 
 ## Cross-Lingual
+1. **Bridging Cross-Lingual Gaps During Leveraging the Multilingual Sequence-to-Sequence Pretraining for Text Generation** *Changtong Zan, Liang Ding, Li Shen, Yu Cao, Weifeng Liu, Dacheng Tao* [[pdf]](https://arxiv.org/abs/2204.07834)
 1. **A Survey on Cross-Lingual Summarization** *Jiaan Wang, Fandong Meng, Duo Zheng, Yunlong Liang, Zhixu Li, Jianfeng Qu, Jie Zhou* [[pdf]](https://arxiv.org/abs/2203.12515)
 1. **A Variational Hierarchical Model for Neural Cross-Lingual Summarization** *Yunlong Liang, Fandong Meng, Chulun Zhou, Jinan Xu, Yufeng Chen, Jinsong Su, Jie Zhou* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.03820) [[code]](https://github.com/XL2248/VHM)
 1. **CptGraphSum: Let key clues guide the cross-lingual abstractive summarization** *Shuyu Jiang, Dengbiao Tu, Xingshu Chen, Rui Tang, Wenxian Wang, Haizhou Wang* [[pdf]](https://arxiv.org/abs/2203.02797)
