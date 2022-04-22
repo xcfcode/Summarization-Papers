@@ -1,0 +1,48 @@
+Better Highlighting   Creating Sub-Sentence Summary Highlights
+Compressive Summarization with Plausibility and Salience Modeling
+Re-evaluating Evaluation in Text Summarization
+Few-Shot Learning for Opinion Summarization
+Quantitative Argument Summarization and Beyond  Cross-Domain Key Point Analysis
+VMSMO  Learning to Generate Multimodal Summary for Video-based News Articles
+Multi-Fact Correction in Abstractive Text Summarization
+Unsupervised Reference-Free Summary Quality Evaluation via Contrastive Learning
+Multi-document Summarization with Maximal Marginal Relevance-guided Reinforcement Learning
+MLSUM  The Multilingual Summarization Corpus
+Stepwise Extractive Summarization and Planning with Structured Transformers
+Pre-training for Abstractive Document Summarization by Reinstating Source Text
+Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization
+Multi-hop Inference for Question-driven Summarization
+Evaluating the Factual Consistency of Abstractive Text Summarization
+On Extractive and Abstractive Neural Document Summarization with Transformer Language Models
+What Have We Achieved on Text Summarization
+Q-learning with Language Model for Edit-based Unsupervised Summarization
+A Spectral Method for Unsupervised Multi-Document Summarization
+Coarse-to-Fine Query Focused Multi-Document Summarization
+Friendly Topic Assistant for Transformer Based Abstractive Summarization
+Intrinsic Evaluation of Summarization Datasets
+Multistage Fusion with Forget Gate for Multimodal Summarization in Open-Domain Videos
+Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network
+TESA  A Task in Entity Semantic Aggregation for Abstractive Summarization
+Factual Error Correction for Abstractive Summarization Models
+Understanding Neural Abstractive Summarization Models via Uncertainty
+Summarizing Text on Any Aspects  A Knowledge-Informed Weakly-Supervised Approach
+Multi-XScience  A Large-scale Dataset for Extreme Multi-document Summarization of Scientific Articles
+Learning to Fuse Sentences with Transformers for Summarization
+Modeling Content Importance for Summarization with Pre-training Language Models
+KLearn  Background Knowledge Inference from Summarization Data
+TLDR  Extreme Summarization of Scientific Documents
+CDEvalSumm  An Empirical Study of Cross-Dataset Evaluation for Neural Summarization Systems
+WikiLingua A New Benchmark Dataset for Cross-Lingual Abstractive Summarization
+A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pre-training
+Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization
+Summarizing Chinese Medical Answer with Graph Convolution Networks and Question-focused Dual Attention
+ZEST  Zero-shot Learning from Text Descriptions using Textual Similarity and Visual Summarization
+Unsupervised Extractive Summarization by Pre-training Hierarchical Transformers
+TED  A Pre-training Unsupervised Summarization Model with Theme Modeling and Denoising
+Reducing the Frequency of Hallucinated Quantities in Abstractive Summaries
+Abstractive Multi-Document Summarization via Joint Learning with Single-Document Summarization
+Corpora Evaluation and System Bias detection in Multi Document Summarization
+rds Zero Shot Conditional Summarization with Adaptive Multi-task Fine-Tuning
+Document Reranking for Precision Medicine with Neural Matching and Faceted Summarization
+Dr Summarize  Global Summarization of Medical Dialogue by Exploiting Local Structures
+SupMMD  A Sentence Importance Model for Extractive Summarisation using Maximum Mean Discrepancy

@@ -1,0 +1,55 @@
+Simple Conversational Data Augmentation for Semi-supervised Abstractive Dialogue Summarization
+Finding a Balanced Degree of Automation for Summary Evaluation
+Enriching and Controlling Global Semantics for Text Summarization
+CLIFF : Contrastive Learning for Improving Faithfulness and Factual in Abstractive Summarization
+StreamHover : Livestream Transcript Summarization and Annotation
+CSDS : A Fine-grained Chinese Dataset for Customer Service Dialogue Summarization
+QuestEval : Summarization Asks for Factual-based Evaluation
+Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization
+Aspect - Controllable Opinion Summarization
+Learning Opinion Summarizers by Selecting Informative Reviews
+Low-Resource Dialogue Summarization with Domain-Agnostic Multi-Source Pretraining
+GupShup : Summarizing Open-Domain Code-Switched dialogue
+MSˆ2: Multi-Document Summarization of Medical Studies
+Timeline Summarization based on Event Graph Compression via Time-Aware Optimal Transport
+SgSum :Transforming Multi-document Summarization into Sub-graph Selection
+Controllable Neural Dialogue Summarization with Personal Named Entity Planning
+Learn to Copy from the Copying History : Correlational Copy Network for Abstractive Summarization
+MassiveSumm : a very large-scale, very multilingual, news Summarization dataset
+Fine-grained Factual Factual Assessment for Abstractive Summarization Models
+ARMAN : Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization
+Models and Datasets for Cross-Lingual Summarization
+AUTOSUMM : Automatic Model Creation for Text Summarization
+A Bag of Tricks for Dialogue Summarization
+Exploring Multitask Learning for Low-Resource Abstractive Summarization
+Multiplex Graph Neural Network for Extractive Text Summarization
+Sparsity and Sentence Structure in Encoder-Decoder Attention of Summarization Systems
+Considering Nested Tree Structure in Sentence Extractive Summarization with Pre-trained Transformer
+Frame Semantic-Enhanced Sentence Modeling for Sentence-level Extractive Text Summarization
+Sparsity and Sentence Structure in Encoder-Decoder Attention of Summarization Systems
+Integrating Semantic Scenario and Word Relations for Abstractive Sentence Summarization
+HETFORMER : Heterogeneous Transformer with Sparse Attention for Long-Text Extractive Summarization
+Gradient-Based Adversarial Factual Consistency Evaluation for Abstractive Summarization
+A Thorough Evaluation of Task-Specific Pretraining for Summarization
+SummerTime : Text Summarization Toolkit for Non-experts
+Summary Explorer: Visualizing the State of the Art in Text Summarization
+Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation
+Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization
+MiRANews : Dataset and Benchmarks for Multi-Resource-Assisted News Summarization
+Give the Truth : Incorporate Semantic Slot into Abstractive Dialogue Summarization
+Leveraging Pretrained Models for Automatic Summarization of Doctor-Patient Conversations
+TWEETSUMM - A Dialog Summarization Dataset for Customer Service
+Improving Abstractive Dialogue Summarization with Hierarchical Pretraining and Topic Segment
+A Finer-grain Universal Dialogue Semantic Structures based Model For Abstractive Dialogue Summarization
+Post-Editing Extractive Summaries by Definiteness Prediction
+Topic-Guided Abstractive Multi-Document Summarization
+Are Factual Checkers Reliable ? Adversarial Meta-evaluation of Factual in Summarization
+Convex Aggregation for Opinion Summarization
+An Exploratory Study on Long Dialogue Summarization: What Works and What's Next
+Mitigating Data Scarceness through Data Synthesis, Augmentation and Curriculum for Abstractive Summarization
+Constructing Contrastive samples via Summarization for Text Classification with limited annotations
+Using Question Answering Rewards to Improve Abstractive Summarization
+Exploring Multitask Learning for Low-Resource Abstractive SummarizationAhmed
+Does Pretraining for Summarization Require Knowledge Transfer ?
+Leveraging Information Bottleneck for Scientific Document Summarization
+ForumSum : A Multi-Speaker Conversation Summarization Dataset

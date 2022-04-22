@@ -1,0 +1,21 @@
+Making the Best Use of Review Summary for Sentiment Analysis
+Improving Abstractive Dialogue Summarization with Graph Structures and Topic Words
+Summarizing Medical Dialogue via Identifying Important Utterances
+Enhancing Extractive Text Summarization with Topic-Aware Graph Neural Networks
+News Editorials  Towards Summarizing Long Argumentative Texts
+Reference and Document Aware Semantic Evaluation Methods for Korean Language Summarization
+At Which Level Should We Extract? An Empirical Analysis on Extractive Document Summarization
+Fact-level Extractive Summarization with Hierarchical Graph Mask on BERT
+Flight of the PEGASUS? Comparing Transformers on Few-shot and Zero-shot Multi-document Abstractive Summarization
+WSL-DS  Weakly Supervised Learning with Distant Supervision for Query Focused Multi-Document Abstractive Summarization
+Multimodal Sentence Summarization via Multimodal Selective Encoding
+Controllable Abstractive Sentence Summarization with Guiding Entities
+HOLMS  Alternative Summary Evaluation with Large Language Models
+How Domain Terminology Affects Dialogue Summarization Performance
+An Anchor-Based Automatic Evaluation Metric for Document Summarization
+Metrics also Disagree in the Low Scoring Range  Revisiting Summarization Evaluation Metrics
+On the Faithfulness for E-commerce Product Summarization
+SumTitles  a Summarization Dataset with Low Extractiveness Dialogue
+TWEETSUM  Event oriented Social Summarization Dataset
+Interpretable Multi-headed Attention for Abstractive Summarization at Controllable Lengths
+DebateSum  A large-scale argument mining and summarization dataset

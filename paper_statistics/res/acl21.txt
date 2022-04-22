@@ -1,0 +1,47 @@
+TWAG : A Topic-Guided Wikipedia Abstract Generator
+A Training-free and Reference-free Summarization Evaluation Metric via Centrality-weighted Relevance and Self-referenced Redundancy
+Long-Span Summarization via Local Attention and Content Selection
+Generating Query Focused Summaries from Query-Free Resources
+PASS: Perturb-and-Select Summarizer for Product Reviews
+Cross-Lingual Abstractive Summarization with Limited Parallel Resources
+Generating SOAP Notes from Doctor-Patient dialogue Using Modular Summarization
+Dissecting Generation Modes for Abstractive Summarization Models via Ablation and Attribution
+ConvoSumm : dialogue Summarization Benchmark and Improved Abstractive Summarization with Argument Mining
+Self-Supervised Multimodal Opinion Summarization
+Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization
+BASS : Boosting Abstractive Summarization with Unified Semantic Graph
+Focus Attention: Promoting Faithfulness and Diversity in Summarization 
+Improving Factual Consistency of Abstractive Summarization via Question Answering
+Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering
+RepSum : Unsupervised Dialogue Summarization based on Replacement Strategy
+Deep Differential Amplifier for Extractive Summarization
+Multi-TimeLine Summarization (MTLS): Improving Timeline Summarization by Generating Multiple Summaries
+EmailSum: Abstractive Email Thread Summarization
+Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards
+Demoting the Lead Bias in News Summarization via Alternating Adversarial Learning
+SimCLS : A Simple Framework for Contrastive Learning of Abstractive Summarization
+Bringing Structure into Summaries: a Faceted Summarization Dataset for Long Scientific Documents
+WikiSum : Coherent Summarization Dataset for Efficient Human-Evaluation
+Summary-Oriented Question Generation for Informational Queries
+SummVis : Interactive Visual Analysis of Models, Data, and Evaluation for Text Summarization
+How well do you know your summarization datasets ?
+XL-Sum Large-Scale Multilingual Abstractive Summarization for 44 Languages
+DialSumm : A Real-Life Scenario Dialogue Summarization Dataset
+Controllable Abstractive Dialogue Summarization with Sketch Supervision
+To Point or Not to Point: Understanding How Abstractive Summarizers Paraphrase Text
+AgreeSum : Agreement-Oriented Multi-Document Summarization
+Word Graph Guided Summarization for Radiology Findings
+Entity-Aware Abstractive Multi-Document Summarization
+TransSum : Translating Aspect and Sentiment Embeddings for Self-Supervised Opinion Summarization
+Improving Unsupervised Extractive Summarization with Facet-Aware Modeling
+Contrastive Aligned Joint Learning for Multilingual Summarization
+A Joint Model for Structure-based News Genre Classification with Application to Text Summarization
+GO FIGURE : A Meta Evaluation of Factual in Summarization
+Is Human Scoring the Best Criteria for Summary Evaluation ?
+ZmBART : An Unsupervised Cross-lingual Transfer Framework for Language Generation
+Evaluating the Efficacy of Summarization Evaluation across Languages
+Summary Grounded dialogue Generation
+Evaluating the Efficacy of Summarization Evaluation across Languages
+LenAtten : An Effective Length Controlling Unit For Text Summarization
+Improve Query Focused Abstractive Summarization by Incorporating Answer Relevance
+Highlight-Transformer : Leveraging Key Phrase Aware Attention to Improve Abstractive Multi-Document Summarization

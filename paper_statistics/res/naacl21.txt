@@ -1,0 +1,24 @@
+Efficiently Summarizing Text and Graph Encodings of Multi-Document Clusters
+Enriching the Transformers with Structured Representations for Abstractive Summarization
+Extending Multi-Document Summarization Evaluation to the Interactive Setting
+Sliding Selector Network with Dynamic Memory for Extractive Summarization of Long Documents
+What’s in a Summary? Laying the Groundwork for Advances in Hospital-Course Summarization
+D2S  Automated slide generation with query-based text summarization from documents
+Understanding Factuality in Abstractive Summarization with FRANK  A Benchmark for Factuality Metrics
+QMSum  A New Benchmark for Query-based Multi-domain Dialogue Summarization
+Predicting Discourse Trees from Transformer-based Neural Summarizers
+RefSum  Refactoring Neural Summarization
+Noisy Self-Knowledge Distillation for Text Summarization
+GSum  A General Framework for Guided Neural Abstractive Summarization
+Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation
+MediaSum  A Large-scale Media Interview Dataset for Dialogue Summarization
+Enhancing Factual Consistency of Abstractive Summarization
+Structure-Aware Abstractive Dialogue Summarization via Discourse and Action Graphs
+AdaptSum  Towards Low-Resource Domain Adaptation for Abstractive Summarization
+A New Approach to Overgenerating and Scoring Abstractive Summaries
+Attention Head Masking for Inference Time Content Selection in Abstractive Summarization
+Inference Time Style Control for Summarization
+Efficient Attentions for Long Document Summarization
+Nutribullets Hybrid  Multi-document Health Summarization
+MM-AVS  A Full-Scale Dataset for Multi-modal Summarization
+Improving Faithfulness in Abstractive Summarization with Contrast Candidate Generation and Selection
