@@ -504,6 +504,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
+1. **Learning to Revise References for Faithful Summarization** *Griffin Adams, Han-Chin Shing, Qing Sun, Christopher Winestock, Kathleen McKeown, Noémie Elhadad* [[pdf]](https://arxiv.org/abs/2204.10290) [[code]](https://github.com/amazon-research/summary-reference-revision)
 1. **Factual Error Correction for Abstractive Summaries Using Entity Retrieval** *Hwanhee Lee, Cheoneum Park, Seunghyun Yoon, Trung Bui, Franck Dernoncourt, Juae Kim, Kyomin Jung* [[pdf]](https://arxiv.org/abs/2204.08263)
 1. **Evaluating Factuality in Text Simplification** *Ashwin Devaraj, William Sheffield, Byron C. Wallace, Junyi Jessy Li* `ACL 2022` [[pdf]](https://arxiv.org/abs/2204.07562) [[code]](https://github.com/AshOlogn/Evaluating-Factuality-in-Text-Simplification)
 1. **FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations** *Leonardo F. R. Ribeiro, Mengwen Liu, Iryna Gurevych, Markus Dreyer, Mohit Bansal* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.06508) [[code]](https://github.com/amazon-research/fact-graph) 
@@ -956,6 +957,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 2. **Better Rewards Yield Better Summaries: Learning to Summarise Without References** *Florian Böhm, Yang Gao, Christian M. Meyer, Ori Shapira, Ido Dagan, Iryna Gurevych* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.01214) [[code]](https://github.com/yg211/summary-reward-no-reference)
 
 ## Extractive
+1. **OTExtSum: Extractive Text Summarisation with Optimal Transport** *Peggy Tang, Kun Hu, Rui Yan, Lei Zhang, Junbin Gao, Zhiyong Wang* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.10086) [[code]](https://github.com/peggypytang/OTExtSum/)
 1. **Post-Editing Extractive Summaries by Definiteness Prediction** *Jad Kabbara, Jackie Chi Kit Cheung* `EMNLP 2021 Findings` [[pdf]](https://aclanthology.org/2021.findings-emnlp.312/)
 1. **Decision-Focused Summarization** *Chao-Chun Hsu, Chenhao Tan* `EMNLP 2021` [[pdf]](https://arxiv.org/abs/2109.06896) [[code]](https://github.com/ChicagoHAI/decsum)
 1. **Monolingual versus Multilingual BERTology for Vietnamese Extractive Multi-Document Summarization** *Huy To Quoc, Kiet Van Nguyen, Ngan Luu-Thuy Nguyen, Anh Gia-Tuan Nguyen* [[pdf]](https://arxiv.org/abs/2108.13741)
@@ -1004,6 +1006,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 5. **Single Document Summarization as Tree Induction** *Yang Liu, Ivan Titov, Mirella Lapata* `NAACL19` [[pdf]](https://www.aclweb.org/anthology/N19-1173/) [[code]](https://github.com/nlpyang/SUMO)
 
 ## QA Related
+1. **Benchmarking Answer Verification Methods for Question Answering-Based Summarization Evaluation Metrics** *Daniel Deutsch, Dan Roth* [[pdf]](https://arxiv.org/abs/2204.10206)
 1. **Using Question Answering Rewards to Improve Abstractive Summarization** *Chulaka Gunasekara, Guy Feigenblat, Benjamin Sznajder, Ranit Aharonov, Sachindra Joshi* `EMNLP 2021 Findings` [[pdf]](https://aclanthology.org/2021.findings-emnlp.47/)
 1. **Question-Based Salient Span Selection for More Controllable Text Summarization** *Daniel Deutsch, Dan Roth* [[pdf]](https://arxiv.org/abs/2111.07935)
 1. **Text Summarization with Latent Queries** *Yumo Xu, Mirella Lapata* [[pdf]](https://arxiv.org/abs/2106.00104)
@@ -1042,6 +1045,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 1. **Movie Summarization via Sparse Graph Construction** *Pinelopi Papalampidi, Frank Keller, Mirella Lapata* `AAAI21` [[pdf]](https://arxiv.org/abs/2012.07536) [[code]](https://github.com/ppapalampidi/GraphTP)
 
 ## Low Resource
+1. **Domain Specific Fine-tuning of Denoising Sequence-to-Sequence Models for Natural Language Summarization** *Brydon Parker, Alik Sokolov, Mahtab Ahmed, Matt Kalebic, Sedef Akinli Kocak, Ofer Shai* `` [[pdf]](https://arxiv.org/abs/2204.09716) [[code]](https://github.com/VectorInstitute/Vector_NLP_Domain-Summ) [[data]](https://www.kaggle.com/datasets/vectorinstitute/domainspecific-reddit-data-medical-and-financial)
 1. **PSP: Pre-trained Soft Prompts for Few-Shot Abstractive Summarization** *Xiaochen Liu, Yu Bai, Jiawei Li, Yinan Hu, Yang Gao* [[pdf]](https://arxiv.org/abs/2204.04413)
 1. **An Overview of Indian Language Datasets used for Text Summarization** *Shagun Sinha, Girish Nath Jha* [[pdf]](https://arxiv.org/abs/2203.16127)
 1. **AraBART: a Pretrained Arabic Sequence-to-Sequence Model for Abstractive Summarization** *Moussa Kamal Eddine, Nadi Tomeh, Nizar Habash, Joseph Le Roux, Michalis Vazirgiannis* [[pdf]](https://arxiv.org/abs/2203.10945) [[code]](https://huggingface.co/moussaKam/AraBART)
