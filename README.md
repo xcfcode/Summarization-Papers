@@ -51,6 +51,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 * **GLGE: A New General Language Generation Evaluation Benchmark** *Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan* [[pdf]](https://arxiv.org/abs/2011.11928) [[benchmark]](https://github.com/microsoft/glge)
 
 ## Survey
+1. **Embedding Knowledge for Document Summarization: A Survey** *Yutong Qu, Wei Emma Zhang, Jian Yang, Lingfei Wu, Jia Wu, Xindong Wu* [[pdf]](https://arxiv.org/abs/2204.11190)
 1. **A Survey on Dialogue Summarization: Recent Advances and New Frontiers** *Xiachong Feng, Xiaocheng Feng, Bing Qin* `IJCAI 2022, Survey Track` [[pdf]](https://arxiv.org/abs/2107.03175)
 1. **Automatic Text Summarization Methods: A Comprehensive Review** *Divakar Yadav, Jalpa Desai, Arun Kumar Yadav* [[pdf]](https://arxiv.org/abs/2204.01849)
 1. **A Survey on Cross-Lingual Summarization** *Jiaan Wang, Fandong Meng, Duo Zheng, Yunlong Liang, Zhixu Li, Jianfeng Qu, Jie Zhou* [[pdf]](https://arxiv.org/abs/2203.12515)
@@ -279,6 +280,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 |142|[ALLSIDES](https://github.com/HLTCHKUST/framing-bias-metric)|Framing Bias|[NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias](https://arxiv.org/abs/2204.04902)|ACL 2022|
 |143|[GRAPHELSUMS](https://github.com/maartjeth/summarization_with_graphical_elements)|graph|[Summarization with Graphical Elements](https://arxiv.org/abs/2204.07551)||
 |144|[Annotated-Wikilarge-Newsela](https://github.com/AshOlogn/Evaluating-Factuality-in-Text-Simplification)|Factuality|[Evaluating Factuality in Text Simplification](https://arxiv.org/abs/2204.07562)|ACL 2022|
+|145|[WikiMulti](https://github.com/tikhonovpavel/wikimulti)|Cross-lingual|[WikiMulti: a Corpus for Cross-Lingual Summarization](https://arxiv.org/abs/2204.11104)||
 
 
 ## Dialogue 
