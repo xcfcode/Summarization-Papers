@@ -51,6 +51,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 * **GLGE: A New General Language Generation Evaluation Benchmark** *Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan* [[pdf]](https://arxiv.org/abs/2011.11928) [[benchmark]](https://github.com/microsoft/glge)
 
 ## Survey
+1. **Multi-document Summarization via Deep Learning Techniques: A Survey** *Congbo Ma, Wei Emma Zhang, Mingyu Guo, Hu Wang, QUAN Z. Sheng* [[pdf]](https://dl.acm.org/doi/10.1145/3529754)
 1. **Embedding Knowledge for Document Summarization: A Survey** *Yutong Qu, Wei Emma Zhang, Jian Yang, Lingfei Wu, Jia Wu, Xindong Wu* [[pdf]](https://arxiv.org/abs/2204.11190)
 1. **A Survey on Dialogue Summarization: Recent Advances and New Frontiers** *Xiachong Feng, Xiaocheng Feng, Bing Qin* `IJCAI 2022, Survey Track` [[pdf]](https://arxiv.org/abs/2107.03175)
 1. **Automatic Text Summarization Methods: A Comprehensive Review** *Divakar Yadav, Jalpa Desai, Arun Kumar Yadav* [[pdf]](https://arxiv.org/abs/2204.01849)
@@ -508,6 +509,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
+1. **Faithful to the Document or to the World? Mitigating Hallucinations via Entity-linked Knowledge in Abstractive Summarization** *Yue Dong, John Wieting, Pat Verga* [[pdf]](https://arxiv.org/abs/2204.13761)
 1. **Learning to Revise References for Faithful Summarization** *Griffin Adams, Han-Chin Shing, Qing Sun, Christopher Winestock, Kathleen McKeown, Noémie Elhadad* [[pdf]](https://arxiv.org/abs/2204.10290) [[code]](https://github.com/amazon-research/summary-reference-revision)
 1. **Factual Error Correction for Abstractive Summaries Using Entity Retrieval** *Hwanhee Lee, Cheoneum Park, Seunghyun Yoon, Trung Bui, Franck Dernoncourt, Juae Kim, Kyomin Jung* [[pdf]](https://arxiv.org/abs/2204.08263)
 1. **Evaluating Factuality in Text Simplification** *Ashwin Devaraj, William Sheffield, Byron C. Wallace, Junyi Jessy Li* `ACL 2022` [[pdf]](https://arxiv.org/abs/2204.07562) [[code]](https://github.com/AshOlogn/Evaluating-Factuality-in-Text-Simplification)
