@@ -436,6 +436,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 2. **Domain Adaptation to Summarize Human Conversations** *Oana Sandu, Giuseppe Carenini, Gabriel Murray, Raymond Ng* `ACL2010 Workshop` [[pdf]](https://www.aclweb.org/anthology/W10-2603/)
 
 ### Others
+1. **The Cross-lingual Conversation Summarization Challenge** *Yulong Chen, Ming Zhong, Xuefeng Bai, Naihao Deng, Jing Li, Xianchao Zhu, Yue Zhang* [[pdf]](https://arxiv.org/abs/2205.00379)
 1. **Post-Training Dialogue Summarization using Pseudo-Paraphrasing** *Qi Jia, Yizhu Liu, Haifeng Tang, Kenny Q. Zhu* `Findings of NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.13498) [[code]](https://github.com/JiaQiSJTU/DialSent-PGG)
 1. **ClidSum: A Benchmark Dataset for Cross-Lingual Dialogue Summarization** *Jiaan Wang, Fandong Meng, Ziyao Lu, Duo Zheng, Zhixu Li, Jianfeng Qu, Jie Zhou* [[pdf]](https://arxiv.org/abs/2202.05599) [[code]](https://github.com/krystalan/ClidSum)
 1. **CONFIT: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning** *Xiangru Tang, Arjun Nair, Borui Wang, Bingyao Wang, Jai Desai, Aaron Wade, Haoran Li, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev* [[pdf]](https://arxiv.org/abs/2112.08713)
@@ -653,6 +654,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 21. **Event-Centric Summary Generation** *Lucy Vanderwende Michele Banko Arul Menezes* `ACL04` [[pdf]](https://www.microsoft.com/en-us/research/publication/event-centric-summary-generation/) 
 
 ## Cross-Lingual
+1. **The Cross-lingual Conversation Summarization Challenge** *Yulong Chen, Ming Zhong, Xuefeng Bai, Naihao Deng, Jing Li, Xianchao Zhu, Yue Zhang* [[pdf]](https://arxiv.org/abs/2205.00379)
 1. **Neural Label Search for Zero-Shot Multi-Lingual Extractive Summarization** *Ruipeng Jia, Xingxing Zhang, Yanan Cao, Shi Wang, Zheng Lin, Furu Wei* [[pdf]](https://arxiv.org/abs/2204.13512)
 1. **Bridging Cross-Lingual Gaps During Leveraging the Multilingual Sequence-to-Sequence Pretraining for Text Generation** *Changtong Zan, Liang Ding, Li Shen, Yu Cao, Weifeng Liu, Dacheng Tao* [[pdf]](https://arxiv.org/abs/2204.07834)
 1. **A Survey on Cross-Lingual Summarization** *Jiaan Wang, Fandong Meng, Duo Zheng, Yunlong Liang, Zhixu Li, Jianfeng Qu, Jie Zhou* [[pdf]](https://arxiv.org/abs/2203.12515)
