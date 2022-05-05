@@ -510,6 +510,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
+1. **Masked Summarization to Generate Factually Inconsistent Summaries for Improved Factual Consistency Checking** *Hwanhee Lee, Kang Min Yoo, Joonsuk Park, Hwaran Lee, Kyomin Jung* `NAACL 2022 Findings` [[pdf]](https://arxiv.org/abs/2205.02035) [[code]](https://github.com/hwanheelee1993/MFMA)
 1. **Faithful to the Document or to the World? Mitigating Hallucinations via Entity-linked Knowledge in Abstractive Summarization** *Yue Dong, John Wieting, Pat Verga* [[pdf]](https://arxiv.org/abs/2204.13761)
 1. **Learning to Revise References for Faithful Summarization** *Griffin Adams, Han-Chin Shing, Qing Sun, Christopher Winestock, Kathleen McKeown, Noémie Elhadad* [[pdf]](https://arxiv.org/abs/2204.10290) [[code]](https://github.com/amazon-research/summary-reference-revision)
 1. **Factual Error Correction for Abstractive Summaries Using Entity Retrieval** *Hwanhee Lee, Cheoneum Park, Seunghyun Yoon, Trung Bui, Franck Dernoncourt, Juae Kim, Kyomin Jung* [[pdf]](https://arxiv.org/abs/2204.08263)
@@ -607,6 +608,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 4. **HIGHRES: Highlight-based Reference-less Evaluation of Summarization** *Hardy, Shashi Narayan, Andreas Vlachos* `ACL19` [[pdf]](https://arxiv.org/abs/1906.01361) [[code]](https://github.com/sheffieldnlp/highres)
 
 ## Multi-Document
+1. **Improving Multi-Document Summarization through Referenced Flexible Extraction with Credit-Awareness** *Yun-Zhu Song, Yi-Syuan Chen, Hong-Han Shuai* [[pdf]](https://arxiv.org/abs/2205.01889) [[code]](https://github.com/yunzhusong/NAACL2022-REFLECT)
 1. **NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias** *Nayeon Lee, Yejin Bang, Tiezheng Yu, Andrea Madotto, Pascale Fung* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.04902) [[code]](https://github.com/HLTCHKUST/framing-bias-metric)
 1. **Read Top News First: A Document Reordering Approach for Multi-Document News Summarization** *Chao Zhao, Tenghao Huang, Somnath Basu Roy Chowdhury, Muthu Kumar Chandrasekaran, Kathleen McKeown, Snigdha Chaturvedi* `Findings of ACL 2022` [[pdf]](https://arxiv.org/abs/2203.10254) [[code]](https://github.com/zhaochaocs/MDS-DR)
 1. **A Multi-Document Coverage Reward for RELAXed Multi-Document Summarization** *Jacob Parnell, Inigo Jauregi Unanue, Massimo Piccardi* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.02894) [[code]](https://github.com/jacob-parnell-rozetta/longformer_coverage/)
@@ -924,6 +926,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 2. **Learning towards Abstractive Timeline Summarization** *Xiuying Chen, Zhangming Chan, Shen Gao, Meng-Hsuan Yu, Dongyan Zhao, Rui Yan* `IJCAI19` [[pdf]](https://www.ijcai.org/Proceedings/2019/686) [[data]](https://github.com/yingtaomj/Learning-towards-Abstractive-Timeline-Summarization)
 
 ## Opinion
+1. **Efficient Few-Shot Fine-Tuning for Opinion Summarization** *Arthur Bražinskas, Ramesh Nallapati, Mohit Bansal, Markus Dreyer* [[pdf]](https://arxiv.org/abs/2205.02170) [[code]](https://github.com/amazon-research/adasum)
 1. **DSGPT: Domain-Specific Generative Pre-Training of Transformers for Text Generation in E-commerce Title and Review Summarization** *Xueying Zhang, Yunjiang Jiang, Yue Shang, Zhaomeng Cheng, Chi Zhang, Xiaochuan Fan, Yun Xiao, Bo Long* `SIGIR 2021` [[pdf]](https://arxiv.org/abs/2112.08414)
 1. **Convex Aggregation for Opinion Summarization** *Hayate Iso, Xiaolan Wang, Yoshihiko Suhara, Stefanos Angelidis, Wang-Chiew Tan* `EMNLP 2021 Findings` [[pdf]](https://aclanthology.org/2021.findings-emnlp.328/) [[code]](https://github.com/megagonlabs/coop)
 1. **Measuring Similarity of Opinion-bearing Sentences** *Wenyi Tay, Xiuzhen Zhang, Stephen Wan, Sarvnaz Karimi* `EMNLP 2021| newsum` [[pdf]](https://aclanthology.org/2021.newsum-1.9/) [[data]](https://github.com/wenyi-tay/sos)
