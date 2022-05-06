@@ -282,6 +282,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 |143|[GRAPHELSUMS](https://github.com/maartjeth/summarization_with_graphical_elements)|graph|[Summarization with Graphical Elements](https://arxiv.org/abs/2204.07551)||
 |144|[Annotated-Wikilarge-Newsela](https://github.com/AshOlogn/Evaluating-Factuality-in-Text-Simplification)|Factuality|[Evaluating Factuality in Text Simplification](https://arxiv.org/abs/2204.07562)|ACL 2022|
 |145|[WikiMulti](https://github.com/tikhonovpavel/wikimulti)|Cross-lingual|[WikiMulti: a Corpus for Cross-Lingual Summarization](https://arxiv.org/abs/2204.11104)||
+|146|[Welsh](https://github.com/UCREL/welsh-summarization-dataset)||[Introducing the Welsh Text Summarisation Dataset and Baseline Systems](https://arxiv.org/abs/2205.02545)||
 
 
 ## Dialogue 
