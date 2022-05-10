@@ -609,6 +609,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 4. **HIGHRES: Highlight-based Reference-less Evaluation of Summarization** *Hardy, Shashi Narayan, Andreas Vlachos* `ACL19` [[pdf]](https://arxiv.org/abs/1906.01361) [[code]](https://github.com/sheffieldnlp/highres)
 
 ## Multi-Document
+1. **ACM -- Attribute Conditioning for Abstractive Multi Document Summarization** *Aiswarya Sankar, Ankit Chadha* [[pdf]](https://arxiv.org/abs/2205.03978)
 1. **Improving Multi-Document Summarization through Referenced Flexible Extraction with Credit-Awareness** *Yun-Zhu Song, Yi-Syuan Chen, Hong-Han Shuai* [[pdf]](https://arxiv.org/abs/2205.01889) [[code]](https://github.com/yunzhusong/NAACL2022-REFLECT)
 1. **NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias** *Nayeon Lee, Yejin Bang, Tiezheng Yu, Andrea Madotto, Pascale Fung* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.04902) [[code]](https://github.com/HLTCHKUST/framing-bias-metric)
 1. **Read Top News First: A Document Reordering Approach for Multi-Document News Summarization** *Chao Zhao, Tenghao Huang, Somnath Basu Roy Chowdhury, Muthu Kumar Chandrasekaran, Kathleen McKeown, Snigdha Chaturvedi* `Findings of ACL 2022` [[pdf]](https://arxiv.org/abs/2203.10254) [[code]](https://github.com/zhaochaocs/MDS-DR)
