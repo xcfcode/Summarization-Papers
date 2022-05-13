@@ -260,7 +260,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 |121|[SUBSUME](https://github.com/afariha/SubSumE)|Intent, subjective|[SUBSUME: A Dataset for Subjective Summary Extraction from Wikipedia Documents](https://aclanthology.org/2021.newsum-1.14/)|EMNLP 2021 newsum|
 |122|[TLDR9+](https://github.com/sajastu/reddit_collector)||[TLDR9+: A Large Scale Resource for Extreme Summarization of Social Media Posts](https://aclanthology.org/2021.newsum-1.15/)|EMNLP 2021 newsum|
 |123|[20 Minuten](https://github.com/ZurichNLP/20Minuten)|German|[A New Dataset and Efficient Baselines for Document-level Text Simplification in German](https://aclanthology.org/2021.newsum-1.16/)|EMNLP 2021 newsum|
-|124|[SPEKTRUM](https://github.com/MehwishFatimah/wsd)|multi-lingual|[A Novel Wikipedia based Dataset for Monolingual and Cross-Lingual Summarization](https://aclanthology.org/2021.newsum-1.5/)|EMNLP 2021 newsum|
+|124|[WSD](https://github.com/MehwishFatimah/wsd)|multi-lingual|[A Novel Wikipedia based Dataset for Monolingual and Cross-Lingual Summarization](https://aclanthology.org/2021.newsum-1.5/)|EMNLP 2021 newsum|
 |125|[TEDSummary](https://github.com/nttcslab-sp-admin/TEDSummary)|Speech|[Attention-based Multi-hypothesis Fusion for Speech Summarization](https://arxiv.org/abs/2111.08201)||
 |126|[SummaC Benchmark](https://github.com/tingofurro/summac/)|Factual, NLI|[SummaC: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization](https://arxiv.org/abs/2111.09525)||
 |127|[ForumSum](https://huggingface.co/datasets/forumsum)|Conversation|[ForumSum: A Multi-Speaker Conversation Summarization Dataset](ttps://aclanthology.org/2021.findings-emnlp.391/)|EMNLP 2021 Findings|
@@ -283,6 +283,8 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 |144|[Annotated-Wikilarge-Newsela](https://github.com/AshOlogn/Evaluating-Factuality-in-Text-Simplification)|Factuality|[Evaluating Factuality in Text Simplification](https://arxiv.org/abs/2204.07562)|ACL 2022|
 |145|[WikiMulti](https://github.com/tikhonovpavel/wikimulti)|Cross-lingual|[WikiMulti: a Corpus for Cross-Lingual Summarization](https://arxiv.org/abs/2204.11104)||
 |146|[Welsh](https://github.com/UCREL/welsh-summarization-dataset)||[Introducing the Welsh Text Summarisation Dataset and Baseline Systems](https://arxiv.org/abs/2205.02545)||
+|147|[SuMe](https://stonybrooknlp.github.io/SuMe/)|Biomedical|[SuMe: A Dataset Towards Summarizing Biomedical Mechanisms](https://arxiv.org/abs/2205.04652)|LREC 2022|
+|148|[CiteSum](https://github.com/morningmoni/CiteSum)||[CiteSum: Citation Text-guided Scientific Extreme Summarization and Low-resource Domain Adaptation](https://arxiv.org/abs/2205.06207)||
 
 
 ## Dialogue 
@@ -326,6 +328,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 12. **Combining linguistic and machine learning techniques for email summarization** *Smaranda Muresan, Evelyne Tzoukermann, Judith L. Klavans* `Proceedings of the ACL 2001 Workshop on Computational Natural Language Learning (ConLL) 2001` [[pdf]](https://www.aclweb.org/anthology/W01-0719/) [[bib]](https://www.aclweb.org/anthology/W01-0719.bib)
 
 ### Meeting Summarization
+1. **ALIGNMEET: A Comprehensive Tool for Meeting Annotation, Alignment, and Evaluation** *Peter Polák, Muskaan Singh, Anna Nedoluzhko, Ondřej Bojar* `LREC 2022` [[pdf]](https://arxiv.org/abs/2205.05433) [[data]](https://github.com/ELITR/alignmeet)
 1. **TANet: Thread-Aware Pretraining for Abstractive Conversational Summarization** *Ze Yang, Liran Wang, Zhoujin Tian, Wei Wu, Zhoujun Li* `Findings of NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.04504)
 3. **Summ^N: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents** *Yusen Zhang, Ansong Ni, Ziming Mao, Chen Henry Wu, Chenguang Zhu, Budhaditya Deb, Ahmed H. Awadallah, Dragomir Radev, Rui Zhang* `ACL 2022` [[pdf]](https://arxiv.org/abs/2110.10150)
 4. **Exploring Neural Models for Query-Focused Summarization** *Jesse Vig, Alexander R. Fabbri, Wojciech Kryściński* [[pdf]](https://arxiv.org/abs/2112.07637) [[code]](https://github.com/salesforce/query-focused-sum)
@@ -511,6 +514,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
+1. **Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization** *Prasetya Ajie Utama, Joshua Bambrick, Nafise Sadat Moosavi, Iryna Gurevych* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2205.06009) [[code]](https://github.com/joshbambrick/Falsesum)
 1. **Masked Summarization to Generate Factually Inconsistent Summaries for Improved Factual Consistency Checking** *Hwanhee Lee, Kang Min Yoo, Joonsuk Park, Hwaran Lee, Kyomin Jung* `NAACL 2022 Findings` [[pdf]](https://arxiv.org/abs/2205.02035) [[code]](https://github.com/hwanheelee1993/MFMA)
 1. **Faithful to the Document or to the World? Mitigating Hallucinations via Entity-linked Knowledge in Abstractive Summarization** *Yue Dong, John Wieting, Pat Verga* [[pdf]](https://arxiv.org/abs/2204.13761)
 1. **Learning to Revise References for Faithful Summarization** *Griffin Adams, Han-Chin Shing, Qing Sun, Christopher Winestock, Kathleen McKeown, Noémie Elhadad* [[pdf]](https://arxiv.org/abs/2204.10290) [[code]](https://github.com/amazon-research/summary-reference-revision)
@@ -1113,12 +1117,15 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 ## Sports
 1. **Knowledge Enhanced Sports Game Summarization** *Jiaan Wang, Zhixu Li, Tingyi Zhang, Duo Zheng, Jianfeng Qu, An Liu, Lei Zhao, Zhigang Chen* `WSDM 2022` [[pdf]](https://arxiv.org/abs/2111.12535) [[code]](https://github.com/krystalan/K-SportsSum)
-1. **SportsSum2.0: Generating High-Quality Sports News from Live Text Commentary** *Jiaan Wang, Zhixu Li, Qiang Yang, Jianfeng Qu, Zhigang Chen, Qingsheng Liu, Guoping Hu* `CIKM 2021 short` [[pdf]](https://arxiv.org/abs/2110.05750) [[data]](https://github.com/krystalan/SportsSum2.0)
-1. **Generating Sports News from Live Commentary: A Chinese Dataset for Sports Game Summarization** *Kuan-Hao Huang, Chen Li, Kai-Wei Chang* `AACL 2020` [[pdf]](https://aclanthology.org/2020.aacl-main.61/) [[data]](https://github.com/ej0cl6/SportsSum)
-1. **Generate Football News from Live Webcast Scripts Based on Character-CNN with Five Strokes** *Xue-Qiang Lv, Xin-Dong You, Wen-Chao Wang, Jian-She Zhou* [[pdf]](http://csroc.org.tw/journal/JOC31-1/JOC3101-21.pdf)
-1. **Content Selection for Real-time Sports News Construction from Commentary Texts** *Jin-ge Yao, Jianmin Zhang, Xiaojun Wan, Jianguo Xiao* `INLG 2017` [[pdf]](https://aclanthology.org/W17-3504/)  
-1. **Towards Constructing Sports News from Live Text Commentary** *Jianmin Zhang, Jin-ge Yao, Xiaojun Wan* `ACL 2016` [[pdf]](https://aclanthology.org/P16-1129/)
-1. **Sports News Generation from Live Webcast Scripts Based on Rules and Templates** *Maofu Liu, Qiaosong Qi, Huijun Hu, Han Ren* `NLPCC 2016` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-50496-4_81)
-1. **Research on Summary Sentences Extraction Oriented to Live Sports Text** *Liya Zhu, Wenchao Wang, Yujing Chen, Xueqiang Lv, Jianshe Zhou* `NLPCC 2016` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-50496-4_72)
+2. **SportsSum2.0: Generating High-Quality Sports News from Live Text Commentary** *Jiaan Wang, Zhixu Li, Qiang Yang, Jianfeng Qu, Zhigang Chen, Qingsheng Liu, Guoping Hu* `CIKM 2021 short` [[pdf]](https://arxiv.org/abs/2110.05750) [[data]](https://github.com/krystalan/SportsSum2.0)
+3. **Generating Sports News from Live Commentary: A Chinese Dataset for Sports Game Summarization** *Kuan-Hao Huang, Chen Li, Kai-Wei Chang* `AACL 2020` [[pdf]](https://aclanthology.org/2020.aacl-main.61/) [[data]](https://github.com/ej0cl6/SportsSum)
+4. **Generate Football News from Live Webcast Scripts Based on Character-CNN with Five Strokes** *Xue-Qiang Lv, Xin-Dong You, Wen-Chao Wang, Jian-She Zhou* [[pdf]](http://csroc.org.tw/journal/JOC31-1/JOC3101-21.pdf)
+5. **Content Selection for Real-time Sports News Construction from Commentary Texts** *Jin-ge Yao, Jianmin Zhang, Xiaojun Wan, Jianguo Xiao* `INLG 2017` [[pdf]](https://aclanthology.org/W17-3504/)  
+6. **Towards Constructing Sports News from Live Text Commentary** *Jianmin Zhang, Jin-ge Yao, Xiaojun Wan* `ACL 2016` [[pdf]](https://aclanthology.org/P16-1129/)
+7. **Sports News Generation from Live Webcast Scripts Based on Rules and Templates** *Maofu Liu, Qiaosong Qi, Huijun Hu, Han Ren* `NLPCC 2016` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-50496-4_81)
+8. **Research on Summary Sentences Extraction Oriented to Live Sports Text** *Liya Zhu, Wenchao Wang, Yujing Chen, Xueqiang Lv, Jianshe Zhou* `NLPCC 2016` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-50496-4_72)
+
+## Scientific [TBD]
+1. **CiteSum: Citation Text-guided Scientific Extreme Summarization and Low-resource Domain Adaptation** *Yuning Mao, Ming Zhong, Jiawei Han* [[pdf]](https://arxiv.org/pdf/2205.06207.pdf) [[data]](https://github.com/morningmoni/CiteSum)
 
 
