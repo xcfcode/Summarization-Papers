@@ -285,7 +285,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 |146|[Welsh](https://github.com/UCREL/welsh-summarization-dataset)||[Introducing the Welsh Text Summarisation Dataset and Baseline Systems](https://arxiv.org/abs/2205.02545)||
 |147|[SuMe](https://stonybrooknlp.github.io/SuMe/)|Biomedical|[SuMe: A Dataset Towards Summarizing Biomedical Mechanisms](https://arxiv.org/abs/2205.04652)|LREC 2022|
 |148|[CiteSum](https://github.com/morningmoni/CiteSum)||[CiteSum: Citation Text-guided Scientific Extreme Summarization and Low-resource Domain Adaptation](https://arxiv.org/abs/2205.06207)||
-
+|148|[MSAMSum](https://github.com/xcfcode/MSAMSum)|Dialogue|[MSAMSum: Towards Benchmarking Multi-lingual Dialogue Summarization](https://aclanthology.org/2022.dialdoc-1.1/)|ACL 2022 DialDoc|
 
 ## Dialogue 
 
@@ -440,6 +440,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 2. **Domain Adaptation to Summarize Human Conversations** *Oana Sandu, Giuseppe Carenini, Gabriel Murray, Raymond Ng* `ACL2010 Workshop` [[pdf]](https://www.aclweb.org/anthology/W10-2603/)
 
 ### Others
+1. **MSAMSum: Towards Benchmarking Multi-lingual Dialogue Summarization** *Xiachong Feng, Xiaocheng Feng, Bing Qin* `ACL 2022 DialDoc Workshop` [[pdf]](https://aclanthology.org/2022.dialdoc-1.1/) [[data]](https://github.com/xcfcode/MSAMSum)
 1. **The Cross-lingual Conversation Summarization Challenge** *Yulong Chen, Ming Zhong, Xuefeng Bai, Naihao Deng, Jing Li, Xianchao Zhu, Yue Zhang* [[pdf]](https://arxiv.org/abs/2205.00379)
 1. **Post-Training Dialogue Summarization using Pseudo-Paraphrasing** *Qi Jia, Yizhu Liu, Haifeng Tang, Kenny Q. Zhu* `Findings of NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.13498) [[code]](https://github.com/JiaQiSJTU/DialSent-PGG)
 1. **ClidSum: A Benchmark Dataset for Cross-Lingual Dialogue Summarization** *Jiaan Wang, Fandong Meng, Ziyao Lu, Duo Zheng, Zhixu Li, Jianfeng Qu, Jie Zhou* [[pdf]](https://arxiv.org/abs/2202.05599) [[code]](https://github.com/krystalan/ClidSum)
@@ -664,6 +665,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 21. **Event-Centric Summary Generation** *Lucy Vanderwende Michele Banko Arul Menezes* `ACL04` [[pdf]](https://www.microsoft.com/en-us/research/publication/event-centric-summary-generation/) 
 
 ## Cross-Lingual
+1. **MSAMSum: Towards Benchmarking Multi-lingual Dialogue Summarization** *Xiachong Feng, Xiaocheng Feng, Bing Qin* `ACL 2022 DialDoc Workshop` [[pdf]](https://aclanthology.org/2022.dialdoc-1.1/) [[data]](https://github.com/xcfcode/MSAMSum)
 1. **The Cross-lingual Conversation Summarization Challenge** *Yulong Chen, Ming Zhong, Xuefeng Bai, Naihao Deng, Jing Li, Xianchao Zhu, Yue Zhang* [[pdf]](https://arxiv.org/abs/2205.00379)
 1. **Neural Label Search for Zero-Shot Multi-Lingual Extractive Summarization** *Ruipeng Jia, Xingxing Zhang, Yanan Cao, Shi Wang, Zheng Lin, Furu Wei* [[pdf]](https://arxiv.org/abs/2204.13512)
 1. **Bridging Cross-Lingual Gaps During Leveraging the Multilingual Sequence-to-Sequence Pretraining for Text Generation** *Changtong Zan, Liang Ding, Li Shen, Yu Cao, Weifeng Liu, Dacheng Tao* [[pdf]](https://arxiv.org/abs/2204.07834)
