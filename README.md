@@ -464,6 +464,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 2. **Semantic Similarity Applied to Spoken Dialogue Summarization** *Iryna Gurevych, Michael Strube* `COLING 2004` [[pdf]](https://www.aclweb.org/anthology/C04-1110/) [[bib]](https://www.aclweb.org/anthology/C04-1110.bib) Switchboard dialogues
 
 ## Long Document
+1. **SNaC: Coherence Error Detection for Narrative Summarization** *Tanya Goyal, Junyi Jessy Li, Greg Durrett* [[pdf]](https://arxiv.org/abs/2205.09641)
 1. **Sequence-Based Extractive Summarisation for Scientific Articles** *Daniel Kershaw, Rob Koeling* `` [[pdf]](https://arxiv.org/abs/2204.03301)
 1. **LDKP: A Dataset for Identifying Keyphrases from Long Scientific Documents** *Debanjan Mahata, Naveen Agarwal, Dibya Gautam, Amardeep Kumar, Swapnil Parekh, Yaman Kumar Singla, Anish Acharya, Rajiv Ratn Shah* [[pdf]](https://arxiv.org/abs/2203.15349) [[data1]](https://huggingface.co/datasets/midas/ldkp3k) [[data2]](https://huggingface.co/datasets/midas/ldkp10k)
 1. **HIBRIDS: Attention with Hierarchical Biases for Structure-aware Long Document Summarization** *Shuyang Cao, Lu Wang* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.10741) [[code]](https://github.com/ShuyangCao/hibrids_summ) [[data]](https://gov-report-data.github.io/)
