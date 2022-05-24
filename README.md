@@ -286,6 +286,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 |147|[SuMe](https://stonybrooknlp.github.io/SuMe/)|Biomedical|[SuMe: A Dataset Towards Summarizing Biomedical Mechanisms](https://arxiv.org/abs/2205.04652)|LREC 2022|
 |148|[CiteSum](https://github.com/morningmoni/CiteSum)||[CiteSum: Citation Text-guided Scientific Extreme Summarization and Low-resource Domain Adaptation](https://arxiv.org/abs/2205.06207)||
 |148|[MSAMSum](https://github.com/xcfcode/MSAMSum)|Dialogue|[MSAMSum: Towards Benchmarking Multi-lingual Dialogue Summarization](https://aclanthology.org/2022.dialdoc-1.1/)|ACL 2022 DialDoc|
+|149|[SQuALITY](https://github.com/nyu-mll/SQuALITY)| Long-Document|[SQuALITY: Building a Long-Document Summarization Dataset the Hard Way](https://arxiv.org/abs/2205.11465)||
 
 ## Dialogue 
 
