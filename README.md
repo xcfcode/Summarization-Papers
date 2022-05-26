@@ -2,10 +2,6 @@
 <h1 align="center"> <img src="./pic/summary.png" width="30" />Summarization Papers</h1>
 </p>
 
-<p align="center">
-⭐️⭐️⭐️Call For Cooperators⭐️⭐️⭐️
-</p>
-
 Organized by [Xiachong Feng](http://xcfeng.net/).
 
 ## Contributor
@@ -466,6 +462,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 2. **Semantic Similarity Applied to Spoken Dialogue Summarization** *Iryna Gurevych, Michael Strube* `COLING 2004` [[pdf]](https://www.aclweb.org/anthology/C04-1110/) [[bib]](https://www.aclweb.org/anthology/C04-1110.bib) Switchboard dialogues
 
 ## Long Document
+1. **Leveraging Locality in Abstractive Text Summarization** *Yixin Liu, Ansong Ni, Linyong Nan, Budhaditya Deb, Chenguang Zhu, Ahmed H. Awadallah, Dragomir Radev* [[pdf]](https://arxiv.org/abs/2205.12476)
 1. **SNaC: Coherence Error Detection for Narrative Summarization** *Tanya Goyal, Junyi Jessy Li, Greg Durrett* [[pdf]](https://arxiv.org/abs/2205.09641)
 1. **Sequence-Based Extractive Summarisation for Scientific Articles** *Daniel Kershaw, Rob Koeling* `` [[pdf]](https://arxiv.org/abs/2204.03301)
 1. **LDKP: A Dataset for Identifying Keyphrases from Long Scientific Documents** *Debanjan Mahata, Naveen Agarwal, Dibya Gautam, Amardeep Kumar, Swapnil Parekh, Yaman Kumar Singla, Anish Acharya, Rajiv Ratn Shah* [[pdf]](https://arxiv.org/abs/2203.15349) [[data1]](https://huggingface.co/datasets/midas/ldkp3k) [[data2]](https://huggingface.co/datasets/midas/ldkp10k)
@@ -517,6 +514,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 > **The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey** *Yichong Huang, Xiachong Feng, Xiaocheng Feng, Bing Qin* [[pdf]](https://arxiv.org/abs/2104.14839)
 
+1. **Understanding Factual Errors in Summarization: Errors, Summarizers, Datasets, Error Detectors** *Liyan Tang, Tanya Goyal, Alexander R. Fabbri, Philippe Laban, Jiacheng Xu, Semih Yahvuz, Wojciech Kryściński, Justin F. Rousseau, Greg Durrett* [[pdf]](https://arxiv.org/abs/2205.12854) [[code]](https://github.com/Liyan06/AggreFact)
 1. **FactPEGASUS: Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization** *David Wan, Mohit Bansal* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2205.07830) [[code]](https://github.com/meetdavidwan/factpegasus)
 1. **Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization** *Prasetya Ajie Utama, Joshua Bambrick, Nafise Sadat Moosavi, Iryna Gurevych* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2205.06009) [[code]](https://github.com/joshbambrick/Falsesum)
 1. **Masked Summarization to Generate Factually Inconsistent Summaries for Improved Factual Consistency Checking** *Hwanhee Lee, Kang Min Yoo, Joonsuk Park, Hwaran Lee, Kyomin Jung* `NAACL 2022 Findings` [[pdf]](https://arxiv.org/abs/2205.02035) [[code]](https://github.com/hwanheelee1993/MFMA)
@@ -589,6 +587,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 4. **Contrastive Attention Mechanism for Abstractive Sentence Summarization** *Xiangyu Duan, Hongfei Yu, Mingming Yin, Min Zhang, Weihua Luo, Yue Zhang* `EMNLP 2019` [[pdf]](https://www.aclweb.org/anthology/D19-1301/) [[code]](https://github.com/travel-go/Abstractive-Text-Summarization)
 
 ## Evaluation
+1. **MaskEval: Weighted MLM-Based Evaluation for Text Summarization and Simplification** *Yu Lu Liu, Rachel Bawden, Thomas Scaliom, Benoît Sagot, Jackie Chi Kit Cheung* [[pdf]](https://arxiv.org/abs/2205.12394) [[code]](https://github.com/YuLuLiu/MaskEval)
 1. **TRUE: Re-evaluating Factual Consistency Evaluation** `NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.04991)
 1. **Play the Shannon Game With Language Models: A Human-Free Approach to Summary Evaluation** *Nicholas Egan, Oleg Vasilyev, John Bohannon* `AAAI 2022` [[pdf]](https://arxiv.org/abs/2103.10918) [[code]](https://github.com/PrimerAI/blanc/tree/master/shannon)
 1. **Differentiable N-gram Objective on Abstractive Summarization** *Yunqi Zhu, Wensheng Zhang, Mingjin Zhu* [[pdf]](https://arxiv.org/abs/2202.04003) [[code]](https://github.com/zhuyunqi96/ngramObj)
@@ -666,6 +665,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 21. **Event-Centric Summary Generation** *Lucy Vanderwende Michele Banko Arul Menezes* `ACL04` [[pdf]](https://www.microsoft.com/en-us/research/publication/event-centric-summary-generation/) 
 
 ## Cross-Lingual
+1. **Overcoming Catastrophic Forgetting in Zero-Shot Cross-Lingual Generation** *Tu Vu, Aditya Barua, Brian Lester, Daniel Cer, Mohit Iyyer, Noah Constant* [[pdf]](https://arxiv.org/abs/2205.12647)
 1. **MSAMSum: Towards Benchmarking Multi-lingual Dialogue Summarization** *Xiachong Feng, Xiaocheng Feng, Bing Qin* `ACL 2022 DialDoc Workshop` [[pdf]](https://aclanthology.org/2022.dialdoc-1.1/) [[data]](https://github.com/xcfcode/MSAMSum)
 1. **The Cross-lingual Conversation Summarization Challenge** *Yulong Chen, Ming Zhong, Xuefeng Bai, Naihao Deng, Jing Li, Xianchao Zhu, Yue Zhang* [[pdf]](https://arxiv.org/abs/2205.00379)
 1. **Neural Label Search for Zero-Shot Multi-Lingual Extractive Summarization** *Ruipeng Jia, Xingxing Zhang, Yanan Cao, Shi Wang, Zheng Lin, Furu Wei* [[pdf]](https://arxiv.org/abs/2204.13512)
