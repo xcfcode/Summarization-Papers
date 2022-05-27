@@ -437,6 +437,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 2. **Domain Adaptation to Summarize Human Conversations** *Oana Sandu, Giuseppe Carenini, Gabriel Murray, Raymond Ng* `ACL2010 Workshop` [[pdf]](https://www.aclweb.org/anthology/W10-2603/)
 
 ### Others
+1. **Unsupervised Abstractive Dialogue Summarization with Word Graphs and POV Conversion** *Seongmin Park, Jihwa Lee* `WIT Workshop @ ACL2022` [[pdf]](https://arxiv.org/abs/2205.13108) [[code]](https://github.com/seongminp/graph-dialogue-summary)
 1. **MSAMSum: Towards Benchmarking Multi-lingual Dialogue Summarization** *Xiachong Feng, Xiaocheng Feng, Bing Qin* `ACL 2022 DialDoc Workshop` [[pdf]](https://aclanthology.org/2022.dialdoc-1.1/) [[data]](https://github.com/xcfcode/MSAMSum)
 1. **The Cross-lingual Conversation Summarization Challenge** *Yulong Chen, Ming Zhong, Xuefeng Bai, Naihao Deng, Jing Li, Xianchao Zhu, Yue Zhang* [[pdf]](https://arxiv.org/abs/2205.00379)
 1. **Post-Training Dialogue Summarization using Pseudo-Paraphrasing** *Qi Jia, Yizhu Liu, Haifeng Tang, Kenny Q. Zhu* `Findings of NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.13498) [[code]](https://github.com/JiaQiSJTU/DialSent-PGG)
@@ -1131,6 +1132,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 8. **Research on Summary Sentences Extraction Oriented to Live Sports Text** *Liya Zhu, Wenchao Wang, Yujing Chen, Xueqiang Lv, Jianshe Zhou* `NLPCC 2016` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-50496-4_72)
 
 ## Scientific [TBD]
+1. **Target-aware Abstractive Related Work Generation with Contrastive Learning** *Xiuying Chen, Hind Alamro, Mingzhe Li, Shen Gao, Rui Yan, Xin Gao, Xiangliang Zhang* `SIGIR 2022` [[pdf]](https://arxiv.org/abs/2205.13339) [[code]](https://github.com/iriscxy/Target-aware-RWG)
 1. **CiteSum: Citation Text-guided Scientific Extreme Summarization and Low-resource Domain Adaptation** *Yuning Mao, Ming Zhong, Jiawei Han* [[pdf]](https://arxiv.org/pdf/2205.06207.pdf) [[data]](https://github.com/morningmoni/CiteSum)
 
 
