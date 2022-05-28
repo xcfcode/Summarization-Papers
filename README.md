@@ -15,11 +15,6 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 ## Trending
 ![](./pic/trending.png)
 
-## Toy Statistics
-![](./pic/num_papers_first_author.png)
-
-![](./pic/num_papers_all_authors.png)
-
 ## Presentations && Notes
 * [Dialogue Summarization (2022.1)](slides/presentation/Dialogue_Summarization_DAMO.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen)
 * [Cross-lingual Summarization](slides/presentation/Cross-lingual_Summarization.pdf) ![](https://img.shields.io/badge/-presentations-brightgreen) 
