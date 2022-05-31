@@ -762,6 +762,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 4. **Creating Video Summarization From Emotion Perspective** *Yijie Lan, Shikui Wei, Ruoyu Liu, Yao Zhao* `ICSP16` [[pdf]](https://ieeexplore.ieee.org/document/7878001/)
 
 ## Pre-trained Language Model Based
+1. **E2S2: Encoding-Enhanced Sequence-to-Sequence Pretraining for Language Understanding and Generation** *Qihuang Zhong, Liang Ding, Juhua Liu, Bo Du, Dacheng Tao* [[pdf]](https://arxiv.org/abs/2205.14912)
 1. **Does Pretraining for Summarization Require Knowledge Transfer?** *Kundan Krishna, Jeffrey Bigham, Zachary C. Lipton* `EMNLP 2021 Findings` [[pdf]](https://aclanthology.org/2021.findings-emnlp.273/) [[code]](https://github.com/acmi-lab/pretraining-with-nonsense)
 1. **ARMAN: Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization** *Alireza Salemi, Emad Kebriaei, Ghazal Neisi Minaei, Azadeh Shakery* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.741/) [[code]](https://github.com/alirezasalemi7/ARMAN)
 1. **Leveraging Lead Bias for Zero-shot Abstractive News Summarization** *Chenguang Zhu, Ziyi Yang, Robert Gmyr, Michael Zeng, Xuedong Huang* `SIGIR 2021` [[pdf]](https://dl.acm.org/doi/10.1145/3404835.3462846) 
