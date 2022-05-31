@@ -283,6 +283,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 |148|[CiteSum](https://github.com/morningmoni/CiteSum)||[CiteSum: Citation Text-guided Scientific Extreme Summarization and Low-resource Domain Adaptation](https://arxiv.org/abs/2205.06207)||
 |148|[MSAMSum](https://github.com/xcfcode/MSAMSum)|Dialogue|[MSAMSum: Towards Benchmarking Multi-lingual Dialogue Summarization](https://aclanthology.org/2022.dialdoc-1.1/)|ACL 2022 DialDoc|
 |149|[SQuALITY](https://github.com/nyu-mll/SQuALITY)| Long-Document|[SQuALITY: Building a Long-Document Summarization Dataset the Hard Way](https://arxiv.org/abs/2205.11465)||
+|150|[X-SCITLDR](https://github.com/sobamchan/xscitldr)||[X-SCITLDR: Cross-Lingual Extreme Summarization of Scholarly Documents](https://arxiv.org/abs/2205.15051)|JCDL 2022|
 
 ## Dialogue 
 
@@ -1132,6 +1133,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 8. **Research on Summary Sentences Extraction Oriented to Live Sports Text** *Liya Zhu, Wenchao Wang, Yujing Chen, Xueqiang Lv, Jianshe Zhou* `NLPCC 2016` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-50496-4_72)
 
 ## Scientific [TBD]
+1. **X-SCITLDR: Cross-Lingual Extreme Summarization of Scholarly Documents** *Sotaro Takeshita, Tommaso Green, Niklas Friedrich, Kai Eckert, Simone Paolo Ponzetto* `JCDL 2022` [[pdf]](https://arxiv.org/abs/2205.15051) [[data]](https://github.com/sobamchan/xscitldr)
 1. **Target-aware Abstractive Related Work Generation with Contrastive Learning** *Xiuying Chen, Hind Alamro, Mingzhe Li, Shen Gao, Rui Yan, Xin Gao, Xiangliang Zhang* `SIGIR 2022` [[pdf]](https://arxiv.org/abs/2205.13339) [[code]](https://github.com/iriscxy/Target-aware-RWG)
 1. **CiteSum: Citation Text-guided Scientific Extreme Summarization and Low-resource Domain Adaptation** *Yuning Mao, Ming Zhong, Jiawei Han* [[pdf]](https://arxiv.org/pdf/2205.06207.pdf) [[data]](https://github.com/morningmoni/CiteSum)
 
