@@ -284,6 +284,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 |148|[MSAMSum](https://github.com/xcfcode/MSAMSum)|Dialogue|[MSAMSum: Towards Benchmarking Multi-lingual Dialogue Summarization](https://aclanthology.org/2022.dialdoc-1.1/)|ACL 2022 DialDoc|
 |149|[SQuALITY](https://github.com/nyu-mll/SQuALITY)| Long-Document|[SQuALITY: Building a Long-Document Summarization Dataset the Hard Way](https://arxiv.org/abs/2205.11465)||
 |150|[X-SCITLDR](https://github.com/sobamchan/xscitldr)||[X-SCITLDR: Cross-Lingual Extreme Summarization of Scholarly Documents](https://arxiv.org/abs/2205.15051)|JCDL 2022|
+|151|[NEWTS](https://github.com/ali-bahrainian/NEWTS)|News|[NEWTS: A Corpus for News Topic-Focused Summarization](https://arxiv.org/abs/2205.15661)||
 
 ## Dialogue 
 
