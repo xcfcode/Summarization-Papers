@@ -1136,8 +1136,11 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 
 ## Scientific [TBD]
 1. **TSTR: Too Short to Represent, Summarize with Details! Intro-Guided Extended Summary Generation** *Sajad Sotudeh, Nazli Goharian* [[pdf]](https://arxiv.org/abs/2206.00847) [[code]](https://github.com/Georgetown-IR-Lab/TSTRSum)
-1. **X-SCITLDR: Cross-Lingual Extreme Summarization of Scholarly Documents** *Sotaro Takeshita, Tommaso Green, Niklas Friedrich, Kai Eckert, Simone Paolo Ponzetto* `JCDL 2022` [[pdf]](https://arxiv.org/abs/2205.15051) [[data]](https://github.com/sobamchan/xscitldr)
-1. **Target-aware Abstractive Related Work Generation with Contrastive Learning** *Xiuying Chen, Hind Alamro, Mingzhe Li, Shen Gao, Rui Yan, Xin Gao, Xiangliang Zhang* `SIGIR 2022` [[pdf]](https://arxiv.org/abs/2205.13339) [[code]](https://github.com/iriscxy/Target-aware-RWG)
-1. **CiteSum: Citation Text-guided Scientific Extreme Summarization and Low-resource Domain Adaptation** *Yuning Mao, Ming Zhong, Jiawei Han* [[pdf]](https://arxiv.org/pdf/2205.06207.pdf) [[data]](https://github.com/morningmoni/CiteSum)
+2. **X-SCITLDR: Cross-Lingual Extreme Summarization of Scholarly Documents** *Sotaro Takeshita, Tommaso Green, Niklas Friedrich, Kai Eckert, Simone Paolo Ponzetto* `JCDL 2022` [[pdf]](https://arxiv.org/abs/2205.15051) [[data]](https://github.com/sobamchan/xscitldr)
+3. **Target-aware Abstractive Related Work Generation with Contrastive Learning** *Xiuying Chen, Hind Alamro, Mingzhe Li, Shen Gao, Rui Yan, Xin Gao, Xiangliang Zhang* `SIGIR 2022` [[pdf]](https://arxiv.org/abs/2205.13339) [[code]](https://github.com/iriscxy/Target-aware-RWG)
+4. **CiteSum: Citation Text-guided Scientific Extreme Summarization and Low-resource Domain Adaptation** *Yuning Mao, Ming Zhong, Jiawei Han* [[pdf]](https://arxiv.org/pdf/2205.06207.pdf) [[data]](https://github.com/morningmoni/CiteSum)
+
+## Tutorial
+1. **Beyond Opinion Mining: Summarizing Opinions of Customer Reviews** *Reinald Kim Amplayo, Arthur Bražinskas, Yoshi Suhara, Xiaolan Wang, Bing Liu* `SIGIR Tutorial 2022` [[pdf]](https://arxiv.org/abs/2206.01543)
 
 
