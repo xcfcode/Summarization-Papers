@@ -465,6 +465,8 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 2. **Semantic Similarity Applied to Spoken Dialogue Summarization** *Iryna Gurevych, Michael Strube* `COLING 2004` [[pdf]](https://www.aclweb.org/anthology/C04-1110/) [[bib]](https://www.aclweb.org/anthology/C04-1110.bib) Switchboard dialogues
 
 ## Long Document
+1. **Semantic Self-Segmentation for Abstractive Summarization of Long Legal Documents in Low-Resource Regimes** *Gianluca Moro, Luca Ragazzi* `AAAI 2022` [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-3882.MoroG.pdf)
+1. **Factorizing Content and Budget Decisions in Abstractive Summarization of Long Documents by Sampling Summary Views** *Marcio Fonseca, Yftah Ziser, Shay B. Cohen* `` [[pdf]](https://arxiv.org/abs/2205.12486)
 1. **Leveraging Locality in Abstractive Text Summarization** *Yixin Liu, Ansong Ni, Linyong Nan, Budhaditya Deb, Chenguang Zhu, Ahmed H. Awadallah, Dragomir Radev* [[pdf]](https://arxiv.org/abs/2205.12476)
 1. **SNaC: Coherence Error Detection for Narrative Summarization** *Tanya Goyal, Junyi Jessy Li, Greg Durrett* [[pdf]](https://arxiv.org/abs/2205.09641)
 1. **Sequence-Based Extractive Summarisation for Scientific Articles** *Daniel Kershaw, Rob Koeling* `` [[pdf]](https://arxiv.org/abs/2204.03301)
@@ -791,6 +793,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 17. **Efficient Adaptation of Pretrained Transformers for Abstractive Summarization** *Andrew Hoang, Antoine Bosselut, Asli Celikyilmaz, Yejin Choi* [[pdf]](https://arxiv.org/abs/1906.00138) [[code]](https://github.com/Andrew03/transformer-abstractive-summarization)
 
 ## Controllable
+1. **A Character-Level Length-Control Algorithm for Non-Autoregressive Sentence Summarization** *Puyuan Liu, Xiang Zhang, Lili Mou* [[pdf]](https://arxiv.org/abs/2205.14522) [[code]](https://github.com/MANGA-UOFA/NACC)
 1. **EntSUM: A Data Set for Entity-Centric Summarization** *Mounica Maddela, Mayank Kulkarni, Daniel Preotiuc-Pietro* `ACL 2022` [[pdf]](https://arxiv.org/abs/2204.02213) [[code]](https://github.com/bloomberg/entsum) [[data]](https://zenodo.org/record/6359875)
 1. **Reinforced Abstractive Summarization with Adaptive Length Controlling** *Mingyang Song, Yi Feng, Liping Jing* [[pdf]](https://arxiv.org/abs/2112.07534) 
 1. **HydraSum -- Disentangling Stylistic Features in Text Summarization using Multi-Decoder Models** *Tanya Goyal, Nazneen Fatema Rajani, Wenhao Liu, Wojciech Kryściński* [[pdf]](https://arxiv.org/abs/2110.04400)
@@ -896,6 +899,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 40. **Abstractive Meeting Summarization with Entailment and Fusion** *Yashar Mehdad, Giuseppe Carenini, Frank Tompa, Raymond T. Ng* `ENLG13` [[pdf]](https://www.aclweb.org/anthology/W13-2117/)
 
 ## Graph-Based
+1. **Hierarchical Heterogeneous Graph Attention Network for Syntax-Aware Summarization** *Zixing Song, Irwin King* `AAAI 2022` [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-6812.SongZ.pdf)
 1. **Summarization with Graphical Elements** *Maartje ter Hoeve, Julia Kiseleva, Maarten de Rijke* [[pdf]](https://arxiv.org/abs/2204.07551) [[code]](https://github.com/maartjeth/summarization_with_graphical_elements)
 1. **HETFORMER: Heterogeneous Transformer with Sparse Attention for Long-Text Extractive Summarization** *Ye Liu, Jian-Guo Zhang, Yao Wan, Congying Xia, Lifang He, Philip S. Yu* `EMNLP 2021 short` [[pdf]](https://arxiv.org/abs/2110.06388)
 1. **Centrality Meets Centroid: A Graph-based Approach for Unsupervised Document Summarization** *Haopeng Zhang, Jiawei Zhang* [[pdf]](https://arxiv.org/abs/2103.15327)
@@ -1107,6 +1111,7 @@ Toolkit: [factsumm](https://github.com/Huffon/factsumm)
 1. **Discourse-Aware Prompt Design for Text Generation** *Marjan Ghazvininejad, Vladimir Karpukhin, Asli Celikyilmaz* [[pdf]](https://arxiv.org/abs/2112.05717)
 
 ## Temp
+1. **The Triangle-Densest-k-Subgraph Problem: Hardness, Lovász Extension, and Application to Document Summarization** *Aritra Konar, Nicholas D. Sidiropoulos* `AAAI 2022` [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-4653.KonarA.pdf)
 1. **Applying Automatic Text Summarization for Fake News Detection** *Philipp Hartl, Udo Kruschwitz* [[pdf]](https://arxiv.org/abs/2204.01841) [[code]](https://github.com/phHartl/lrec_2022)
 1. **Graph Enhanced Contrastive Learning for Radiology Findings Summarization** *Jinpeng Hu, Zhuo Li, Zhihong Chen, Zhen Li, Xiang Wan, Tsung-Hui Chang* [[pdf]](https://arxiv.org/abs/2204.00203) [[code]](https://github.com/jinpeng01/AIG_CL)
 2. **Differentiable Multi-Agent Actor-Critic for Multi-Step Radiology Report Summarization** *Sanjeev Kumar Karn, Ning Liu, Hinrich Schuetze, Oladimeji Farri* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.08257)
