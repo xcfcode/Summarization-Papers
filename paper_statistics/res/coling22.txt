@@ -1,0 +1,31 @@
+Extractive Summarisation for German-language Data: A Text-level Approach with Discourse Features
+Original Content Is All You Need! an Empirical Study on Leveraging Answer Summary for WikiHowQA Answer Selection Task
+Constrained Regeneration for Cross-Lingual Query-Focused Extractive Summarization
+Towards Summarizing Healthcare Questions in Low-Resource Setting
+Harnessing Abstractive Summarization for Fact-Checked Claim Detection
+Summarizing Patients’ Problems from Hospital Progress Notes Using Pre-trained Sequence-to-Sequence Models
+LipKey: A Large-Scale News Dataset for Absent Keyphrases Generation and Abstractive Summarization
+Multi Graph Neural Network for Extractive Long Document Summarization
+PrefScore: Pairwise Preference Learning for Reference-free Summarization Quality Assessment
+Comparative Graph-based Summarization of Scientific Papers Guided by Comparative Citations
+Source-summary Entity Aggregation in Abstractive Summarization
+How to Find Strong Summary Coherence Measures? A Toolbox and a Comparative Study for Summary Coherence Measure Evaluation
+Summarizing Dialogues with Negative Cues
+View Dialogue in 2D: A Two-stream Model in Time-speaker Perspective for Dialogue Summarization and beyond
+A Survey of Automatic Text Summarization Using Graph Neural Networks
+Phrase-Level Localization of Inconsistency Errors in Summarization by Weak Supervision
+Focus-Driven Contrastive Learning for Medical Question Summarization
+ArgLegalSumm: Improving Abstractive Summarization of Legal Documents with Argument Mining
+Semantic Overlap Summarization among Multiple Alternative Narratives: An Exploratory Study
+Analyzing the Dialect Diversity in Multi-document Summaries
+Multi-Document Scientific Summarization from a Knowledge Graph-Centric View
+Generation of Patient After-Visit Summaries to Support Physicians
+GRETEL: Graph Contrastive Topic Enhanced Language Model for Long Document Extractive Summarization
+HeterGraphLongSum: Heterogeneous Graph Neural Network with Passage Aggregation for Extractive Long Document Summarization
+Mind the Gap! Injecting Commonsense Knowledge for Abstractive Dialogue Summarization
+UPER: Boosting Multi-Document Summarization with an Unsupervised Prompt-based Extractor
+PSP: Pre-trained Soft Prompts for Few-Shot Abstractive Summarization
+Summarize, Outline, and Elaborate: Long-Text Generation via Hierarchical Supervision from Extractive Summaries
+An Efficient Coarse-to-Fine Facet-Aware Unsupervised Summarization Framework Based on Semantic Blocks
+Noise-injected Consistency Training and Entropy-constrained Pseudo Labeling for Semi-supervised Extractive Summarization
+Improving Abstractive Dialogue Summarization with Speaker-Aware Supervised Contrastive Learning

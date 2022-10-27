@@ -1,0 +1,51 @@
+NarraSum : A Large-Scale Dataset for Abstractive Narrative Summarization
+Faithful to the Document or to the World ? Mitigating Hallucinations via Entity-Linked Knowledge in Abstractive Summarization
+Long Text and Multi-Table Summarization : Dataset and Method
+Summarizing Procedural Text : Data and Approach
+Generating Multiple-Length Summaries via Reinforcement Learning for Unsupervised Sentence Summarization
+Guiding Abstractive Dialogue Summarization with Content Planning
+Narrate Dialogues for Better Summarization
+FRSUM : Towards Faithful Abstractive Summarization via Enhancing Factual Robustness
+M3 : Multi-level dataset for Multi-document summarisation of Medical studies
+Learning to Revise References for Faithful Summarization
+Learning From the Source Document: Unsupervised Abstractive Summarization
+Readability Controllable Biomedical Document Summarization
+MedicalSum : A Guided Clinical Abstractive Summarization Model for Generating Medical Reports from Patient-Doctor Conversations
+Unsupervised Multi-Granularity Summarization
+Toward Unifying Text Segmentation and Long Document Summarization
+SNaC : Coherence Error Detection for Narrative Summarization
+HydraSum : Disentangling Style Features in Text Summarization with Multi-Decoder Models
+SEM-F1 : an Automatic Way for Semantic Evaluation of Multi-Narrative Overlap Summaries at Scale
+SQuALITY : Building a Long-Document Summarization Dataset the Hard Way
+How Far are We from Robust Long Abstractive Summarization ?
+Effective and Efficient Query-aware Snippet Extraction for Web Search
+Opinion Summarization by Weak-Supervision from Mix-structured Data
+Few-shot Query-Focused Summarization with Prefix-Merging
+Summarizing Community-based Question-Answer Pairs
+Scientific Paper Extractive Summarization Enhanced by Citation Graphs
+Analyzing and Evaluating Faithfulness in Dialogue Summarization
+Abstractive Summarization Guided by Latent Hierarchical Document Structure
+RACE : Retrieval-augmented Commit Message Generation
+How "Multi" is Multi-Document Summarization ?
+CTRLsum : Towards Generic Controllable Text Summarization
+Mutual Information Alleviates Hallucinations in Abstractive Summarization
+Leveraging Locality in Abstractive Text Summarization
+Salience Allocation as Guidance for Abstractive Summarization
+R-TeaFor : Regularized Teacher-Forcing for Abstractive Summarization
+Factorizing Content and Budget Decisions in Abstractive Summarization of Long Documents
+Assist Non-native Viewer s : Multimodal Cross-Lingual Summarization for How2 Videos
+X-FACTOR : A Cross-metric Evaluation of Factual Correctness in Abstractive Summarization
+ClidSum : A Benchmark Dataset for Cross-Lingual Dialogue Summarization
+Towards Summary Candidates Fusion
+Unsupervised Opinion Summarisation in the Wasserstein Space
+Improving Factual Consistency in Summarization with Compression-Based Post-Editing
+Why Do You Feel This Way ? Summarizing Triggers of Emotions in Social Media Posts
+Evaluating and Improving Factuality in Multimodal Abstractive Summarization
+Referee : Reference-Free Sentence Summarization with Sharper Controllability through Symbolic Knowledge Distillation
+Learning with Rejection for Abstractive Text Summarization
+Correcting Diverse Factual Errors in Abstractive Summarization via Post-Editing and Language Model Infilling
+HEGEL : Hypergraph Transformer for Long Document Summarization
+SentBS : Sentence-level Beam Search for Controllable Summarization
+CiteSum : Citation Text-guided Scientific Extreme Summarization and Domain Adaptation with Limited Supervision
+Learning to Generate Overlap Summaries through Noisy Synthetic Data
+Improving Faithfulness by Augmenting Negative Summaries from Fake Documents
