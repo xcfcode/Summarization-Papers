@@ -2,6 +2,10 @@
 <h1 align="center"> <img src="./pic/summary.png" width="30" />Summarization Papers</h1>
 </p>
 
+<p align="center">
+<h3 align="center"> <img src="./pic/collect.png" width="30" />I am trying to collect 50 summarization papers before 2016.</h3>
+</p>
+
 Organized by [Xiachong Feng](http://xcfeng.net/).
 
 ## Contributor
