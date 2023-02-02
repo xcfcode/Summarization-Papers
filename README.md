@@ -312,6 +312,7 @@ Organized by [Xiachong Feng](http://xcfeng.net/).
 |169|[MACSUM](https://github.com/psunlpgroup/MACSum)|Controllable News Dialogue|[MACSUM: Controllable Summarization with Mixed Attributes](https://arxiv.org/abs/2211.05041)||
 |170|[NarraSum](https://github.com/zhaochaocs/narrasum)|Narrative|[NarraSum: A Large-Scale Dataset for Abstractive Narrative Summarization](https://arxiv.org/abs/2212.01476)|EMNLP Findings 2022|
 |171|[LoRaLay](https://github.com/recitalAI/loralay-datasets)|Long Scientific Visual|[LoRaLay: A Multilingual and Multimodal Dataset for Long Range and Layout-Aware Summarization](https://arxiv.org/abs/2301.11312)|EACL 2023|
+|172|[HunSum-1](https://github.com/dorinapetra/summarization)|Hungarian|[HunSum-1: an Abstractive Summarization Dataset for Hungarian](https://arxiv.org/abs/2302.00455)||
 
 ## Dialogue 
 
