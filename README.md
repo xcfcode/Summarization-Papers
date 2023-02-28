@@ -2,6 +2,11 @@
 <h1 align="center"> <img src="./pic/summary.png" width="30" />Summarization Papers</h1>
 </p>
 
+<p align="center">
+<h3 align="center"> <a href="https://github.com/xcfcode/Summarization-Papers/blob/main/README.md">Full List</a></h3>
+</p>
+
+
 
 Organized by [Xiachong Feng](http://xcfeng.net/).
 
